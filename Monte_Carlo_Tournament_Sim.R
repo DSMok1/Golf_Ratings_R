@@ -12,7 +12,7 @@
 
 Tournament <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Upcoming_Fields_RVest.csv")
 
-Ratings <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-02-17.csv")
+Ratings <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-02-24.csv")
 
 Trials <- 50000
 
