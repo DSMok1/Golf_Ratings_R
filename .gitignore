@@ -23,6 +23,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Excel Autosaves
+
+~$*.xlsx
+
+
 # R GITIGNORE
 
 # History files
