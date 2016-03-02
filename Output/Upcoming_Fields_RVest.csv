@@ -1,1 +1,335 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Jordan Spieth",14636,"USA","1","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Jason Day",9771,"AUS","2","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Rory McIlroy",10091,"NIR","3","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Bubba Watson",7334,"USA","4","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Rickie Fowler",12965,"USA","5","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Henrik Stenson",5994,"SWE","6","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Justin Rose",6093,"ENG","7","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Dustin Johnson",12422,"USA","8","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Adam Scott",6430,"AUS","9","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Patrick Reed",14838,"USA","10","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Branden Grace",11952,"RSA","11","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Sergio Garcia",5689,"ESP","12","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Hideki Matsuyama",13562,"JPN","13","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Danny Willett",12920,"ENG","15","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Brandt Snedeker",8820,"USA","16","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Zach Johnson",6986,"USA","17","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Brooks Koepka",16243,"USA","18","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Louis Oosthuizen",7672,"RSA","19","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Kevin Kisner",11328,"USA","20","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Phil Mickelson",1547,"USA","21","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"J.B. Holmes",7959,"USA","22","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Shane Lowry",13900,"IRL","23","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Jimmy Walker",7293,"USA","24","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Kevin Na",7452,"USA","25","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Marc Leishman",7649,"AUS","26","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Byeong Hun An",14459,"KOR","27","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Matt Kuchar",6169,"USA","28","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Andy Sullivan",15326,"ENG","29","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Paul Casey",7108,"ENG","30","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Justin Thomas",14139,"USA","31","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Charl Schwartzel",7398,"RSA","32","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Russell Knox",13831,"SCO","33","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Danny Lee",11826,"NZL","35","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Emiliano Grillo",12808,"ARG","36","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Bernd Wiesberger",9531,"AUT","37","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Martin Kaymer",8117,"GER","38","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Victor Dubuisson",10198,"FRA","39","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"David Lingmerth",14815,"SWE","40","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Billy Horschel",11276,"USA","41","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Bill Haas",7900,"USA","42","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Chris Wood",12451,"ENG","43","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Soren Kjeldsen",6149,"DEN","44","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Kiradech Aphibarnrat",12321,"THA","45","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Matthew Fitzpatrick",17646,"ENG","46","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Robert Streb",14852,"USA","47","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Scott Piercy",7899,"USA","48","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Anirban Lahiri",12669,"IND","50","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Jamie Donaldson",7084,"WAL","51","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Fabian Gomez",8571,"ARG","54","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Graeme McDowell",7548,"NIR","55","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Daniel Berger",17606,"USA","57","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Marcus Fraser",7070,"AUS","58","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Charley Hoffman",5768,"USA","59","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Rafael Cabrera Bello",7457,"ESP","61","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Smylie Kaufman",18631,"USA","65","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Kristoffer Broberg",15603,"SWE","68","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Jason Dufner",7301,"USA","71","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"K.T. Kim",7880,"KOR","73","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"George Coetzee",10884,"RSA","77","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Steven Bowditch",7053,"AUS","78","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Harris English",14577,"USA","79","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Ross Fisher",9396,"ENG","85","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Yusaku Miyazato",7031,"JPN","101","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Scott Hend",1888,"AUS","122","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Nathan Holman",15923,"AUS","149","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Jordan Zunic",15170,"AUS","530","WGC - Cadillac Championship ",6127,2016-03-06,"WGC",NA,NA,2016-03-02
+"Ryan Fox",11889,"NZL","174","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Brad Kennedy",6287,"AUS","225","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Matthew Millar",7449,"AUS","273","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Dylan Frittelli",11955,"RSA","327","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Hyunwoo Ryu",13928,"KOR","328","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Josh Geary",9903,"NZL","331","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Brendan Jones",6254,"AUS","376","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Michael Hendry",11885,"NZL","392","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Rohan Blizard",11838,"AUS","394","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"David Bransdon",5624,"AUS","400","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Scott Arnold",11810,"AUS","423","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Daniel Fox",10112,"AUS","426","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Tjaart Van Der Walt",5937,"RSA","460","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Shintaro Kobayashi",10560,"JPN","463","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"James Nitties",7388,"AUS","481","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Matthew Griffin",9780,"AUS","483","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Geoff Drakeford",15848,"AUS","495","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Steven Alker",4871,"NZL","500","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Sean Riordan",16935,"NZL","503","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Josh Younger",11828,"AUS","556","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jake Higginbottom",15849,"AUS","565","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Michael Long",4865,"NZL","587","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Daniel Nisbet",11823,"AUS","613","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Aaron Pike",10828,"AUS","633","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Matthew Giles",9783,"AUS","642","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Ashley Hall",7708,"AUS","663","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Daniel Pearce",16933,"NZL","664","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Aaron Townsend",8415,"AUS","665","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Kristopher R Mueck",15933,"AUS","666","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Soonsang Hong",7020,"KOR","673","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Andrew Evans",15589,"AUS","702","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Rourke Van der Spuy",18827,"RSA","707","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jarryd Felton",16835,"AUS","712","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Daniel Valente",15943,"AUS","724","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"David Smail",4986,"NZL","745","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Gareth Paddison",6397,"NZL","803","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Anthony Brown",7086,"AUS","819","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Alistair Presnell",7089,"AUS","821","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Michael Wright",6535,"AUS","835","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Steven Jeffress",7481,"AUS","864","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Adam Stephens",11814,"AUS","902","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Tim Hart",15920,"AUS","917","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Brad Shilton",8412,"NZL","919","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Ray Beaufils",12826,"AUS","961","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"David Lutterus",8388,"AUS","981","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Peter Wilson",7944,"AUS","982","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Daniel Chopra",2035,"SWE","986","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Anthony Summers",5233,"AUS","987","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Brett Rankin",11820,"AUS","1021","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"David Klein",15851,"GER","1021","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Adam Blyth",7704,"AUS","1034","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Scott Laycock",3472,"AUS","1036","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Anthony Houston",15924,"AUS","1037","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Peter Fowler",497,"AUS","1072","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Maxwell McCardle",13674,"AUS","1099","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Mark Brown",3486,"NZL","1105","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Ryan Lynch",12830,"AUS","1139","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Rory Bourke",15845,"AUS","1142","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Christopher Wood",16012,"AUS","1156","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jared Pender",12751,"NZL","1171","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Lucas Herbert",17064,"AUS","1237","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Mitchell Brown",8385,"AUS","1268","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jake McLeod(Am)",17146,"AUS","1313","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Ryan Carter",11039,"USA","1352","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Harry Bateman",16921,"NZL","1369","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Chris Gaunt",6251,"AUS","1413","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Mathew Perry",15894,"NZL","1457","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Nick Gillespie",12747,"NZL","1487","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Kota Kagasaki",16022,"AUS","1531","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Luke Toomey(am)",17889,"NZL","1531","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Callan O'Reilly",16968,"AUS","1593","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Steven Jones",11892,"AUS","1612","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Peter Lee",15886,"NZL","1623","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Benjamin Clementson",15912,"AUS","1623","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Dominic Barson",3526,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Grant Moorhead",4452,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Martin Pettigrew",6121,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Leigh McKechnie",7061,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Neven Basic",7700,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Doug Holloway",8423,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Darren Beck",9905,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Dongwoo Kang",11130,"KOR","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Troy Ropiha",11893,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Damien Jordan",14353,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Taylor Cooper",14477,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jim Cusdin",15138,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Byungjun Kim",15532,"KOR","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Alex Katholos",15850,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Deyen Lawson",15885,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Kieran Muir",15890,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Josh Munn",15891,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jack Wilson",15946,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Brody Ninyette",16007,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Fraser Wilkin",16089,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Vauchan McCall",16564,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Tyler Hodge",16931,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Theodore Coroneo",16956,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Simon Hawkes",16959,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jordan Mullaney",16967,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Lindsay Wilson",17055,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"DJ Loypur",17065,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jamie Hook",17143,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Taylor MacDonald",17144,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Simon Viitakangas(Am)",17170,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Josh Whitehouse",17433,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Cory Crawford(Am)",17785,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Aaron Wilkin",17790,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Alex Edge",17884,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"James Betts",17909,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Brad Moules",17917,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Luke Humphries",18092,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Tom Power Horan",18096,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jack Sullivan",18098,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Ben Hollis",18167,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Victor Janin",18966,"FRA","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Josh Cabban",19205,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Tae Koh",19267,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Samuel Phillips",19269,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Craig Hamilton",19374,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Hayden Beard",19397,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Steven Han",19435,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Shaun Jones",19437,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Brad Hayward",19443,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Sam Daley",20551,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Joshua Ingram",21115,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Lachlan McDonald",21248,"NZL","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Jack Williams",21250,"AUS","1734","Holden NZ PGA Championship",6128,2016-03-06,"PGA Tour Australasia",NA,NA,2016-03-02
+"Sebastian Soderberg",18517,"SWE","418","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Eirik Tage Johansen",11317,"NOR","646","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Kristian Krogh Johannessen",16421,"NOR","654","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Nicolai Tinning",20256,"DEN","854","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Emilio Cuartero Blanco",19459,"ESP","907","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mark F Haastrup",7952,"DEN","909","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Bjorn Hellgren",16231,"SWE","913","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Richard Pettersson",18708,"SWE","963","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Daniel Jennevret",13449,"SWE","974","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Oliver Lindell(Am)",20085,"FIN","1012","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Daniel Lokke",14287,"DEN","1015","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"George Woolgar",14067,"ENG","1028","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Tobias Rosendahl",14782,"SWE","1039","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mikael Salminen",13141,"FIN","1063","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Oscar Lengden",20410,"SWE","1119","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Petter Bocian",9630,"SWE","1193","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Niclas Hellberg",20057,"FIN","1205","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"David Palm",10420,"SWE","1224","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Billing",13443,"SWE","1234","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Andreas Andersson",11653,"SWE","1276","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Nikolaj E Nissen",18552,"DEN","1288","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Marcus Larsson",12583,"SWE","1309","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Kasper K Estrup",15673,"DEN","1344","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mathias Johansson",15552,"SWE","1361","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Kristian Kulokorpi(Am)",18863,"FIN","1361","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Graeme A Clark",9388,"ENG","1393","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Patrick O'Neill",16447,"DEN","1405","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jonas Haglund",18862,"FIN","1426","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Simon Willer",20126,"DEN","1426","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Joakim Rask",5922,"SWE","1428","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Erik Oja",20097,"SWE","1429","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Oliver Suhr",12562,"DEN","1438","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Robin Askstrand",11532,"SWE","1460","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Per Langfors",20414,"SWE","1460","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Wallace Booth",14034,"SCO","1472","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Rasmus Hjelm Nielsen",11622,"DEN","1474","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Christopher Feldborg Nielsen",20147,"SWE","1474","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jacob Glennemo",13447,"SWE","1498","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Tim Gornik",19605,"SLO","1498","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Niclas Johansson",14893,"SWE","1524","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Bjorn Pettersson",6518,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Ake Nilsson",9493,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Christian Aronsen",9497,"NOR","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Calle Carlsson",9619,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jonas Olsson",10662,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jonathan Fransson",11248,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Kennegard",11531,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Gustav Adell",12234,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Elias Bertheussen",12488,"NOR","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Victor Flatau",12581,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Simon Gundorph",13410,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Lerchedahl",13956,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Pontus Ellerstrom",14714,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Victor Tarnstrom",14816,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Marcus Gran",15605,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Ole B Ramsnes",15650,"NOR","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Niklas Norgaard Moller",15676,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Lasse Sonne Nielsen",15677,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Albert Eckhardt",16405,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Erik Myllymaki",16408,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Lauri Ruuska(Am)",16409,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Niklas Dahlgren",16603,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Riku Mattila",17356,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Fredrik Gustavsson",18513,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Emil Othberg",18516,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mark Suursalu",18766,"EST","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Peter Vejgaard",18859,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Henri Pyykola",18864,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Tuomas Salminen",18865,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Christian Baech Christensen",19638,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Nikolai Hogh",19640,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Martin Ovesen",19847,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Alex Wennstam",19933,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Linus Vaisanen",19959,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Antti Ahava(Am)",20046,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mattias Bohlin",20051,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Andreas Gronkvist",20054,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Karlsson",20066,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Antti Lassila(Am)",20080,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Joonas Lehtola(Am)",20081,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mikael Lindberg",20084,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Peter Puhakka",20104,"FIN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Martin Amtkjaer",20156,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jeppe Kristian Andersen(Am)",20158,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Axel Arinbjarnarson",20161,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Oscar Bergman(1992)",20163,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Filip Brattse",20169,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jonas Carlson",20173,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Simon Dahlin",20178,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Max Eichmeier",20182,"GER","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Oskar Franck",20184,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mathias Gladbjerg",20187,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Anders Hornshoj(Am)",20196,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Nicolai Kjaer Kokholm",20209,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jakob Kollerup",20210,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Gunder Larsen",20214,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Anders Larson",20216,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jacob Pingel Lauridsen",20218,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Marcus Lindstrom(1992)",20221,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Niklas Lindstrom",20222,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jan-Philip Neuendorf",20230,"GER","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Hampus Nilsson",20234,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Nicolaj Norman Hansen",20235,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Olsson",20238,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Soren Schulze Pettersson",20242,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Benjamin Henry Poke",20244,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Patrick Rasmussen",20245,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mathias Lynne Schjolberg",20248,"NOR","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Christian Skjoth",20250,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Joachim Szots",20255,"DEN","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mathias Weiderman",20259,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"William Adolfson",20389,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Sebastian Hansson(1991)",20397,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Sebastian C. Hansson(1994)",20398,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Fredrik Lindgren(1990)",20411,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"William Nygard",20418,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jonas Svensson(Am)",20422,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Victor Theandersson(Am)",20423,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Johan Wiklund",20427,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jarand Ekeland Arnoy(Am)",20463,"NOR","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Robert Jonasson",20477,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Kevin Andre Wright(Am)",20494,"NOR","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Oscar Hallberg",20559,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Johan Hellberg(Am)",20560,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Axel Boasson(Am)",20733,"ISL","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Andersson(Am)",20804,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Donald Pearson",20866,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Kevin Bengtsson",21332,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Aron Bergsson(Am)",21333,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Gustav Björnsson(Am)",21334,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Douglas Ebe",21335,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Martin Granstad",21336,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Leo Haggstrom",21337,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Jesper Johansson",21338,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Sebastian Lagerholm",21339,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Mark Larsson",21340,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Oliver Larsson",21341,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Robin Naslund",21342,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Christopher Sahlstrom",21343,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Christoffer Skarbring",21344,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
+"Johan Wisen(Am)",21345,"SWE","1734","Lumine Hills Open",6129,2016-03-06,"Nordic Golf League",NA,NA,2016-03-02
