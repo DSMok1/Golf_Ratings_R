@@ -1,133 +1,387 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Ryan Fox",11889,"NZL","160","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Brad Kennedy",6287,"AUS","189","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Matthew Millar",7449,"AUS","270","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Josh Geary",9903,"NZL","282","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Dylan Frittelli",11955,"RSA","312","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Hyunwoo Ryu",13928,"KOR","331","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Michael Hendry",11885,"NZL","379","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Brendan Jones",6254,"AUS","388","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Rohan Blizard",11838,"AUS","393","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"David Bransdon",5624,"AUS","400","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Daniel Fox",10112,"AUS","424","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Scott Arnold",11810,"AUS","428","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"James Nitties",7388,"AUS","447","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Shintaro Kobayashi",10560,"JPN","458","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Tjaart Van Der Walt",5937,"RSA","463","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Matthew Griffin",9780,"AUS","489","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Geoff Drakeford",15848,"AUS","490","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Steven Alker",4871,"NZL","500","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Sean Riordan",16935,"NZL","501","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Josh Younger",11828,"AUS","558","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jake Higginbottom",15849,"AUS","570","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Michael Long",4865,"NZL","585","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Daniel Nisbet",11823,"AUS","614","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Aaron Pike",10828,"AUS","634","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Matthew Giles",9783,"AUS","647","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Ashley Hall",7708,"AUS","660","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Daniel Pearce",16933,"NZL","663","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Kristopher R Mueck",15933,"AUS","668","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Soonsang Hong",7020,"KOR","671","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Aaron Townsend",8415,"AUS","672","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Andrew Evans",15589,"AUS","699","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Rourke Van der Spuy",18827,"RSA","707","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jarryd Felton",16835,"AUS","709","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Daniel Valente",15943,"AUS","725","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"David Smail",4986,"NZL","764","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Steven Jeffress",7481,"AUS","775","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Gareth Paddison",6397,"NZL","802","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Anthony Brown",7086,"AUS","823","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Alistair Presnell",7089,"AUS","829","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Michael Wright",6535,"AUS","834","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Adam Stephens",11814,"AUS","905","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Tim Hart",15920,"AUS","916","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Brad Shilton",8412,"NZL","919","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Neven Basic",7700,"AUS","964","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Ray Beaufils",12826,"AUS","970","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Peter Wilson",7944,"AUS","982","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Anthony Summers",5233,"AUS","982","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"David Lutterus",8388,"AUS","984","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Daniel Chopra",2035,"SWE","991","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Brett Rankin",11820,"AUS","1016","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"David Klein",15851,"GER","1016","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Adam Blyth",7704,"AUS","1032","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Anthony Houston",15924,"AUS","1037","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Scott Laycock",3472,"AUS","1038","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Peter Fowler",497,"AUS","1072","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Maxwell McCardle",13674,"AUS","1099","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Mark Brown",3486,"NZL","1106","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Rory Bourke",15845,"AUS","1143","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Ryan Lynch",12830,"AUS","1146","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Christopher Wood",16012,"AUS","1156","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jared Pender",12751,"NZL","1171","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Lucas Herbert",17064,"AUS","1239","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Mitchell Brown",8385,"AUS","1267","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jake McLeod(Am)",17146,"AUS","1313","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Ryan Carter",11039,"USA","1344","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Harry Bateman",16921,"NZL","1372","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Chris Gaunt",6251,"AUS","1421","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Mathew Perry",15894,"NZL","1470","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Nick Gillespie",12747,"NZL","1490","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Kota Kagasaki",16022,"AUS","1535","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Luke Toomey(am)",17889,"NZL","1535","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Callan O'Reilly",16968,"AUS","1592","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Steven Jones",11892,"AUS","1614","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Peter Lee",15886,"NZL","1623","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Benjamin Clementson",15912,"AUS","1623","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Tom Power Horan",18096,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Dongwoo Kang",11130,"KOR","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Taylor MacDonald",17144,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Damien Jordan",14353,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jack Wilson",15946,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Brad Moules",17917,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Hayden Beard",19397,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Josh Whitehouse",17433,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Leigh McKechnie",7061,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Darren Beck",9905,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Taylor Cooper",14477,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Byungjun Kim",15532,"KOR","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Fraser Wilkin",16089,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Aaron Wilkin",17790,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Josh Cabban",19205,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Tae Koh",19267,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Shaun Jones",19437,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Vauchan McCall",16564,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Sam An",16920,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Josh Munn",15891,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Tyler Hodge",16931,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Theodore Coroneo",16956,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jordan Mullaney",16967,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Lindsay Wilson",17055,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Grant Moorhead",4452,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Kieran Muir",15890,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Simon Hawkes",16959,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Simon Viitakangas(Am)",17170,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Deyen Lawson",15885,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Cory Crawford(Am)",17785,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jack Sullivan",18098,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Ben Hollis",18167,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Dominic Barson",3526,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Luke Humphries",18092,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Victor Janin",18966,"FRA","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Brad Hayward",19443,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Sam Daley",20551,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Joshua Ingram",21115,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Martin Pettigrew",6121,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Troy Ropiha",11893,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Alex Katholos",15850,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Ryan Chisnall",16924,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"DJ Loypur",17065,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jamie Hook",17143,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Alex Edge",17884,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Samuel Phillips",19269,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Wesley Jeon",21352,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jack Williams",21250,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Craig Hamilton",19374,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Lachlan McDonald",21248,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jim Cusdin",15138,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Cody Harper",16928,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"James Betts",17909,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Steven Han",19435,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Hamish Campbell",21351,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Jonathan Ratcliffe",15895,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
-"Dane McArdle",21353,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-07
+"Jordan Spieth",14636,"USA","1","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Henrik Stenson",5994,"SWE","7","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Patrick Reed",14838,"USA","10","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Danny Willett",12920,"ENG","11","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Branden Grace",11952,"RSA","12","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Louis Oosthuizen",7672,"RSA","18","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Kevin Na",7452,"USA","26","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Matt Kuchar",6169,"USA","28","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Justin Thomas",14139,"USA","31","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Charl Schwartzel",7398,"RSA","32","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Russell Knox",13831,"SCO","33","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Danny Lee",11826,"NZL","34","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Martin Kaymer",8117,"GER","40","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Bill Haas",7900,"USA","43","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Chris Kirk",12423,"USA","54","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Graeme McDowell",7548,"NIR","55","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Daniel Berger",17606,"USA","57","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Charley Hoffman",5768,"USA","59","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ryan Moore",7489,"USA","61","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jason Dufner",7301,"USA","62","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ian Poulter",1435,"ENG","64","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ryan Palmer",7820,"USA","67","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Patton Kizzire",13470,"USA","68","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Gary Woodland",12577,"USA","69","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Harris English",14577,"USA","70","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Webb Simpson",11049,"USA","75","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Steven Bowditch",7053,"AUS","79","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Francesco Molinari",7655,"ITA","80","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Russell Henley",14578,"USA","83","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Cameron Tringale",14013,"USA","84","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Hunter Mahan",7636,"USA","87","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Keegan Bradley",13872,"USA","88","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Luke Donald",4163,"ENG","90","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"John Senden",5207,"AUS","92","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Cameron Smith",15856,"AUS","95","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Vaughn Taylor",6930,"USA","96","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Tony Finau",11676,"USA","97","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Freddie Jacobson",3846,"SWE","98","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Hiroshi Iwata",9099,"JPN","100","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"K.J. Choi",1804,"KOR","103","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Kevin Streelman",8480,"USA","104","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Chez Reavie",7961,"USA","108","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Brendon Todd",12425,"USA","110","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Troy Merritt",13367,"USA","112","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Brian Harman",8825,"USA","113","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Daniel Summerhays",12424,"USA","114","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"James Hahn",11374,"USA","116","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jason Kokrak",12337,"USA","117","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Patrick Rodgers",16283,"USA","121","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Kevin Chappell",13305,"USA","123","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Sean O'Hair",7626,"USA","124","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Charles Howell III",6892,"USA","128","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Padraig Harrington",5716,"IRL","130","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Will Wilcox",14696,"USA","132","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jonas Blixt",8182,"SWE","134","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Zac Blair",17639,"USA","137","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Boo Weekley",7403,"USA","142","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jamie Lovemark",11382,"USA","143","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Morgan Hoffmann",14082,"USA","144","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"David Hearn",7340,"CAN","147","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jerry Kelly",5151,"USA","158","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Peter Malnati",14926,"USA","159","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Matt Every",10185,"USA","161","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"George McNeill",6419,"USA","165","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Chris Stroud",9604,"USA","167","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Siwoo Kim",14609,"KOR","168","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Graham Delaet",10252,"CAN","170","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Scott Brown",11330,"USA","178","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Geoff Ogilvy",5698,"AUS","180","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Brendon de Jonge",8767,"ZIM","181","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jim Herman",12846,"USA","183","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Andrew Loupe",15318,"USA","184","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Adam Hadwin",13965,"CAN","187","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Sunghoon Kang",7881,"KOR","188","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"John Huh",14606,"USA","190","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jason Gore",6321,"USA","191","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Martin Laird",9586,"SCO","192","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Thomas Aiken",7679,"RSA","193","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Kyle Reifers",11329,"USA","198","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Rory Sabbatini",6283,"RSA","199","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"David Toms",4340,"USA","200","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Colt Knost",12149,"USA","201","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Vijay Singh",653,"FIJ","203","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Camilo Villegas",9171,"COL","204","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Stewart Cink",5665,"USA","206","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Chad Campbell",6248,"USA","207","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ernie Els",874,"RSA","208","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Bryce Molder",7292,"USA","212","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Retief Goosen",4884,"RSA","216","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Shawn Stefani",14012,"USA","217","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Seungyul Noh",11117,"KOR","218","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Carl Pettersson",7048,"SWE","222","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jon Curran",14699,"USA","228","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Blayne Barber",15608,"USA","230","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Hudson Swafford",14706,"USA","234","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Scott Pinckney",15477,"USA","242","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Derek Fathauer",12689,"USA","244","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Steve Stricker",4818,"USA","249","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Chesson Hadley",14967,"USA","255","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Harold Varner III",16602,"USA","256","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Spencer Levin",8199,"USA","263","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Sam Saunders",11048,"USA","266","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Brett Stegmaier",11354,"USA","268","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Bronson Burgoon",11082,"USA","272","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Erik Compton",6556,"USA","273","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Scott Stallings",12359,"USA","279","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Tyrone van Aswegen",9913,"RSA","283","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Roberto Castro",12643,"USA","285","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Lucas Glover",7399,"USA","290","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Carlos Ortiz",14735,"MEX","293","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Kyle Stanley",12069,"USA","294","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ricky Barnes",6846,"USA","295","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Tyler Aldridge",11677,"USA","297","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Jeff Overton",10498,"USA","318","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Nick Taylor",13126,"CAN","319","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Luke List",7960,"USA","334","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ben Crane",6674,"USA","360","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Steve Wheatcroft",10292,"USA","368","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Michael Kim",17543,"USA","378","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Stuart Appleby",5294,"AUS","392","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Meenwhee Kim",11702,"KOR","398","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Mark Wilson",4107,"USA","405","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Andres Gonzales",11640,"USA","420","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Billy Hurley-III",11046,"USA","427","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Charlie Beljan",13118,"USA","438","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ken Duke",493,"USA","440","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Mark Hubbard",16333,"USA","454","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Will Mackenzie",7470,"USA","461","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Chad Collins",7744,"USA","465","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Justin Leonard",5603,"USA","541","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Justin Hicks",9166,"USA","605","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Darren Clarke",3523,"NIR","608","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Robert Allenby",4949,"AUS","692","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Gregory Yates",19830,"USA","830","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Mike Weir",5513,"CAN","910","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Trevor Immelman",5935,"RSA","1610","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Brian Gay",5951,"USA","1722","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Rod Perry",8263,"USA","1731","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Austin Connelly",19704,"CAN","1731","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Lee McCoy",19871,"USA","1731","Valspar Championship ",6130,2016-03-13,"PGA Tour",NA,NA,2016-03-09
+"Ryan Fox",11889,"NZL","160","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Brad Kennedy",6287,"AUS","189","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Matthew Millar",7449,"AUS","270","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Josh Geary",9903,"NZL","282","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Dylan Frittelli",11955,"RSA","312","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Hyunwoo Ryu",13928,"KOR","331","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Michael Hendry",11885,"NZL","379","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Brendan Jones",6254,"AUS","388","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Rohan Blizard",11838,"AUS","393","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"David Bransdon",5624,"AUS","400","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Daniel Fox",10112,"AUS","424","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Scott Arnold",11810,"AUS","428","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"James Nitties",7388,"AUS","447","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Shintaro Kobayashi",10560,"JPN","458","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Tjaart Van Der Walt",5937,"RSA","463","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Matthew Griffin",9780,"AUS","489","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Geoff Drakeford",15848,"AUS","490","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Steven Alker",4871,"NZL","500","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Sean Riordan",16935,"NZL","501","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Josh Younger",11828,"AUS","558","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jake Higginbottom",15849,"AUS","570","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Michael Long",4865,"NZL","585","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Daniel Nisbet",11823,"AUS","614","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Aaron Pike",10828,"AUS","634","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Matthew Giles",9783,"AUS","647","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Ashley Hall",7708,"AUS","660","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Daniel Pearce",16933,"NZL","663","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Kristopher R Mueck",15933,"AUS","668","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Soonsang Hong",7020,"KOR","671","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Aaron Townsend",8415,"AUS","672","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Andrew Evans",15589,"AUS","699","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Rourke Van der Spuy",18827,"RSA","707","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jarryd Felton",16835,"AUS","709","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Daniel Valente",15943,"AUS","725","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"David Smail",4986,"NZL","764","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Steven Jeffress",7481,"AUS","775","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Gareth Paddison",6397,"NZL","802","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Anthony Brown",7086,"AUS","823","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Alistair Presnell",7089,"AUS","829","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Michael Wright",6535,"AUS","834","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Adam Stephens",11814,"AUS","905","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Tim Hart",15920,"AUS","916","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Brad Shilton",8412,"NZL","919","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Neven Basic",7700,"AUS","964","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Ray Beaufils",12826,"AUS","970","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Peter Wilson",7944,"AUS","982","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Anthony Summers",5233,"AUS","982","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"David Lutterus",8388,"AUS","984","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Daniel Chopra",2035,"SWE","991","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Brett Rankin",11820,"AUS","1016","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"David Klein",15851,"GER","1016","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Adam Blyth",7704,"AUS","1032","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Anthony Houston",15924,"AUS","1037","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Scott Laycock",3472,"AUS","1038","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Peter Fowler",497,"AUS","1072","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Maxwell McCardle",13674,"AUS","1099","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Mark Brown",3486,"NZL","1106","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Rory Bourke",15845,"AUS","1143","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Ryan Lynch",12830,"AUS","1146","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Christopher Wood",16012,"AUS","1156","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jared Pender",12751,"NZL","1171","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Lucas Herbert",17064,"AUS","1239","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Mitchell Brown",8385,"AUS","1267","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jake McLeod(Am)",17146,"AUS","1313","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Ryan Carter",11039,"USA","1344","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Harry Bateman",16921,"NZL","1372","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Chris Gaunt",6251,"AUS","1421","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Mathew Perry",15894,"NZL","1470","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Nick Gillespie",12747,"NZL","1490","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Kota Kagasaki",16022,"AUS","1535","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Luke Toomey(am)",17889,"NZL","1535","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Callan O'Reilly",16968,"AUS","1592","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Steven Jones",11892,"AUS","1614","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Peter Lee",15886,"NZL","1623","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Benjamin Clementson",15912,"AUS","1623","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Tom Power Horan",18096,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Dongwoo Kang",11130,"KOR","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Taylor MacDonald",17144,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Damien Jordan",14353,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jack Wilson",15946,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Brad Moules",17917,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Hayden Beard",19397,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Josh Whitehouse",17433,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Leigh McKechnie",7061,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Darren Beck",9905,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Taylor Cooper",14477,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Byungjun Kim",15532,"KOR","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Fraser Wilkin",16089,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Aaron Wilkin",17790,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Josh Cabban",19205,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Tae Koh",19267,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Shaun Jones",19437,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Vauchan McCall",16564,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Sam An",16920,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Josh Munn",15891,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Tyler Hodge",16931,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Theodore Coroneo",16956,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jordan Mullaney",16967,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Lindsay Wilson",17055,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Grant Moorhead",4452,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Kieran Muir",15890,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Simon Hawkes",16959,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Simon Viitakangas(Am)",17170,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Deyen Lawson",15885,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Cory Crawford(Am)",17785,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jack Sullivan",18098,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Ben Hollis",18167,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Dominic Barson",3526,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Luke Humphries",18092,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Victor Janin",18966,"FRA","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Brad Hayward",19443,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Sam Daley",20551,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Joshua Ingram",21115,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Martin Pettigrew",6121,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Troy Ropiha",11893,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Alex Katholos",15850,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Ryan Chisnall",16924,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"DJ Loypur",17065,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jamie Hook",17143,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Alex Edge",17884,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Samuel Phillips",19269,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Wesley Jeon",21352,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jack Williams",21250,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Craig Hamilton",19374,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Lachlan McDonald",21248,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jim Cusdin",15138,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Cody Harper",16928,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"James Betts",17909,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Steven Han",19435,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Hamish Campbell",21351,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Jonathan Ratcliffe",15895,"NZL","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Dane McArdle",21353,"AUS","1731","BMW ISPS HANDA New Zealand Open ",6132,2016-03-13,"PGA Tour Australasia",NA,NA,2016-03-09
+"Antoine Schwartz",15512,"FRA","651","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Benjamin Rusch",13281,"SUI","780","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Christopher Mivis",11198,"BEL","786","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Max Laier",18843,"GER","792","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mathieu Decottignies Lafon",13998,"FRA","872","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Robin Kind",14986,"NED","889","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Maximilian Roehrig",17559,"GER","895","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Jose-Filipe Lima",7868,"POR","941","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Romain Bechu",12658,"FRA","985","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Stephan Gross-Jr",9232,"GER","1029","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Reinier Saxton",11564,"NED","1056","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Max Kramer",9220,"GER","1063","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Julian Kunzenbacher",18842,"GER","1081","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Younes El Hassani",7297,"MAR","1110","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Patrick Kopp",20152,"GER","1110","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Marcel Ohorn",20290,"GER","1138","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Michael Kraaij",12501,"NED","1239","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Bernard Neumayer",14678,"AUT","1239","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Daniel Wuensche",13362,"GER","1251","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Filip Mruzek",14883,"CZE","1269","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"David Antonelli",12405,"FRA","1272","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Damian Ulrich",10520,"SUI","1293","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Robbie Van West",16498,"NED","1319","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Sean Einhaus",10223,"GER","1368","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Ross Cameron",14093,"SCO","1386","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Raffaele Benatti",19810,"ITA","1389","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Nicolas Thommen",12374,"SUI","1458","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mathieu Fenasse",17831,"FRA","1475","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Bernhard Reiter",13090,"AUT","1477","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Chris Robb",20297,"SCO","1477","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Manuel Trappel",14681,"AUT","1639","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Fabian Becker",12506,"GER","1671","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Amine Joudar",7298,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Nicolas Meitinger",9214,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Faycal Serghini",9304,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Rachid El Kherraz",9737,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Leo Astl",10539,"AUT","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Alexandre Kaleka",11358,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Johannes Steiner",11503,"AUT","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Jonas Kolbing(Am)",12360,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Benjamin Weilguni",12436,"AUT","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mikhail Morozov",12449,"RUS","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Dylan Boshart",12648,"NED","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Phillip Mclean",13238,"SCO","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Rene Gruber",13298,"AUT","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mortiz Mayrhauser",13299,"AUT","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Marek Novy",13391,"CZE","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Stanislav Matus",14086,"CZE","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Ahmed Reda Rhazali",14458,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Johann Lopez Lazzaro",14684,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mehdi Saissi",14718,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Edouard Amacher",14808,"SUI","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Olivier Rozner",15511,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Luca Galliano",15566,"SUI","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Joel Girrbach",15592,"SUI","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Andrea Gurini(Am)",15723,"SUI","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Ahmed Marjane",15970,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mustapha El Maouas(Am)",16069,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Anton Kirstein",16269,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Christian Kaiser",16315,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Maximilian Walz(Am)",16486,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Sebastian Heisele",16499,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Reeve Whitson",17314,"NIR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Sebastian Kannler",17614,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Alexander Culverwell",17791,"SCO","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Charles Tortuyaux",17840,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Alexis Anghert",18520,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Clement Batut",18626,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Dominik Pietzsch",18709,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Kenny Subregis",18935,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Karim El Hali(am)",19311,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Rory McNamara",19608,"IRL","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Benedict Staben",19808,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Jan  Cafourek",19851,"CZE","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Sam Kiloh",20004,"SCO","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Patrick Actis Alesina",20264,"ITA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Edward Barry-Walsh",20268,"ENG","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Maarten Bosch",20269,"NED","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Valentino Campion",20272,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Stanislas Heck",20277,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"David Heinzinger",20278,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Alain Jeanrenaud",20280,"SUI","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Ryan Lloyd",20286,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Francesco Rocca",20298,"ITA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Sascha Schmidt",20300,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Arnaud Seguin",20302,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Kevin Turlan",20309,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Oliver Weigt",20313,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"James Wilson",20314,"ENG","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Davide Albertini",20355,"SUI","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Hendrik Beins",20357,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Florian Danitz",20361,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Giesbert Gommers",20363,"NED","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Henri-Edmond Jouan",20368,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Florian Kolberg",20372,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Bernhard Neumann",20378,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Evanildo Silva dos Santos",20382,"NED","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Thordur Gissurarson",20498,"ISL","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Vladimir Osipov",20579,"RUS","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Richard Bridges",20629,"IRL","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Richard O'Donovan",20690,"IRL","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Zeno Felder",21211,"SUI","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Stanislas Gautier",21212,"FRA","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Axel Geers",21213,"NED","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Michael Heffner",21214,"GER","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Jamal Allali(Am)",21259,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Omar Arzraf(Am)",21260,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Karim Balouti(Am)",21261,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mohamed Belaroussia",21262,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Abdelali Channane(Am)",21264,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Mohamed El Khallali(Am)",21266,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Amine El Malki(Am)",21267,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Badr Satori",21271,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09
+"Yassine Touhami(Am)",21273,"MAR","1731","The 2016 Tony Jacklin Open",6134,2016-03-13,"ProGolf Tour",NA,NA,2016-03-09

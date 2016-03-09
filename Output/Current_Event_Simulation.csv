@@ -1,335 +1,387 @@
 "Event_ID","Event_Name","Event_Date","Event_Tour_1","Rank","OWGR_Rank","Player_Name","Player_ID","Projected_Rating","Projected_Stdev","Win_Rank","Win","Top_5","Top_10","Country","Rounds_Last_Year","Recent_Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",1,1,"Jordan Spieth",14636,-2.32925796515112,2.8745848327452,1,0.0833,0.27646,0.43499,"USA",100,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",2,2,"Jason Day",9771,-2.26319714786127,2.82463484130564,2,0.07084,0.2559,0.41488,"AUS",66,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",3,3,"Rory McIlroy",10091,-2.2505878883365,2.80239112996292,3,0.06899,0.25281,0.4119,"NIR",76,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",4,6,"Henrik Stenson",5994,-2.03787881846714,2.76367797248105,4,0.04995,0.20428,0.3526,"SWE",92,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",5,7,"Justin Rose",6093,-1.99143937742052,2.75223243896562,5,0.04551,0.19308,0.33619,"ENG",98,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",6,4,"Bubba Watson",7334,-1.95524240364003,2.70060653418802,6,0.04092,0.18249,0.32962,"USA",86,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",8,5,"Rickie Fowler",12965,-1.88633530367732,2.78152903216051,7,0.03976,0.17253,0.31071,"USA",98,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",9,8,"Dustin Johnson",12422,-1.75767725379212,2.85942458520994,8,0.03716,0.15991,0.28619,"USA",88,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",10,12,"Sergio Garcia",5689,-1.7455722306497,2.73439683951552,9,0.03072,0.14506,0.27416,"ESP",84,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",12,9,"Adam Scott",6430,-1.68306148360238,2.79417643710925,10,0.0292,0.14161,0.26495,"AUS",80,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",11,13,"Hideki Matsuyama",13562,-1.72072372466326,2.67254578218581,11,0.02721,0.1376,0.264,"JPN",88,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",13,28,"Matt Kuchar",6169,-1.64297419129886,2.63532996373782,12,0.02261,0.12372,0.24316,"USA",102,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",15,21,"Phil Mickelson",1547,-1.51009940820292,2.77822354491134,13,0.02223,0.11513,0.22541,"USA",84,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",14,10,"Patrick Reed",14838,-1.51409156831596,2.7494631379739,14,0.02139,0.11371,0.22339,"USA",118,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",21,22,"J.B. Holmes",7959,-1.30942333338869,2.85316325159829,15,0.01811,0.09454,0.18846,"USA",79,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",24,16,"Brandt Snedeker",8820,-1.23708843728399,2.91496637551462,16,0.0177,0.09132,0.18065,"USA",94,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",17,25,"Kevin Na",7452,-1.34561849410959,2.78456184645492,17,0.01695,0.09238,0.19045,"USA",101,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",18,18,"Brooks Koepka",16243,-1.32213461065621,2.7888989478003,18,0.01678,0.09168,0.18592,"USA",100,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",27,24,"Jimmy Walker",7293,-1.17675602902094,2.94598151597549,19,0.01673,0.08582,0.17166,"USA",90,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",16,17,"Zach Johnson",6986,-1.39054500731569,2.71412767941889,20,0.01642,0.09363,0.19328,"USA",94,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",20,11,"Branden Grace",11952,-1.30961845681997,2.78908634590057,21,0.01608,0.09,0.18492,"RSA",94,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",26,15,"Danny Willett",12920,-1.21106486968325,2.82052031137386,22,0.01461,0.08236,0.17072,"ENG",88,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",19,30,"Paul Casey",7108,-1.31718731710884,2.68806056007062,23,0.01387,0.08344,0.17681,"ENG",88,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",28,32,"Charl Schwartzel",7398,-1.17578472247281,2.78494268062996,24,0.01297,0.07598,0.15882,"RSA",98,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",22,31,"Justin Thomas",14139,-1.24021741556925,2.71719415999022,25,0.01259,0.07693,0.16468,"USA",104,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",29,19,"Louis Oosthuizen",7672,-1.13331757848331,2.77331255568327,26,0.01188,0.06967,0.1504,"RSA",88,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",30,26,"Marc Leishman",7649,-1.10938413629784,2.76206375803131,27,0.01131,0.068,0.14675,"AUS",75,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",33,20,"Kevin Kisner",11328,-1.06098698765068,2.80976405526057,28,0.01125,0.06568,0.1423,"USA",108,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",23,42,"Bill Haas",7900,-1.23772024596381,2.59198052662253,29,0.01,0.06825,0.15532,"USA",88,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",42,27,"Byeong Hun An",14459,-0.963509345600798,2.83145425664828,30,0.00992,0.05948,0.12975,"KOR",104,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",34,47,"Robert Streb",14852,-1.03782487715662,2.72341943547004,31,0.00934,0.05911,0.13477,"USA",111,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",43,37,"Bernd Wiesberger",9531,-0.959621230137907,2.79406970748939,32,0.00933,0.05603,0.1242,"AUT",98,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",40,23,"Shane Lowry",13900,-0.973463108592645,2.78484650544454,33,0.00912,0.05658,0.12703,"IRL",86,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",35,33,"Russell Knox",13831,-1.03560058967006,2.69207786667559,34,0.00859,0.05532,0.12772,"SCO",107,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",47,41,"Billy Horschel",11276,-0.930637140756043,2.77853294386566,35,0.00849,0.0521,0.11846,"USA",91,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",44,35,"Danny Lee",11826,-0.95928637754891,2.74347225067051,36,0.00835,0.05296,0.12157,"NZL",114,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",37,79,"Harris English",14577,-1.0176254803174,2.67835997995585,37,0.00805,0.05187,0.12224,"USA",100,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",68,59,"Charley Hoffman",5768,-0.718072120368082,2.88783103981039,38,0.00703,0.04315,0.0993,"USA",87,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",52,51,"Jamie Donaldson",7084,-0.830178568529312,2.78130521272878,39,0.00699,0.04627,0.10545,"WAL",92,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",78,39,"Victor Dubuisson",10198,-0.639064552474015,2.93643326662352,40,0.0067,0.0424,0.09468,"FRA",78,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",57,55,"Graeme McDowell",7548,-0.799875709383042,2.76699884193796,41,0.00665,0.04275,0.10107,"NIR",90,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",61,50,"Anirban Lahiri",12669,-0.747443457600609,2.82334727177994,42,0.00652,0.04298,0.09879,"IND",94,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",60,38,"Martin Kaymer",8117,-0.748031322646645,2.82898034782792,43,0.00648,0.04387,0.09873,"GER",92,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",84,40,"David Lingmerth",14815,-0.569352754204975,2.98871339473615,44,0.00642,0.03962,0.09072,"SWE",101,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",70,29,"Andy Sullivan",15326,-0.697294053686513,2.85409117574799,45,0.00634,0.04185,0.0969,"ENG",97,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",49,71,"Jason Dufner",7301,-0.849934939254077,2.74101560788281,46,0.00629,0.04466,0.10431,"USA",98,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",51,36,"Emiliano Grillo",12808,-0.833307554979611,2.74409629325912,47,0.0062,0.04368,0.10329,"ARG",106,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",66,43,"Chris Wood",12451,-0.732430020757358,2.76865375766975,48,0.00547,0.03815,0.09252,"ENG",88,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",81,48,"Scott Piercy",7899,-0.611544614176995,2.8439285326324,49,0.00511,0.03505,0.08347,"USA",95,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",83,77,"George Coetzee",10884,-0.586267422664584,2.79814293945162,50,0.00471,0.0329,0.07983,"RSA",74,"Sunshine Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",88,61,"Rafael Cabrera Bello",7457,-0.535870891923256,2.85670204676852,51,0.0046,0.03204,0.07751,"ESP",101,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",92,85,"Ross Fisher",9396,-0.522217793888034,2.80584331012793,52,0.00416,0.02973,0.07227,"ENG",85,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",90,46,"Matthew Fitzpatrick",17646,-0.526938284105537,2.81232347797429,53,0.0041,0.03039,0.0748,"ENG",107,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",85,57,"Daniel Berger",17606,-0.552741575880654,2.79343933731345,54,0.00394,0.02986,0.07558,"USA",92,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",149,45,"Kiradech Aphibarnrat",12321,-0.249766417610662,2.93485589663639,55,0.00331,0.02358,0.05825,"THA",103,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",118,54,"Fabian Gomez",8571,-0.381284654154566,2.82929842233477,56,0.00316,0.02421,0.06126,"ARG",92,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",111,44,"Soren Kjeldsen",6149,-0.41316542841334,2.8129529529586,57,0.00315,0.02505,0.06297,"DEN",110,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",112,65,"Smylie Kaufman",18631,-0.412687944199802,2.78071873437081,58,0.00312,0.02456,0.06256,"USA",105,"Web.com Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",137,68,"Kristoffer Broberg",15603,-0.287801912189786,2.76008939871155,59,0.00238,0.01827,0.05064,"SWE",100,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",121,73,"K.T. Kim",7880,-0.370521122704563,2.63991892808623,60,0.00202,0.01785,0.04951,"KOR",108,"Japan Golf Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",148,58,"Marcus Fraser",7070,-0.250956956437055,2.7197791436069,61,0.00192,0.01579,0.04428,"AUS",97,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",279,78,"Steven Bowditch",7053,0.227868456005836,3.10581921577681,62,0.00184,0.01353,0.03479,"AUS",110,"PGA Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",274,122,"Scott Hend",1888,0.214502233554761,2.9582076978978,63,0.00132,0.01132,0.03032,"AUS",98,"European Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",162,101,"Yusaku Miyazato",7031,-0.196112315931721,2.57331093608566,64.5,0.00091,0.01072,0.03291,"JPN",113,"Japan Golf Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",296,149,"Nathan Holman",15923,0.286774580314656,2.85807249510392,64.5,0.00091,0.00825,0.02389,"AUS",76,"Asian Tour"
-6127,"WGC - Cadillac Championship ","2016-03-06","WGC",1360,530,"Jordan Zunic",15170,2.43924570964078,2.94694505075977,66,2e-05,1e-04,0.00037,"AUS",54,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",203,500,"Steven Alker",4871,-0.0240653190693044,2.72156734145599,1,0.09996,0.33372,0.51075,"NZL",65,"PGA Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",268,174,"Ryan Fox",11889,0.20321011286873,2.89753526941256,2,0.08553,0.28535,0.4441,"NZL",87,"European Challenge Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",280,225,"Brad Kennedy",6287,0.234342883434358,2.67007518394107,3,0.06653,0.26111,0.42964,"AUS",87,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",322,273,"Matthew Millar",7449,0.382683401384121,2.74670598168103,4,0.05893,0.23328,0.39113,"AUS",54,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",377,460,"Tjaart Van Der Walt",5937,0.565519166157589,2.71311453287828,5,0.04253,0.19043,0.33625,"RSA",72,"Sunshine Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",366,328,"Hyunwoo Ryu",13928,0.523380412124751,2.64878505482639,6,0.04252,0.19391,0.34663,"KOR",99,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",406,376,"Brendan Jones",6254,0.65165205229388,2.78671134349646,7,0.04062,0.17922,0.31816,"AUS",72,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",536,331,"Josh Geary",9903,0.963423204938761,2.90839590705055,8,0.03005,0.13776,0.25151,"NZL",64,"PGA Tour China"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",453,483,"Matthew Griffin",9780,0.775593497338067,2.68972879497067,9,0.02963,0.15059,0.2817,"AUS",94,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",497,481,"James Nitties",7388,0.891391406219897,2.78927642295695,10,0.02864,0.13806,0.25802,"AUS",86,"Web.com Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",575,463,"Shintaro Kobayashi",10560,1.04104736520408,2.88520080961036,11,0.02672,0.12449,0.23506,"JPN",56,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",562,327,"Dylan Frittelli",11955,1.0182380749958,2.81352376921534,12,0.02441,0.12301,0.23387,"RSA",75,"Sunshine Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",579,400,"David Bransdon",5624,1.05238662184319,2.80909651860425,13,0.0233,0.11572,0.2264,"AUS",52,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",619,663,"Ashley Hall",7708,1.11864608964278,2.83351129073031,14,0.02183,0.10742,0.21122,"AUS",83,"Web.com Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",678,423,"Scott Arnold",11810,1.22426211960051,2.86148132390535,15,0.01897,0.09858,0.19512,"AUS",83,"European Challenge Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",660,392,"Michael Hendry",11885,1.18658890887011,2.82132153918333,16,0.01831,0.10004,0.19786,"NZL",73,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",708,821,"Alistair Presnell",7089,1.2825701153675,2.85672182467324,17,0.01746,0.09165,0.18513,"AUS",64,"Web.com Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",693,426,"Daniel Fox",10112,1.25962683389423,2.80381671246704,18,0.0162,0.09115,0.18415,"AUS",52,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",685,835,"Michael Wright",6535,1.23214874148855,2.73591088576244,19,0.01516,0.08779,0.18302,"AUS",60,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",772,665,"Aaron Townsend",8415,1.40442395255933,2.82368230065484,20,0.01326,0.0764,0.15979,"AUS",65,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",717,1105,"Mark Brown",3486,1.29888089393287,2.71344926096457,21,0.01301,0.07933,0.16706,"NZL",56,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",740,1099,"Maxwell McCardle",13674,1.34343172222641,2.7320612983987,22,0.01285,0.07546,0.16191,"AUS",76,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",790,394,"Rohan Blizard",11838,1.4330690457606,2.81397495026828,23,0.01212,0.07275,0.15352,"AUS",72,"PGA Tour China"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",826,613,"Daniel Nisbet",11823,1.49587892539677,2.87028332502579,24,0.01206,0.06977,0.14787,"AUS",49,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",868,556,"Josh Younger",11828,1.56935693634422,2.88798472950176,25,0.01159,0.06467,0.13842,"AUS",67,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",796,745,"David Smail",4986,1.4507074203534,2.75592091220144,26,0.01131,0.06753,0.14554,"NZL",66,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",890,707,"Rourke Van der Spuy",18827,1.61248189434125,2.79359557117657,27,0.00881,0.05482,0.12244,"RSA",69,"Sunshine Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",896,633,"Aaron Pike",10828,1.62078238962514,2.81203111531241,28,0.00875,0.05548,0.1243,"AUS",44,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",945,664,"Daniel Pearce",16933,1.71187592968429,2.88520112619244,29,0.00866,0.05256,0.11652,"NZL",56,"PGA Tour China"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",937,724,"Daniel Valente",15943,1.69396120394508,2.82655417783415,30,0.00813,0.05059,0.11294,"AUS",54,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1029,986,"Daniel Chopra",2035,1.85206218560044,2.92932985662943,31,0.00777,0.04649,0.10266,"SWE",54,"Asian Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",952,673,"Soonsang Hong",7020,1.7222712632687,2.83374823962298,32,0.00755,0.05006,0.11226,"KOR",59,"Korean Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1016,495,"Geoff Drakeford",15848,1.8300293641287,2.92525272103975,33,0.00749,0.04671,0.10297,"AUS",50,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",999,803,"Gareth Paddison",6397,1.80215376747017,2.87453867439168,34,0.00719,0.04538,0.10353,"NZL",46,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",965,712,"Jarryd Felton",16835,1.73683599888613,2.78547825648482,35,0.00667,0.04627,0.10572,"AUS",30,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",985,1268,"Mitchell Brown",8385,1.77893708173332,2.78771692741557,36,0.00658,0.04303,0.10031,"AUS",40,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1074,1237,"Lucas Herbert",17064,1.9446943480842,2.94151647535285,37,0.00657,0.04082,0.09275,"AUS",22,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",956,864,"Steven Jeffress",7481,1.72600750647352,2.77517593776585,38,0.00649,0.04487,0.10495,"AUS",54,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",969,1734,"Damien Jordan",14353,1.74793690318343,2.71652089208795,39,0.00555,0.04077,0.09707,"AUS",36,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1039,987,"Anthony Summers",5233,1.87410212708981,2.76110414579674,40,0.00538,0.03571,0.08594,"AUS",53,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1088,1034,"Adam Blyth",7704,1.97124268965252,2.87309353122733,41,0.00532,0.03593,0.08462,"AUS",48,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1005,587,"Michael Long",4865,1.81468494791597,2.76501797917672,42,0.00512,0.03951,0.09429,"NZL",50,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1122,1037,"Anthony Houston",15924,2.03410049458942,2.89908910495352,43,0.00509,0.03356,0.0794,"AUS",68,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",968,1036,"Scott Laycock",3472,1.74790568094547,2.66679242177356,44,0.00501,0.03854,0.09512,"AUS",60,"PGA Tour China"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1091,819,"Anthony Brown",7086,1.97549979831085,2.82809300405394,45,0.00495,0.03447,0.08157,"AUS",48,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1152,1352,"Ryan Carter",11039,2.07867724414783,2.87785640666812,46,0.00467,0.03051,0.07456,"USA",26,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1109,1734,"Darren Beck",9905,2.0117672863395,2.83197688583413,47,0.00466,0.03166,0.07784,"AUS",24,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1124,919,"Brad Shilton",8412,2.03933536023955,2.84626892724786,48,0.00444,0.03049,0.07516,"NZL",35,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1128,981,"David Lutterus",8388,2.04577328609264,2.82559695233266,49,0.00419,0.03014,0.07371,"AUS",56,"PGA Tour China"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1159,917,"Tim Hart",15920,2.0910684285992,2.87461410932785,50,0.00411,0.02949,0.07226,"AUS",40,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1255,565,"Jake Higginbottom",15849,2.26110436665829,2.99381657632113,51,0.00397,0.02771,0.06524,"AUS",46,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1166,961,"Ray Beaufils",12826,2.10296461278704,2.83126252287924,52,0.00383,0.02795,0.0693,"AUS",52,"PGA Tour China"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1212,642,"Matthew Giles",9783,2.18122831846472,2.89692940519779,53,0.00378,0.02701,0.06565,"AUS",65,"Asian Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1193,1413,"Chris Gaunt",6251,2.15168578357067,2.83767140751192,54,0.00369,0.02659,0.06542,"AUS",28,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1163,982,"Peter Wilson",7944,2.09900602950903,2.82501031117447,55,0.00347,0.02786,0.0686,"AUS",50,"Japan Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1234,1142,"Rory Bourke",15845,2.2301964891718,2.84001000562797,56,0.00313,0.02267,0.05758,"AUS",48,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1223,1021,"David Klein",15851,2.21319582653862,2.82408339801053,57,0.00292,0.02313,0.05883,"GER",32,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1247,1021,"Brett Rankin",11820,2.24826371001999,2.83331194971309,58,0.00257,0.02163,0.05696,"AUS",52,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1260,503,"Sean Riordan",16935,2.26557024982818,2.78073963881238,59,0.00245,0.02014,0.05137,"NZL",77,"Asian Development Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1203,1734,"Jamie Hook",17143,2.16750837929727,2.73372422502566,60.5,0.00241,0.02116,0.05667,"AUS",44,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1230,1734,"Neven Basic",7700,2.22514102849072,2.75443246642924,60.5,0.00241,0.02012,0.05186,"AUS",43,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1388,1593,"Callan O'Reilly",16968,2.49124869842906,2.92304127837119,62,0.00225,0.01738,0.04505,"AUS",32,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1468,1734,"Jack Wilson",15946,2.64561368206766,2.96410119304552,63,0.00185,0.0138,0.03725,"AUS",70,"PGA Tour Canada"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1346,1734,"Byungjun Kim",15532,2.42152265398121,2.83244477171112,64,0.00184,0.01595,0.04375,"KOR",32,"Korean Golf Tour"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1527,666,"Kristopher R Mueck",15933,2.75789264086872,3.06465896225437,65,0.00173,0.01358,0.03497,"AUS",37,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1442,902,"Adam Stephens",11814,2.59917807266722,2.87318662241826,66,0.00161,0.0131,0.03519,"AUS",40,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1477,1156,"Christopher Wood",16012,2.66719419674039,2.91954596892482,67,0.00146,0.01274,0.03388,"AUS",29,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1320,1734,"Leigh McKechnie",7061,2.37684204161692,2.73526318075201,68,0.00145,0.01428,0.04096,"AUS",36,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1475,1612,"Steven Jones",11892,2.66288484741806,2.91416307640356,69,0.00143,0.01261,0.03342,"AUS",4,"None"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1511,1457,"Mathew Perry",15894,2.7383589174184,2.89763366944536,70,0.00133,0.01002,0.02903,"NZL",48,"PGA Tour China"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1522,1734,"Taylor MacDonald",17144,2.74940549618487,2.94254566883168,71,0.00125,0.01165,0.03105,"AUS",24,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1512,1369,"Harry Bateman",16921,2.7388261708884,2.88107726226881,72,0.00117,0.01088,0.02958,"NZL",44,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1483,702,"Andrew Evans",15589,2.68734728918154,2.81587327726131,73,0.00113,0.00966,0.02857,"AUS",45,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1629,1487,"Nick Gillespie",12747,2.98909850022658,3.06853623566207,74,0.00111,0.0093,0.02533,"NZL",40,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1574,1734,"Kieran Muir",15890,2.86941949954902,2.86605360371353,75,0.00084,0.00762,0.02293,"NZL",26,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1671,1171,"Jared Pender",12751,3.06565878747411,3.02605809414433,76,0.00075,0.00772,0.02126,"NZL",20,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1856,1734,"Brody Ninyette",16007,3.49679619677473,2.95575580868119,77,0.00034,0.0029,0.00903,"AUS",14,"None"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1789,1139,"Ryan Lynch",12830,3.32882947739817,2.87586559902957,78,0.00033,0.0034,0.01058,"AUS",44,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1840,1734,"Josh Cabban",19205,3.46435814474924,2.99729970252462,79,0.00029,0.00334,0.01056,"AUS",28,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1826,1623,"Benjamin Clementson",15912,3.42700205361656,2.8289161325418,80,2e-04,0.00219,0.00778,"AUS",28,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1889,1531,"Kota Kagasaki",16022,3.60606478835443,2.92812409816162,81.5,0.00015,0.00234,0.00732,"AUS",8,"None"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",1944,1734,"Aaron Wilkin",17790,3.79492800783698,3.01549113065702,81.5,0.00015,0.00195,0.00628,"AUS",34,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",2012,1734,"Luke Humphries",18092,4.12209765531088,2.87940297465194,83,6e-05,0.00057,0.00203,"AUS",42,"PGA Tour Australasia"
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Peter Fowler",497,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Dominic Barson",3526,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Grant Moorhead",4452,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Martin Pettigrew",6121,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Doug Holloway",8423,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Dongwoo Kang",11130,6,0,105.5,0,0,0,"KOR",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Troy Ropiha",11893,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Taylor Cooper",14477,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Jim Cusdin",15138,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Alex Katholos",15850,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Deyen Lawson",15885,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Peter Lee",15886,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Josh Munn",15891,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Fraser Wilkin",16089,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Vauchan McCall",16564,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Tyler Hodge",16931,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Theodore Coroneo",16956,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Simon Hawkes",16959,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Jordan Mullaney",16967,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Lindsay Wilson",17055,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"DJ Loypur",17065,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Jake McLeod(Am)",17146,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Simon Viitakangas(Am)",17170,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Josh Whitehouse",17433,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Cory Crawford(Am)",17785,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Alex Edge",17884,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Luke Toomey(am)",17889,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"James Betts",17909,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Brad Moules",17917,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Tom Power Horan",18096,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Jack Sullivan",18098,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Ben Hollis",18167,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Victor Janin",18966,6,0,105.5,0,0,0,"FRA",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Tae Koh",19267,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Samuel Phillips",19269,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Craig Hamilton",19374,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Hayden Beard",19397,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Steven Han",19435,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Shaun Jones",19437,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Brad Hayward",19443,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Sam Daley",20551,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Joshua Ingram",21115,6,0,105.5,0,0,0,"AUS",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Lachlan McDonald",21248,6,0,105.5,0,0,0,"NZL",NA,NA
-6128,"Holden NZ PGA Championship","2016-03-06","PGA Tour Australasia",NA,NA,"Jack Williams",21250,6,0,105.5,0,0,0,"AUS",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",538,418,"Sebastian Soderberg",18517,0.968840448275383,2.80420919329366,1,0.14725,0.47087,0.69452,"SWE",75,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",721,1498,"Jacob Glennemo",13447,1.31102989948047,2.87535244863031,2,0.10414,0.37645,0.60037,"SWE",54,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",847,646,"Eirik Tage Johansen",11317,1.53238097014184,2.89913850783798,3,0.07947,0.32064,0.54232,"NOR",29,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",984,913,"Bjorn Hellgren",16231,1.77867472319127,2.80968923812728,4,0.05239,0.25552,0.47316,"SWE",36,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1084,907,"Emilio Cuartero Blanco",19459,1.96347113802756,2.9511072745931,5,0.04644,0.22473,0.42215,"ESP",63,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1025,1524,"Niclas Johansson",14893,1.84569277570994,2.73207734149822,6,0.04445,0.23419,0.45229,"SWE",68,"Asian Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1129,1039,"Tobias Rosendahl",14782,2.04578801441497,2.92633016031479,7,0.04132,0.20664,0.40124,"SWE",29,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1087,1028,"George Woolgar",14067,1.96840887911733,2.82882798742924,8,0.04078,0.21634,0.41849,"ENG",39,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1145,1428,"Joakim Rask",5922,2.06752377274644,2.91140703743197,9,0.04057,0.2,0.39245,"SWE",57,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1162,1224,"David Palm",10420,2.09541829161542,2.89053534521994,10,0.03686,0.19422,0.38581,"SWE",37,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1172,1234,"Jesper Billing",13443,2.11460547629457,2.88265320617048,11,0.03647,0.19083,0.37947,"SWE",44,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1194,909,"Mark F Haastrup",7952,2.15527168960261,2.89724636972978,12,0.03481,0.18498,0.3721,"DEN",25,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1198,1429,"Erik Oja",20097,2.16079515511788,2.86094222703212,13,0.03327,0.18186,0.36975,"SWE",28,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1271,1474,"Rasmus Hjelm Nielsen",11622,2.28196067472575,2.90996181110519,14,0.02954,0.16375,0.3404,"DEN",36,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1268,1276,"Andreas Andersson",11653,2.27899805445709,2.84309405237921,15,0.02612,0.16056,0.33581,"SWE",29,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1312,1015,"Daniel Lokke",14287,2.35865213356013,2.84161756283875,16,0.02281,0.14481,0.31687,"DEN",35,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1339,654,"Kristian Krogh Johannessen",16421,2.40954452383475,2.89300179796642,17,0.02276,0.14174,0.30776,"NOR",31,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1326,1734,"Martin Ovesen",19847,2.38802788763917,2.81308161156792,18,0.02249,0.13958,0.30717,"DEN",37,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1335,1498,"Tim Gornik",19605,2.40665087289411,2.85770424415843,19,0.02181,0.13933,0.30564,"SLO",39,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1518,1344,"Kasper K Estrup",15673,2.7462771238033,3.05001801944116,20,0.01772,0.10761,0.24097,"DEN",29,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1498,1472,"Wallace Booth",14034,2.71490625011747,2.95369341911558,21,0.01626,0.10474,0.24094,"SCO",38,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1488,1734,"Elias Bertheussen",12488,2.69463972027234,2.86585840596833,22,0.01483,0.1011,0.2374,"NOR",40,"European Challenge Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1540,974,"Daniel Jennevret",13449,2.79373089748197,2.86037691783312,23,0.01176,0.08683,0.21457,"SWE",27,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1614,1438,"Oliver Suhr",12562,2.96487981900043,2.98673099494397,24,0.01166,0.07941,0.19418,"DEN",29,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1755,1474,"Christopher Feldborg Nielsen",20147,3.24871411468701,3.04571690818062,25,0.00814,0.05904,0.15018,"SWE",27,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1662,1734,"Victor Flatau",12581,3.05353994434197,2.85537359783564,26,0.00736,0.06192,0.16471,"SWE",28,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1777,1309,"Marcus Larsson",12583,3.29585069907045,2.97547437097729,27,0.00609,0.05068,0.13708,"SWE",30,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1837,1393,"Graeme A Clark",9388,3.45854752872401,3.07669430003161,28,0.00574,0.0448,0.1226,"ENG",20,"EuroPro Tour"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1808,1734,"Jesper Lerchedahl",13956,3.378120811654,2.89553661055412,29,0.00479,0.04138,0.1197,"DEN",28,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1844,1426,"Jonas Haglund",18862,3.47697522257936,2.9658772845227,30,0.00477,0.04009,0.11419,"FIN",28,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",1887,1734,"Ake Nilsson",9493,3.60516696561294,3.03373756300284,31,0.0037,0.03504,0.10123,"SWE",23,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",2014,1405,"Patrick O'Neill",16447,4.14674030040002,3.01281405073702,32,0.0013,0.01494,0.05034,"DEN",27,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",2034,1734,"Jesper Olsson",20238,4.31425035376239,3.00352170256239,33,0.00119,0.01143,0.04016,"SWE",26,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",2051,1426,"Simon Willer",20126,4.43657352404398,3.00425610446523,34,0.00065,0.00905,0.03375,"DEN",27,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",2093,1734,"Jesper Kennegard",11531,4.73910810578996,2.98623810452421,35,0.00029,0.0049,0.02023,"SWE",22,"Nordic Golf League"
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Bjorn Pettersson",6518,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Christian Aronsen",9497,6,0,88.5,0,0,0,"NOR",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Calle Carlsson",9619,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Petter Bocian",9630,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jonas Olsson",10662,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jonathan Fransson",11248,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Robin Askstrand",11532,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Gustav Adell",12234,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mikael Salminen",13141,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Simon Gundorph",13410,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Pontus Ellerstrom",14714,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Victor Tarnstrom",14816,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mathias Johansson",15552,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Marcus Gran",15605,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Ole B Ramsnes",15650,6,0,88.5,0,0,0,"NOR",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Niklas Norgaard Moller",15676,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Lasse Sonne Nielsen",15677,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Albert Eckhardt",16405,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Erik Myllymaki",16408,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Lauri Ruuska(Am)",16409,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Niklas Dahlgren",16603,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Riku Mattila",17356,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Fredrik Gustavsson",18513,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Emil Othberg",18516,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Nikolaj E Nissen",18552,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Richard Pettersson",18708,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mark Suursalu",18766,6,0,88.5,0,0,0,"EST",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Peter Vejgaard",18859,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Kristian Kulokorpi(Am)",18863,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Henri Pyykola",18864,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Tuomas Salminen",18865,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Christian Baech Christensen",19638,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Nikolai Hogh",19640,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Alex Wennstam",19933,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Linus Vaisanen",19959,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Antti Ahava(Am)",20046,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mattias Bohlin",20051,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Andreas Gronkvist",20054,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Niclas Hellberg",20057,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jesper Karlsson",20066,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Antti Lassila(Am)",20080,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Joonas Lehtola(Am)",20081,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mikael Lindberg",20084,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Oliver Lindell(Am)",20085,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Peter Puhakka",20104,6,0,88.5,0,0,0,"FIN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Martin Amtkjaer",20156,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jeppe Kristian Andersen(Am)",20158,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Axel Arinbjarnarson",20161,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Oscar Bergman(1992)",20163,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Filip Brattse",20169,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jonas Carlson",20173,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Simon Dahlin",20178,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Max Eichmeier",20182,6,0,88.5,0,0,0,"GER",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Oskar Franck",20184,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mathias Gladbjerg",20187,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Anders Hornshoj(Am)",20196,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Nicolai Kjaer Kokholm",20209,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jakob Kollerup",20210,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jesper Gunder Larsen",20214,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Anders Larson",20216,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jacob Pingel Lauridsen",20218,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Marcus Lindstrom(1992)",20221,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Niklas Lindstrom",20222,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jan-Philip Neuendorf",20230,6,0,88.5,0,0,0,"GER",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Hampus Nilsson",20234,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Nicolaj Norman Hansen",20235,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Soren Schulze Pettersson",20242,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Benjamin Henry Poke",20244,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Patrick Rasmussen",20245,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mathias Lynne Schjolberg",20248,6,0,88.5,0,0,0,"NOR",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Christian Skjoth",20250,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Joachim Szots",20255,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Nicolai Tinning",20256,6,0,88.5,0,0,0,"DEN",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mathias Weiderman",20259,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"William Adolfson",20389,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Sebastian Hansson(1991)",20397,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Sebastian C. Hansson(1994)",20398,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Oscar Lengden",20410,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Fredrik Lindgren(1990)",20411,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Per Langfors",20414,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"William Nygard",20418,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jonas Svensson(Am)",20422,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Victor Theandersson(Am)",20423,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Johan Wiklund",20427,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jarand Ekeland Arnoy(Am)",20463,6,0,88.5,0,0,0,"NOR",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Robert Jonasson",20477,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Kevin Andre Wright(Am)",20494,6,0,88.5,0,0,0,"NOR",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Oscar Hallberg",20559,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Johan Hellberg(Am)",20560,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Axel Boasson(Am)",20733,6,0,88.5,0,0,0,"ISL",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jesper Andersson(Am)",20804,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Donald Pearson",20866,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Kevin Bengtsson",21332,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Aron Bergsson(Am)",21333,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Gustav Björnsson(Am)",21334,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Douglas Ebe",21335,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Martin Granstad",21336,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Leo Haggstrom",21337,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Jesper Johansson",21338,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Sebastian Lagerholm",21339,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Mark Larsson",21340,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Oliver Larsson",21341,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Robin Naslund",21342,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Christopher Sahlstrom",21343,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Christoffer Skarbring",21344,6,0,88.5,0,0,0,"SWE",NA,NA
-6129,"Lumine Hills Open","2016-03-06","Nordic Golf League",NA,NA,"Johan Wisen(Am)",21345,6,0,88.5,0,0,0,"SWE",NA,NA
+6130,"Valspar Championship ","2016-03-13","PGA Tour",2,1,"Jordan Spieth",14636,-2.32438300401494,2.85480183648681,1,0.10495,0.3007,0.43631,"USA",104,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",5,7,"Henrik Stenson",5994,-2.0097714086404,2.75275471514541,2,0.06394,0.2178,0.34572,"SWE",96,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",14,28,"Matt Kuchar",6169,-1.63918563940564,2.66865849778774,3,0.03308,0.14025,0.24675,"USA",106,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",15,10,"Patrick Reed",14838,-1.44673349584166,2.75534815433518,4,0.02761,0.12009,0.20932,"USA",118,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",17,11,"Danny Willett",12920,-1.35290309039875,2.83275479606305,5,0.02699,0.11257,0.19697,"ENG",92,"European Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",20,12,"Branden Grace",11952,-1.33262583601594,2.79262483721961,6,0.0242,0.10632,0.1906,"RSA",98,"European Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",21,26,"Kevin Na",7452,-1.33215840066683,2.76297096999645,7,0.02319,0.10376,0.18812,"USA",105,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",26,32,"Charl Schwartzel",7398,-1.21697301978934,2.77835364966681,8,0.02065,0.09107,0.16969,"RSA",100,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",27,18,"Louis Oosthuizen",7672,-1.19774645342613,2.76522816694838,9,0.01924,0.08852,0.16275,"RSA",92,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",24,31,"Justin Thomas",14139,-1.22987677389513,2.75055375211743,10,0.0187,0.09021,0.16654,"USA",106,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",25,67,"Ryan Palmer",7820,-1.22785046465675,2.68516240028399,11,0.0175,0.08528,0.16029,"USA",84,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",34,61,"Ryan Moore",7489,-1.07143961548877,2.80184523495772,12,0.01644,0.07631,0.14455,"USA",77,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",43,68,"Patton Kizzire",13470,-0.950900996138998,2.8543625268421,13,0.01481,0.06895,0.13058,"USA",112,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",36,88,"Keegan Bradley",13872,-1.03142264770834,2.75020045880137,14,0.01402,0.07085,0.13624,"USA",88,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",33,70,"Harris English",14577,-1.10151895603008,2.66472894590671,15,0.01315,0.06969,0.13698,"USA",102,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",29,43,"Bill Haas",7900,-1.18510890308395,2.58315109536705,16,0.01309,0.07253,0.14369,"USA",92,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",35,33,"Russell Knox",13831,-1.06400543974642,2.67229196841458,17,0.01263,0.06666,0.13241,"SCO",107,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",38,75,"Webb Simpson",11049,-1.00849836257228,2.703311211472,18,0.01253,0.06468,0.12744,"USA",82,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",45,62,"Jason Dufner",7301,-0.93927036540073,2.78097347446121,19,0.01248,0.06238,0.12378,"USA",98,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",44,34,"Danny Lee",11826,-0.942653356070203,2.7537445193983,20,0.01187,0.06154,0.12125,"NZL",116,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",58,59,"Charley Hoffman",5768,-0.793487130077929,2.88292946657184,21,0.01159,0.05794,0.11264,"USA",91,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",64,123,"Kevin Chappell",13305,-0.744371853746121,2.93031200795464,22,0.01141,0.05639,0.10891,"USA",91,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",40,80,"Francesco Molinari",7655,-0.974988398890177,2.67175429698614,23,0.0107,0.05698,0.11545,"ITA",86,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",50,69,"Gary Woodland",12577,-0.848175750295195,2.78753438961234,24,0.01053,0.05585,0.11056,"USA",82,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",46,90,"Luke Donald",4163,-0.936299131944229,2.67695257877348,25,0.01048,0.05679,0.11337,"ENG",102,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",56,64,"Ian Poulter",1435,-0.799045944594104,2.79022184195654,26,0.00982,0.05222,0.10363,"ENG",93,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",52,55,"Graeme McDowell",7548,-0.830570620428642,2.7528405677618,27,0.00976,0.0532,0.10542,"NIR",92,"European Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",67,108,"Chez Reavie",7961,-0.729892471598515,2.82380163481197,28,0.00966,0.04842,0.09835,"USA",90,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",49,128,"Charles Howell III",6892,-0.874618378588176,2.69500726172862,29,0.00958,0.05244,0.10673,"USA",106,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",76,117,"Jason Kokrak",12337,-0.664493055334147,2.86594475417952,30,0.00955,0.04712,0.09313,"USA",81,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",66,40,"Martin Kaymer",8117,-0.732649893034312,2.8195103638018,31,0.00939,0.04925,0.09858,"GER",92,"European Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",75,170,"Graham Delaet",10252,-0.671334198115159,2.86167264686044,32,0.00918,0.04684,0.09484,"CAN",70,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",77,132,"Will Wilcox",14696,-0.65432052458352,2.81430385109185,33,0.00853,0.04334,0.08803,"USA",81,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",59,114,"Daniel Summerhays",12424,-0.777691234309124,2.72324678727557,34,0.00847,0.0467,0.09577,"USA",97,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",65,97,"Tony Finau",11676,-0.736611017842116,2.76874769998157,35,0.00828,0.04599,0.09533,"USA",101,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",61,98,"Freddie Jacobson",3846,-0.762460709292992,2.73114417199943,36,0.00827,0.04552,0.09424,"SWE",67,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",54,249,"Steve Stricker",4818,-0.811403434502246,2.68568138857764,37,0.00825,0.04662,0.09691,"USA",48,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",74,84,"Cameron Tringale",14013,-0.681661627193377,2.7913181199182,38,0.00815,0.04331,0.08878,"USA",96,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",73,104,"Kevin Streelman",8480,-0.683143115776908,2.75760836280945,39,0.00763,0.0422,0.08625,"USA",86,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",82,83,"Russell Henley",14578,-0.601341227092241,2.82952681360415,40,0.00735,0.03979,0.08266,"USA",81,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",97,143,"Jamie Lovemark",11382,-0.483458293109841,2.93551040096777,41,0.00722,0.03828,0.07874,"USA",111,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",96,54,"Chris Kirk",12423,-0.500083171647553,2.86117074883437,42,0.00687,0.0372,0.07587,"USA",73,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",83,57,"Daniel Berger",17606,-0.599427323089427,2.78240756541506,43.5,0.0066,0.03835,0.0809,"USA",92,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",106,113,"Brian Harman",8825,-0.448274493703021,2.88079985729547,43.5,0.0066,0.03499,0.07188,"USA",100,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",78,103,"K.J. Choi",1804,-0.647358166793615,2.68821644709119,45,0.00629,0.03664,0.07874,"KOR",75,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",90,110,"Brendon Todd",12425,-0.530819657858571,2.80415304905949,46,0.00619,0.0348,0.07378,"USA",95,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",102,201,"Colt Knost",12149,-0.453472885574216,2.8493181112519,47,0.00608,0.03358,0.06915,"USA",88,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",79,87,"Hunter Mahan",7636,-0.638849811350966,2.69326655628667,48,0.006,0.03649,0.07766,"USA",83,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",94,158,"Jerry Kelly",5151,-0.504443130710542,2.80416241788203,49,0.00566,0.03461,0.07264,"USA",80,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",71,206,"Stewart Cink",5665,-0.693955489114965,2.62621468333109,50,0.00563,0.03511,0.07713,"USA",91,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",101,187,"Adam Hadwin",13965,-0.461545180811501,2.81820515167471,51,0.00549,0.03194,0.06938,"CAN",90,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",119,290,"Lucas Glover",7399,-0.366217635186048,2.84034496171962,52,0.00533,0.02844,0.06127,"USA",95,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",80,92,"John Senden",5207,-0.618599308147597,2.63334529239158,53,0.00525,0.03258,0.07222,"AUS",99,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",126,134,"Jonas Blixt",8182,-0.336338292292556,2.88328135986223,54,0.00523,0.02916,0.06183,"SWE",82,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",124,116,"James Hahn",11374,-0.340058528126132,2.87672343409511,55,0.00518,0.02916,0.06197,"USA",85,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",112,204,"Camilo Villegas",9171,-0.420966591085568,2.78625325952445,56,0.00515,0.02927,0.06298,"COL",84,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",117,178,"Scott Brown",11330,-0.390352054445673,2.85850888541924,57,0.00507,0.0316,0.06535,"USA",103,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",135,121,"Patrick Rodgers",16283,-0.304683528743012,2.89445581734203,58,0.005,0.02779,0.0604,"USA",83,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",98,190,"John Huh",14606,-0.482718029912006,2.74432833102302,59,0.00486,0.03017,0.0659,"USA",97,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",129,165,"George McNeill",6419,-0.325427803595378,2.87832831541038,60,0.00478,0.02746,0.05971,"USA",89,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",95,181,"Brendon de Jonge",8767,-0.502357016676296,2.72369494286052,61,0.00473,0.03106,0.06727,"ZIM",105,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",99,203,"Vijay Singh",653,-0.480389813905941,2.72985192122997,62,0.00472,0.02873,0.06408,"FIJ",85,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",115,124,"Sean O'Hair",7626,-0.396841188638598,2.80885957413472,63.5,0.00461,0.02863,0.06155,"USA",85,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",153,142,"Boo Weekley",7403,-0.21890344591439,2.9303809576609,63.5,0.00461,0.02636,0.05551,"USA",86,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",109,234,"Hudson Swafford",14706,-0.429481899259526,2.75250144417671,65,0.00454,0.02794,0.06198,"USA",98,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",116,96,"Vaughn Taylor",6930,-0.393678227019029,2.78233407742839,66,0.00453,0.02688,0.0599,"USA",64,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",114,147,"David Hearn",7340,-0.400862165329928,2.77384723602645,68,0.00449,0.02687,0.05928,"CAN",98,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",127,218,"Seungyul Noh",11117,-0.333399976004541,2.84816696343072,68,0.00449,0.02716,0.05961,"KOR",79,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",141,144,"Morgan Hoffmann",14082,-0.270452039447161,2.88475291879962,68,0.00449,0.02601,0.05714,"USA",92,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",100,192,"Martin Laird",9586,-0.479353188438549,2.72581851979664,70.5,0.00445,0.02872,0.06448,"SCO",86,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",108,183,"Jim Herman",12846,-0.436789671110499,2.73452451885409,70.5,0.00445,0.02781,0.06114,"USA",90,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",146,295,"Ricky Barnes",6846,-0.249215953454772,2.87862581764298,72,0.00443,0.02524,0.05511,"USA",96,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",113,318,"Jeff Overton",10498,-0.405425538417424,2.74515988202871,73,0.00435,0.02689,0.05879,"USA",90,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",103,263,"Spencer Levin",8199,-0.453064722987196,2.72715334518852,74,0.00428,0.02778,0.06205,"USA",103,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",86,207,"Chad Campbell",6248,-0.549130394945518,2.65234556859333,75,0.00426,0.02852,0.06503,"USA",97,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",174,100,"Hiroshi Iwata",9099,-0.139755546114607,2.93704128773877,76,0.00414,0.02366,0.05048,"JPN",110,"Japan Golf Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",156,212,"Bryce Molder",7292,-0.210562798159819,2.89064895148734,77,0.00387,0.02384,0.05274,"USA",87,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",125,216,"Retief Goosen",4884,-0.339891808404599,2.75863214245735,78,0.0038,0.02447,0.05488,"RSA",66,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",149,217,"Shawn Stefani",14012,-0.243435206396204,2.84692734458489,79,0.00379,0.02409,0.0538,"USA",85,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",178,168,"Siwoo Kim",14609,-0.118849036179978,2.88488091042271,80,0.00378,0.02138,0.04728,"KOR",120,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",140,191,"Jason Gore",6321,-0.272646365114757,2.82451011100909,81,0.00376,0.02467,0.05374,"USA",78,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",132,285,"Roberto Castro",12643,-0.316073803973859,2.78385878461833,82.5,0.00367,0.02416,0.05356,"USA",89,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",171,256,"Harold Varner III",16602,-0.142963671302893,2.89440198640088,82.5,0.00367,0.02156,0.04717,"USA",120,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",199,199,"Rory Sabbatini",6283,-0.0616868226611485,2.95237026108789,84,0.00354,0.02098,0.04498,"RSA",72,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",172,95,"Cameron Smith",15856,-0.142107470541637,2.81987471640622,85,0.00353,0.01971,0.04435,"AUS",75,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",175,230,"Blayne Barber",15608,-0.133645589370916,2.88714387744349,86,0.00349,0.02088,0.04649,"USA",66,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",118,167,"Chris Stroud",9604,-0.380285715132919,2.6989857802288,87.5,0.00334,0.02295,0.05354,"USA",91,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",185,188,"Sunghoon Kang",7881,-0.0935517441357391,2.91074316586796,87.5,0.00334,0.02015,0.04594,"KOR",116,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",158,184,"Andrew Loupe",15318,-0.206418242907927,2.80883776851047,89,0.00333,0.02047,0.04674,"USA",90,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",139,200,"David Toms",4340,-0.274338495905708,2.76037470395195,90,0.00322,0.02197,0.04905,"USA",53,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",148,244,"Derek Fathauer",12689,-0.246040617743574,2.76263872311602,91,0.00308,0.02088,0.04851,"USA",92,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",180,137,"Zac Blair",17639,-0.115649839545743,2.81505683830465,92,0.00288,0.01852,0.04238,"USA",103,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",145,208,"Ernie Els",874,-0.250325385394992,2.73233870547354,93.5,0.0027,0.0196,0.04593,"RSA",88,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",212,112,"Troy Merritt",13367,0.0277458055000934,2.8970827042059,93.5,0.0027,0.01645,0.03802,"USA",86,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",160,294,"Kyle Stanley",12069,-0.19515153837067,2.75394680008682,95,0.00269,0.01866,0.04353,"USA",87,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",136,198,"Kyle Reifers",11329,-0.300846514095707,2.65536750404949,96,0.00258,0.01841,0.04384,"USA",89,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",184,130,"Padraig Harrington",5716,-0.109021606201137,2.78875959542989,97,0.00256,0.01719,0.03955,"IRL",89,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",193,293,"Carlos Ortiz",14735,-0.0778958882565921,2.80961301466133,98.5,0.00243,0.01629,0.0388,"MEX",90,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",205,283,"Tyrone van Aswegen",9913,-0.000731076193944995,2.8506697842556,98.5,0.00243,0.01633,0.03639,"RSA",114,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",163,378,"Michael Kim",17543,-0.173995054082889,2.72904053938129,100,0.00241,0.01759,0.04189,"USA",116,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",262,266,"Sam Saunders",11048,0.171401225785452,2.97943496369205,101,0.0024,0.01506,0.03376,"USA",94,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",190,360,"Ben Crane",6674,-0.0829306879337632,2.74269016784711,102,0.00236,0.01507,0.03621,"USA",74,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",231,334,"Luke List",7960,0.0770410321749643,2.87912342936316,103,0.00222,0.01482,0.03352,"USA",98,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",355,79,"Steven Bowditch",7053,0.493527265655784,3.20802609378219,104,0.0022,0.0134,0.02866,"AUS",114,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",223,242,"Scott Pinckney",15477,0.067939735191653,2.84019699912777,105,0.00218,0.01327,0.03189,"USA",89,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",204,272,"Bronson Burgoon",11082,-0.00679535407689711,2.78587847632615,106.5,0.00209,0.01446,0.0336,"USA",115,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",235,273,"Erik Compton",6556,0.0892054862373496,2.81396105534697,106.5,0.00209,0.01344,0.03145,"USA",86,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",195,454,"Mark Hubbard",16333,-0.0750691278532737,2.74527510739084,108,0.00208,0.01451,0.03539,"USA",106,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",220,159,"Peter Malnati",14926,0.0611390091000783,2.82939230211134,109,0.00207,0.01388,0.03285,"USA",113,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",138,222,"Carl Pettersson",7048,-0.278556010361734,2.61347954250055,110,0.00205,0.01676,0.04206,"SWE",89,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",166,228,"Jon Curran",14699,-0.166583916533253,2.67765483771204,111,0.00204,0.01562,0.03749,"USA",82,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",173,193,"Thomas Aiken",7679,-0.141910388882466,2.67928162742289,112,0.00202,0.01502,0.03672,"RSA",93,"European Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",237,255,"Chesson Hadley",14967,0.0923708157772543,2.84155560421521,113,0.00198,0.01323,0.03072,"USA",100,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",217,180,"Geoff Ogilvy",5698,0.0483908733825525,2.79676386724657,114,0.00189,0.01313,0.03208,"AUS",62,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",263,268,"Brett Stegmaier",11354,0.174696488143666,2.90433267668738,115,0.00174,0.01294,0.03044,"USA",105,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",274,279,"Scott Stallings",12359,0.222584678161432,2.86857023325122,116,0.00169,0.01072,0.02605,"USA",54,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",350,161,"Matt Every",10185,0.481231710362665,2.97063051355377,117,0.00153,0.00913,0.02073,"USA",56,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",258,392,"Stuart Appleby",5294,0.161851658253655,2.8082544739994,118,0.00151,0.01057,0.02637,"AUS",32,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",225,319,"Nick Taylor",13126,0.0697412941970026,2.73849502716729,119,0.00141,0.01075,0.027,"CAN",89,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",254,541,"Justin Leonard",5603,0.149986418197368,2.80339313509832,120,0.0014,0.01094,0.02751,"USA",52,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",299,440,"Ken Duke",493,0.302897545048347,2.85065484041958,121,0.0013,0.00961,0.02329,"USA",69,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",295,368,"Steve Wheatcroft",10292,0.294465156131805,2.83308298814794,122,0.00117,0.00941,0.02218,"USA",78,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",230,427,"Billy Hurley-III",11046,0.0761456244699962,2.68747652596374,123,0.00107,0.00941,0.02461,"USA",81,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",307,461,"Will Mackenzie",7470,0.34223679221795,2.80415713710559,124,0.001,0.00809,0.01988,"USA",66,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",361,297,"Tyler Aldridge",11677,0.502950500225648,2.90134473984952,125,0.00096,0.00708,0.01803,"USA",105,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",338,605,"Justin Hicks",9166,0.443460792232612,2.83914031667128,126,0.00093,0.00687,0.01738,"USA",40,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",280,465,"Chad Collins",7744,0.246407224156051,2.66809400992587,127,0.00091,0.00696,0.01886,"USA",77,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",276,405,"Mark Wilson",4107,0.22354206526082,2.69080956532716,128,0.00088,0.00739,0.01992,"USA",84,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",289,398,"Meenwhee Kim",11702,0.274332732970872,2.69095974051388,129,0.00078,0.00687,0.01799,"KOR",87,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",352,420,"Andres Gonzales",11640,0.485745518406239,2.75366289522203,130,0.00051,0.00496,0.01379,"USA",78,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",395,1722,"Brian Gay",5951,0.637053101584742,2.77708904253254,131,0.00049,0.00423,0.01159,"USA",13,"None"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",611,438,"Charlie Beljan",13118,1.11656281553055,2.91749055963555,132,0.00028,0.0021,0.00579,"USA",63,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",565,1610,"Trevor Immelman",5935,1.03689094085708,2.74202972058942,133,0.00015,0.00164,0.00467,"RSA",43,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",625,692,"Robert Allenby",4949,1.13333058671945,2.82109344659617,134,0.00011,0.00167,0.00483,"AUS",59,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",722,608,"Darren Clarke",3523,1.32178859780672,2.84824646333782,135,1e-04,0.001,0.00338,"NIR",71,"European Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",817,830,"Gregory Yates",19830,1.49729050952268,2.88935837994471,136,7e-05,8e-04,0.00258,"USA",30,"Web.com Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",771,1731,"Austin Connelly",19704,1.40709415136469,2.87024066313593,137,4e-05,0.00101,0.00305,"CAN",28,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",1518,910,"Mike Weir",5513,2.74513666346493,2.9043566267464,138,1e-05,3e-05,0.00012,"CAN",25,"PGA Tour"
+6130,"Valspar Championship ","2016-03-13","PGA Tour",NA,NA,"Rod Perry",8263,6,0,139.5,0,0,0,"USA",NA,NA
+6130,"Valspar Championship ","2016-03-13","PGA Tour",NA,NA,"Lee McCoy",19871,6,0,139.5,0,0,0,"USA",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",249,160,"Ryan Fox",11889,0.140689153696483,2.88632479253308,1,0.08913,0.29535,0.4592,"NZL",91,"European Challenge Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",245,500,"Steven Alker",4871,0.119009469141702,2.72572708389138,2,0.081,0.29177,0.46373,"NZL",69,"PGA Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",252,189,"Brad Kennedy",6287,0.147210111817828,2.67084899730772,3,0.07587,0.2818,0.45004,"AUS",91,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",316,270,"Matthew Millar",7449,0.370867701988405,2.73666433570502,4,0.0594,0.23271,0.39012,"AUS",58,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",362,331,"Hyunwoo Ryu",13928,0.516944479090425,2.63712050706578,5,0.04185,0.19316,0.34674,"KOR",103,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",404,463,"Tjaart Van Der Walt",5937,0.652039820302543,2.71321856926176,6,0.03886,0.17707,0.31612,"RSA",70,"Sunshine Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",459,282,"Josh Geary",9903,0.812608942118128,2.8958723227596,7,0.03867,0.16077,0.28565,"NZL",68,"PGA Tour China"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",421,388,"Brendan Jones",6254,0.690040610206994,2.76911777617073,8,0.0384,0.17167,0.30531,"AUS",76,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",457,447,"James Nitties",7388,0.804561333968232,2.78597380775435,9,0.03275,0.15118,0.27923,"AUS",90,"Web.com Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",469,489,"Matthew Griffin",9780,0.835484227078053,2.68834777424669,10,0.02799,0.13898,0.26464,"AUS",96,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",517,312,"Dylan Frittelli",11955,0.939404926804374,2.80124041752575,11,0.02775,0.13335,0.24851,"RSA",77,"Sunshine Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",566,458,"Shintaro Kobayashi",10560,1.03721926550458,2.89626110897742,12,0.02682,0.12514,0.23527,"JPN",60,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",592,379,"Michael Hendry",11885,1.08556129025935,2.81877290955643,13,0.02212,0.11346,0.21954,"NZL",77,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",619,660,"Ashley Hall",7708,1.12798840720639,2.81832428695993,14,0.02114,0.10806,0.21102,"AUS",87,"Web.com Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",605,400,"David Bransdon",5624,1.10485719675136,2.79753981455656,15,0.02103,0.10908,0.21281,"AUS",54,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",690,428,"Scott Arnold",11810,1.25216288960877,2.88244833047586,16,0.01913,0.09774,0.19131,"AUS",87,"European Challenge Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",678,829,"Alistair Presnell",7089,1.23607343968396,2.82965866637414,17,0.01721,0.09241,0.18766,"AUS",68,"Web.com Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",689,424,"Daniel Fox",10112,1.2514994682475,2.78024148773813,18,0.01658,0.08878,0.18141,"AUS",56,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",730,672,"Aaron Townsend",8415,1.33518640912837,2.80617941270165,19,0.01465,0.08126,0.16568,"AUS",69,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",695,1106,"Mark Brown",3486,1.27046310482381,2.72447070699855,20,0.01379,0.08179,0.17231,"NZL",60,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",741,834,"Michael Wright",6535,1.35078832519661,2.76121010438544,21,0.01325,0.0786,0.16369,"AUS",62,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",789,614,"Daniel Nisbet",11823,1.43958205705082,2.86649365758441,22,0.01274,0.07441,0.1549,"AUS",53,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",825,558,"Josh Younger",11828,1.50214040809267,2.87743869341196,23,0.0119,0.06897,0.14744,"AUS",71,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",769,1099,"Maxwell McCardle",13674,1.40452261121002,2.72772929594138,24,0.01116,0.06806,0.14913,"AUS",78,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",871,663,"Daniel Pearce",16933,1.58255947260629,2.85907009676241,25,0.01041,0.06114,0.13193,"NZL",60,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",847,393,"Rohan Blizard",11838,1.54037200503582,2.80937912819151,26,0.01038,0.063,0.13634,"AUS",76,"PGA Tour China"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",838,764,"David Smail",4986,1.52771347400044,2.73817526689911,27,0.0091,0.05904,0.13094,"NZL",70,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",868,775,"Steven Jeffress",7481,1.57398390652989,2.76729340200879,28,0.00884,0.05562,0.12549,"AUS",58,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",999,991,"Daniel Chopra",2035,1.81253339674784,2.93291494230607,29,0.00846,0.04905,0.10632,"SWE",58,"Asian Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",920,707,"Rourke Van der Spuy",18827,1.67489166731122,2.79185064179068,30,0.00826,0.04959,0.1117,"RSA",71,"Sunshine Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",939,802,"Gareth Paddison",6397,1.69840414444001,2.868492380816,31,0.00823,0.05176,0.11524,"NZL",50,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",992,1239,"Lucas Herbert",17064,1.80249500200233,2.90834549869409,32,0.00791,0.04795,0.10621,"AUS",26,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",961,634,"Aaron Pike",10828,1.74210984633209,2.82152513884796,33,0.00699,0.0484,0.10872,"AUS",46,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1092,490,"Geoff Drakeford",15848,1.97491281998361,2.97842236951911,34,0.00663,0.04122,0.09097,"AUS",52,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1012,671,"Soonsang Hong",7020,1.83595226889537,2.83676850113318,35.5,0.00632,0.0414,0.09661,"KOR",61,"Korean Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1053,725,"Daniel Valente",15943,1.90727211530817,2.89522738816606,35.5,0.00632,0.04031,0.09143,"AUS",58,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1041,916,"Tim Hart",15920,1.89096745495294,2.87424210525993,37,0.00611,0.0414,0.0929,"AUS",44,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1073,1037,"Anthony Houston",15924,1.93974170900177,2.88741773545694,38,0.0058,0.03751,0.08864,"AUS",72,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1002,1267,"Mitchell Brown",8385,1.81478257854882,2.76999473390306,39,0.00542,0.04008,0.0948,"AUS",42,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1049,984,"David Lutterus",8388,1.90485983081716,2.82530848280563,40,0.0053,0.03761,0.08895,"AUS",60,"PGA Tour China"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",979,1731,"Damien Jordan",14353,1.78914986503092,2.71723371038018,41,0.00517,0.03856,0.09372,"AUS",40,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1037,982,"Anthony Summers",5233,1.88053826740148,2.76103371581324,42,0.00511,0.03501,0.08557,"AUS",53,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1109,1032,"Adam Blyth",7704,2.01582413775342,2.87847596261383,43,0.00496,0.03435,0.07902,"AUS",50,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1069,709,"Jarryd Felton",16835,1.93401299480326,2.79644469973777,44,0.00494,0.03472,0.08448,"AUS",32,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1018,585,"Michael Long",4865,1.84253912200395,2.74915871210693,45,0.00479,0.03692,0.08894,"NZL",52,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1206,570,"Jake Higginbottom",15849,2.17595527340067,2.9822892973429,46,0.00473,0.03056,0.07187,"AUS",50,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",959,1038,"Scott Laycock",3472,1.7393904567226,2.64309000681743,47,0.00468,0.03818,0.09374,"AUS",64,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1071,964,"Neven Basic",7700,1.93844999459809,2.79518382108815,48,0.00459,0.03352,0.08198,"AUS",47,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1085,823,"Anthony Brown",7086,1.96274227079068,2.79827616518227,49,0.00457,0.03277,0.08022,"AUS",52,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1129,1731,"Darren Beck",9905,2.04708684628539,2.85644023921555,50,0.00448,0.03181,0.07548,"AUS",26,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1145,1016,"Brett Rankin",11820,2.0723335495113,2.83670428741013,51,0.00381,0.02906,0.07073,"AUS",56,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1189,1344,"Ryan Carter",11039,2.14360914478611,2.87553370793962,52,0.00378,0.02722,0.06623,"USA",28,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1166,919,"Brad Shilton",8412,2.11022066030358,2.8332111552891,53,0.00369,0.02772,0.0683,"NZL",37,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1146,1421,"Chris Gaunt",6251,2.07297648713024,2.81271907288749,54,0.00366,0.02773,0.06957,"AUS",32,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1180,1143,"Rory Bourke",15845,2.13722297587153,2.83681130160612,55,0.00348,0.02581,0.06483,"AUS",52,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1196,970,"Ray Beaufils",12826,2.15919993508444,2.82485347727892,56,0.00327,0.02545,0.06267,"AUS",54,"PGA Tour China"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1262,647,"Matthew Giles",9783,2.27784648555076,2.89459898982299,57,0.00311,0.02234,0.05742,"AUS",67,"Asian Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1213,982,"Peter Wilson",7944,2.18531877969167,2.81665064907522,58,0.00303,0.02307,0.05924,"AUS",52,"Japan Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1304,1016,"David Klein",15851,2.35415655912026,2.82573809943876,59,0.00224,0.01813,0.04805,"GER",34,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1383,1592,"Callan O'Reilly",16968,2.48942607242153,2.90317387375619,60,0.00221,0.01658,0.04367,"AUS",34,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1478,1731,"Jack Wilson",15946,2.65572055059745,2.97351142244726,61,0.00209,0.01405,0.03793,"AUS",74,"PGA Tour Canada"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1348,1313,"Jake McLeod(Am)",17146,2.43436348334125,2.83182389764733,62,0.00203,0.01583,0.04214,"AUS",26,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1477,668,"Kristopher R Mueck",15933,2.65532280544219,3.04780634573242,63,0.00188,0.01594,0.04018,"AUS",41,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1421,1470,"Mathew Perry",15894,2.54834535663543,2.91006984624687,64,0.00181,0.01515,0.03992,"NZL",52,"PGA Tour China"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1286,1731,"Jamie Hook",17143,2.32701953192763,2.7454039206201,65,0.00178,0.01572,0.04514,"AUS",46,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1346,1731,"Byungjun Kim",15532,2.43139516480166,2.81266734732521,66,0.00176,0.01542,0.04151,"KOR",34,"Korean Golf Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1437,1731,"Taylor MacDonald",17144,2.58269411041021,2.91481097755411,67,0.00159,0.01438,0.03951,"AUS",28,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1388,501,"Sean Riordan",16935,2.49788901806315,2.83723145018214,68,0.00149,0.01453,0.03847,"NZL",79,"Asian Development Tour"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1470,1614,"Steven Jones",11892,2.64311864064868,2.89213675537025,69.5,0.00147,0.01228,0.03264,"AUS",6,"None"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1572,1490,"Nick Gillespie",12747,2.8578204822278,3.05993591756266,69.5,0.00147,0.0119,0.03119,"NZL",44,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1321,1731,"Leigh McKechnie",7061,2.3832559413729,2.72093239083337,71,0.00144,0.01366,0.03851,"AUS",38,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1476,1156,"Christopher Wood",16012,2.65417115277654,2.9026493852427,72,0.00131,0.01195,0.03352,"AUS",31,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1505,1372,"Harry Bateman",16921,2.72295692726295,2.86188620901871,73,0.00119,0.01058,0.02878,"NZL",46,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1487,905,"Adam Stephens",11814,2.67767562996303,2.86007387515123,74,0.00117,0.01031,0.02953,"AUS",44,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1504,699,"Andrew Evans",15589,2.72185181915947,2.80327179490171,75,0.00095,0.0091,0.02683,"AUS",47,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1635,1171,"Jared Pender",12751,3.00396792039903,3.00136838404934,76,0.00094,0.00846,0.02329,"NZL",22,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1603,1731,"Kieran Muir",15890,2.94265365557118,2.86603845748003,77,0.00044,0.00713,0.02118,"NZL",28,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1814,1731,"Josh Cabban",19205,3.38393674381996,2.97828324381257,78,0.00033,0.00363,0.01204,"AUS",30,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1796,1146,"Ryan Lynch",12830,3.34318137349595,2.86943900900265,79.5,0.00023,0.00286,0.00911,"AUS",48,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1926,1731,"Aaron Wilkin",17790,3.70997074025305,2.99847775039453,79.5,0.00023,0.00203,0.00685,"AUS",36,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1891,1535,"Kota Kagasaki",16022,3.57394903601662,2.89903656937019,81,0.00021,0.00206,0.00678,"AUS",10,"None"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",1821,1623,"Benjamin Clementson",15912,3.40001426834611,2.81655521049919,82,0.00019,0.00224,0.00797,"AUS",30,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",2026,1731,"Luke Humphries",18092,4.15914019829173,2.86247089167525,83,2e-05,0.00048,0.00183,"AUS",44,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",2098,1731,"Hayden Beard",19397,4.69882086634941,2.96686070172657,84,1e-05,0.00015,0.00077,"NZL",28,"PGA Tour Australasia"
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Peter Fowler",497,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Dominic Barson",3526,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Grant Moorhead",4452,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Martin Pettigrew",6121,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Dongwoo Kang",11130,6,0,108.5,0,0,0,"KOR",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Troy Ropiha",11893,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Taylor Cooper",14477,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Jim Cusdin",15138,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Alex Katholos",15850,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Deyen Lawson",15885,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Peter Lee",15886,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Josh Munn",15891,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Jonathan Ratcliffe",15895,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Fraser Wilkin",16089,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Vauchan McCall",16564,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Sam An",16920,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Ryan Chisnall",16924,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Cody Harper",16928,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Tyler Hodge",16931,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Theodore Coroneo",16956,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Simon Hawkes",16959,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Jordan Mullaney",16967,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Lindsay Wilson",17055,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"DJ Loypur",17065,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Simon Viitakangas(Am)",17170,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Josh Whitehouse",17433,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Cory Crawford(Am)",17785,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Alex Edge",17884,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Luke Toomey(am)",17889,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"James Betts",17909,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Brad Moules",17917,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Tom Power Horan",18096,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Jack Sullivan",18098,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Ben Hollis",18167,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Victor Janin",18966,6,0,108.5,0,0,0,"FRA",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Tae Koh",19267,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Samuel Phillips",19269,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Craig Hamilton",19374,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Steven Han",19435,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Shaun Jones",19437,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Brad Hayward",19443,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Sam Daley",20551,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Joshua Ingram",21115,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Lachlan McDonald",21248,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Jack Williams",21250,6,0,108.5,0,0,0,"AUS",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Hamish Campbell",21351,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Wesley Jeon",21352,6,0,108.5,0,0,0,"NZL",NA,NA
+6132,"BMW ISPS HANDA New Zealand Open ","2016-03-13","PGA Tour Australasia",NA,NA,"Dane McArdle",21353,6,0,108.5,0,0,0,"AUS",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",622,941,"Jose-Filipe Lima",7868,1.13006197905052,2.81363740236975,1,0.24042,0.7057,0.94141,"POR",66,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",845,1731,"Sebastian Heisele",16499,1.53797780152859,2.8343981667899,2,0.15802,0.59774,0.899,"GER",66,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1118,895,"Maximilian Roehrig",17559,2.03300118681276,2.84106256956681,3,0.08672,0.45316,0.82127,"GER",28,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1132,1639,"Manuel Trappel",14681,2.05223169686452,2.76379836826954,4,0.08166,0.44851,0.82608,"AUT",34,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1198,1081,"Julian Kunzenbacher",18842,2.16234245142777,2.80523969572758,5,0.07496,0.41954,0.80234,"GER",35,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1257,1731,"Alexandre Kaleka",11358,2.27230162678942,2.91887436721517,6,0.06945,0.39,0.77081,"FRA",31,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1276,1368,"Sean Einhaus",10223,2.31004501750488,2.90214360621931,7,0.0655,0.381,0.76491,"GER",54,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1384,1293,"Damian Ulrich",10520,2.49128158806044,2.9220322879942,8,0.05187,0.33132,0.72107,"SUI",52,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1394,786,"Christopher Mivis",11198,2.51023074229195,2.89904311611894,9,0.04986,0.32477,0.71681,"BEL",42,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1586,1056,"Reinier Saxton",11564,2.90038757354915,3.27149574841699,10,0.04378,0.26353,0.60631,"NED",2,"None"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1507,889,"Robin Kind",14986,2.72741451374092,2.92708267503625,11,0.0393,0.27634,0.66495,"NED",4,"None"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1694,1731,"Stanislav Matus",14086,3.12153715280781,2.87460813467507,12,0.02104,0.1908,0.55833,"CZE",16,"None"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",1854,1063,"Max Kramer",9220,3.48905075737656,2.93274843819634,13,0.0126,0.13444,0.45474,"GER",28,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",2030,1731,"Kenny Subregis",18935,4.19135144904741,2.98267163569524,14,0.00388,0.06049,0.2779,"FRA",34,"European Challenge Tour"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",2147,1731,"Marek Novy",13391,5.20132698538019,2.97640607132202,15,0.00057,0.01381,0.10303,"CZE",12,"None"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",2165,1731,"Nicolas Meitinger",9214,5.5486970014874,3.05598817865217,16,0.00037,0.00885,0.07104,"GER",16,"None"
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Younes El Hassani",7297,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Amine Joudar",7298,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Stephan Gross-Jr",9232,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Faycal Serghini",9304,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Rachid El Kherraz",9737,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Leo Astl",10539,6,0,65.5,0,0,0,"AUT",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Johannes Steiner",11503,6,0,65.5,0,0,0,"AUT",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Jonas Kolbing(Am)",12360,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Nicolas Thommen",12374,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"David Antonelli",12405,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Benjamin Weilguni",12436,6,0,65.5,0,0,0,"AUT",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mikhail Morozov",12449,6,0,65.5,0,0,0,"RUS",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Michael Kraaij",12501,6,0,65.5,0,0,0,"NED",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Fabian Becker",12506,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Dylan Boshart",12648,6,0,65.5,0,0,0,"NED",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Romain Bechu",12658,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Bernhard Reiter",13090,6,0,65.5,0,0,0,"AUT",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Phillip Mclean",13238,6,0,65.5,0,0,0,"SCO",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Benjamin Rusch",13281,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Rene Gruber",13298,6,0,65.5,0,0,0,"AUT",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mortiz Mayrhauser",13299,6,0,65.5,0,0,0,"AUT",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Daniel Wuensche",13362,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mathieu Decottignies Lafon",13998,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Ross Cameron",14093,6,0,65.5,0,0,0,"SCO",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Ahmed Reda Rhazali",14458,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Bernard Neumayer",14678,6,0,65.5,0,0,0,"AUT",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Johann Lopez Lazzaro",14684,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mehdi Saissi",14718,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Edouard Amacher",14808,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Filip Mruzek",14883,6,0,65.5,0,0,0,"CZE",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Olivier Rozner",15511,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Antoine Schwartz",15512,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Luca Galliano",15566,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Joel Girrbach",15592,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Andrea Gurini(Am)",15723,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Ahmed Marjane",15970,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mustapha El Maouas(Am)",16069,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Anton Kirstein",16269,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Christian Kaiser",16315,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Maximilian Walz(Am)",16486,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Robbie Van West",16498,6,0,65.5,0,0,0,"NED",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Reeve Whitson",17314,6,0,65.5,0,0,0,"NIR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Sebastian Kannler",17614,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Alexander Culverwell",17791,6,0,65.5,0,0,0,"SCO",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mathieu Fenasse",17831,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Charles Tortuyaux",17840,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Alexis Anghert",18520,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Clement Batut",18626,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Dominik Pietzsch",18709,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Max Laier",18843,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Karim El Hali(am)",19311,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Rory McNamara",19608,6,0,65.5,0,0,0,"IRL",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Benedict Staben",19808,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Raffaele Benatti",19810,6,0,65.5,0,0,0,"ITA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Jan  Cafourek",19851,6,0,65.5,0,0,0,"CZE",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Sam Kiloh",20004,6,0,65.5,0,0,0,"SCO",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Patrick Kopp",20152,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Patrick Actis Alesina",20264,6,0,65.5,0,0,0,"ITA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Edward Barry-Walsh",20268,6,0,65.5,0,0,0,"ENG",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Maarten Bosch",20269,6,0,65.5,0,0,0,"NED",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Valentino Campion",20272,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Stanislas Heck",20277,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"David Heinzinger",20278,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Alain Jeanrenaud",20280,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Ryan Lloyd",20286,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Marcel Ohorn",20290,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Chris Robb",20297,6,0,65.5,0,0,0,"SCO",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Francesco Rocca",20298,6,0,65.5,0,0,0,"ITA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Sascha Schmidt",20300,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Arnaud Seguin",20302,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Kevin Turlan",20309,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Oliver Weigt",20313,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"James Wilson",20314,6,0,65.5,0,0,0,"ENG",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Davide Albertini",20355,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Hendrik Beins",20357,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Florian Danitz",20361,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Giesbert Gommers",20363,6,0,65.5,0,0,0,"NED",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Henri-Edmond Jouan",20368,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Florian Kolberg",20372,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Bernhard Neumann",20378,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Evanildo Silva dos Santos",20382,6,0,65.5,0,0,0,"NED",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Thordur Gissurarson",20498,6,0,65.5,0,0,0,"ISL",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Vladimir Osipov",20579,6,0,65.5,0,0,0,"RUS",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Richard Bridges",20629,6,0,65.5,0,0,0,"IRL",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Richard O'Donovan",20690,6,0,65.5,0,0,0,"IRL",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Zeno Felder",21211,6,0,65.5,0,0,0,"SUI",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Stanislas Gautier",21212,6,0,65.5,0,0,0,"FRA",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Axel Geers",21213,6,0,65.5,0,0,0,"NED",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Michael Heffner",21214,6,0,65.5,0,0,0,"GER",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Jamal Allali(Am)",21259,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Omar Arzraf(Am)",21260,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Karim Balouti(Am)",21261,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mohamed Belaroussia",21262,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Abdelali Channane(Am)",21264,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Mohamed El Khallali(Am)",21266,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Amine El Malki(Am)",21267,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Badr Satori",21271,6,0,65.5,0,0,0,"MAR",NA,NA
+6134,"The 2016 Tony Jacklin Open","2016-03-13","ProGolf Tour",NA,NA,"Yassine Touhami(Am)",21273,6,0,65.5,0,0,0,"MAR",NA,NA
