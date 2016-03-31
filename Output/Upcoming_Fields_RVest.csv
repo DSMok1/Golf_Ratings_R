@@ -1,1 +1,288 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Jordan Spieth",14636,"USA","2","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Rickie Fowler",12965,"USA","5","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Henrik Stenson",5994,"SWE","7","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Dustin Johnson",12422,"USA","9","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Patrick Reed",14838,"USA","10","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Louis Oosthuizen",7672,"RSA","11","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Sergio Garcia",5689,"ESP","15","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Brooks Koepka",16243,"USA","18","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Phil Mickelson",1547,"USA","20","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Charl Schwartzel",7398,"RSA","21","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"J.B. Holmes",7959,"USA","23","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jimmy Walker",7293,"USA","24","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Shane Lowry",13900,"IRL","32","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Rafael Cabrera Bello",7457,"ESP","36","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Bernd Wiesberger",9531,"AUT","40","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Thongchai Jaidee",5973,"THA","41","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Scott Piercy",7899,"USA","48","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Anirban Lahiri",12669,"IND","50","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jamie Donaldson",7084,"WAL","55","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Patton Kizzire",13470,"USA","57","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Charley Hoffman",5768,"USA","58","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Daniel Berger",17606,"USA","59","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Matt Jones",8605,"AUS","64","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Lee Westwood",4052,"ENG","66","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Kevin Chappell",13305,"USA","69","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Harris English",14577,"USA","70","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Gary Woodland",12577,"USA","71","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Tony Finau",11676,"USA","72","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Ryan Palmer",7820,"USA","73","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Brendan Steele",11019,"USA","77","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Steven Bowditch",7053,"AUS","84","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Cameron Tringale",14013,"USA","88","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Russell Henley",14578,"USA","89","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Ben Martin",14007,"USA","91","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Vaughn Taylor",6930,"USA","93","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Freddie Jacobson",3846,"SWE","95","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"K.J. Choi",1804,"KOR","97","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Keegan Bradley",13872,"USA","98","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Hunter Mahan",7636,"USA","99","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"John Senden",5207,"AUS","100","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Chez Reavie",7961,"USA","101","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Charles Howell III",6892,"USA","102","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jason Kokrak",12337,"USA","103","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Hiroshi Iwata",9099,"JPN","104","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Cameron Smith",15856,"AUS","105","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Brian Harman",8825,"USA","112","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Kevin Streelman",8480,"USA","117","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"William McGirt",12477,"USA","118","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jamie Lovemark",11382,"USA","119","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"James Hahn",11374,"USA","121","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Patrick Rodgers",16283,"USA","124","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jonas Blixt",8182,"SWE","125","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Sean O'Hair",7626,"USA","126","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Padraig Harrington",5716,"IRL","128","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Graham Delaet",10252,"CAN","133","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Will Wilcox",14696,"USA","134","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Scott Brown",11330,"USA","135","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Alex Cejka",4425,"GER","139","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Zac Blair",17639,"USA","141","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"David Hearn",7340,"CAN","148","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Boo Weekley",7403,"USA","149","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Morgan Hoffmann",14082,"USA","153","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Greg Owen",5723,"ENG","154","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Davis Love III",3464,"USA","159","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Peter Malnati",14926,"USA","164","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Siwoo Kim",14609,"KOR","167","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Chris Stroud",9604,"USA","168","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Matt Every",10185,"USA","171","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jason Gore",6321,"USA","172","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Retief Goosen",4884,"RSA","177","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Kyle Reifers",11329,"USA","181","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"John Huh",14606,"USA","183","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Adam Hadwin",13965,"CAN","185","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Andrew Loupe",15318,"USA","187","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Martin Laird",9586,"SCO","189","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Geoff Ogilvy",5698,"AUS","190","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jim Herman",12846,"USA","191","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Brendon de Jonge",8767,"ZIM","192","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Chad Campbell",6248,"USA","200","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Bryce Molder",7292,"USA","202","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Steve Stricker",4818,"USA","203","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Camilo Villegas",9171,"COL","205","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Colt Knost",12149,"USA","206","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Vijay Singh",653,"FIJ","208","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"David Toms",4340,"USA","209","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Stewart Cink",5665,"USA","213","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Derek Fathauer",12689,"USA","218","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Ernie Els",874,"RSA","219","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Seungyul Noh",11117,"KOR","223","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Blayne Barber",15608,"USA","225","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Johnson Wagner",7927,"USA","229","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jon Curran",14699,"USA","230","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Carl Pettersson",7048,"SWE","233","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Hudson Swafford",14706,"USA","234","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Shawn Stefani",14012,"USA","236","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Steve Marino",7741,"USA","237","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Scott Pinckney",15477,"USA","240","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"J.J. Henry",6222,"USA","243","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Dawie van der Walt",9883,"RSA","244","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Brett Stegmaier",11354,"USA","249","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Chesson Hadley",14967,"USA","263","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Harold Varner III",16602,"USA","264","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Spencer Levin",8199,"USA","268","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Rodolfo Cazaubon Jnr",18185,"MEX","269","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Bronson Burgoon",11082,"USA","277","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Lucas Glover",7399,"USA","278","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Aaron Baddeley",6252,"AUS","280","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Nick Taylor",13126,"CAN","281","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Roberto Castro",12643,"USA","283","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jhonattan Vegas",13508,"VEN","284","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Scott Stallings",12359,"USA","290","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Tyrone van Aswegen",9913,"RSA","295","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Erik Compton",6556,"USA","296","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Andres Romero",7751,"ARG","300","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Kyle Stanley",12069,"USA","308","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Ricky Barnes",6846,"USA","309","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Carlos Ortiz",14735,"MEX","314","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Angel Cabrera",5717,"ARG","315","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Rhein Gibson",13342,"AUS","329","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Luke Guthrie",15610,"USA","340","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Jeff Overton",10498,"USA","342","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Steve Wheatcroft",10292,"USA","360","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Ben Crane",6674,"USA","377","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Will Mackenzie",7470,"USA","379","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Michael Kim",17543,"USA","383","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Scott Langley",14700,"USA","395","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Meenwhee Kim",11702,"KOR","410","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Stuart Appleby",5294,"AUS","414","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Mark Hubbard",16333,"USA","432","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Andres Gonzales",11640,"USA","445","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Ken Duke",493,"USA","457","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Charlie Beljan",13118,"USA","461","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Chad Collins",7744,"USA","478","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Rafael Campos",12909,"PUE","492","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Sebastian Vazquez",15487,"MEX","567","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Justin Hicks",9166,"USA","645","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"D.A. Points",6761,"USA","664","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Robert Allenby",4949,"AUS","727","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Mike Weir",5513,"CAN","1040","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Omar Uresti",5183,"USA","1742","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Matt Dobyns",7466,"USA","1742","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Nicholas Cochran",18434,"USA","1742","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Paul McConnell",19753,"USA","1742","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Kramer Hickok",21237,"USA","1742","Shell Houston Open",6147,2016-04-03,"PGA Tour",NA,NA,2016-03-31
+"Kyounghoon Lee",13497,"KOR","181","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Li Haotong",15310,"CHN","222","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"C.T. Pan",15475,"TPE","287","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Josh Geary",9903,"NZL","292","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ryan Armour",8469,"USA","326","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Martin Flores",10535,"USA","365","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Austin Cook",18579,"USA","369","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ollie Schniederjans",18662,"USA","376","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Greg Chalmers",5625,"AUS","378","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Kent Bulle",15715,"USA","384","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Bryden MacPherson",14378,"AUS","385","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Juan Sebastian Munoz",20770,"COL","386","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Tom Gillis",3901,"USA","399","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Wesley Bryan",21236,"USA","401","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Julian Etulain",11911,"ARG","419","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Lucas Lee",13618,"BRA","422","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Steven Alker",4871,"NZL","446","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"J.J Spaun",17536,"USA","454","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Billy Hurley-III",11046,"USA","456","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Cody Gribble",17508,"USA","464","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Brad Fritsch",7207,"CAN","484","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Joel Dahmen",14509,"USA","488","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Michael Putnam",10180,"USA","489","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Alex Prugh",12339,"USA","493","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Steve Allan",5697,"AUS","496","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Taylor Pendrith",17780,"CAN","504","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Curtis Thompson",19395,"USA","506","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Trey Mullinax",18761,"USA","527","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ryan Blaum",9643,"USA","529","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Gonzalo Fdez-Castano",8262,"ESP","533","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Adam Svensson",13997,"CAN","551","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Eugene Wong",14836,"CAN","557","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Miguel Angel Carballo",8570,"ARG","558","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Alexandre Rocha",7441,"BRA","561","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Jason Allred",7804,"USA","577","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Jorge Fernandez-Valdes",16786,"ARG","579","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Kevin Tway",13127,"USA","582","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Richy Werenski",19364,"USA","585","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Travis Bertoni",12563,"USA","600","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Tommy Cocha",12805,"ARG","606","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Zack Fischer",17273,"USA","624","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Charlie Wi",5905,"KOR","629","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Jonathan Randolph",14837,"USA","631","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Mathew Goggin",3756,"AUS","632","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Tag Ridings",6840,"USA","636","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Tommy Gainey",12169,"USA","641","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Daniel Mazziotta",18195,"USA","646","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Gregory Yates",19830,"USA","658","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Adam Long",15473,"USA","663","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Andrew Putnam",14704,"USA","672","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Andrew Svoboda",11274,"USA","675","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ryan Spears",14011,"USA","683","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Matt Atkins",19360,"USA","684","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ryan Brehm",10423,"USA","685","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Andy Winings",14807,"USA","689","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Aaron Watkins",9932,"USA","691","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Jason Millard",17567,"USA","694","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Rick Cochran III",16305,"USA","696","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Tyler Duncan",18187,"USA","710","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Oscar Fraustro",9834,"MEX","713","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Chase Wright",16807,"USA","722","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Craig Barlow",6138,"USA","723","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Adam Schenk",19477,"USA","725","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Todd Baek",12745,"KOR","726","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ryan Yip",12083,"CAN","727","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Sebastian Cappelen",14776,"DEN","730","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Max Homa",17538,"USA","737","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Zack Sucher",14036,"USA","738","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Mark Silvers",14705,"USA","741","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Sam Ryder",16715,"USA","748","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Roland Thatcher",7445,"USA","749","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Brad Elder",6204,"USA","750","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Matt Fast",14561,"USA","753","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Erik Barnes",14799,"USA","755","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Albin Choi",15606,"CAN","757","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Scott Harrington",8479,"USA","764","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Andrew Yun",15614,"USA","768","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Greg Eason",17719,"ENG","785","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Seamus Power",10104,"IRL","790","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Matt Davidson",9872,"USA","798","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Steven Fox",17059,"USA","801","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Jin Park",7362,"KOR","838","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"John Mallinger",9027,"USA","839","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Michael Hebert",18251,"USA","854","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Dominic Bozzelli",17564,"USA","859","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Oliver Goss",16813,"AUS","868","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Jimmy Gunn",18163,"SCO","875","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Chris Baker",13971,"USA","881","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Brian Campbell(am)",18628,"USA","887","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Mark Anderson",12131,"USA","894","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Bryan Bigley",15329,"USA","896","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Rafael Becker",17275,"BRA","897","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Brett Drewitt",15162,"AUS","900","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Roberto Diaz",15394,"MEX","900","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Drew Weaver",12416,"USA","907","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Roger Sloan",14050,"CAN","911","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Stephan Jaeger",16394,"GER","923","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Blake Adams",12088,"USA","947","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Michael Arnaud",13815,"USA","950","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Brandon Hagy",18695,"USA","964","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ian Davis",18589,"USA","986","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Daniel Stapff",16594,"BRA","1003","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Benjamin Silverman",17381,"USA","1007","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Brady Schnell",12414,"USA","1021","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Brian Richey",16138,"USA","1033","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"John Rollins",6300,"USA","1072","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Mackenzie Hughes",15556,"CAN","1084","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Bronson La'Cassie",11821,"AUS","1088","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Adam Crawford",6117,"AUS","1135","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Denny McCarthy",19870,"USA","1139","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"B.J. Staten",7642,"USA","1165","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Matt Harmon",12385,"USA","1178","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ariel Canete",5926,"ARG","1204","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Chris Wilson",7432,"USA","1255","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Josh Teater",8085,"USA","1292","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Vince India",15793,"USA","1342","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"T.J. Vogel",17280,"USA","1417","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Edward Loar",6938,"USA","1480","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Joe Affrunti",9194,"USA","1525","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Benjamin Alvarado",12547,"CHI","1550","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Richard S. Johnson",1805,"SWE","1576","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Russell Surber",9200,"USA","1606","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Chas Narramore",15718,"USA","1716","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Len Mattiace",3982,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Rafael Barcellos",7212,"BRA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Marc Turnesa",7627,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Justin Peters",8663,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Adam Mitchell",13522,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Joseph Bramlett",14698,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Ronaldo Francisco",15251,"BRA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Anthony Broussard",15332,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Jesse Speirs",15709,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Kevin Foley",15812,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Kyle Scott",15861,"RSA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Bhavik Patel",16107,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Felipe Navarro",16587,"BRA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Rodrigo Lee",17237,"BRA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Chris Naegel",17345,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Andre Tourinho",17970,"BRA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Doug Letson",19746,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Blake Olson",19758,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Xander Schauffele",19895,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
+"Anders Albertson",21235,"USA","1742","Brasil Champions presented by Embrase",6148,2016-04-03,"Web.com Tour",NA,NA,2016-03-31
