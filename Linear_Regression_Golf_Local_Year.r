@@ -30,15 +30,15 @@ Step_Weights <-
 
 
 Min_Player_Rounds <-
-  50                      # The sufficient number of rounds by a player to include that player
+  50                     # The sufficient number of rounds by a player to include that player (50)
 Min_Player_Rounds_Last_Yr <-
-  25                      # The sufficient number of rounds by a player to include that player
+  25                      # The sufficient number of rounds by a player to include that player (25)
 
 Minimum_Player_In_Round <-
-  17                      # The minimum number of players present in a round to include it
+  17                      # The minimum number of players present in a round to include it (17)
 
 Save_Location <-
-  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06.csv"
+  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06_Masters.csv"
 
 Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-03-30.csv"
 
@@ -346,17 +346,36 @@ BigLM_Golf_Regression <- function (Golf_Data) {
   Chunk_Last <-
     Golf_Data[End_of_Chunks + 1:length_Target,]        #Get the last, odd chunk
   
+  Begin_Time <- Sys.time()
+  cat("Regression started at ",format(Begin_Time, "%b %d %H:%M:%S"),"\n")
+  
   fit_Target <-
     biglm(Score ~ Player_ID + Round_ID, data = Chunk_1, weights = ~ Weight)
-  Sys.time()
+  
+  Current_Time <- Sys.time()
+  
   for (i in seq(chunksize,End_of_Chunks,chunksize)) {
+    # Update regression
     fit_Target = update(fit_Target, moredata = Golf_Data[(i + 1):(i + chunksize),])
     
-    cat(i,"of",length_Target," - (",round(i/length_Target*100,2),")%\n")
+    # Block tracking progress and predicting finish time
+    Percent_Done <- round((i + chunksize)/length_Target*100,2)/100  
+    Prev_Time <- Current_Time
+    Current_Time <- Sys.time()
+    Total_Time <- (Current_Time - Prev_Time)*(length_target/chunksize)
+    Finish_Time <- Begin_Time + Total_Time
+    
+    # Text output of progress
+    cat(i + chunksize,"of", length_Target, "- (", Percent_Done*100,
+        ")%, Time is",
+        format(Current_Time, "%b %d %H:%M:%S"),
+        " Estimated finish at",
+        format(Finish_Time, "%b %d %H:%M:%S"),"\n")
   }
-  Sys.time()
+
   fit_Target = update(fit_Target, moredata = Chunk_Last)
-  Sys.time()
+  
+  cat("Regression ended at ",format(Sys.time(), "%b %d %H:%M:%S"),"\n")
   
   # ### Store Levels of Factors
   # Factor_Round_ID <- levels(factor(Golf_Data$Round_ID))
@@ -372,9 +391,9 @@ BigLM_Golf_Regression <- function (Golf_Data) {
 
 
 ### Call Regression and Clean Up Results ####
-Sys.time()
+
 BigLM_Fit_Results <- BigLM_Golf_Regression (Target_Subset)
-Sys.time()
+
 
 library(broom)
 Target_Results <- tidy(BigLM_Fit_Results)

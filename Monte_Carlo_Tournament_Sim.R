@@ -10,11 +10,12 @@
 
 
 
-Tournament <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Upcoming_Fields_RVest.csv")
+#Tournament <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Upcoming_Fields_RVest.csv")
+Tournament <- read.csv("~/ETC/Sports/Golf/2016mastersfield.csv")
 
-Ratings <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-03-09.csv")
+Ratings <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06_Masters.csv")
 
-Trials <- 100000
+Trials <- 500000
 
 
 
@@ -25,8 +26,12 @@ Trials <- 100000
 Tournament_Projection <- merge(Tournament,Ratings[,c("Player_ID","Rank","OWGR_Rank","Projected_Rating","Projected_Stdev","Recent_Tour","Rounds_Last_Year")],by = c("Player_ID"),all.x = TRUE)
 
 
-Tournament_Projection$Projected_Rating[is.na(Tournament_Projection$Projected_Rating)] <- 6.0
-Tournament_Projection$Projected_Stdev[is.na(Tournament_Projection$Projected_Stdev)] <- 0.0
+Tournament_Projection$Projected_Rating[Tournament_Projection$Player_Name=="Mark O'Meara"] <- 2.0
+Tournament_Projection$Projected_Stdev[Tournament_Projection$Player_Name=="Mark O'Meara"] <- 3.0
+
+
+Tournament_Projection$Projected_Rating[is.na(Tournament_Projection$Projected_Rating)] <- 3.0
+Tournament_Projection$Projected_Stdev[is.na(Tournament_Projection$Projected_Stdev)] <- 3.0
 
 str(Tournament_Projection)
 
@@ -118,5 +123,5 @@ Tournament_Projection_Out <-
   Tournament_Projection_Out[order(Tournament_Projection_Out$Event_ID, decreasing = FALSE),]
 
 
-write.csv(Tournament_Projection_Out, file = "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Event_Simulation.csv", row.names = FALSE)
+write.csv(Tournament_Projection_Out, file = "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Simulation.csv", row.names = FALSE)
 
