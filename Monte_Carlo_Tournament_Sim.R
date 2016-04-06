@@ -15,7 +15,7 @@ Tournament <- read.csv("~/ETC/Sports/Golf/2016mastersfield.csv")
 
 Ratings <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06_Masters.csv")
 
-Trials <- 500000
+Trials <- 100000
 
 
 
@@ -32,6 +32,8 @@ Tournament_Projection$Projected_Stdev[Tournament_Projection$Player_Name=="Mark O
 
 Tournament_Projection$Projected_Rating[is.na(Tournament_Projection$Projected_Rating)] <- 3.0
 Tournament_Projection$Projected_Stdev[is.na(Tournament_Projection$Projected_Stdev)] <- 3.0
+
+Tournament_Projection$Projected_Stdev <- Tournament_Projection$Projected_Stdev - 0.6
 
 str(Tournament_Projection)
 
@@ -123,5 +125,5 @@ Tournament_Projection_Out <-
   Tournament_Projection_Out[order(Tournament_Projection_Out$Event_ID, decreasing = FALSE),]
 
 
-write.csv(Tournament_Projection_Out, file = "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Simulation.csv", row.names = FALSE)
+write.csv(Tournament_Projection_Out, file = "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Simulation_Trial.csv", row.names = FALSE)
 
