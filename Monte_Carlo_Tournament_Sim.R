@@ -22,7 +22,11 @@ Ratings <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Y
 Partial_Results <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Round_1.csv")
 
 
+<<<<<<< HEAD
 Trials <- 10000
+=======
+Trials <- 1000
+>>>>>>> ca031320975da43d8096ff427e545f1479b81a7b
 
 
 
@@ -49,8 +53,13 @@ str(Tournament_Projection)
 
 # Update Player Ratings - give current tournament more weight
 
+<<<<<<< HEAD
 Current_Tourney_Wt <- 2
 Weight_Add <- 12   # Add weight to current ratings (for priors)
+=======
+Current_Tourney_Wt <- 3
+Weight_Add <- 10   # Add weight to current ratings (for priors)
+>>>>>>> ca031320975da43d8096ff427e545f1479b81a7b
 
 Tournament_Projection <- merge(Tournament_Projection,Partial_Results) %>%
   mutate(Projected_Rating_Start = Projected_Rating,
