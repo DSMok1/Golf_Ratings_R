@@ -601,6 +601,7 @@ Target_Results_Players <-
                             "Previous_Rating",
                             "Change",
                             "Weight_Sum",
+                            "Total_Weight",
                             "Rounds_Player",
                             "Avg_SoS",
                             "Center_Wt",
