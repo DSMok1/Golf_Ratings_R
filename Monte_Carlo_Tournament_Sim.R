@@ -39,7 +39,7 @@ Tournament_Projection$Projected_Stdev[Tournament_Projection$Player_Name=="Mark O
 Tournament_Projection$Projected_Rating[is.na(Tournament_Projection$Projected_Rating)] <- 3.0
 Tournament_Projection$Projected_Stdev[is.na(Tournament_Projection$Projected_Stdev)] <- 3.0
 
-Tournament_Projection$Projected_Stdev <- Tournament_Projection$Projected_Stdev - 0.6
+Tournament_Projection$Projected_Stdev <- Tournament_Projection$Projected_Stdev - 0
 
 str(Tournament_Projection)
 
@@ -48,7 +48,7 @@ str(Tournament_Projection)
 
 # Update Player Ratings - give current tournament more weight
 
-Current_Tourney_Wt <- 2
+Current_Tourney_Wt <- 0
 Weight_Add <- 12   # Add weight to current ratings (for priors)
 
 Tournament_Projection <- merge(Tournament_Projection,Partial_Results) %>%
@@ -148,5 +148,5 @@ Tournament_Projection_Out <-
   Tournament_Projection_Out[order(Tournament_Projection_Out$Event_ID, decreasing = FALSE),]
 
 
-write.csv(Tournament_Projection_Out, file = "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Simulation_Trial_Round_1.csv", row.names = FALSE)
+write.csv(Tournament_Projection_Out, file = "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Simulation_Trial_Round_1A.csv", row.names = FALSE)
 

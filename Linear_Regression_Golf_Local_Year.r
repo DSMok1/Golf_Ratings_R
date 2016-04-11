@@ -38,9 +38,9 @@ Minimum_Player_In_Round <-
   17                      # The minimum number of players present in a round to include it (17)
 
 Save_Location <-
-  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06_Masters.csv"
+  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-13_After_Masters.csv"
 
-Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-03-30.csv"
+Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06.csv"
 
 ### Import from CSV File ######
 
@@ -362,7 +362,7 @@ BigLM_Golf_Regression <- function (Golf_Data) {
     Percent_Done <- round((i + chunksize)/length_Target*100,2)/100  
     Prev_Time <- Current_Time
     Current_Time <- Sys.time()
-    Total_Time <- (Current_Time - Prev_Time)*(length_target/chunksize)
+    Total_Time <- (Current_Time - Prev_Time)*(length_Target/chunksize)
     Finish_Time <- Begin_Time + Total_Time
     
     # Text output of progress
