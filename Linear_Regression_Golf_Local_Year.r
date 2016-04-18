@@ -38,9 +38,9 @@ Minimum_Player_In_Round <-
   17                      # The minimum number of players present in a round to include it (17)
 
 Save_Location <-
-  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-13_After_Masters.csv"
+  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-20.csv"
 
-Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06.csv"
+Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-13_After_Masters.csv"
 
 ### Import from CSV File ######
 
