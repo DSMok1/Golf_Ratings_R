@@ -32,15 +32,15 @@ Step_Weights <-
 Min_Player_Rounds <-
   50                     # The sufficient number of rounds by a player to include that player (50)
 Min_Player_Rounds_Last_Yr <-
-  25                      # The sufficient number of rounds by a player to include that player (25)
+  20                      # The sufficient number of rounds by a player to include that player (25)
 
 Minimum_Player_In_Round <-
   17                      # The minimum number of players present in a round to include it (17)
 
 Save_Location <-
-  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-27.csv"
+  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_2016-04-27.csv"
 
-Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-20.csv"
+Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_2016-04-20.csv"
 
 ### Import from CSV File ######
 
@@ -353,21 +353,21 @@ BigLM_Golf_Regression <- function (Golf_Data) {
     biglm(Score ~ Player_ID + Round_ID, data = Chunk_1, weights = ~ Weight)
   
   Current_Time <- Sys.time()
-  Second_Time <- Sys.time()
+  Begin_Time <- Sys.time()
   
   for (i in seq(chunksize,End_of_Chunks,chunksize)) {
     # Update regression
     fit_Target = update(fit_Target, moredata = Golf_Data[(i + 1):(i + chunksize),])
     
     # Block tracking progress and predicting finish time
-    Percent_Done <- round((i + chunksize)/length_Target*100,2)/100  
+    Percent_Done <- round((i)/length_Target*100,2)/100  
     Prev_Time <- Current_Time
     Current_Time <- Sys.time()
     Current_Interval <- (Current_Time - Prev_Time)
-    Average_Interval <- (Current_Time - Begin_Time)*chunksize/(i + chunksize)
+    Average_Interval <- (Current_Time - Begin_Time)*chunksize/(i)
     Interval_Slope <- (Current_Interval - Average_Interval)/(Percent_Done/2)
     Future_Avg_Interval <- Average_Interval + (1-Percent_Done/2)*Interval_Slope
-    Finish_Time <- Current_Time + Future_Avg_Interval*(length_Target-(i+chunksize))/chunksize
+    Finish_Time <- Current_Time + Future_Avg_Interval*(length_Target-(i))/chunksize
     
     # Text output of progress
     cat(i + chunksize,"of", length_Target, "- (", Percent_Done*100,
@@ -581,7 +581,7 @@ Target_Results_Players$Rank_Change <- Target_Results_Players$Rank - Target_Resul
 
 ###  Import OWGR Ratings
 
-# Target_Results_Players <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-02-17.csv")
+# Target_Results_Players <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_2016-02-17.csv")
 
 OWGR_Players <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_OWGR_Ranking_RVest.csv")
 
