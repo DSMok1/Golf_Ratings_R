@@ -629,6 +629,14 @@ Target_Results_Players <-
 
 write.csv(Target_Results_Players, file = Save_Location, row.names = FALSE)
 
+
+
+if (Split_Type==Sys.Date()) {
+  Save_Location_Current <-
+    "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_Current.csv"
+  write.csv(Target_Results_Players, file = Save_Location_Current, row.names = FALSE)
+}
+
 # write.csv(Target_Subset, file = "~/ETC/Sports/Golf/Target_Subset_Before_2010_0.98.csv" , row.names = FALSE)
 
 
