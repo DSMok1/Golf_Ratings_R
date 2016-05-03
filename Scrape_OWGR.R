@@ -223,10 +223,10 @@ Import_Tourney_Results <- function(ID)  {
 
 # Previous Scrape Output:
 Player_Results_Raw <- 
-  read.csv(gzfile("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_Results_RVest.csv.gz"), stringsAsFactors = FALSE)
-Tournament_Info_Raw <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Tournament_Info_RVest.csv", stringsAsFactors = FALSE)
-Scrape_Status_Raw <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Scrape_Status_RVest.csv", stringsAsFactors = FALSE)
-# Upcoming_Fields <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Upcoming_Fields_RVest.csv")
+  read.csv(gzfile("Data/Player_Results_RVest.csv.gz"), stringsAsFactors = FALSE)
+Tournament_Info_Raw <- read.csv("Data/Tournament_Info_RVest.csv", stringsAsFactors = FALSE)
+Scrape_Status_Raw <- read.csv("Data/Scrape_Status_RVest.csv", stringsAsFactors = FALSE)
+# Upcoming_Fields <- read.csv("Data/Upcoming_Fields_RVest.csv")
 
 
 Player_Results <- Player_Results_Raw[!is.na(Player_Results_Raw$Event_Date),]
@@ -349,23 +349,23 @@ Scrape_Status <- merge(Scrape_Status,Tournament_Info[,c("Event_ID","Event_Name",
 
 write.csv(
   Player_Results,file = gzfile(
-    "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_Results_RVest.csv.gz"
+    "Data/Player_Results_RVest.csv.gz"
   ), row.names = FALSE
 )
 
 write.csv(
   Tournament_Info,file = (
-    "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Tournament_Info_RVest.csv"
+    "Data/Tournament_Info_RVest.csv"
   ), row.names = FALSE
 )
 write.csv(
   Scrape_Status,file = (
-    "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Scrape_Status_RVest.csv"
+    "Data/Scrape_Status_RVest.csv"
   ), row.names = FALSE
 )
 write.csv(
   Upcoming_Fields,file = (
-    "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Upcoming_Fields_RVest.csv"
+    "Data/Upcoming_Fields_RVest.csv"
   ), row.names = FALSE
 )
 
@@ -420,7 +420,7 @@ remove(
 
 write.csv(
   Player_OWGR_Ranking,file = (
-    "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_OWGR_Ranking_RVest.csv"
+    "Data/Player_OWGR_Ranking_RVest.csv"
   ), row.names = FALSE
 )
 
@@ -429,25 +429,25 @@ write.csv(
 OWGR_History <-
   read.csv(
     gzfile(
-      "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_OWGR_History.csv.gz"
+      "Data/Player_OWGR_History.csv.gz"
     ), stringsAsFactors = FALSE
   )
+OWGR_History$OWGR_Rank_Date <- as.Date(OWGR_History$OWGR_Rank_Date)
 
 # Player_OWGR_Ranking <-
-# read.csv(gzfile("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_OWGR_Ranking_RVest.csv"), stringsAsFactors = FALSE)
+# read.csv(gzfile("Data/Player_OWGR_Ranking_RVest.csv"), stringsAsFactors = FALSE)
 
 # OWGR_History <- rename(OWGR_History,
 #                       OWGR_Rank = rank,
 #                       OWGR_Rank_Date = week)
 
-if (max(as.Date(OWGR_History$OWGR_Rank_Date[!is.na(OWGR_History$OWGR_Rank_Date)],)) < max(as.Date(Player_OWGR_Ranking$OWGR_Rank_Date))) {
-  
+if (max(OWGR_History$OWGR_Rank_Date[!is.na(OWGR_History$OWGR_Rank_Date)])< max(Player_OWGR_Ranking$OWGR_Rank_Date)) {
   OWGR_Hist_Combined <-
     merge(OWGR_History,Player_OWGR_Ranking,all = TRUE)
   
-  write.csv(
-    OWGR_Hist_Combined,file = gzfile(
-      "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_OWGR_History.csv.gz"
-    ), row.names = FALSE
-  )
+    write.csv(
+      OWGR_Hist_Combined,file = gzfile(
+        "Data/Player_OWGR_History.csv.gz"
+      ), row.names = FALSE
+    )
 }

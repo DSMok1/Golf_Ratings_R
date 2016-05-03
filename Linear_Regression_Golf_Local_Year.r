@@ -38,23 +38,23 @@ Minimum_Player_In_Round <-
   17                      # The minimum number of players present in a round to include it (17)
 
 Save_Location <-
-  "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_2016-04-27.csv"
+  "Output/Archive/Golf_Ratings_2016-05-04.csv"
 
-Previous_Ratings <-   "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_2016-04-20.csv"
+Previous_Ratings <-   "Output/Archive/Golf_Ratings_2016-04-27.csv"
 
 ### Import from CSV File ######
 
 
 
-# Results_Source_old <- read.csv(gzfile("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Tournament_Results_Since_2007_Results_for_LM.csv.gz"))
-Results_Source <- read.csv(gzfile("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_Results_RVest.csv.gz"))
+# Results_Source_old <- read.csv(gzfile("Data/Tournament_Results_Since_2007_Results_for_LM.csv.gz"))
+Results_Source <- read.csv(gzfile("Data/Player_Results_RVest.csv.gz"))
 
 Results_Source$Round_ID <-
   paste(Results_Source$Event_ID,Results_Source$Round_Num,sep = "_")
 Results_Source$Tour_Name <- Results_Source$Event_Tour_1
 
 #Results_Source <-
-#  fread("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Tournament_Results_Since_2007_Results_for_LM.csv.gz")
+#  fread("Data/Tournament_Results_Since_2007_Results_for_LM.csv.gz")
 #Results_Source <- as.data.frame(Results_Source)
 
 Results_Source$Event_Date <- as.Date(Results_Source$Event_Date)
@@ -278,26 +278,28 @@ remove(Player_ID_Group)
 
 # Find out most recent info
 
-# Number of Rounds
-Player_Info_2 <-   subset(Player_Info, (Event_Date >= as.Date(Split_Date - 365)&
-                                          Event_Date <= as.Date(Split_Date + 365)))
-
-# Player_ID_Group <- group_by(Player_Info_2,Player_ID)
-# Rounds_Last_Year <- summarise(Player_ID_Group,
-#                               Rounds_Last_Year = length(Weight))
-# Player_Info <- merge(Player_Info,Rounds_Last_Year, by = c("Player_ID"), all.x=TRUE)
-
 # Recent Tour
-Player_Info_2 <-   subset(Player_Info_2, Tour_Name != "Major Championship" & Tour_Name != "WGC")
+Player_Info_2 <-   subset(Player_Info, Tour_Name != "Major Championship" & 
+                            Tour_Name != "WGC" & 
+                            Event_Date >= as.Date(Split_Date - 365) &
+                            Event_Date <= as.Date(Split_Date + 365))
+Player_Info_2$Recent_Tour_Wt <- 0.80^Player_Info_2$Week_Delta 
 
-Player_ID_Group <- group_by(Player_Info_2,Player_ID)
+
+Player_ID_Group <- group_by(Player_Info_2,Player_Name,Player_ID,Tour_Name)
 Recent_Tour <- summarise(Player_ID_Group,
-                         Recent_Tour = names(which.max(table(Tour_Name))))
+                         Tour_Wt = sum(Recent_Tour_Wt)) %>%
+  filter(Tour_Wt == max(Tour_Wt)) %>% 
+  rename(Recent_Tour=Tour_Name) %>%
+  select(Player_ID,Recent_Tour)
+
+Recent_Tour$Player_Name <- NULL
+
+
 Player_Info <- merge(Player_Info,Recent_Tour, by = c("Player_ID"), all.x=TRUE)
 
 remove(Player_Info_2)
 remove(Recent_Tour)
-# remove(Rounds_Last_Year)
 remove(Player_ID_Group)
 
 
@@ -581,9 +583,8 @@ Target_Results_Players$Rank_Change <- Target_Results_Players$Rank - Target_Resul
 
 ###  Import OWGR Ratings
 
-# Target_Results_Players <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_2016-02-17.csv")
 
-OWGR_Players <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_OWGR_Ranking_RVest.csv")
+OWGR_Players <- read.csv("Data/Player_OWGR_Ranking_RVest.csv")
 
 Target_Results_Players <- merge(Target_Results_Players,OWGR_Players[c("Player_ID","OWGR_Rank","Player_Avg_OWGR_Pts")],all.x = TRUE)
 
@@ -631,130 +632,33 @@ write.csv(Target_Results_Players, file = Save_Location, row.names = FALSE)
 
 
 
-if (Split_Type==Sys.Date()) {
+if (Split_Date==Sys.Date()) {
   Save_Location_Current <-
-    "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Golf_Ratings_Current.csv"
+    "Output/Golf_Ratings_Current.csv"
+  
+  Save_Location_Web_Table <-
+    "Output/Golf_Ratings_Current_Web_Table.csv"
+  
+  Website_Results_Table <-
+    Target_Results_Players[,c("Rank",
+                              "OWGR_Rank",
+                              "Player_Name",
+                              "Projected_Rating",
+                              "Projected_Stdev",
+                              "Prev_Rank",
+                              "Rank_Change",
+                              "Previous_Rating",
+                              "Change",
+                              "Rounds_Last_Year",
+                              "Recent_Tour"
+    )]
+  
   write.csv(Target_Results_Players, file = Save_Location_Current, row.names = FALSE)
+  
+  write.csv(Website_Results_Table, file = Save_Location_Web_Table, row.names = FALSE) 
+  
 }
 
 # write.csv(Target_Subset, file = "~/ETC/Sports/Golf/Target_Subset_Before_2010_0.98.csv" , row.names = FALSE)
 
 
-
-
-
-
-
-
-
-
-
-
-
-# 
-# 
-# library(data.table)
-# Old_Results <-
-#   fread(Save_Location)
-# Old_Results <- as.data.frame(Old_Results)
-# Old_Results <- subset(Old_Results, select = -c(Projected_Rating,Projected_Stdev,Recent_Tour,Rounds_Last_6Mos))
-# Target_Results_Players <- merge(Old_Results,Player_Info[,c("Player_ID","Rounds_Last_Year","Recent_Tour")], by = "Player_ID")
-# 
-# 
-# 
-# 
-# library(dplyr)
-# Tour_Group <- group_by(Target_Results_Players, Common_Tour)
-# Avg_Rating <- summarise(Tour_Group,
-#   Tour_Avg_Rating = mean(estimate), 
-#   Tour_Weights = mean(Weight_Sum),
-#   Count = length(estimate)
-# )
-# Avg_Rating$intercept <-
-#   Avg_Rating$Tour_Avg_Rating + 0.02 * Avg_Rating$Tour_Weights
-# 
-# library(Hmisc)
-# weighted_mean <- wtd.mean(Avg_Rating$intercept,Avg_Rating$Count)
-# weighted_stdev <-
-#   sqrt(wtd.var(Avg_Rating$intercept,Avg_Rating$Count))
-# 
-# Percentile_Rating <- weighted_mean + qnorm(0.97) * weighted_stdev
-# 
-# None_Rating <- c("None",0,0,0,Percentile_Rating)
-# 
-# Avg_Rating <- rbind(Avg_Rating,None_Rating)
-# str(Avg_Rating)
-# Regress_Ratings <- Avg_Rating[,c("Common_Tour","intercept")]
-# Regress_Ratings$intercept <- as.numeric(Regress_Ratings$intercept)
-# names(Regress_Ratings) <- c("Recent_Tour","Regress_Intercept")
-# 
-# Sample <- merge(Target_Results_Players,Regress_Ratings,by="Recent_Tour")
-# Sample$Regress_To <- Sample$Regress_Intercept - 0.02 * Sample$Weight_Sum - 1
-# 
-# 
-# 
-# 
-# Results_Sample <-
-#   merge(Results_Sample,Number_Rounds_Target,by = c("Player_ID"))
-# 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 
-# 
-# 
-# Projection <- function (Data) {
-#   
-#   library(dplyr)
-#   Tour_Group <- group_by(Data, Common_Tour)
-#   Avg_Rating <- summarise(Tour_Group,
-#                           Tour_Avg_Rating = mean(estimate), 
-#                           Tour_Weights = mean(Weight_Sum),
-#                           Count = length(estimate)
-#   )
-#   Avg_Rating$intercept <-
-#     Avg_Rating$Tour_Avg_Rating + 0.02 * Avg_Rating$Tour_Weights
-#   
-#   library(Hmisc)
-#   weighted_mean <- wtd.mean(Avg_Rating$intercept,Avg_Rating$Count)
-#   weighted_stdev <-
-#     sqrt(wtd.var(Avg_Rating$intercept,Avg_Rating$Count))
-#   
-#   Percentile_Rating <- weighted_mean + qnorm(0.97) * weighted_stdev
-#   
-#   None_Rating <- c("None",0,0,0,Percentile_Rating)
-#   
-#   Avg_Rating <- rbind(Avg_Rating,None_Rating)
-#   
-#   Regress_Ratings <- Avg_Rating[,c("Common_Tour","intercept")]
-#   Regress_Ratings$intercept <- as.numeric(Regress_Ratings$intercept)
-#   names(Regress_Ratings) <- c("Recent_Tour","Regress_Intercept") 
-#   
-#   
-#   Data <- merge(Data,Regress_Ratings,by="Recent_Tour")
-#   Data$Regress_To <- Sample$Regress_Intercept - 0.02 * Sample$Weight_Sum - 1
-#   
-#   Regress_Wt <- 8
-#   Projection_intercept <- 0.5
-#   Regress_to_stdev <- 2.8
-#   Regress_wt_stdev <- 110
-#   Data$Projected_Rating <-
-#     (
-#       (Data$estimate * Data$Weight_Sum + Data$Regress_To * Regress_Wt) / (Data$Weight_Sum +
-#                                                                             Regress_Wt)
-#     ) + Projection_intercept
-#   Data$Projected_Stdev <-
-#     (Data$Sample_Stdev * Data$Weight_Sum + Regress_to_stdev * Regress_wt_stdev) / (Data$Weight_Sum +
-#                                                                                      Regress_wt_stdev)
-#   return (Data)
-# }

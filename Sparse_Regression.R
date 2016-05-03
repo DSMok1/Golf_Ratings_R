@@ -15,7 +15,7 @@ library(broom)
 
 
 
-Player_Data <- read.csv(gzfile("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Player_Results_RVest.csv.gz"))
+Player_Data <- read.csv(gzfile("Data/Player_Results_RVest.csv.gz"))
 
 str(Player_Data)
 

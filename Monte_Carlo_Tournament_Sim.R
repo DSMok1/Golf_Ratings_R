@@ -15,11 +15,11 @@ library(magrittr)
 
 
 
-#Tournament <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Upcoming_Fields_RVest.csv")
+#Tournament <- read.csv("Data/Upcoming_Fields_RVest.csv")
 Tournament <- read.csv("~/ETC/Sports/Golf/2016mastersfield.csv")
 
-Ratings <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Current_Ratings_4_Years_0.98_2016-04-06_Masters.csv")
-Partial_Results <- read.csv("~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Round_1.csv")
+Ratings <- read.csv("Output/Current_Ratings_4_Years_0.98_2016-04-06_Masters.csv")
+Partial_Results <- read.csv("Output/Masters_Round_1.csv")
 
 
 Trials <- 10000
@@ -148,5 +148,5 @@ Tournament_Projection_Out <-
   Tournament_Projection_Out[order(Tournament_Projection_Out$Event_ID, decreasing = FALSE),]
 
 
-write.csv(Tournament_Projection_Out, file = "~/ETC/Sports/Golf/Golf_Ratings_R/Output/Masters_Simulation_Trial_Round_1A.csv", row.names = FALSE)
+write.csv(Tournament_Projection_Out, file = "Output/Masters_Simulation_Trial_Round_1A.csv", row.names = FALSE)
 
