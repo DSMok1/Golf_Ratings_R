@@ -23,6 +23,8 @@ Split_Date <- Sys.Date()
 Split_Type <-
   "Before"                 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
 
+Rating_Date <- Split_Date + (4 - wday(Split_Date)) + 
+  ifelse(wday(Split_Date)>4,7,0)
 
 Exponential_Decay_Constant <- 0.98
 Step_Weights <-
@@ -283,7 +285,7 @@ Player_Info_2 <-   subset(Player_Info, Tour_Name != "Major Championship" &
                             Tour_Name != "WGC" & 
                             Event_Date >= as.Date(Split_Date - 365) &
                             Event_Date <= as.Date(Split_Date + 365))
-Player_Info_2$Recent_Tour_Wt <- 0.80^Player_Info_2$Week_Delta 
+Player_Info_2$Recent_Tour_Wt <- 0.90^Player_Info_2$Week_Delta 
 
 
 Player_ID_Group <- group_by(Player_Info_2,Player_Name,Player_ID,Tour_Name)

@@ -1,1 +1,127 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Jaco Van Zyl",7105,"RSA","62","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Soomin Lee",14614,"KOR","68","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Scott Hend",1888,"AUS","80","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jeunghun Wang",15366,"KOR","88","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"George Coetzee",10884,"RSA","89","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Brandon Stone",15229,"RSA","94","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Dean Burmester",14424,"RSA","97","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Miguel Tabuena",15274,"PHI","119","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Li Haotong",15310,"CHN","133","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ryan Fox",11889,"NZL","182","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Haydn Porteous",15866,"RSA","205","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Shaun Norris",7677,"RSA","216","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jason Scrivener",12734,"AUS","228","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Phachara Khongwatmai",18149,"THA","232","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Dylan Frittelli",11955,"RSA","237","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Keith Horne",6165,"RSA","264","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Zander Lombard",16897,"RSA","265","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Nicolas Colsaerts",6893,"BEL","269","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Adilson da Silva",5239,"BRA","275","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Paul Peterson",16341,"USA","300","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Andrew Dodt",8364,"AUS","304","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ross McGowan",11981,"ENG","307","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jean Hugo",6304,"RSA","308","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Masahiro Kawamura",13530,"JPN","316","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jacques Blaauw",13681,"RSA","320","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Chiragh Kumar",10764,"IND","321","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Justin Walters",8045,"RSA","332","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Sam Brazel",8390,"AUS","333","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Rashid Khan",12668,"IND","335","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Vaughn Groenewald",1331,"RSA","338","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Terry Pilkadaris",6334,"AUS","341","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Rahil Gangjee",7038,"IND","348","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Thitiphun Chuayprakong",14129,"THA","350","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jazz Janewattananond",14368,"THA","361","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Mardan Mamat",5685,"SIN","367","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Natipong Srithong",8531,"THA","371","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Nino Bertasio",13013,"ITA","372","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jaco Ahlers",11852,"RSA","382","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Christofer Blomstrand",20167,"SWE","385","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Max Orrin",17903,"ENG","392","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jamie McLeary",9240,"SCO","393","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Danthai Boonma",16424,"THA","396","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Hennie Otto",5942,"RSA","400","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Berry Henson",10316,"USA","401","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Siddikur Rahman",13766,"BAN","406","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Scott Vincent",14559,"ZIM","428","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Shubhankar Sharma",17081,"IND","431","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jbe' Kruger",11978,"RSA","432","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Erik van Rooyen",17550,"RSA","434","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Shiv Kapur",9553,"IND","435","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Richard T Lee",12413,"CAN","442","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Danie van Tonder",15193,"RSA","451","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Estanislao Goya",10877,"ARG","465","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Garth Mulroy",8065,"RSA","472","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Rourke Van der Spuy",18827,"RSA","476","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Lyle Rowe",11956,"RSA","480","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Titch Moore",6312,"RSA","486","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Chris Swanepoel",9810,"RSA","491","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Panuphol Pittayarat",14133,"THA","500","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Brett Munson",14877,"USA","502","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Himmat Rai",11782,"IND","503","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Chris Hanson",12295,"ENG","508","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jyoti Randhawa",5771,"IND","509","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Clement Berardo",14970,"FRA","510","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Kristopher R Mueck",15933,"AUS","525","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Tjaart Van Der Walt",5937,"RSA","528","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Mithun Perera",14261,"SRI","529","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Arjun Atwal",5701,"IND","538","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Carlos Pigem",13885,"ESP","545","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Hung Chien-Yao",11738,"TPE","548","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Christiaan Basson",11953,"RSA","562","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ryan Evans",19030,"ENG","564","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Lee Chieh-po",16563,"TPE","582","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Gaganjeet Bhullar",10766,"IND","588","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"James Robinson",12298,"ENG","591","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Javier Colomo ",12605,"ESP","592","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Rhys West",10989,"RSA","593","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ben Eccles",17163,"AUS","595","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Justin Harding",10886,"RSA","601","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Louis de Jager",12821,"RSA","605","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Mark Foster",5928,"ENG","609","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jason Knutzon",7231,"USA","617","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Khalin Joshi",15156,"IND","639","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Edoardo Molinari",7033,"ITA","650","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Tom Lewis",15164,"ENG","656","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"PH McIntyre",12839,"RSA","661","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ruan de Smidt",15864,"RSA","664","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Lasse Jensen",10170,"DEN","674","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Lionel Weber",15513,"FRA","677","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Oliver Bekker",12819,"RSA","684","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Lu Wei-chih",8170,"TPE","696","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Wallie Coetsee",5936,"RSA","704","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Bryce Easton",15181,"RSA","714","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jeev Milkha Singh",3831,"IND","723","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Francesco Laporta",14987,"ITA","727","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Richard McEvoy",7389,"ENG","728","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Adrian Otaegui",14975,"ESP","733","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ulrich Van Den Berg",6155,"RSA","743","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Michael Hollick",15993,"RSA","758","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"George Murray",10263,"SCO","771","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Unho Park",7145,"AUS","773","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Kalem Richardson",15897,"AUS","779","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Matthew Southgate",15191,"ENG","783","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Dimi Papadatos",15168,"AUS","823","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Stuart Manley",8222,"WAL","840","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Samuel Cyr",15975,"USA","860","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"David Dixon",7311,"ENG","895","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Joshua White",18784,"ENG","1019","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Niccolo Ravano",10071,"ITA","1063","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Soren Hansen",6319,"DEN","1080","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Daniel Chopra",2035,"SWE","1082","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Marcus Kinhult",18514,"SWE","1084","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Daniel Gavins",18241,"ENG","1111","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Toto Thimba",11864,"RSA","1123","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Laurie Canter",14795,"ENG","1170","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Nick Marsh",21306,"ENG","1220","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ryan Tipping",8425,"RSA","1283","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Henry Featherstone",19422,"ENG","1531","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Jack Harrison",18202,"ENG","1566","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Tyrone Ferreira",12823,"RSA","1630","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"James Kingston",2931,"RSA","1774","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"TI Mazibuko",8280,"RSA","1774","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Lukas Nemecz",13089,"AUT","1774","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"James Busby",13316,"ENG","1774","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Petr Dedek",16717,"CZE","1774","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
+"Ludovic Bax(AM)",19615,"MRI","1774","AfrAsia Bank Mauritius Open",6194,2016-05-15,"Sunshine Tour","Asian Tour","European Tour",2016-05-09
