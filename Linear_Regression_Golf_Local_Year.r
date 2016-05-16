@@ -24,7 +24,9 @@ Split_Type <-
   "Before"                 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
 
 Rating_Date <- Split_Date + (4 - wday(Split_Date)) + 
-  ifelse(wday(Split_Date)>4,7,0)
+  ifelse(wday(Split_Date)>4,7,0)      # Coming Wednesday
+
+Prev_Rating_Date <- Rating_Date -7         # Last Wednesday
 
 Exponential_Decay_Constant <- 0.98
 Step_Weights <-
@@ -39,10 +41,9 @@ Min_Player_Rounds_Last_Yr <-
 Minimum_Player_In_Round <-
   17                      # The minimum number of players present in a round to include it (17)
 
-Save_Location <-
-  "Output/Archive/Golf_Ratings_2016-05-11.csv"
+Save_Location <-  paste0("Output/Archive/Golf_Ratings_",Rating_Date,".csv")
 
-Previous_Ratings <-   "Output/Archive/Golf_Ratings_2016-05-04.csv"
+Previous_Ratings <-   paste0("Output/Archive/Golf_Ratings_",Prev_Rating_Date,".csv")
 
 ### Import from CSV File ######
 
