@@ -15,21 +15,21 @@ library(magrittr)
 
 
 
-Tournament <- read.csv("Data/Upcoming_Fields_RVest.csv")
-#Tournament <- read.csv("~/ETC/Sports/Golf/2016mastersfield.csv")
+# Tournament <- read.csv("Data/Upcoming_Fields_RVest.csv")
+Tournament <- read.csv("Data/2016usopenfield.csv")
 
 Ratings <- read.csv("Output/Golf_Ratings_Current.csv")
 # Partial_Results <- read.csv("Output/Current_Event_Simulation.csv")
 
 
-Trials <- 10000
+Trials <- 50000
 
 
 ### Map Data ####
 
 # names(Tournament) <- c("World_Rnk","Country","Player")
 
-Tournament_Projection <- merge(Tournament,Ratings[,c("Player_ID","Rank","OWGR_Rank","Projected_Rating","Projected_Stdev","Weight_Sum","Recent_Tour","Rounds_Last_Year")],by = c("Player_ID"),all.x = TRUE)
+Tournament_Projection <- merge(Tournament,Ratings[,c("Player_ID","Rank","OWGR_Rank","Projected_Rating","Projected_Stdev","Weight_Sum","Recent_Tour","Rounds_Last_Year","Country")],by = c("Player_ID"),all.x = TRUE)
 
 
 # Tournament_Projection$Projected_Rating[Tournament_Projection$Player_Name=="Mark O'Meara"] <- 2.0
@@ -76,7 +76,7 @@ Sim_Once <- function(Data,Iteration) {
   
   Result$Sim_Result <- Result$Sim_Result_Raw # + Result$Round_1
    
-  Result$Rank <- unlist(with(Result,tapply(Sim_Result,Event_ID,rank)))[order(order(Result$Event_ID))]
+  Result$Rank <- min_rank(Result$Sim_Result)
   
   return (Result)
   
@@ -114,15 +114,15 @@ Finishes <- summarise(Player_ID_Group,
 Tournament_Projection_Out <-
   merge(Tournament_Projection,Finishes,by = c("Player_ID"))
 
-Tournament_Projection_Out$Win_Rank <- unlist(with(Tournament_Projection_Out,tapply(-Win,Event_ID,rank)))[order(order(Tournament_Projection_Out$Event_ID))]
+Tournament_Projection_Out$Win_Rank <- min_rank(-Tournament_Projection_Out$Win)
 
 ### Rearrange and export results ####
 
 Tournament_Projection_Out <-
   Tournament_Projection_Out[,c("Event_ID",
                             "Event_Name",
-                            "Event_Date",
-                            "Event_Tour_1",
+                            # "Event_Date",
+                            # "Event_Tour_1",
                             "Rank",
                             "OWGR_Rank",
                             "Player_Name",
@@ -138,14 +138,8 @@ Tournament_Projection_Out <-
                             "Recent_Tour"
   )]
 
-Tournament_Projection_Out <-
-  Tournament_Projection_Out[order(Tournament_Projection_Out$Rank, decreasing = FALSE),]
 
-Tournament_Projection_Out <-
-  Tournament_Projection_Out[order(Tournament_Projection_Out$Win_Rank, decreasing = FALSE),]
-
-Tournament_Projection_Out <-
-  Tournament_Projection_Out[order(Tournament_Projection_Out$Event_ID, decreasing = FALSE),]
+Tournament_Projection_Out <- arrange(Tournament_Projection_Out,Event_ID, Win_Rank, Rank)
 
 
 write.csv(Tournament_Projection_Out, file = "Output/Current_Event_Simulation.csv", row.names = FALSE)
