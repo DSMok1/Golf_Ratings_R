@@ -15,14 +15,14 @@ library(magrittr)
 
 
 
-# Tournament <- read.csv("Data/Upcoming_Fields_RVest.csv")
-Tournament <- read.csv("Data/2016usopenfield.csv")
+Tournament <- read.csv("Data/Upcoming_Fields_RVest.csv")
+# Tournament <- read.csv("Data/2016usopenfield.csv")
 
 Ratings <- read.csv("Output/Golf_Ratings_Current.csv")
 # Partial_Results <- read.csv("Output/Current_Event_Simulation.csv")
 
 
-Trials <- 50000
+Trials <- 10000
 
 
 ### Map Data ####

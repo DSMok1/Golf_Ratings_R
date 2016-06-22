@@ -1,1 +1,698 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Richy Werenski",19364,"USA","228","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Kyounghoon Lee",13497,"KOR","232","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ollie Schniederjans",18662,"USA","243","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Trey Mullinax",18761,"USA","266","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Seamus Power",10104,"IRL","281","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"C.T. Pan",15475,"TPE","306","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Josh Geary",9903,"NZL","308","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Rodolfo Cazaubon Jnr",18185,"MEX","311","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Brian Campbell",18628,"USA","320","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Dominic Bozzelli",17564,"USA","327","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ryan Armour",8469,"USA","330","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Martin Flores",10535,"USA","336","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Rhein Gibson",13342,"AUS","393","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"J.J Spaun",17536,"USA","401","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Juan Sebastian Munoz",20770,"COL","404","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Julian Etulain",11911,"ARG","406","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Sebastian Vazquez",15487,"MEX","414","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Kyle Thompson",7617,"USA","419","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Max Homa",17538,"USA","427","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Austin Cook",18579,"USA","428","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Cameron Percy",5874,"AUS","438","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Cody Gribble",17508,"USA","439","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jonathan Byrd",6931,"USA","441","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"James Driscoll",6228,"USA","448","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Nicholas Lindheim",16713,"USA","455","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Kent Bulle",15715,"USA","457","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Andrew Svoboda",11274,"USA","459","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Joel Dahmen",14509,"USA","466","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Bryden MacPherson",14378,"AUS","472","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jason Millard",17567,"USA","477","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Greg Chalmers",5625,"AUS","482","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Kevin Tway",13127,"USA","508","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Brice Garnett",11451,"USA","509","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Tom Gillis",3901,"USA","510","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Adam Schenk",19477,"USA","514","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Rafael Campos",12909,"PUE","516","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Lucas Lee",13618,"BRA","518","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Tag Ridings",6840,"USA","520","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Curtis Thompson",19395,"USA","528","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ryan Blaum",9643,"USA","532","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Matt Atkins",19360,"USA","545","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Albin Choi",15606,"CAN","551","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jonathan Randolph",14837,"USA","563","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Mark Anderson",12131,"USA","573","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Zack Sucher",14036,"USA","578","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Steve Allan",5697,"AUS","579","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Adam Long",15473,"USA","589","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Alex Prugh",12339,"USA","590","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Taylor Pendrith",17780,"CAN","591","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"John Mallinger",9027,"USA","606","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Bhavik Patel",16107,"USA","608","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jorge Fernandez-Valdes",16786,"ARG","608","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Miguel Angel Carballo",8570,"ARG","612","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Alexandre Rocha",7441,"BRA","615","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Sebastian Cappelen",14776,"DEN","619","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Roberto Diaz",15394,"MEX","622","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ryan Brehm",10423,"USA","628","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chris Baker",13971,"USA","632","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Derek Ernst",16711,"USA","633","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Brady Schnell",12414,"USA","635","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Josh Teater",8085,"USA","643","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Andrew Putnam",14704,"USA","647","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Adam Svensson",13997,"CAN","652","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Brett Drewitt",15162,"AUS","666","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Scott Harrington",8479,"USA","668","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Brandon Hagy",18695,"USA","673","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Roger Sloan",14050,"CAN","678","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jimmy Gunn",18163,"SCO","680","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Gonzalo Fdez-Castano",8262,"ESP","686","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jin Park",7362,"KOR","701","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Daniel Mazziotta",18195,"USA","703","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Timothy Madigan",18535,"USA","707","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Nate Lashley",10943,"USA","728","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Craig Barlow",6138,"USA","733","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Anders Albertson",21235,"USA","736","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Grayson Murray",14655,"USA","740","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Zack Fischer",17273,"USA","741","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Andy Winings",14807,"USA","751","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Diego Velasquez",14840,"COL","755","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Tyler Duncan",18187,"USA","758","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Dan Woltman",13288,"USA","771","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jason Allred",7804,"USA","772","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Mathew Goggin",3756,"AUS","779","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Charlie Wi",5905,"KOR","781","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Matt Fast",14561,"USA","783","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Travis Bertoni",12563,"USA","817","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"JT Poston",21554,"USA","822","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Brad Elder",6204,"USA","827","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ryan Yip",12083,"CAN","828","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Keith Mitchell",17365,"USA","854","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Eric Axley",8024,"USA","860","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Michael Hebert",18251,"USA","863","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ryan Spears",14011,"USA","867","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jack Maguire(am)",19869,"USA","868","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Greg Eason",17719,"ENG","891","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Oscar Fraustro",9834,"MEX","893","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Peter Lonard",4122,"AUS","897","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Aaron Watkins",9932,"USA","909","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Bill Lunde",7962,"USA","917","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Andrew Yun",15614,"USA","930","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chris Smith",2079,"USA","950","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chase Wright",16807,"USA","952","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chris Naegel",17345,"USA","968","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Oliver Goss",16813,"AUS","971","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Erik Barnes",14799,"USA","972","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Mark Silvers",14705,"USA","980","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Peter Tomasulo",9910,"USA","981","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Matt Davidson",9872,"USA","988","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Todd Baek",12745,"KOR","994","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Steve LeBrun",7099,"USA","996","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ben Kohles",16395,"USA","1016","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Marc Turnesa",7627,"USA","1019","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ethan Tracy",19552,"USA","1077","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Michael Arnaud",13815,"USA","1087","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ted Potter-jr",8769,"USA","1090","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ian Davis",18589,"USA","1106","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Xander Schauffele",19895,"USA","1121","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Wil Collins",8116,"USA","1172","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Troy Matteson",7954,"USA","1195","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Byron Smith",9687,"USA","1198","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Matt Weibring",7928,"USA","1222","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Hunter Hamrick",16242,"USA","1233","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jim Renner",12475,"USA","1241","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Mackenzie Hughes",15556,"CAN","1245","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Casey Wittenberg",8819,"USA","1251","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chris Wilson",7432,"USA","1262","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Matt Harmon",12385,"USA","1285","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Denny McCarthy",19870,"USA","1298","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"John Rollins",6300,"USA","1398","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chase Marinell",19750,"USA","1429","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Scott Gutschewski",7305,"USA","1519","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jhared Hack",14457,"USA","1635","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Richard H. Lee",15233,"USA","1721","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Ben Curtis",7101,"USA","1754","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Jonathan Fricke",10194,"USA","1804","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Kent Jones",5825,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Reid Edstrom",8848,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chris Thompson",11983,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Chas Narramore",15718,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Doug Letson",19746,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Kyle Jones",19867,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Michael Gellerman",19909,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Kurt Kitayama",21891,"USA","1812","Air Capital Classic presented by Aetna ",6257,2016-06-26,"Web.com Tour",NA,NA,2016-06-22
+"Scott Vincent",14559,"ZIM","403","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Bobby Wyatt",18660,"USA","450","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Daniel McCarthy",11594,"USA","457","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Corey Conners",17576,"CAN","706","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Tyler McCumber",17584,"USA","724","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Ryan Williams",13191,"CAN","744","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Adam Cornelson",15423,"CAN","769","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"John Catlin",18524,"USA","784","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Talor Gooch",18580,"USA","818","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Samuel Del Val",15791,"ESP","861","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Wilson Bateman",15499,"CAN","878","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Michael Letzig",7641,"USA","921","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Chris Ross",14835,"CAN","943","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Brad Clapp",17527,"CAN","948","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Daniel Miernicki",14798,"USA","976","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Caleb Sturgeon",21904,"USA","1001","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Taylor Moore",21944,"USA","1001","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Cao Yi",15067,"CHN","1011","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Wade Binfield",18435,"USA","1081","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Sean Harlingten",8202,"USA","1095","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Riley Wheeldon",15447,"CAN","1100","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Cameron Wilson",16248,"USA","1131","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Matt Hill",14029,"CAN","1133","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Benjamin Silverman",17381,"USA","1145","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"David Skinns",10873,"ENG","1154","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Ross Beal",19731,"USA","1169","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jeff Rein",17298,"USA","1172","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Danny Sahl",9352,"CAN","1206","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Ben Geyer",19361,"USA","1210","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Cory Renfrew",11443,"CAN","1215","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"T.J. Vogel",17280,"USA","1222","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Nicholas Reach",13376,"USA","1228","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Charlie Bull",19735,"ENG","1237","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Riley Fleming",17577,"CAN","1258","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Clark Klaasen",14005,"USA","1287","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"John Chin",14797,"USA","1291","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jonathan Moore",11278,"USA","1322","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Joseph Harrison",19744,"USA","1380","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jeff Karlsson",14779,"SWE","1391","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Carlos Sainz Jr",14519,"USA","1402","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Seath Lauer",15121,"USA","1429","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jonathan Garrick",21885,"USA","1437","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Thomas Hay",16330,"CAN","1467","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Paul Barjon(Am)",16566,"FRA","1467","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Brock MacKenzie",9167,"USA","1496","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Chris Williams",15481,"USA","1499","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Brad Schneider",3703,"USA","1505","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Julien Brun",16363,"FRA","1530","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Curtis Reed",19762,"USA","1559","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Logan McCracken",19754,"USA","1569","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Sam Love",18632,"USA","1575","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Eric Onesi",15457,"USA","1594","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Michael Gligic",13404,"CAN","1635","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Conrad Shindler",17274,"USA","1691","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Max Gilbert",17684,"CAN","1768","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Chris Hemmerich(Am)",18570,"CAN","1773","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Tain Lee",16598,"USA","1786","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"William Kropp",18193,"USA","1796","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jay Myers",18538,"USA","1804","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"James Love",8130,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Tadd Fujikawa",11283,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Justin Bates",11598,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Ted F. Smith",12445,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Erick Justesen",13174,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Cameron Peck",13352,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Brett Lederer",13378,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Hugo Leon",13619,"CHI","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Brian Dwyer",14262,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Brad Benjamin",14486,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Sean Dale",15118,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Corey Hale",15174,"AUS","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Carter Jenkins",15456,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Aaron Cockerill(Am)",15596,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Sebastian Szirmak",15710,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Byron Meth",15855,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Edward Figueroa",16044,"PUE","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jerry Christiansen(Am)",16369,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Vaita Guillaume",16432,"PYF","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Matthew NeSmith",16433,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Charlie Winegardner",17483,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Nicholas Delio",17544,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Ty Travis",17703,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"James Erkenbeck",17720,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Andreas Halvorsen",17747,"NOR","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Will McCurdy",17758,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Andrew Ledger",17778,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Lucas Kim",17855,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Thomas Baik",18112,"ARG","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Charlie Harrison",18189,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Colin Featherstone",18257,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Adam Webb",18373,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Paul Cormack",18526,"SCO","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Kazuo Hoffman",18533,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Christopher Wolfe",18550,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Dakota Cameron",18703,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Dillon Rust",18771,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Rick Lamb",18869,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Russell Budd",18874,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Ryan Heisey",19469,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"David Pastore",19593,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Seth Reeves",19643,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Austin Connelly",19704,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Curtis Donahoe",19737,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Zachary Edmondson",19739,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"David Fink",19741,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Matt F Hansen",19743,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Tyler Light",19747,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Paul McConnell",19753,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Michael Schoolcraft",19766,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Joel Thelen",19770,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Kyle Wilshire",19774,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Max Rottluff(Am)",19899,"GER","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Benjamin Taylor",19948,"ENG","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Blair Hamilton",20043,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Scott Wolfes",20549,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"William Starke(Am)",20879,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Cody Blick",21876,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jeb Buchanan",21877,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Ryan Burgess",21878,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Bradley Caldwell",21879,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Trevor Cone",21880,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Mathias Dahl",21881,"SWE","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Brendan Dillon",21882,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Dylan Freeman",21884,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Mark Geddes",21886,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Taylor R. Hancock",21887,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Maxwell Hosking",21888,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jeffrey Kang",21889,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jae Yong Kim",21890,"KOR","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"David Lee(1994)",21892,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Craig McCoy",21893,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Alexander Medinis",21894,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Colin Monagle",21895,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Jason Parajeckas",21896,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Kyle Pilgrim",21898,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Blake Redmond",21899,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Roman Robledo",21900,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Manav Shah",21901,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Matthew Siporin",21902,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Michael Tolladay",21905,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"John Tomlinson",21906,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Elliott Whitley",21907,"CAN","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Sean Kelly",21942,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Henry Lebioda",21943,"USA","1812","SIGA Dakota Dunes Open ",6258,2016-06-26,"CAN3",NA,NA,2016-06-22
+"Henrik Stenson",5994,"SWE","7","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Danny Willett",12920,"ENG","9","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Sergio Garcia",5689,"ESP","12","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Andy Sullivan",15326,"ENG","41","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Bernd Wiesberger",9531,"AUT","49","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Kiradech Aphibarnrat",12321,"THA","52","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Thongchai Jaidee",5973,"THA","56","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jaco Van Zyl",7105,"RSA","59","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Joost Luiten",10158,"NED","65","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Rikard Karlberg",9398,"SWE","69","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jeunghun Wang",15366,"KOR","72","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Scott Hend",1888,"AUS","74","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Thorbjorn Olesen",13412,"DEN","78","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Marcus Fraser",7070,"AUS","80","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Soomin Lee",14614,"KOR","81","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Tyrrell Hatton",14796,"ENG","92","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"James Morrison",11061,"ENG","96","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Ross Fisher",9396,"ENG","97","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Bradley Dredge",6150,"WAL","100","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Brandon Stone",15229,"RSA","101","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Kristoffer Broberg",15603,"SWE","102","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Andrew Johnston",14666,"ENG","105","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"George Coetzee",10884,"RSA","114","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Tommy Fleetwood",12294,"ENG","122","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Wu Ashun",11763,"CHN","124","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Ricardo Gouveia",18722,"POR","125","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Julien Quesne",9131,"FRA","131","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Lucas Bjerregaard",11619,"DEN","134","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Li Haotong",15310,"CHN","135","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Alex Cejka",4425,"GER","138","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Lee Slattery",6866,"ENG","142","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Richie Ramsay",11396,"SCO","146","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Marc Warren",7567,"SCO","153","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Pablo Larrazabal",9133,"ESP","154","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Eddie Pepperell",15113,"ENG","155","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Alejandro Canizares",11509,"ESP","159","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Romain Wattel",13165,"FRA","161","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Benjamin Hebert",12213,"FRA","163","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Fabrizio Zanotti",9842,"PAR","164","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Miguel A Jimenez",3596,"ESP","166","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"David Howell",5718,"ENG","170","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Nicolas Colsaerts",6893,"BEL","171","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Nathan Holman",15923,"AUS","175","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"S.S.P. Chawrasia",7040,"IND","178","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Richard Bland",6516,"ENG","181","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Maximilian Kieffer",12317,"GER","185","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Nacho Elvira",12988,"ESP","191","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Marcel Siem",6950,"GER","192","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Sebastien Gros",16650,"FRA","194","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Prom Meesawat",7109,"THA","205","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Anthony Wall",5931,"ENG","206","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jorge Campillo",14016,"ESP","213","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"David Horsey",11230,"ENG","215","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Gary Stal",13262,"FRA","218","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Peter Hanson",6850,"SWE","226","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Haydn Porteous",15866,"RSA","230","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Trevor Fisher-Jr",7678,"RSA","238","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Pelle Edberg",8574,"SWE","239","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Brett Rumford",6255,"AUS","240","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Richard Green",3877,"AUS","241","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jason Scrivener",12734,"AUS","242","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Mikko Ilonen",6929,"FIN","248","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Zander Lombard",16897,"RSA","255","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Raphael Jacquelin",5784,"FRA","265","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Gary Boyd",12795,"ENG","268","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Graeme Storm",3323,"ENG","270","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Felipe Aguilar",8135,"CHI","273","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"David Lipsky",15980,"USA","277","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Roope Kakko",9199,"FIN","283","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Thomas Bjorn",5725,"DEN","284","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Borja Virto Astudillo",17313,"ESP","285","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Y.E. Yang",6629,"KOR","286","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Robert Dinwiddie",11894,"ENG","290","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Eduardo De la Riva",6637,"ESP","293","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jeff Winther",15680,"DEN","304","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Andrew Dodt",8364,"AUS","308","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Ross McGowan",11981,"ENG","310","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Johan Carlsson",11658,"SWE","316","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Joakim Lagergren",14780,"SWE","317","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Mike Lorenzo-Vera",9675,"FRA","319","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Callum Shinkwin",18244,"ENG","323","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Mikko Korhonen",9252,"FIN","326","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Nino Bertasio",13013,"ITA","332","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Matthew Southgate",15191,"ENG","337","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Adrian Otaegui",14975,"ESP","342","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Nick Cullen",14247,"AUS","343","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Thomas Linard",15337,"FRA","345","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Darren Fichardt",5754,"RSA","348","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Gregory Havret",6239,"FRA","353","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"David Drysdale",6867,"SCO","354","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jean Hugo",6304,"RSA","355","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Daniel Im",12971,"USA","356","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Magnus A Carlsson",7823,"SWE","358","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Justin Walters",8045,"RSA","361","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Robert Karlsson",4331,"SWE","367","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Lasse Jensen",10170,"DEN","375","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Alvaro Quiros",7886,"ESP","380","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Paul Dunne",18736,"IRL","389","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Ben Evans",10151,"ENG","405","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Paul Lawrie",5105,"SCO","410","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Daniel Brooks",12897,"ENG","417","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Richard McEvoy",7389,"ENG","421","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Rhys Davies",11527,"WAL","423","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Bjorn Akesson",11530,"SWE","424","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Seve Benson",11574,"ENG","425","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Tjaart Van Der Walt",5937,"RSA","431","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jamie McLeary",9240,"SCO","443","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Lee McCoy",19871,"USA","443","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Renato Paratore",16549,"ITA","445","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Richard T Lee",12413,"CAN","447","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Chris Hanson",12295,"ENG","449","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jens Fahrbring",13445,"SWE","453","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Bernd Ritthammer",12521,"GER","464","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Joachim B Hansen",14284,"DEN","467","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Morten Orum Madsen",13411,"DEN","470","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Craig Lee",4398,"SCO","481","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Andrew McArthur",9130,"SCO","490","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Matt Ford",10139,"ENG","500","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"John Parry",13764,"ENG","517","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Michael Hoey",7303,"NIR","525","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Clement Berardo",14970,"FRA","535","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Oliver Fisher",10863,"ENG","536","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Chris Paisley",14844,"ENG","551","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Ryan Evans",19030,"ENG","566","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Florian Fritsch",9217,"GER","568","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Edouard Espana",14787,"FRA","571","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Scott Jamieson",11397,"SCO","584","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jordan Zunic",15170,"AUS","665","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Mark Foster",5928,"ENG","674","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Matteo Manassero",11460,"ITA","688","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Tom Lewis",15164,"ENG","694","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jason Knutzon",7231,"USA","707","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Anders Hansen",5724,"DEN","746","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jeev Milkha Singh",3831,"IND","782","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Stuart Manley",8222,"WAL","790","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Francesco Laporta",14987,"ITA","792","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Edoardo Molinari",7033,"ITA","793","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Oliver Wilson",8300,"ENG","801","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Simon Khan",6686,"ENG","804","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Steve Webster",5667,"ENG","807","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Maximilian Roehrig",17559,"GER","811","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Ulrich Van Den Berg",6155,"RSA","815","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Niclas Fasth",3832,"SWE","829","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Rafael Echenique",7988,"ARG","857","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"David Dixon",7311,"ENG","925","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Simon Dyson",6436,"ENG","970","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Matthew Baldwin",13344,"ENG","997","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Marcus Kinhult",18514,"SWE","1009","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Philipp Mejow",19897,"GER","1034","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Laurie Canter",14795,"ENG","1039","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Nick Dougherty",6954,"ENG","1270","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jonas Kolbing",12360,"GER","1467","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Lukas Nemecz",13089,"AUT","1812","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Jin Jeong",13573,"KOR","1812","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Yannik Paul(AM)",19898,"GER","1812","BMW International Open",6260,2016-06-26,"European Tour",NA,NA,2016-06-22
+"Oscar Zetterwall",18860,"SWE","544","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Rasmus Hjelm Nielsen",11622,"DEN","649","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Kristian Krogh Johannessen",16421,"NOR","726","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Niclas Hellberg",20057,"FIN","743","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Erik Myllymaki",16408,"FIN","822","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Tobias Rosendahl",14782,"SWE","845","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mark F Haastrup",7952,"DEN","872","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Oliver Suhr",12562,"DEN","881","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Per Langfors",20414,"SWE","886","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Alex Wennstam",19933,"SWE","903","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Christian Aronsen",9497,"NOR","926","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mikael Lindberg",20084,"SWE","955","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Benjamin Henry Poke",20244,"DEN","969","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Nicolai Tinning",20256,"DEN","991","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Oscar Lengden",20410,"SWE","992","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Anton Wejshag",20149,"SWE","1021","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Richard Pettersson",18708,"SWE","1093","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Gustav Adell",12234,"SWE","1172","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Philip Ulveman Juel-Berg(Am)",20207,"DEN","1172","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Nicolaj Norman Hansen",20235,"DEN","1172","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Ludwig Nordeklint",8181,"SWE","1254","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mathias Gladbjerg",20187,"DEN","1266","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Christian Baech Christensen",19638,"DEN","1342","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Petter Bocian",9630,"SWE","1349","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Andreas Andersson",11653,"SWE","1354","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"David Palm",10420,"SWE","1389","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Torbjorn Johansen",21404,"NOR","1403","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Fredrik Gustavsson",18513,"SWE","1467","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Martin Amtkjaer",20156,"DEN","1467","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Kasper K Estrup",15673,"DEN","1516","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Kristian Kulokorpi(Am)",18863,"FIN","1525","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Patrick O'Neill",16447,"DEN","1565","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Erik Oja",20097,"SWE","1577","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Martin Leth Simonsen(Am)",16448,"DEN","1579","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jonas Haglund",18862,"FIN","1585","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Patrick Winther",20127,"DEN","1592","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Nils Floren",14019,"SWE","1594","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Nicolai Kristensen(1992-05)",18857,"DEN","1594","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Robin Askstrand",11532,"SWE","1611","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Peter Kaensche",8489,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Oscar Floren",9397,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Ake Nilsson",9493,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Dennis den Roover",11302,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Rikard Halvorsen",11315,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Kennegard",11531,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Elias Bertheussen",12488,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Victor Flatau",12581,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Simon Gundorph",13410,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Lerchedahl",13956,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Miro Veijalainen",14121,"FIN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Victor Almstrom",14675,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Pontus Ellerstrom",14714,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Fredric Sundberg",14783,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Marcus Gran",15605,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Boris Alexander Christov",15644,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Vetle Maroy(Am)",15649,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Ole B Ramsnes",15650,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Niklas Norgaard Moller",15676,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Niklas Dahlgren",16603,"FIN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Aksel Kristoffer Olsen(Am)",17749,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Sondre Erevik Ronold",17838,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Emil Othberg",18516,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mark Suursalu",18766,"EST","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Marius Bjone",18838,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Anders Ellingsberg",18840,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Viktor Hovland(AM)",18841,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Lars Mjeldheim Sandvoll(Am)",18844,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Einar Westreng Pettersen",18846,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Nikolai Hogh",19640,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Martin Ovesen",19847,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Anton Bergstrom",20050,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mattias Bohlin",20051,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Andreas Gronkvist",20054,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Karlsson",20066,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Sebastian Lindman(Am)",20096,"ALA","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Anton Wilbertsson",20125,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Henric Sturehed",20148,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jeppe Kristian Andersen(Am)",20158,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Oscar Bergman(1992)",20163,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Filip Brattse",20169,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jonas Carlson",20173,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"William Cederlund(Am)",20174,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jakob Kollerup",20210,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mads Kristensen",20211,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Gunder Larsen",20214,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Anders Larson",20216,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jacob Pingel Lauridsen",20218,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Niklas Lindstrom",20222,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Olsson",20238,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Patrick Rasmussen",20245,"DEN","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mathias Lynne Schjolberg",20248,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Max Wennerlund",20261,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Sebastian Hansson(1991)",20397,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Sebastian C. Hansson(1994)",20398,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Fredrik Jacobsson(1992)",20401,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jakob Johansson",20402,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Fredrik Lindgren(1990)",20411,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"William Nygard",20418,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Victor Theandersson(Am)",20423,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Johan Wiklund",20427,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Sandborg",20454,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"André Svensson",20459,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jarand Ekeland Arnoy(Am)",20463,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Christoffer Carlsen(Am)",20465,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Marcus Eidelof",20467,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Lasse Gerhardsen",20468,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Eirik Gronhaug(Am)",20470,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Goran Somme Haglund",20472,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Fredrik Hansson",20473,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Bernhard Jahnsen",20475,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jorgen Johannessen(Am)",20476,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Robert Jonasson",20477,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Erik Rossland Klovstad",20479,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Oscar Olseen",20484,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Arne Ravndal",20485,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Henrik Sand",20488,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jorgen Winther Johansen(Am)",20493,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Kevin Andre Wright(Am)",20494,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Patric Sundlof",20539,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Oscar Hallberg",20559,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Markus Sayra",20625,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Axel Boasson(Am)",20733,"ISL","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Lukas Crisp",20806,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Robin Naslund",21342,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Isak Knutsson",21601,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jacob Selander",21604,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Rocco Sanjust",21634,"ITA","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Oliver Gillberg(Am)",21652,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Adam Larsson",21653,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Claes Isaksson",21804,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Knutsson",21806,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Joacim Neuman",21807,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Jesper Jurell",21867,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Mattias Bergsteinsson",21927,"SWE","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Fredrik Hansen Jullum(Am)",21987,"NOR","1812","Borre Open",6265,2016-06-26,"Nordic Golf League",NA,NA,2016-06-22
+"Rickie Fowler",12965,"USA","6","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Patrick Reed",14838,"USA","13","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jim Furyk",2881,"USA","19","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Byeong Hun An",14459,"KOR","27","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Justin Thomas",14139,"USA","33","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Charley Hoffman",5768,"USA","35","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Marc Leishman",7649,"AUS","37","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Kevin Chappell",13305,"USA","38","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Bill Haas",7900,"USA","39","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"James Hahn",11374,"USA","57","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Anirban Lahiri",12669,"IND","58","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Smylie Kaufman",18631,"USA","60","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Chris Kirk",12423,"USA","61","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Ryan Palmer",7820,"USA","62","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Patton Kizzire",13470,"USA","63","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Robert Streb",14852,"USA","64","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Gary Woodland",12577,"USA","68","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Fabian Gomez",8571,"ARG","70","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Brendan Steele",11019,"USA","75","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Webb Simpson",11049,"USA","76","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Tony Finau",11676,"USA","77","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jim Herman",12846,"USA","79","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Francesco Molinari",7655,"ITA","83","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Matt Jones",8605,"AUS","84","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Charles Howell III",6892,"USA","85","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Daniel Summerhays",12424,"USA","86","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jamie Lovemark",11382,"USA","87","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jon Curran",14699,"USA","90","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Russell Henley",14578,"USA","91","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Troy Merritt",13367,"USA","93","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Kevin Streelman",8480,"USA","98","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"John Senden",5207,"AUS","104","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Kyle Reifers",11329,"USA","107","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Cameron Tringale",14013,"USA","110","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jason Kokrak",12337,"USA","111","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Keegan Bradley",13872,"USA","113","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Chez Reavie",7961,"USA","115","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Roberto Castro",12643,"USA","116","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"K.J. Choi",1804,"KOR","118","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Vaughn Taylor",6930,"USA","119","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Sean O'Hair",7626,"USA","120","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Ben Martin",14007,"USA","123","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Brian Harman",8825,"USA","130","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"David Hearn",7340,"CAN","132","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Cameron Smith",15856,"AUS","140","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Hiroshi Iwata",9099,"JPN","144","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Siwoo Kim",14609,"KOR","145","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Bryson DeChambeau",19841,"USA","148","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Brian Stuard",13022,"USA","150","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Patrick Rodgers",16283,"USA","151","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Will Wilcox",14696,"USA","156","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Andrew Loupe",15318,"USA","157","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Zac Blair",17639,"USA","158","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Sunghoon Kang",7881,"KOR","165","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Chris Stroud",9604,"USA","172","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Adam Hadwin",13965,"CAN","174","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Davis Love III",3464,"USA","180","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Harold Varner III",16602,"USA","184","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Martin Piller",13760,"USA","186","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Peter Malnati",14926,"USA","187","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Wesley Bryan",21236,"USA","190","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jason Gore",6321,"USA","195","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Morgan Hoffmann",14082,"USA","198","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Spencer Levin",8199,"USA","201","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"George McNeill",6419,"USA","204","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"John Huh",14606,"USA","207","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Lucas Glover",7399,"USA","208","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Vijay Singh",653,"FIJ","210","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Greg Owen",5723,"ENG","219","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Ricky Barnes",6846,"USA","220","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Seungyul Noh",11117,"KOR","223","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jhonattan Vegas",13508,"VEN","229","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Martin Laird",9586,"SCO","233","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Hudson Swafford",14706,"USA","236","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Tom Hoge",15575,"USA","237","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Rory Sabbatini",6283,"RSA","245","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Steve Marino",7741,"USA","247","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Chad Collins",7744,"USA","252","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Chesson Hadley",14967,"USA","257","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Blayne Barber",15608,"USA","259","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Brett Stegmaier",11354,"USA","260","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Camilo Villegas",9171,"COL","262","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Scott Stallings",12359,"USA","263","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Shawn Stefani",14012,"USA","264","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Derek Fathauer",12689,"USA","271","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Scott Pinckney",15477,"USA","272","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Aaron Baddeley",6252,"AUS","274","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Bronson Burgoon",11082,"USA","279","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Dawie van der Walt",9883,"RSA","288","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Brendon de Jonge",8767,"ZIM","294","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Ernie Els",874,"RSA","296","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Tyler Aldridge",11677,"USA","297","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Nick Taylor",13126,"CAN","298","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Kyle Stanley",12069,"USA","300","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Luke List",7960,"USA","302","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Tyrone van Aswegen",9913,"RSA","313","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Sam Saunders",11048,"USA","315","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Meenwhee Kim",11702,"KOR","322","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Rod Pampling",5668,"AUS","325","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Carl Pettersson",7048,"SWE","329","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Michael Kim",17543,"USA","333","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Tim Wilkinson",7097,"NZL","340","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Bud Cauley",14502,"USA","345","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Robert Garrigus",6789,"USA","351","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Will Mackenzie",7470,"USA","360","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Stuart Appleby",5294,"AUS","365","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Luke Guthrie",15610,"USA","371","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Michael Thompson",12946,"USA","372","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Mark Hubbard",16333,"USA","385","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Ben Crane",6674,"USA","394","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Rob Oppenheim",8002,"USA","395","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Steve Wheatcroft",10292,"USA","407","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jeff Overton",10498,"USA","426","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Erik Compton",6556,"USA","433","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Carlos Ortiz",14735,"MEX","435","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Andres Gonzales",11640,"USA","493","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jon Rahm(Am)",19195,"ESP","551","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Jordan Niebrugge(Am)",18284,"USA","581","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Billy Hurley-III",11046,"USA","607","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
+"Arjun Atwal",5701,"IND","613","Quicken Loans National ",6267,2016-06-26,"PGA Tour",NA,NA,2016-06-22
