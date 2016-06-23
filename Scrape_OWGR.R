@@ -71,6 +71,7 @@ Import_Tourney_Results <- function(ID)  {
         "asian_development" = "Asian Development Tour",
         "PGA Tour China Logo" = "PGA Tour China",
         "PGA Tour Canada2" = "PGA Tour Canada",
+        "CAN3" = "PGA Tour Canada",
         "EPT Logo" = "EuroPro Tour" ,
         "NGL Logo" = "Nordic Golf League",
         "PGT Logo" = "ProGolf Tour",
@@ -244,7 +245,7 @@ Scrape_Status$Scrape_Date <- as.Date(Scrape_Status$Scrape_Date)
 
 # Rescrape last 2 weeks of data:
 
-Last_Date <- max(as.Date(Player_Results$Event_Date)) - 10
+Last_Date <- max(as.Date(Player_Results$Event_Date)) - 100
 Last_ID <- max(Tournament_Info[as.Date(Tournament_Info$Event_Date) < Last_Date,]$Event_ID)
 
 # Grab future data as well

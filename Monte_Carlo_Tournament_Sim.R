@@ -17,6 +17,7 @@ library(magrittr)
 
 Tournament <- read.csv("Data/Upcoming_Fields_RVest.csv")
 # Tournament <- read.csv("Data/2016usopenfield.csv")
+Tournament$Country <- NULL
 
 Ratings <- read.csv("Output/Golf_Ratings_Current.csv")
 # Partial_Results <- read.csv("Output/Current_Event_Simulation.csv")
@@ -76,7 +77,8 @@ Sim_Once <- function(Data,Iteration) {
   
   Result$Sim_Result <- Result$Sim_Result_Raw # + Result$Round_1
    
-  Result$Rank <- min_rank(Result$Sim_Result)
+  Result %<>% group_by(Event_ID) %>%
+  mutate( Rank = min_rank(Sim_Result)) %>% ungroup()
   
   return (Result)
   
@@ -107,14 +109,17 @@ str(Trial_Sim)
 library(dplyr)
 Player_ID_Group <- group_by(Trial_Sim, Player_ID)
 Finishes <- summarise(Player_ID_Group,
-                                  Win = sum(Rank == 1)/Trials, Top_5 = sum(Rank<6)/Trials, Top_10 = sum(Rank<11)/Trials)
+                      Win = sum(Rank == 1)/Trials, 
+                      Top_5 = sum(Rank<6)/Trials, 
+                      Top_10 = sum(Rank<11)/Trials)
 
-# Finishes$Win_Rank <- rank(-Finishes$Win)
 
 Tournament_Projection_Out <-
   merge(Tournament_Projection,Finishes,by = c("Player_ID"))
 
-Tournament_Projection_Out$Win_Rank <- min_rank(-Tournament_Projection_Out$Win)
+Tournament_Projection_Out %<>% group_by(Event_ID) %>%
+  mutate(Win_Rank = min_rank(-Win)) %>% ungroup()
+
 
 ### Rearrange and export results ####
 
@@ -122,7 +127,7 @@ Tournament_Projection_Out <-
   Tournament_Projection_Out[,c("Event_ID",
                             "Event_Name",
                             # "Event_Date",
-                            # "Event_Tour_1",
+                            "Event_Tour_1",
                             "Rank",
                             "OWGR_Rank",
                             "Player_Name",
