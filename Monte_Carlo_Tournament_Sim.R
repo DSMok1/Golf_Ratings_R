@@ -13,6 +13,7 @@ library(magrittr)
 
 ### Primary Variables to Adjust ####
 
+Save_Location_Sims <-  paste0("Output/Archive/Event_Sims_",Sys.Date(),".csv")
 
 
 Tournament <- read.csv("Data/Upcoming_Fields_RVest.csv")
@@ -148,4 +149,6 @@ Tournament_Projection_Out <- arrange(Tournament_Projection_Out,Event_ID, Win_Ran
 
 
 write.csv(Tournament_Projection_Out, file = "Output/Current_Event_Simulation.csv", row.names = FALSE)
+
+write.csv(Tournament_Projection_Out, file = Save_Location_Sims, row.names = FALSE)
 
