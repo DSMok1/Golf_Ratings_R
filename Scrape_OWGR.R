@@ -245,7 +245,7 @@ Scrape_Status$Scrape_Date <- as.Date(Scrape_Status$Scrape_Date)
 
 # Rescrape last 2 weeks of data:
 
-Last_Date <- max(as.Date(Player_Results$Event_Date)) - 100
+Last_Date <- max(as.Date(Player_Results$Event_Date)) - 15
 Last_ID <- max(Tournament_Info[as.Date(Tournament_Info$Event_Date) < Last_Date,]$Event_ID)
 
 # Grab future data as well

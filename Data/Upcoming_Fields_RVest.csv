@@ -1,154 +1,556 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Rory McIlroy",10091,"NIR","4","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Danny Willett",12920,"ENG","9","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Chris Wood",12451,"ENG","23","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Rafael Cabrera Bello",7457,"ESP","31","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Lee Westwood",4052,"ENG","35","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Matthew Fitzpatrick",17646,"ENG","37","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Andy Sullivan",15326,"ENG","42","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Bernd Wiesberger",9531,"AUT","50","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Martin Kaymer",8117,"GER","54","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Thongchai Jaidee",5973,"THA","57","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Thorbjorn Olesen",13412,"DEN","59","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jaco Van Zyl",7105,"RSA","62","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Joost Luiten",10158,"NED","63","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Thomas Pieters",13944,"BEL","64","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jamie Donaldson",7084,"WAL","69","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Victor Dubuisson",10198,"FRA","72","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Rikard Karlberg",9398,"SWE","73","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jeunghun Wang",15366,"KOR","74","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Scott Hend",1888,"AUS","75","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Graeme McDowell",7548,"NIR","76","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Francesco Molinari",7655,"ITA","78","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Soomin Lee",14614,"KOR","82","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Luke Donald",4163,"ENG","83","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Tyrrell Hatton",14796,"ENG","94","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Ross Fisher",9396,"ENG","96","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Troy Merritt",13367,"USA","97","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Bradley Dredge",6150,"WAL","98","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"James Morrison",11061,"ENG","99","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Brandon Stone",15229,"RSA","100","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Kristoffer Broberg",15603,"SWE","102","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Alexander Noren",10419,"SWE","110","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Gregory Bourdy",7932,"FRA","111","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Tommy Fleetwood",12294,"ENG","127","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Wu Ashun",11763,"CHN","129","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Alexander Levy",14973,"FRA","131","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Ricardo Gouveia",18722,"POR","133","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Lee Slattery",6866,"ENG","134","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Julien Quesne",9131,"FRA","135","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Lucas Bjerregaard",11619,"DEN","137","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Li Haotong",15310,"CHN","138","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Pablo Larrazabal",9133,"ESP","142","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Richie Ramsay",11396,"SCO","149","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Fabrizio Zanotti",9842,"PAR","154","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Eddie Pepperell",15113,"ENG","158","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Padraig Harrington",5716,"IRL","159","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Alejandro Canizares",11509,"ESP","161","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Romain Wattel",13165,"FRA","164","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Marc Warren",7567,"SCO","166","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Benjamin Hebert",12213,"FRA","167","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Nicolas Colsaerts",6893,"BEL","174","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"David Howell",5718,"ENG","175","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Richard Bland",6516,"ENG","188","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"S.S.P. Chawrasia",7040,"IND","190","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"David Horsey",11230,"ENG","191","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Maximilian Kieffer",12317,"GER","193","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Nacho Elvira",12988,"ESP","199","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Clement Sordet",17718,"FRA","201","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Marcel Siem",6950,"GER","205","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Raphael Jacquelin",5784,"FRA","209","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Sebastien Gros",16650,"FRA","210","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Robert Rock",7895,"ENG","213","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Anthony Wall",5931,"ENG","218","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Peter Hanson",6850,"SWE","220","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jorge Campillo",14016,"ESP","221","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Darren Fichardt",5754,"RSA","223","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Prom Meesawat",7109,"THA","229","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Gary Stal",13262,"FRA","231","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Haydn Porteous",15866,"RSA","242","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Robert Dinwiddie",11894,"ENG","245","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Trevor Fisher-Jr",7678,"RSA","246","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Pelle Edberg",8574,"SWE","247","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Brett Rumford",6255,"AUS","248","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Richard Green",3877,"AUS","250","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jason Scrivener",12734,"AUS","256","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Mikko Ilonen",6929,"FIN","262","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Graeme Storm",3323,"ENG","263","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Felipe Aguilar",8135,"CHI","266","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"David Lipsky",15980,"USA","277","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Y.E. Yang",6629,"KOR","278","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Gary Boyd",12795,"ENG","279","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Roope Kakko",9199,"FIN","280","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Mike Lorenzo-Vera",9675,"FRA","282","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Thomas Bjorn",5725,"DEN","294","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Borja Virto Astudillo",17313,"ESP","298","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Eduardo De la Riva",6637,"ESP","299","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Mikko Korhonen",9252,"FIN","307","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Johan Carlsson",11658,"SWE","308","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jeff Winther",15680,"DEN","314","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Nino Bertasio",13013,"ITA","317","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Damien Perrier",12661,"FRA","325","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Joakim Lagergren",14780,"SWE","328","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Andrew Dodt",8364,"AUS","332","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Callum Shinkwin",18244,"ENG","336","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Paul Dunne",18736,"IRL","341","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Matthew Southgate",15191,"ENG","343","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Magnus A Carlsson",7823,"SWE","346","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Adrian Otaegui",14975,"ESP","351","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Thomas Linard",15337,"FRA","354","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"David Drysdale",6867,"SCO","364","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Robert Karlsson",4331,"SWE","365","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Daniel Im",12971,"USA","366","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Gregory Havret",6239,"FRA","369","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Justin Walters",8045,"RSA","376","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Lasse Jensen",10170,"DEN","386","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Alvaro Quiros",7886,"ESP","391","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Romain Langasque",16652,"FRA","398","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Matthieu Pavon",19960,"FRA","401","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Estanislao Goya",10877,"ARG","404","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Daniel Brooks",12897,"ENG","409","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Ben Evans",10151,"ENG","416","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Richard McEvoy",7389,"ENG","429","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Chris Hanson",12295,"ENG","430","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Richard Sterne",7049,"RSA","433","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Bjorn Akesson",11530,"SWE","437","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Rhys Davies",11527,"WAL","438","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Joachim B Hansen",14284,"DEN","454","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jamie McLeary",9240,"SCO","456","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Renato Paratore",16549,"ITA","461","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jens Fahrbring",13445,"SWE","466","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Morten Orum Madsen",13411,"DEN","478","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Craig Lee",4398,"SCO","486","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Shiv Kapur",9553,"IND","488","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Clement Berardo",14970,"FRA","497","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Andrew McArthur",9130,"SCO","503","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Matt Ford",10139,"ENG","507","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"John Parry",13764,"ENG","529","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Oliver Fisher",10863,"ENG","530","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Michael Hoey",7303,"NIR","537","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Chris Paisley",14844,"ENG","559","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Franck Daux",20670,"FRA","579","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Matteo Manassero",11460,"ITA","581","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Edouard Espana",14787,"FRA","588","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Scott Jamieson",11397,"SCO","593","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Adrien Saddier",14792,"FRA","661","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Thomas Detry(Am)",14181,"BEL","682","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Darren Clarke",3523,"NIR","691","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Anders Hansen",5724,"DEN","759","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Simon Khan",6686,"ENG","806","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Steve Webster",5667,"ENG","814","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Edoardo Molinari",7033,"ITA","817","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Oliver Wilson",8300,"ENG","821","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Niclas Fasth",3832,"SWE","836","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Dimi Papadatos",15168,"AUS","916","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"David Dixon",7311,"ENG","930","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Simon Dyson",6436,"ENG","1021","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Matthew Baldwin",13344,"ENG","1029","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Mathieu Decottignies Lafon",13998,"FRA","1051","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jean-Baptiste Gonnet",7979,"FRA","1221","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Julien Clement",7837,"SUI","1269","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Alexandre Widemann",20132,"FRA","1594","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Craig Farrelly",12979,"ENG","1644","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Mike Weir",5513,"CAN","1703","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
-"Jin Jeong",13573,"KOR","1830","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-27
+"Gary Woodland",12577,"USA","65","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Brendan Steele",11019,"USA","77","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Colt Knost",12149,"USA","101","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"John Senden",5207,"AUS","104","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Bryce Molder",7292,"USA","106","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Kyle Reifers",11329,"USA","107","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Cameron Tringale",14013,"USA","112","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Chez Reavie",7961,"USA","114","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Ben Martin",14007,"USA","123","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Jonas Blixt",8182,"SWE","128","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Graham Delaet",10252,"CAN","139","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Alex Cejka",4425,"GER","140","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Cameron Smith",15856,"AUS","145","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Siwoo Kim",14609,"KOR","146","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Patrick Rodgers",16283,"USA","147","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Thomas Aiken",7679,"RSA","152","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Will Wilcox",14696,"USA","155","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Hiroshi Iwata",9099,"JPN","165","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Sunghoon Kang",7881,"KOR","168","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Zac Blair",17639,"USA","170","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Chris Stroud",9604,"USA","173","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Martin Piller",13760,"USA","196","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"John Huh",14606,"USA","198","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Jason Gore",6321,"USA","206","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Spencer Levin",8199,"USA","208","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Morgan Hoffmann",14082,"USA","212","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Brendon Todd",12425,"USA","215","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Ken Duke",493,"USA","222","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Ricky Barnes",6846,"USA","225","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Greg Owen",5723,"ENG","230","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Jhonattan Vegas",13508,"VEN","233","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Martin Laird",9586,"SCO","234","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Seungyul Noh",11117,"KOR","236","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Chad Collins",7744,"USA","244","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Tom Hoge",15575,"USA","251","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Aaron Baddeley",6252,"AUS","254","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Steve Marino",7741,"USA","256","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Blayne Barber",15608,"USA","258","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Rory Sabbatini",6283,"RSA","259","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Geoff Ogilvy",5698,"AUS","267","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Shawn Stefani",14012,"USA","269","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Brett Stegmaier",11354,"USA","271","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Chesson Hadley",14967,"USA","273","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Nick Taylor",13126,"CAN","274","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Scott Stallings",12359,"USA","275","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"J.J. Henry",6222,"USA","284","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Jon Rahm",19195,"ESP","285","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Scott Pinckney",15477,"USA","286","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Bronson Burgoon",11082,"USA","287","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Robert Garrigus",6789,"USA","291","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Kyle Stanley",12069,"USA","292","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Camilo Villegas",9171,"COL","294","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Dawie van der Walt",9883,"RSA","301","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Tyler Aldridge",11677,"USA","305","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Brendon de Jonge",8767,"ZIM","309","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Sam Saunders",11048,"USA","311","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Luke List",7960,"USA","316","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Tyrone van Aswegen",9913,"RSA","323","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Rod Pampling",5668,"AUS","329","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Michael Kim",17543,"USA","331","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Rob Oppenheim",8002,"USA","333","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Meenwhee Kim",11702,"KOR","335","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Tim Wilkinson",7097,"NZL","347","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Mark Hubbard",16333,"USA","360","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Henrik Norlander",11657,"SWE","372","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Will Mackenzie",7470,"USA","377","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Stuart Appleby",5294,"AUS","384","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Andrew Landry",14000,"USA","388","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Luke Guthrie",15610,"USA","394","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Michael Thompson",12946,"USA","396","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Wes Roach",15720,"USA","397","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Andres Romero",7751,"ARG","399","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Rhein Gibson",13342,"AUS","407","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Ben Crane",6674,"USA","411","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Erik Compton",6556,"USA","417","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Steve Wheatcroft",10292,"USA","421","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Mark Wilson",4107,"USA","425","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Andres Gonzales",11640,"USA","431","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Scott Langley",14700,"USA","436","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Jeff Overton",10498,"USA","439","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Cameron Percy",5874,"AUS","441","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Kelly Kraft",15852,"USA","448","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Carlos Ortiz",14735,"MEX","449","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Lee McCoy",19871,"USA","453","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Donghwan Lee",8211,"KOR","464","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Abraham Ancer",18238,"MEX","482","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Dicky Pride",5467,"USA","486","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Greg Chalmers",5625,"AUS","490","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Brice Garnett",11451,"USA","520","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Lucas Lee",13618,"BRA","531","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"John Merrick",9584,"USA","542","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Tim Herron",5621,"USA","556","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Justin Hicks",9166,"USA","597","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Alex Prugh",12339,"USA","600","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Miguel Angel Carballo",8570,"ARG","618","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Arjun Atwal",5701,"IND","627","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Derek Ernst",16711,"USA","641","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Darron Stiles",6401,"USA","668","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Craig Barlow",6138,"USA","736","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"D.A. Points",6761,"USA","765","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Charlie Wi",5905,"KOR","788","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Eric Axley",8024,"USA","877","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Tim Petrovic",2701,"USA","934","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"D.J. Trahan",7236,"USA","971","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Chris Smith",2079,"USA","979","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Marc Turnesa",7627,"USA","1028","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"John Daly",863,"USA","1143","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Steve Flesch",4707,"USA","1155","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Mark Hensby",5859,"AUS","1172","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Glen Day",3410,"USA","1197","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Michael Bradley",3582,"USA","1208","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Troy Matteson",7954,"USA","1223","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Heath Slocum",7170,"USA","1249","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Ted Purdy",5906,"USA","1259","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Cameron Beckman",3869,"USA","1354","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"John Rollins",6300,"USA","1445","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Frank Lickliter-II",5708,"USA","1506","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Billy Mayfair",3572,"USA","1575","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Ben Curtis",7101,"USA","1780","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Rocco Mediate",627,"USA","1830","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Trevor Immelman",5935,"RSA","1830","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Parker McLachlin",9168,"USA","1830","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Chip Deason",11096,"USA","1830","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Jay McLuen",11793,"USA","1830","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Charlie Danielson",21310,"USA","1830","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Tye Gabriel",21315,"USA","1830","Barracuda Championship ",6268,2016-07-03,"PGA Tour",NA,NA,2016-06-29
+"Jason Day",9771,"AUS","1","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Jordan Spieth",14636,"USA","2","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Dustin Johnson",12422,"USA","3","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Bubba Watson",7334,"USA","6","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Rickie Fowler",12965,"USA","7","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Adam Scott",6430,"AUS","8","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Justin Rose",6093,"ENG","10","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Branden Grace",11952,"RSA","12","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Patrick Reed",14838,"USA","13","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Louis Oosthuizen",7672,"RSA","14","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Brooks Koepka",16243,"USA","15","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Hideki Matsuyama",13562,"JPN","16","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Matt Kuchar",6169,"USA","17","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Jim Furyk",2881,"USA","18","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Zach Johnson",6986,"USA","19","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Phil Mickelson",1547,"USA","20","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"J.B. Holmes",7959,"USA","21","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Brandt Snedeker",8820,"USA","22","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Charl Schwartzel",7398,"RSA","24","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Shane Lowry",13900,"IRL","25","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Russell Knox",13831,"SCO","26","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Paul Casey",7108,"ENG","27","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Byeong Hun An",14459,"KOR","28","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Kevin Kisner",11328,"USA","29","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Kevin Na",7452,"USA","30","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Daniel Berger",17606,"USA","32","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Bill Haas",7900,"USA","33","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Justin Thomas",14139,"USA","34","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Charley Hoffman",5768,"USA","36","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Kevin Chappell",13305,"USA","38","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Marc Leishman",7649,"AUS","39","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"K.T. Kim",7880,"KOR","40","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Emiliano Grillo",12808,"ARG","41","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Scott Piercy",7899,"USA","43","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Jimmy Walker",7293,"USA","44","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Danny Lee",11826,"NZL","45","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"William McGirt",12477,"USA","46","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Soren Kjeldsen",6149,"DEN","47","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"David Lingmerth",14815,"SWE","48","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Kiradech Aphibarnrat",12321,"THA","49","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Jason Dufner",7301,"USA","51","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Harris English",14577,"USA","52","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Smylie Kaufman",18631,"USA","56","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"James Hahn",11374,"USA","58","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Chris Kirk",12423,"USA","59","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Anirban Lahiri",12669,"IND","61","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Fabian Gomez",8571,"ARG","71","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Jim Herman",12846,"USA","80","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Marcus Fraser",7070,"AUS","81","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Matt Jones",8605,"AUS","85","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Andrew Johnston",14666,"ENG","108","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"George Coetzee",10884,"RSA","116","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Vaughn Taylor",6930,"USA","121","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Steven Bowditch",7053,"AUS","124","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Younghan Song",16160,"KOR","130","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Brian Stuard",13022,"USA","150","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Billy Hurley III",11046,"USA","169","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Nathan Holman",15923,"AUS","182","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Davis Love III",3464,"USA","187","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Yosuke Tsukada",14567,"JPN","306","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Michio Matsumura",12419,"JPN","310","WGC - Bridgestone Invitational",6269,2016-07-03,"WGC",NA,NA,2016-06-29
+"Rory McIlroy",10091,"NIR","4","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Danny Willett",12920,"ENG","9","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Chris Wood",12451,"ENG","23","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Rafael Cabrera Bello",7457,"ESP","31","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Lee Westwood",4052,"ENG","35","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Matthew Fitzpatrick",17646,"ENG","37","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Andy Sullivan",15326,"ENG","42","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Bernd Wiesberger",9531,"AUT","50","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Martin Kaymer",8117,"GER","54","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Thongchai Jaidee",5973,"THA","57","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Thorbjorn Olesen",13412,"DEN","59","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jaco Van Zyl",7105,"RSA","62","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Joost Luiten",10158,"NED","63","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Thomas Pieters",13944,"BEL","64","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jamie Donaldson",7084,"WAL","69","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Victor Dubuisson",10198,"FRA","72","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Rikard Karlberg",9398,"SWE","73","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jeunghun Wang",15366,"KOR","74","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Scott Hend",1888,"AUS","75","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Graeme McDowell",7548,"NIR","76","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Francesco Molinari",7655,"ITA","78","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Soomin Lee",14614,"KOR","82","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Luke Donald",4163,"ENG","83","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Tyrrell Hatton",14796,"ENG","94","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Ross Fisher",9396,"ENG","96","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Troy Merritt",13367,"USA","97","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Bradley Dredge",6150,"WAL","98","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"James Morrison",11061,"ENG","99","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Brandon Stone",15229,"RSA","100","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Kristoffer Broberg",15603,"SWE","102","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Alexander Noren",10419,"SWE","110","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Gregory Bourdy",7932,"FRA","111","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Tommy Fleetwood",12294,"ENG","127","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Wu Ashun",11763,"CHN","129","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Alexander Levy",14973,"FRA","131","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Ricardo Gouveia",18722,"POR","133","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Lee Slattery",6866,"ENG","134","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Julien Quesne",9131,"FRA","135","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Lucas Bjerregaard",11619,"DEN","137","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Li Haotong",15310,"CHN","138","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Pablo Larrazabal",9133,"ESP","142","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Richie Ramsay",11396,"SCO","149","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Fabrizio Zanotti",9842,"PAR","154","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Eddie Pepperell",15113,"ENG","158","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Padraig Harrington",5716,"IRL","159","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Alejandro Canizares",11509,"ESP","161","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Romain Wattel",13165,"FRA","164","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Marc Warren",7567,"SCO","166","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Benjamin Hebert",12213,"FRA","167","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Nicolas Colsaerts",6893,"BEL","174","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"David Howell",5718,"ENG","175","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Richard Bland",6516,"ENG","188","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"S.S.P. Chawrasia",7040,"IND","190","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"David Horsey",11230,"ENG","191","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Maximilian Kieffer",12317,"GER","193","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Nacho Elvira",12988,"ESP","199","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Clement Sordet",17718,"FRA","201","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Marcel Siem",6950,"GER","205","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Raphael Jacquelin",5784,"FRA","209","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Sebastien Gros",16650,"FRA","210","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Robert Rock",7895,"ENG","213","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Anthony Wall",5931,"ENG","218","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Peter Hanson",6850,"SWE","220","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jorge Campillo",14016,"ESP","221","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Darren Fichardt",5754,"RSA","223","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Prom Meesawat",7109,"THA","229","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Gary Stal",13262,"FRA","231","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Haydn Porteous",15866,"RSA","242","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Robert Dinwiddie",11894,"ENG","245","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Trevor Fisher-Jr",7678,"RSA","246","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Pelle Edberg",8574,"SWE","247","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Brett Rumford",6255,"AUS","248","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Richard Green",3877,"AUS","250","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jason Scrivener",12734,"AUS","256","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Mikko Ilonen",6929,"FIN","262","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Graeme Storm",3323,"ENG","263","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Felipe Aguilar",8135,"CHI","266","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"David Lipsky",15980,"USA","277","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Y.E. Yang",6629,"KOR","278","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Gary Boyd",12795,"ENG","279","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Roope Kakko",9199,"FIN","280","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Mike Lorenzo-Vera",9675,"FRA","282","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Thomas Bjorn",5725,"DEN","294","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Borja Virto Astudillo",17313,"ESP","298","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Eduardo De la Riva",6637,"ESP","299","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Mikko Korhonen",9252,"FIN","307","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Johan Carlsson",11658,"SWE","308","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jeff Winther",15680,"DEN","314","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Nino Bertasio",13013,"ITA","317","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Damien Perrier",12661,"FRA","325","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Joakim Lagergren",14780,"SWE","328","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Andrew Dodt",8364,"AUS","332","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Callum Shinkwin",18244,"ENG","336","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Paul Dunne",18736,"IRL","341","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Matthew Southgate",15191,"ENG","343","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Magnus A Carlsson",7823,"SWE","346","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Adrian Otaegui",14975,"ESP","351","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Thomas Linard",15337,"FRA","354","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"David Drysdale",6867,"SCO","364","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Robert Karlsson",4331,"SWE","365","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Daniel Im",12971,"USA","366","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Gregory Havret",6239,"FRA","369","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Justin Walters",8045,"RSA","376","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Lasse Jensen",10170,"DEN","386","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Alvaro Quiros",7886,"ESP","391","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Romain Langasque",16652,"FRA","398","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Matthieu Pavon",19960,"FRA","401","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Estanislao Goya",10877,"ARG","404","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Daniel Brooks",12897,"ENG","409","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Ben Evans",10151,"ENG","416","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Richard McEvoy",7389,"ENG","429","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Chris Hanson",12295,"ENG","430","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Richard Sterne",7049,"RSA","433","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Bjorn Akesson",11530,"SWE","437","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Rhys Davies",11527,"WAL","438","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Joachim B Hansen",14284,"DEN","454","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jamie McLeary",9240,"SCO","456","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Renato Paratore",16549,"ITA","461","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jens Fahrbring",13445,"SWE","466","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Morten Orum Madsen",13411,"DEN","478","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Craig Lee",4398,"SCO","486","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Shiv Kapur",9553,"IND","488","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Clement Berardo",14970,"FRA","497","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Andrew McArthur",9130,"SCO","503","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Matt Ford",10139,"ENG","507","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"John Parry",13764,"ENG","529","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Oliver Fisher",10863,"ENG","530","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Michael Hoey",7303,"NIR","537","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Chris Paisley",14844,"ENG","559","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Franck Daux",20670,"FRA","579","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Matteo Manassero",11460,"ITA","581","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Edouard Espana",14787,"FRA","588","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Scott Jamieson",11397,"SCO","593","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Adrien Saddier",14792,"FRA","661","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Thomas Detry(Am)",14181,"BEL","682","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Darren Clarke",3523,"NIR","691","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Anders Hansen",5724,"DEN","759","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Simon Khan",6686,"ENG","806","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Steve Webster",5667,"ENG","814","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Edoardo Molinari",7033,"ITA","817","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Oliver Wilson",8300,"ENG","821","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Niclas Fasth",3832,"SWE","836","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Dimi Papadatos",15168,"AUS","916","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"David Dixon",7311,"ENG","930","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Simon Dyson",6436,"ENG","1021","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Matthew Baldwin",13344,"ENG","1029","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Mathieu Decottignies Lafon",13998,"FRA","1051","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jean-Baptiste Gonnet",7979,"FRA","1221","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Julien Clement",7837,"SUI","1269","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Alexandre Widemann",20132,"FRA","1594","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Craig Farrelly",12979,"ENG","1644","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Mike Weir",5513,"CAN","1703","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jin Jeong",13573,"KOR","1830","100th Open de France",6271,2016-07-03,"European Tour",NA,NA,2016-06-29
+"Jordan L Smith",18586,"ENG","227","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Dylan Frittelli",11955,"RSA","264","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Alexander Knappe",12318,"GER","312","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Christofer Blomstrand",20167,"SWE","350","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"John Hahn",17539,"USA","356","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jens Dantorp",14018,"SWE","379","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Duncan Stewart",12472,"SCO","403","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Tom Murray",17077,"ENG","419","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Bernd Ritthammer",12521,"GER","423","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Garrick Porteous",16400,"ENG","445","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Espen Kofstad",13349,"NOR","489","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Gary King",17835,"ENG","491","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Alexander Bjork",14775,"SWE","501","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Bjorn Hellgren",16231,"SWE","525","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Christopher Mivis",11198,"BEL","534","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jack Senior",15115,"ENG","538","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Daniel Gaunt",6132,"AUS","551","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Matthew Nixon",15184,"ENG","571","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Florian Fritsch",9217,"GER","580","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Moritz Lampert",13438,"GER","595","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Mads Sogaard",15678,"DEN","631","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Eirik Tage Johansen",11317,"NOR","637","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Edouard Dubois",10624,"FRA","643","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Paul Howard",19510,"ENG","655","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Johan Edfors",6852,"SWE","660","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Pablo Martin Benavides",7885,"ESP","661","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Ben Eccles",17163,"AUS","666","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jurrian Van der Vaart",13489,"NED","673","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Nicolas Geyger",13607,"CHI","677","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Aaron Rai",18554,"ENG","689","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Paul Maddy",17343,"ENG","705","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Oliver Farr",13318,"WAL","713","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Carlos del Moral",10222,"ESP","720","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Oliver Bekker",12819,"RSA","731","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Kristian Krogh Johannessen",16421,"NOR","734","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Martin Keskari",14017,"GER","745","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Ricardo Santos",8816,"POR","756","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Joel Girrbach",15592,"SUI","764","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Steven Jeppesen",8125,"SWE","767","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Tapio Pulkkanen",13139,"FIN","777","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Michael Jonzon",5218,"SWE","781","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Julien Guerrier",10201,"FRA","796","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Ashley Chesters",18735,"ENG","797","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Ben Parker",11816,"ENG","802","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Stanislav Matus",14086,"CZE","840","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Sebastian Heisele",16499,"GER","854","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Hugues Joannes",11201,"BEL","866","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jerome Lando-Casanova",14040,"FRA","875","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Pontus Widegren",11661,"SWE","885","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Mark Tullo",10872,"CHI","900","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Anton Karlsson",20405,"SWE","901","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Benjamin Rusch",13281,"SUI","922","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Stiggy Hodgson",16398,"ENG","926","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Reinier Saxton",11564,"NED","973","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Oscar Stark",18131,"SWE","973","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Eric Blom",16443,"SWE","977","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Benjamin Henry Poke",20244,"DEN","981","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Nicolai Tinning",20256,"DEN","1002","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Sihwan Kim",13307,"KOR","1019","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Marcus Kinhult",18514,"SWE","1021","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Andreas Hartø",14285,"DEN","1044","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Sam Hutsby",11104,"ENG","1045","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Robin Kind",14986,"NED","1046","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Philipp Mejow",19897,"GER","1048","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Emilio Cuartero Blanco",19459,"ESP","1070","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Joel Sjoholm",12485,"SWE","1074","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Gary Hurley",18657,"IRL","1088","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"William Harrold",17070,"ENG","1135","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Charles-Edouard Russo",8914,"FRA","1146","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Brian Casey",19970,"IRL","1166","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Daniel Lokke",14287,"DEN","1169","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Martin Wiegele",7869,"AUT","1173","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Anthony Murdaca",15167,"AUS","1181","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Philip Ulveman Juel-Berg",20207,"DEN","1181","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Nicolaj Norman  Hansen",20235,"DEN","1181","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Nicolas Thommen",12374,"SUI","1199","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Steven Brown",15771,"ENG","1203","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Adrien Bernadet",10202,"FRA","1211","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Birgir Hafthorsson",6166,"ISL","1214","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jacob Glennemo",13447,"SWE","1217","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Robbie Busher",17397,"ENG","1237","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"George Woolgar",14067,"ENG","1244","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Maarten Lafeber",5843,"NED","1272","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Mathias Gladbjerg",20187,"DEN","1283","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Wil Besseling",9413,"NED","1314","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Linus Gillgren",15642,"SWE","1350","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Christian Baech Christensen",19638,"DEN","1350","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Cesar Costilla",10868,"ARG","1354","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Filippo Bergamaschi",15266,"ITA","1365","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Antonio Hortal",14572,"ESP","1388","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Sebastian Garcia Rodriguez",12258,"ESP","1390","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Ross Kellett",13235,"SCO","1392","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Brinson Paolini",17638,"USA","1395","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Peter Vejgaard",18859,"DEN","1405","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Kalle Samooja",14120,"FIN","1422","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Christian Gloet",16444,"DEN","1431","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Sam Robertshawe",20025,"ENG","1448","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Martin Amtkjaer",20156,"DEN","1481","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Raphael Marguery",15339,"FRA","1526","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Krister Eriksson",13346,"SWE","1534","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Kasper K Estrup",15673,"DEN","1534","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Kristian Kulokorpi(Am)",18863,"FIN","1544","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Scott Fallon",17474,"ENG","1575","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Gerard Piris Mateu",15371,"ESP","1588","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Teemu Bakker",13372,"FIN","1591","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Martin Leth Simonsen(Am)",16448,"DEN","1598","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Damian Ulrich",10520,"SUI","1603","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Gabriel Axell",20150,"SWE","1617","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Bradley Neil",18737,"SCO","1618","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Sean Einhaus",10223,"GER","1627","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Christopher Feldborg Nielsen",20147,"SWE","1635","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Bernhard Reiter",13090,"AUT","1641","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Tim Gornik",19605,"SLO","1660","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Joakim Rask",5922,"SWE","1708","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Pedro Figueiredo",10033,"POR","1757","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Andrea Rota",12139,"ITA","1783","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Amine Joudar",7298,"MAR","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jose Luis Adarraga Gomez",8915,"ESP","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jurgen Maurer",10068,"AUT","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Leo Astl",10539,"AUT","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Craig Sutherland",10605,"SCO","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Anthony Snobeck",10655,"FRA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Joao Carlota",12079,"POR","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Andrea Perrino",13014,"ITA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Lukas Nemecz",13089,"AUT","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Simon Gundorph",13410,"DEN","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Darryn Lloyd",13728,"RSA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Leonardo Motta",13896,"ITA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jaime Camargo",14736,"ESP","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Petr Gal-jr",14882,"CZE","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Victor Bertran Crous",15325,"ESP","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Christoph Koerbler(Am)",15422,"AUT","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Lauri Ruuska(Am)",16409,"FIN","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Javier Ballesteros",17325,"ESP","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Gonzalo Gancedo Onieva",17475,"ESP","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Ali Altuntas(Am)",18051,"TUR","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Julian Suri",18059,"USA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jan Friesz(AM)",18721,"SVK","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Michele Cea(am)",18902,"ITA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Ben Robinson(AM)",18914,"ENG","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Alihan Afsar(AM)",19194,"TUR","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Peter Tarver-Jones",19516,"ENG","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Nikolai Hogh",19640,"DEN","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Martin Ovesen",19847,"DEN","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jan  Cafourek",19851,"CZE","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Stephan Wolters",20151,"GER","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Michael Wolf",20219,"GER","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Patrick Rasmussen",20245,"DEN","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jeff Hopkins",21305,"IRL","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Robin Roussel",21507,"FRA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Jordan Wrisdale",21508,"ENG","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Chase Koepka",21997,"USA","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Martin Eriksson(Am)",22091,"SWE","1830","Made in Denmark Challenge – Presented by Ejner Hessel",6272,2016-07-03,"European Challenge Tour",NA,NA,2016-06-29
+"Oscar Zetterwall",18860,"SWE","549","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Rasmus Hjelm Nielsen",11622,"DEN","654","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Jonathan Agren",20400,"SWE","726","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Niclas Hellberg",20057,"FIN","748","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Erik Myllymaki",16408,"FIN","820","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Mikael Lindberg",20084,"SWE","830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Mark F Haastrup",7952,"DEN","873","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Oliver Suhr",12562,"DEN","882","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Per Langfors",20414,"SWE","886","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Alex Wennstam",19933,"SWE","907","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Christian Aronsen",9497,"NOR","932","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Ola Johansson",20403,"SWE","961","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Jarand Ekeland Arnoy",20463,"NOR","961","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Oskar Henningsson",9399,"SWE","996","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Oscar Lengden",20410,"SWE","1001","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Anton Wejshag",20149,"SWE","1035","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Richard Pettersson",18708,"SWE","1108","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Christopher Lang",20407,"SWE","1144","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Niclas Johansson",14893,"SWE","1147","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Gustav Adell",12234,"SWE","1181","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Ludwig Nordeklint",8181,"SWE","1269","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Petter Bocian",9630,"SWE","1369","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Andreas Andersson",11653,"SWE","1374","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Sondre Erevik Ronold",17838,"NOR","1405","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"David Palm",10420,"SWE","1415","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Marcus Larsson",12583,"SWE","1513","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Mathias Johansson",15552,"SWE","1544","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Patrick O'Neill",16447,"DEN","1590","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Erik Oja",20097,"SWE","1594","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Jonas Haglund",18862,"FIN","1607","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Nicolai Kristensen(1992-05)",18857,"DEN","1613","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Robin Askstrand",11532,"SWE","1626","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Nils Floren",14019,"SWE","1635","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Mattias Eliasson",5160,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Bjorn Pettersson",6518,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Oscar Floren",9397,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Ake Nilsson",9493,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Per Barth",11314,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Jesper Kennegard",11531,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Elias Bertheussen",12488,"NOR","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Victor Flatau",12581,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Victor Almstrom",14675,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Niklas Norgaard Moller",15676,"DEN","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Emil Othberg",18516,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Anton Bergstrom",20050,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Mattias Bohlin",20051,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Andreas Gronkvist",20054,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Gustaf Kocken",20070,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Henric Sturehed",20148,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Christian Larsson",20153,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Axel Arinbjarnarson",20161,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Jacob Pingel Lauridsen",20218,"DEN","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Marcus Lindstrom(1992)",20221,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Niklas Lindstrom",20222,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Jesper Olsson",20238,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Sebastian Hansson(1991)",20397,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"André Svensson",20459,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Adam Andersson",20525,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"David Backstrom",20529,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Lukas Crisp",20806,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Christopher Sahlstrom",21343,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
+"Jacob Selander",21604,"SWE","1830","SM Match",6277,2016-07-03,"Nordic Golf League",NA,NA,2016-06-29
