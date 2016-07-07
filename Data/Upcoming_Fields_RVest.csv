@@ -1,594 +1,911 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Ollie Schniederjans",18662,"USA","153","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Wesley Bryan",21236,"USA","183","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Richy Werenski",19364,"USA","240","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Brad Fritsch",7207,"CAN","249","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Seamus Power",10104,"IRL","291","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"J.J Spaun",17536,"USA","309","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"C.T. Pan",15475,"TPE","323","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Josh Geary",9903,"NZL","329","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Rodolfo Cazaubon Jnr",18185,"MEX","330","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Dominic Bozzelli",17564,"USA","339","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ryan Armour",8469,"USA","341","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Martin Flores",10535,"USA","356","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Rhein Gibson",13342,"AUS","396","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Austin Cook",18579,"USA","401","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Kyle Thompson",7617,"USA","418","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Cameron Percy",5874,"AUS","420","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Juan Sebastian Munoz",20770,"COL","423","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Julian Etulain",11911,"ARG","425","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Donghwan Lee",8211,"KOR","427","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Jonathan Byrd",6931,"USA","435","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Sebastian Vazquez",15487,"MEX","436","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Max Homa",17538,"USA","441","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Joel Dahmen",14509,"USA","449","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"James Driscoll",6228,"USA","457","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Kelly Kraft",15852,"USA","458","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Cody Gribble",17508,"USA","463","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Kent Bulle",15715,"USA","474","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Andrew Svoboda",11274,"USA","475","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Nicholas Lindheim",16713,"USA","479","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Bryden MacPherson",14378,"AUS","485","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Abraham Ancer",18238,"MEX","487","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Brandon Hagy",18695,"USA","519","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Kevin Tway",13127,"USA","520","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Adam Schenk",19477,"USA","522","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Tag Ridings",6840,"USA","524","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Jonathan Randolph",14837,"USA","525","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Tom Gillis",3901,"USA","535","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ryan Blaum",9643,"USA","542","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Miguel Angel Carballo",8570,"ARG","544","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Rafael Campos",12909,"PUE","545","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Lucas Lee",13618,"BRA","551","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"John Merrick",9584,"USA","553","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Curtis Thompson",19395,"USA","554","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Matt Atkins",19360,"USA","559","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Albin Choi",15606,"CAN","564","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ryan Brehm",10423,"USA","571","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Sam Ryder",16715,"USA","576","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Mark Anderson",12131,"USA","578","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Zack Sucher",14036,"USA","592","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Steve Allan",5697,"AUS","602","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Taylor Pendrith",17780,"CAN","606","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Adam Long",15473,"USA","612","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Alex Prugh",12339,"USA","614","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Justin Hicks",9166,"USA","615","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Bhavik Patel",16107,"USA","621","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Jorge Fernandez-Valdes",16786,"ARG","629","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Justin Hueber",18590,"USA","636","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Alexandre Rocha",7441,"BRA","638","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Sebastian Cappelen",14776,"DEN","639","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Chris Baker",13971,"USA","643","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Josh Teater",8085,"USA","648","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Brady Schnell",12414,"USA","651","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Derek Ernst",16711,"USA","654","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Blake Adams",12088,"USA","661","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Adam Svensson",13997,"CAN","670","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Scott Harrington",8479,"USA","677","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Darron Stiles",6401,"USA","682","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Brett Drewitt",15162,"AUS","687","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Roger Sloan",14050,"CAN","689","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"JT Poston",21554,"USA","695","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Gonzalo Fdez-Castano",8262,"ESP","706","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Jin Park",7362,"KOR","708","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Timothy Madigan",18535,"USA","723","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Nicholas Thompson",10889,"USA","729","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Nate Lashley",10943,"USA","735","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Grayson Murray",14655,"USA","740","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Anders Albertson",21235,"USA","741","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Craig Barlow",6138,"USA","744","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Zack Fischer",17273,"USA","754","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Steven Fox",17059,"USA","767","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Andy Winings",14807,"USA","768","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Diego Velasquez",14840,"COL","772","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Tyler Duncan",18187,"USA","783","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Eric Axley",8024,"USA","788","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Jason Allred",7804,"USA","797","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Matt Fast",14561,"USA","805","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Mathew Goggin",3756,"AUS","807","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Brad Elder",6204,"USA","840","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Bryan Bigley",15329,"USA","846","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Travis Bertoni",12563,"USA","851","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ryan Yip",12083,"CAN","863","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Keith Mitchell",17365,"USA","871","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Jack Maguire(am)",19869,"USA","872","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Michael Hebert",18251,"USA","876","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ryan Spears",14011,"USA","881","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Todd Baek",12745,"KOR","912","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Peter Lonard",4122,"AUS","914","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Oscar Fraustro",9834,"MEX","917","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Greg Eason",17719,"ENG","917","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Robby Shelton IV",18635,"USA","919","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Stephan Jaeger",16394,"GER","922","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Andrew Yun",15614,"USA","950","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Aaron Watkins",9932,"USA","952","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Denny McCarthy",19870,"USA","955","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Bill Lunde",7962,"USA","973","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Chris Naegel",17345,"USA","975","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Hunter Hamrick",16242,"USA","984","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Oliver Goss",16813,"AUS","988","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Chase Wright",16807,"USA","996","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Peter Tomasulo",9910,"USA","1000","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Erik Barnes",14799,"USA","1003","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Steve LeBrun",7099,"USA","1010","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Matt Davidson",9872,"USA","1011","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Mark Silvers",14705,"USA","1023","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Marc Turnesa",7627,"USA","1030","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ben Kohles",16395,"USA","1036","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Jeff Gove",6390,"USA","1080","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ted Potter-jr",8769,"USA","1116","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Michael Arnaud",13815,"USA","1123","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Xander Schauffele",19895,"USA","1139","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ian Davis",18589,"USA","1142","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Wil Collins",8116,"USA","1191","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Byron Smith",9687,"USA","1212","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Troy Matteson",7954,"USA","1245","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Casey Wittenberg",8819,"USA","1275","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Chris Wilson",7432,"USA","1283","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"B.J. Staten",7642,"USA","1297","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Benjamin Alvarado",12547,"CHI","1309","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Matt Harmon",12385,"USA","1346","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Kurt Kitayama",21891,"USA","1417","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Michael Gellerman",19909,"USA","1485","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"John Rollins",6300,"USA","1509","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Russell Surber",9200,"USA","1753","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Richard H. Lee",15233,"USA","1773","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Ben Curtis",7101,"USA","1800","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Len Mattiace",3982,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Steve Friesen",7816,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"George Bryan",8823,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Reid Edstrom",8848,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Chas Narramore",15718,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Doug Letson",19746,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Kyle Jones",19867,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-05
-"Scott Vincent",14559,"ZIM","393","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Daniel McCarthy",11594,"USA","468","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Augusto Nunez",16796,"ARG","593","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Corey Conners",17576,"CAN","714","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Tyler McCumber",17584,"USA","749","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Ryan Williams",13191,"CAN","761","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Adam Cornelson",15423,"CAN","779","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Gregory Yates",19830,"USA","790","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Sam Fidone",19618,"USA","797","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Max Rottluff",19899,"GER","797","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Talor Gooch",18580,"USA","833","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Wilson Bateman",15499,"CAN","890","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Michael Letzig",7641,"USA","939","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Chris Ross",14835,"CAN","972","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brad Clapp",17527,"CAN","979","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Daniel Miernicki",14798,"USA","1003","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Carter Jenkins",15456,"USA","1013","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Caleb Sturgeon",21904,"USA","1013","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Taylor Moore",21944,"USA","1013","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Cao Yi",15067,"CHN","1034","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Ben Geyer",19361,"USA","1040","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Wade Binfield",18435,"USA","1102","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Ethan Tracy",19552,"USA","1103","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Sean Harlingten",8202,"USA","1121","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Clayton Rask",13186,"USA","1129","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brad Schneider",3703,"USA","1134","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Riley Wheeldon",15447,"CAN","1136","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Cameron Wilson",16248,"USA","1168","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Matt Hill",14029,"CAN","1176","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Benjamin Silverman",17381,"USA","1177","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"James Love",8130,"CAN","1191","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jeff Rein",17298,"USA","1191","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"David Skinns",10873,"ENG","1205","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Ross Beal",19731,"USA","1211","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brian Richey",16138,"USA","1215","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Danny Sahl",9352,"CAN","1231","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"T.J. Vogel",17280,"USA","1235","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Cory Renfrew",11443,"CAN","1244","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Nicholas Reach",13376,"USA","1250","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Charlie Bull",19735,"ENG","1262","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Riley Fleming",17577,"CAN","1284","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"John Chin",14797,"USA","1303","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Clark Klaasen",14005,"USA","1316","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Kyle Wilshire",19774,"USA","1338","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jonathan Moore",11278,"USA","1372","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brad Gehl",18791,"USA","1387","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Joseph Harrison",19744,"USA","1393","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jonathan Garrick",21885,"USA","1456","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Seath Lauer",15121,"USA","1463","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Chase Marinell",19750,"USA","1463","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Thomas Hay",16330,"CAN","1485","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Paul Barjon(Am)",16566,"FRA","1485","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Carlos Sainz Jr",14519,"USA","1520","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Chris Williams",15481,"USA","1535","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Scott Gutschewski",7305,"USA","1550","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brock MacKenzie",9167,"USA","1557","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Julien Brun",16363,"FRA","1557","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jonathan Khan",19833,"USA","1557","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Michael Miller(1992)",17902,"USA","1566","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Curtis Reed",19762,"USA","1584","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Logan McCracken",19754,"USA","1599","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Sam Love",18632,"USA","1607","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Eric Onesi",15457,"USA","1627","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Vince Covello",11441,"USA","1680","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Michael Gligic",13404,"CAN","1692","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Max Gilbert",17684,"CAN","1797","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Chris Hemmerich(Am)",18570,"CAN","1803","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Tain Lee",16598,"USA","1813","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jay Myers",18538,"USA","1833","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"David Anthony",6769,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Tadd Fujikawa",11283,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Justin Bates",11598,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Ted F. Smith",12445,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Erick Justesen",13174,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Cameron Peck",13352,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brett Lederer",13378,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Darren Hupfer",14027,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brian Dwyer",14262,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Brad Benjamin",14486,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Sean Dale",15118,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Aaron Cockerill(Am)",15596,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Sebastian Szirmak",15710,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Byron Meth",15855,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Edward Figueroa",16044,"PUE","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jonathan Fly",16226,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Vaita Guillaume",16432,"PYF","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Matthew NeSmith",16433,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Tim Ailes",16435,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Charlie Winegardner",17483,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Kazuo Hoffman",18533,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Christopher Wolfe",18550,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Stuart MacDonald(Am)",18571,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Mike Ballo, Jr.",18678,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jake Johnson",18712,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Dillon Rust",18771,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jake Knapp",19396,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Nicholas Delio",17544,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"James Erkenbeck",17720,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Andreas Halvorsen",17747,"NOR","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Will McCurdy",17758,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Andrew Ledger",17778,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Lucas Kim",17855,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Thomas Baik",18112,"ARG","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jared Wolfe",18164,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Charlie Harrison",18189,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"William Kropp",18193,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Colin Featherstone",18257,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Adam Webb",18373,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Ryan Heisey",19469,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Travis Howe",19592,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"David Pastore",19593,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Seth Reeves",19643,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Austin Connelly",19704,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Zachary Edmondson",19739,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"David Fink",19741,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Matt F Hansen",19743,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Paul McConnell",19753,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Michael Schoolcraft",19766,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Chris Worrell",19775,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Benjamin Taylor",19948,"ENG","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Benjamin Polland",20344,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"William Starke(Am)",20879,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Blake Pugh",21395,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Cody Blick",21876,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Ryan Burgess",21878,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Bradley Caldwell",21879,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Trevor Cone",21880,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Mathias Dahl",21881,"SWE","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Mark Geddes",21886,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Taylor R. Hancock",21887,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Maxwell Hosking",21888,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Jeffrey Kang",21889,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Craig McCoy",21893,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Joe Parkinson",21897,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Roman Robledo",21900,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Manav Shah",21901,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Michael Tolladay",21905,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"John Tomlinson",21906,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Elliott Whitley",21907,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Nathan Anderson",21929,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Spencer Fletcher",21941,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Henry Lebioda",21943,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-05
-"Henrik Stenson",5994,"SWE","6","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Branden Grace",11952,"RSA","10","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Patrick Reed",14838,"USA","13","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"J.B. Holmes",7959,"USA","20","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Phil Mickelson",1547,"USA","21","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Chris Wood",12451,"ENG","24","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Shane Lowry",13900,"IRL","26","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Russell Knox",13831,"SCO","27","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Rafael Cabrera Bello",7457,"ESP","28","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Thongchai Jaidee",5973,"THA","37","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Andy Sullivan",15326,"ENG","40","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Matthew Fitzpatrick",17646,"ENG","41","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"David Lingmerth",14815,"SWE","47","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Danny Lee",11826,"NZL","48","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Soren Kjeldsen",6149,"DEN","49","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Kiradech Aphibarnrat",12321,"THA","51","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Martin Kaymer",8117,"GER","52","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Joost Luiten",10158,"NED","63","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Thorbjorn Olesen",13412,"DEN","64","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Thomas Pieters",13944,"BEL","66","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jeunghun Wang",15366,"KOR","73","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jamie Donaldson",7084,"WAL","74","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Victor Dubuisson",10198,"FRA","75","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Scott Hend",1888,"AUS","76","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Graeme McDowell",7548,"NIR","78","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Luke Donald",4163,"ENG","83","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Soomin Lee",14614,"KOR","85","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jamie Lovemark",11382,"USA","88","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Ross Fisher",9396,"ENG","96","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Tyrrell Hatton",14796,"ENG","98","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Alexander Noren",10419,"SWE","99","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Bradley Dredge",6150,"WAL","101","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"James Morrison",11061,"ENG","102","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Andrew Johnston",14666,"ENG","105","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Gregory Bourdy",7932,"FRA","110","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"George Coetzee",10884,"RSA","111","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Julien Quesne",9131,"FRA","125","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Ricardo Gouveia",18722,"POR","126","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Wu Ashun",11763,"CHN","131","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Lucas Bjerregaard",11619,"DEN","132","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Tommy Fleetwood",12294,"ENG","133","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Alexander Levy",14973,"FRA","134","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Lee Slattery",6866,"ENG","137","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Li Haotong",15310,"CHN","140","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Pablo Larrazabal",9133,"ESP","145","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Fabrizio Zanotti",9842,"PAR","147","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Padraig Harrington",5716,"IRL","152","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Eddie Pepperell",15113,"ENG","154","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Richie Ramsay",11396,"SCO","158","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Romain Wattel",13165,"FRA","163","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Alejandro Canizares",11509,"ESP","164","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Nicolas Colsaerts",6893,"BEL","166","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Marc Warren",7567,"SCO","171","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Benjamin Hebert",12213,"FRA","174","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Miguel A Jimenez",3596,"ESP","176","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Steve Stricker",4818,"USA","177","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"David Howell",5718,"ENG","180","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Nathan Holman",15923,"AUS","182","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Richard Bland",6516,"ENG","189","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"David Horsey",11230,"ENG","194","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Maximilian Kieffer",12317,"GER","196","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"S.S.P. Chawrasia",7040,"IND","198","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Nacho Elvira",12988,"ESP","201","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Marcel Siem",6950,"GER","208","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Raphael Jacquelin",5784,"FRA","209","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jorge Campillo",14016,"ESP","212","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Sebastien Gros",16650,"FRA","215","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Robert Rock",7895,"ENG","216","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Peter Hanson",6850,"SWE","220","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Anthony Wall",5931,"ENG","221","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Darren Fichardt",5754,"RSA","226","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Prom Meesawat",7109,"THA","232","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Gary Stal",13262,"FRA","235","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Robert Dinwiddie",11894,"ENG","238","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Trevor Fisher-Jr",7678,"RSA","245","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Haydn Porteous",15866,"RSA","247","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Pelle Edberg",8574,"SWE","253","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Brett Rumford",6255,"AUS","255","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Mikko Ilonen",6929,"FIN","256","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Richard Green",3877,"AUS","259","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Gary Boyd",12795,"ENG","263","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Graeme Storm",3323,"ENG","264","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Felipe Aguilar",8135,"CHI","265","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jason Scrivener",12734,"AUS","266","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Callum Shinkwin",18244,"ENG","276","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Y.E. Yang",6629,"KOR","284","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Johan Carlsson",11658,"SWE","285","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"David Lipsky",15980,"USA","286","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Eduardo De la Riva",6637,"ESP","289","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Roope Kakko",9199,"FIN","289","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Matthew Southgate",15191,"ENG","292","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Mike Lorenzo-Vera",9675,"FRA","294","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Borja Virto Astudillo",17313,"ESP","307","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Thomas Bjorn",5725,"DEN","310","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Mikko Korhonen",9252,"FIN","314","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Nino Bertasio",13013,"ITA","318","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jeff Winther",15680,"DEN","321","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Ross McGowan",11981,"ENG","331","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Joakim Lagergren",14780,"SWE","334","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Adrian Otaegui",14975,"ESP","344","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Magnus A Carlsson",7823,"SWE","347","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Andrew Dodt",8364,"AUS","348","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Daniel Im",12971,"USA","351","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Gregory Havret",6239,"FRA","361","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Thomas Linard",15337,"FRA","364","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Richard Sterne",7049,"RSA","365","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Justin Walters",8045,"RSA","373","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Lasse Jensen",10170,"DEN","376","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"David Drysdale",6867,"SCO","379","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Robert Karlsson",4331,"SWE","389","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Chris Hanson",12295,"ENG","421","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Daniel Brooks",12897,"ENG","422","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Ben Evans",10151,"ENG","431","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Paul Lawrie",5105,"SCO","438","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Richard McEvoy",7389,"ENG","439","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Bjorn Akesson",11530,"SWE","446","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Rhys Davies",11527,"WAL","447","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Joachim B Hansen",14284,"DEN","462","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jamie McLeary",9240,"SCO","470","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Renato Paratore",16549,"ITA","472","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jens Fahrbring",13445,"SWE","476","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Morten Orum Madsen",13411,"DEN","488","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Shiv Kapur",9553,"IND","494","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Craig Lee",4398,"SCO","498","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Clement Berardo",14970,"FRA","503","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Matt Ford",10139,"ENG","515","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Andrew McArthur",9130,"SCO","522","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Oliver Fisher",10863,"ENG","539","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"John Parry",13764,"ENG","543","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Chris Paisley",14844,"ENG","546","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Michael Hoey",7303,"NIR","549","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Matteo Manassero",11460,"ITA","596","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Scott Jamieson",11397,"SCO","602","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Edouard Espana",14787,"FRA","607","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Johan Edfors",6852,"SWE","684","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jimmy Gunn",18163,"SCO","688","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Simon Khan",6686,"ENG","725","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Stuart Manley",8222,"WAL","747","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jeev Milkha Singh",3831,"IND","806","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Steve Webster",5667,"ENG","828","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Edoardo Molinari",7033,"ITA","848","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Niclas Fasth",3832,"SWE","853","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Oliver Wilson",8300,"ENG","857","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"David Dixon",7311,"ENG","928","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Peter Whiteford",7822,"SCO","933","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Matthew Baldwin",13344,"ENG","1050","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Simon Dyson",6436,"ENG","1057","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jack Doherty",8161,"SCO","1070","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Colin Montgomerie",741,"SCO","1587","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Paul McGinley",5222,"IRL","1716","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Alastair Forsyth",1801,"SCO","1811","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Sandy Lyle",294,"SCO","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Gareth Wright",10439,"WAL","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Jin Jeong",13573,"KOR","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Kris Nicol",14922,"SCO","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Albert Venter(Am)",21202,"RSA","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-05
-"Dean Burmester",14424,"RSA","117","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ryan Fox",11889,"NZL","190","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jordan L Smith",18586,"ENG","230","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Dylan Frittelli",11955,"RSA","236","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Sebastian Soderberg",18517,"SWE","257","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Alexander Knappe",12318,"GER","268","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Matt Wallace",20706,"ENG","273","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Bernd Ritthammer",12521,"GER","279","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"John Hahn",17539,"USA","322","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Damien Perrier",12661,"FRA","324","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Christofer Blomstrand",20167,"SWE","359","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"James Heath",9365,"ENG","369","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Romain Langasque",16652,"FRA","370","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Simon Forsstrom",19806,"SWE","378","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jens Dantorp",14018,"SWE","394","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Matthieu Pavon",19960,"FRA","409","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Duncan Stewart",12472,"SCO","411","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Estanislao Goya",10877,"ARG","414","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Tom Murray",17077,"ENG","429","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jurrian Van der Vaart",13489,"NED","444","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Garrick Porteous",16400,"ENG","451","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Alexander Bjork",14775,"SWE","477","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Max Orrin",17903,"ENG","481","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Espen Kofstad",13349,"NOR","491","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ben Stow",16401,"ENG","495","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Daan Huizing",12650,"NED","500","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Darius Van Driel",13374,"NED","504","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ruaidhri McGee",17818,"IRL","506","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Lorenzo Gagli",10073,"ITA","528","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Daniel Gaunt",6132,"AUS","530","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Scott Henry",12468,"SCO","557","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Steven Tiley",9311,"ENG","570","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Matthew Nixon",15184,"ENG","579","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Matteo Delpodio",11121,"ITA","586","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Thomas Detry(Am)",14181,"BEL","598","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Florian Fritsch",9217,"GER","600","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Marcel Schneider",12522,"GER","609","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Alessandro Tadini",7001,"ITA","622","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Aaron Rai",18554,"ENG","624","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Mads Sogaard",15678,"DEN","644","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"David Law",14784,"SCO","667","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Pablo Martin Benavides",7885,"ESP","675","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"James Robinson",12298,"ENG","676","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Kevin Phelan",14702,"IRL","678","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Johan Edfors",6852,"SWE","684","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Chris Selfridge",13982,"IRL","701","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Manuel Trappel",14681,"AUT","707","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Paul Maddy",17343,"ENG","711","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Robert Coles",5714,"ENG","717","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Oliver Farr",13318,"WAL","720","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jose Manuel Lara",5815,"ESP","724","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Francesco Laporta",14987,"ITA","730","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Carlos del Moral",10222,"ESP","731","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Kristian Krogh Johannessen",16421,"NOR","739","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Pedro Oriol",10248,"ESP","744","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Martin Keskari",14017,"GER","752","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Josh Loughrey",19812,"ENG","763","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ricardo Santos",8816,"POR","766","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Joel Girrbach",15592,"SUI","771","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Mathieu Decottignies Lafon",13998,"FRA","778","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Steven Jeppesen",8125,"SWE","781","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Tapio Pulkkanen",13139,"FIN","787","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ashley Chesters",18735,"ENG","811","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ben Parker",11816,"ENG","814","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Marcus Kinhult",18514,"SWE","858","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Victor Riu",12217,"FRA","868","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jerome Lando-Casanova",14040,"FRA","887","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jason Barnes",15186,"ENG","892","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Pontus Widegren",11661,"SWE","898","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Craig Hinton",15580,"ENG","908","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Dimi Papadatos",15168,"AUS","924","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Benjamin Rusch",13281,"SUI","929","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Toby Tree",19357,"ENG","943","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Oscar Stark",18131,"SWE","978","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Reinier Saxton",11564,"NED","981","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Juan Francisco Sarasti",13886,"ESP","982","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Eric Blom",16443,"SWE","986","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Marco Crespi",7933,"ITA","1029","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Adrien Bernadet",10202,"FRA","1039","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Krister Eriksson",13346,"SWE","1053","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Robin Kind",14986,"NED","1055","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Philipp Mejow",19897,"GER","1056","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Gareth Shaw",13325,"NIR","1059","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Andreas Hartø",14285,"DEN","1068","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Joshua White",18784,"ENG","1074","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Emilio Cuartero Blanco",19459,"ESP","1084","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Sam Hutsby",11104,"ENG","1086","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Joel Sjoholm",12485,"SWE","1096","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Gavin Moynihan",17585,"IRL","1096","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Gary Hurley",18657,"IRL","1098","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Darren Wright",16092,"ENG","1122","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Daniel Jennevret",13449,"SWE","1140","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Francois Calmels",9292,"FRA","1144","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jimmy Mullen",17647,"ENG","1144","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Charles-Edouard Russo",8914,"FRA","1158","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Niccolo Ravano",10071,"ITA","1171","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Martin Wiegele",7869,"AUT","1184","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Daniel Gavins",18241,"ENG","1228","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jean-Baptiste Gonnet",7979,"FRA","1230","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Steven Brown",15771,"ENG","1231","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"George Woolgar",14067,"ENG","1253","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Charlie Ford",14400,"ENG","1269","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Filippo Bergamaschi",15266,"ITA","1373","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ross Kellett",13235,"SCO","1399","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Filip Mruzek",14883,"CZE","1401","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Brinson Paolini",17638,"USA","1413","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Pierre Relecom",12228,"BEL","1421","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Kalle Samooja",14120,"FIN","1436","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Christian Gloet",16444,"DEN","1447","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Michael Palmer",21201,"RSA","1465","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"James Allan",18778,"ENG","1481","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Gerard Piris Mateu",15371,"ESP","1593","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Scott Fallon",17474,"ENG","1598","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Teemu Bakker",13372,"FIN","1599","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Martin Leth Simonsen(Am)",16448,"DEN","1607","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Damian Ulrich",10520,"SUI","1623","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Sean Einhaus",10223,"GER","1644","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Sandro Piaget",11351,"MON","1651","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Tim Gornik",19605,"SLO","1666","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Alvaro Velasco",9603,"ESP","1696","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Martin Rominger",9528,"SUI","1700","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Pedro Figueiredo",10033,"POR","1764","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Niklas Lemke",10418,"SWE","1797","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Andrea Maestroni",7000,"ITA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Craig Sutherland",10605,"SCO","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jean-Luc Burnier",11347,"SUI","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Fabian Becker",12506,"GER","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Andrea Perrino",13014,"ITA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Petr Nic",13070,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Lukas Nemecz",13089,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Rene Gruber",13298,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ondrej Lieser",13390,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Leonardo Motta",13896,"ITA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Lukas Tintera",14091,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Petr Gal-jr",14882,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Christoph Koerbler(Am)",15422,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Petr Dedek",16717,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Daniel Suchan(Am)",17522,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ales Korinek",17865,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Vojtech Kostelka(AM)",18519,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Paul Shields",18682,"SCO","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Michal Brezovsky(AM)",18720,"SVK","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jan Friesz(AM)",18721,"SVK","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Tomas Navrata(AM)",18725,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Petr Valasek",18727,"SVK","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Ben Robinson(AM)",18914,"ENG","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Cormac Sharvin(AM)",18915,"NIR","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Jan  Cafourek",19851,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Steven Cairns",20709,"GER","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Robert Molnar",21216,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Vishnoo Seeneevassen",21374,"MRI","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Robin Roussel",21507,"FRA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
-"Chase Koepka",21997,"USA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-05
+"Ollie Schniederjans",18662,"USA","153","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Wesley Bryan",21236,"USA","183","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Richy Werenski",19364,"USA","240","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Brad Fritsch",7207,"CAN","249","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Seamus Power",10104,"IRL","291","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"J.J Spaun",17536,"USA","309","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"C.T. Pan",15475,"TPE","323","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Josh Geary",9903,"NZL","329","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Rodolfo Cazaubon Jnr",18185,"MEX","330","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Dominic Bozzelli",17564,"USA","339","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ryan Armour",8469,"USA","341","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Martin Flores",10535,"USA","356","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Rhein Gibson",13342,"AUS","396","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Austin Cook",18579,"USA","401","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Kyle Thompson",7617,"USA","418","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Cameron Percy",5874,"AUS","420","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Juan Sebastian Munoz",20770,"COL","423","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Julian Etulain",11911,"ARG","425","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Donghwan Lee",8211,"KOR","427","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jonathan Byrd",6931,"USA","435","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Sebastian Vazquez",15487,"MEX","436","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Max Homa",17538,"USA","441","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Joel Dahmen",14509,"USA","449","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"James Driscoll",6228,"USA","457","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Kelly Kraft",15852,"USA","458","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Cody Gribble",17508,"USA","463","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Kent Bulle",15715,"USA","474","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Andrew Svoboda",11274,"USA","475","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Nicholas Lindheim",16713,"USA","479","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Bryden MacPherson",14378,"AUS","485","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Abraham Ancer",18238,"MEX","487","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Brandon Hagy",18695,"USA","519","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Kevin Tway",13127,"USA","520","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Adam Schenk",19477,"USA","522","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Tag Ridings",6840,"USA","524","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jonathan Randolph",14837,"USA","525","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Tom Gillis",3901,"USA","535","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ryan Blaum",9643,"USA","542","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Miguel Angel Carballo",8570,"ARG","544","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Rafael Campos",12909,"PUE","545","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Lucas Lee",13618,"BRA","551","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"John Merrick",9584,"USA","553","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Curtis Thompson",19395,"USA","554","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Matt Atkins",19360,"USA","559","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Albin Choi",15606,"CAN","564","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ryan Brehm",10423,"USA","571","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Sam Ryder",16715,"USA","576","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Mark Anderson",12131,"USA","578","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Zack Sucher",14036,"USA","592","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Steve Allan",5697,"AUS","602","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Taylor Pendrith",17780,"CAN","606","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Adam Long",15473,"USA","612","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Alex Prugh",12339,"USA","614","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Justin Hicks",9166,"USA","615","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Bhavik Patel",16107,"USA","621","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jorge Fernandez-Valdes",16786,"ARG","629","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Justin Hueber",18590,"USA","636","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Alexandre Rocha",7441,"BRA","638","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Sebastian Cappelen",14776,"DEN","639","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Chris Baker",13971,"USA","643","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Josh Teater",8085,"USA","648","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Brady Schnell",12414,"USA","651","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Blake Adams",12088,"USA","661","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Adam Svensson",13997,"CAN","670","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Scott Harrington",8479,"USA","677","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Darron Stiles",6401,"USA","682","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Brett Drewitt",15162,"AUS","687","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Roger Sloan",14050,"CAN","689","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"JT Poston",21554,"USA","695","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Gonzalo Fdez-Castano",8262,"ESP","706","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jin Park",7362,"KOR","708","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Timothy Madigan",18535,"USA","723","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Nicholas Thompson",10889,"USA","729","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Nate Lashley",10943,"USA","735","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Grayson Murray",14655,"USA","740","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Anders Albertson",21235,"USA","741","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Zack Fischer",17273,"USA","754","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Steven Fox",17059,"USA","767","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Andy Winings",14807,"USA","768","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Diego Velasquez",14840,"COL","772","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Tyler Duncan",18187,"USA","783","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Eric Axley",8024,"USA","788","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jason Allred",7804,"USA","797","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Matt Fast",14561,"USA","805","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Mathew Goggin",3756,"AUS","807","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Brad Elder",6204,"USA","840","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Bryan Bigley",15329,"USA","846","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Travis Bertoni",12563,"USA","851","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ryan Yip",12083,"CAN","863","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Keith Mitchell",17365,"USA","871","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jack Maguire(am)",19869,"USA","872","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Michael Hebert",18251,"USA","876","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ryan Spears",14011,"USA","881","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Todd Baek",12745,"KOR","912","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Peter Lonard",4122,"AUS","914","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Oscar Fraustro",9834,"MEX","917","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Greg Eason",17719,"ENG","917","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Robby Shelton IV",18635,"USA","919","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Stephan Jaeger",16394,"GER","922","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Andrew Yun",15614,"USA","950","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Aaron Watkins",9932,"USA","952","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Denny McCarthy",19870,"USA","955","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Bill Lunde",7962,"USA","973","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Chris Naegel",17345,"USA","975","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Hunter Hamrick",16242,"USA","984","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Oliver Goss",16813,"AUS","988","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Chase Wright",16807,"USA","996","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Peter Tomasulo",9910,"USA","1000","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Erik Barnes",14799,"USA","1003","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Steve LeBrun",7099,"USA","1010","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Matt Davidson",9872,"USA","1011","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Mark Silvers",14705,"USA","1023","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ben Kohles",16395,"USA","1036","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jeff Gove",6390,"USA","1080","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ted Potter-jr",8769,"USA","1116","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Michael Arnaud",13815,"USA","1123","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Xander Schauffele",19895,"USA","1139","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ian Davis",18589,"USA","1142","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Wil Collins",8116,"USA","1191","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Byron Smith",9687,"USA","1212","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Troy Matteson",7954,"USA","1245","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Mackenzie Hughes",15556,"CAN","1268","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Casey Wittenberg",8819,"USA","1275","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Chris Wilson",7432,"USA","1283","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"B.J. Staten",7642,"USA","1297","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Benjamin Alvarado",12547,"CHI","1309","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Bryan Martin",17199,"USA","1322","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Matt Harmon",12385,"USA","1346","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Kurt Kitayama",21891,"USA","1417","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Michael Gellerman",19909,"USA","1485","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"John Rollins",6300,"USA","1509","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jhared Hack",14457,"USA","1668","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Russell Surber",9200,"USA","1753","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Richard H. Lee",15233,"USA","1773","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ben Curtis",7101,"USA","1800","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Len Mattiace",3982,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Steve Friesen",7816,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"George Bryan",8823,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Adam Mitchell",13522,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jack Newman",15402,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Chas Narramore",15718,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Kyle Scott",15861,"RSA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Ryan Sullivan",17276,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Jared Wolfe",18164,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Cody Paladino",18197,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Bruce Woodall",18551,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Rick Lamb",18869,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Doug Letson",19746,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Kyle Jones",19867,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Charles Wang",21376,"CHN","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Evan Beck",22025,"USA","1836","LECOM Health Challenge ",6279,2016-07-10,"Web.com Tour",NA,NA,2016-07-07
+"Scott Vincent",14559,"ZIM","393","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Daniel McCarthy",11594,"USA","468","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Augusto Nunez",16796,"ARG","593","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Corey Conners",17576,"CAN","714","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Tyler McCumber",17584,"USA","749","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Ryan Williams",13191,"CAN","761","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Adam Cornelson",15423,"CAN","779","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Gregory Yates",19830,"USA","790","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Sam Fidone",19618,"USA","797","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Max Rottluff",19899,"GER","797","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Talor Gooch",18580,"USA","833","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Wilson Bateman",15499,"CAN","890","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Michael Letzig",7641,"USA","939","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Chris Ross",14835,"CAN","972","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brad Clapp",17527,"CAN","979","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Daniel Miernicki",14798,"USA","1003","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Carter Jenkins",15456,"USA","1013","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Caleb Sturgeon",21904,"USA","1013","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Taylor Moore",21944,"USA","1013","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Cao Yi",15067,"CHN","1034","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Ben Geyer",19361,"USA","1040","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Wade Binfield",18435,"USA","1102","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Ethan Tracy",19552,"USA","1103","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Sean Harlingten",8202,"USA","1121","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Clayton Rask",13186,"USA","1129","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brad Schneider",3703,"USA","1134","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Riley Wheeldon",15447,"CAN","1136","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Cameron Wilson",16248,"USA","1168","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Matt Hill",14029,"CAN","1176","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Benjamin Silverman",17381,"USA","1177","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"James Love",8130,"CAN","1191","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jeff Rein",17298,"USA","1191","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"David Skinns",10873,"ENG","1205","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Ross Beal",19731,"USA","1211","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brian Richey",16138,"USA","1215","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Danny Sahl",9352,"CAN","1231","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"T.J. Vogel",17280,"USA","1235","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Cory Renfrew",11443,"CAN","1244","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Nicholas Reach",13376,"USA","1250","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Charlie Bull",19735,"ENG","1262","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Riley Fleming",17577,"CAN","1284","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"John Chin",14797,"USA","1303","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Clark Klaasen",14005,"USA","1316","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Kyle Wilshire",19774,"USA","1338","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jonathan Moore",11278,"USA","1372","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brad Gehl",18791,"USA","1387","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Joseph Harrison",19744,"USA","1393","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jonathan Garrick",21885,"USA","1456","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Seath Lauer",15121,"USA","1463","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Chase Marinell",19750,"USA","1463","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Thomas Hay",16330,"CAN","1485","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Paul Barjon(Am)",16566,"FRA","1485","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Carlos Sainz Jr",14519,"USA","1520","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Chris Williams",15481,"USA","1535","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Scott Gutschewski",7305,"USA","1550","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brock MacKenzie",9167,"USA","1557","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Julien Brun",16363,"FRA","1557","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jonathan Khan",19833,"USA","1557","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Michael Miller(1992)",17902,"USA","1566","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Curtis Reed",19762,"USA","1584","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Logan McCracken",19754,"USA","1599","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Sam Love",18632,"USA","1607","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Eric Onesi",15457,"USA","1627","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Vince Covello",11441,"USA","1680","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Michael Gligic",13404,"CAN","1692","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Max Gilbert",17684,"CAN","1797","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Chris Hemmerich(Am)",18570,"CAN","1803","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Tain Lee",16598,"USA","1813","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jay Myers",18538,"USA","1833","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"David Anthony",6769,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Tadd Fujikawa",11283,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Justin Bates",11598,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Ted F. Smith",12445,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Erick Justesen",13174,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Cameron Peck",13352,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brett Lederer",13378,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Darren Hupfer",14027,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brian Dwyer",14262,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Brad Benjamin",14486,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Sean Dale",15118,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Aaron Cockerill(Am)",15596,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Sebastian Szirmak",15710,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Byron Meth",15855,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Edward Figueroa",16044,"PUE","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jonathan Fly",16226,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Vaita Guillaume",16432,"PYF","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Matthew NeSmith",16433,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Tim Ailes",16435,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Charlie Winegardner",17483,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Kazuo Hoffman",18533,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Christopher Wolfe",18550,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Stuart MacDonald(Am)",18571,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Mike Ballo, Jr.",18678,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jake Johnson",18712,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Dillon Rust",18771,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jake Knapp",19396,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Nicholas Delio",17544,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"James Erkenbeck",17720,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Andreas Halvorsen",17747,"NOR","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Will McCurdy",17758,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Andrew Ledger",17778,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Lucas Kim",17855,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Thomas Baik",18112,"ARG","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jared Wolfe",18164,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Charlie Harrison",18189,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"William Kropp",18193,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Colin Featherstone",18257,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Adam Webb",18373,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Ryan Heisey",19469,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Travis Howe",19592,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"David Pastore",19593,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Seth Reeves",19643,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Austin Connelly",19704,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Zachary Edmondson",19739,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"David Fink",19741,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Matt F Hansen",19743,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Paul McConnell",19753,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Michael Schoolcraft",19766,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Chris Worrell",19775,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Benjamin Taylor",19948,"ENG","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Benjamin Polland",20344,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"William Starke(Am)",20879,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Blake Pugh",21395,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Cody Blick",21876,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Ryan Burgess",21878,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Bradley Caldwell",21879,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Trevor Cone",21880,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Mathias Dahl",21881,"SWE","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Mark Geddes",21886,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Taylor R. Hancock",21887,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Maxwell Hosking",21888,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Jeffrey Kang",21889,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Craig McCoy",21893,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Joe Parkinson",21897,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Roman Robledo",21900,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Manav Shah",21901,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Michael Tolladay",21905,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"John Tomlinson",21906,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Elliott Whitley",21907,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Nathan Anderson",21929,"CAN","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Spencer Fletcher",21941,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Henry Lebioda",21943,"USA","1836","Players Cup ",6280,2016-07-10,"PGA Tour Canada",NA,NA,2016-07-07
+"Henrik Stenson",5994,"SWE","6","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Branden Grace",11952,"RSA","10","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Patrick Reed",14838,"USA","13","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"J.B. Holmes",7959,"USA","20","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Phil Mickelson",1547,"USA","21","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Shane Lowry",13900,"IRL","26","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Russell Knox",13831,"SCO","27","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Rafael Cabrera Bello",7457,"ESP","28","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Thongchai Jaidee",5973,"THA","37","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Andy Sullivan",15326,"ENG","40","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Matthew Fitzpatrick",17646,"ENG","41","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"David Lingmerth",14815,"SWE","47","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Danny Lee",11826,"NZL","48","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Soren Kjeldsen",6149,"DEN","49","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Kiradech Aphibarnrat",12321,"THA","51","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Martin Kaymer",8117,"GER","52","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Joost Luiten",10158,"NED","63","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Thorbjorn Olesen",13412,"DEN","64","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Thomas Pieters",13944,"BEL","66","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jeunghun Wang",15366,"KOR","73","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jamie Donaldson",7084,"WAL","74","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Scott Hend",1888,"AUS","76","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Graeme McDowell",7548,"NIR","78","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Luke Donald",4163,"ENG","83","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Soomin Lee",14614,"KOR","85","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jamie Lovemark",11382,"USA","88","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Ross Fisher",9396,"ENG","96","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Tyrrell Hatton",14796,"ENG","98","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Alexander Noren",10419,"SWE","99","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Bradley Dredge",6150,"WAL","101","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"James Morrison",11061,"ENG","102","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Andrew Johnston",14666,"ENG","105","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Gregory Bourdy",7932,"FRA","110","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"George Coetzee",10884,"RSA","111","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Julien Quesne",9131,"FRA","125","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Ricardo Gouveia",18722,"POR","126","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Wu Ashun",11763,"CHN","131","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Lucas Bjerregaard",11619,"DEN","132","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Tommy Fleetwood",12294,"ENG","133","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Alexander Levy",14973,"FRA","134","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Lee Slattery",6866,"ENG","137","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Li Haotong",15310,"CHN","140","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Pablo Larrazabal",9133,"ESP","145","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Fabrizio Zanotti",9842,"PAR","147","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Padraig Harrington",5716,"IRL","152","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Eddie Pepperell",15113,"ENG","154","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Richie Ramsay",11396,"SCO","158","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Romain Wattel",13165,"FRA","163","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Alejandro Canizares",11509,"ESP","164","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Nicolas Colsaerts",6893,"BEL","166","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Marc Warren",7567,"SCO","171","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Benjamin Hebert",12213,"FRA","174","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Miguel A Jimenez",3596,"ESP","176","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Steve Stricker",4818,"USA","177","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"David Howell",5718,"ENG","180","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Nathan Holman",15923,"AUS","182","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Richard Bland",6516,"ENG","189","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"David Horsey",11230,"ENG","194","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Maximilian Kieffer",12317,"GER","196","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"S.S.P. Chawrasia",7040,"IND","198","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Nacho Elvira",12988,"ESP","201","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Marcel Siem",6950,"GER","208","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Raphael Jacquelin",5784,"FRA","209","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jorge Campillo",14016,"ESP","212","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Sebastien Gros",16650,"FRA","215","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Robert Rock",7895,"ENG","216","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Peter Hanson",6850,"SWE","220","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Anthony Wall",5931,"ENG","221","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Darren Fichardt",5754,"RSA","226","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Prom Meesawat",7109,"THA","232","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Gary Stal",13262,"FRA","235","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Robert Dinwiddie",11894,"ENG","238","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Trevor Fisher-Jr",7678,"RSA","245","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Haydn Porteous",15866,"RSA","247","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Pelle Edberg",8574,"SWE","253","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Brett Rumford",6255,"AUS","255","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Mikko Ilonen",6929,"FIN","256","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Richard Green",3877,"AUS","259","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Gary Boyd",12795,"ENG","263","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Graeme Storm",3323,"ENG","264","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Felipe Aguilar",8135,"CHI","265","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jason Scrivener",12734,"AUS","266","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Callum Shinkwin",18244,"ENG","276","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Y.E. Yang",6629,"KOR","284","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Johan Carlsson",11658,"SWE","285","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"David Lipsky",15980,"USA","286","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Eduardo De la Riva",6637,"ESP","289","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Roope Kakko",9199,"FIN","289","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Matthew Southgate",15191,"ENG","292","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Mike Lorenzo-Vera",9675,"FRA","294","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Borja Virto Astudillo",17313,"ESP","307","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Thomas Bjorn",5725,"DEN","310","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Mikko Korhonen",9252,"FIN","314","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Nino Bertasio",13013,"ITA","318","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jeff Winther",15680,"DEN","321","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Ross McGowan",11981,"ENG","331","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Joakim Lagergren",14780,"SWE","334","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Adrian Otaegui",14975,"ESP","344","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Magnus A Carlsson",7823,"SWE","347","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Andrew Dodt",8364,"AUS","348","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Paul Dunne",18736,"IRL","350","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Daniel Im",12971,"USA","351","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Gregory Havret",6239,"FRA","361","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Thomas Linard",15337,"FRA","364","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Richard Sterne",7049,"RSA","365","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Justin Walters",8045,"RSA","373","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Lasse Jensen",10170,"DEN","376","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"David Drysdale",6867,"SCO","379","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Robert Karlsson",4331,"SWE","389","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Chris Hanson",12295,"ENG","421","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Daniel Brooks",12897,"ENG","422","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Ben Evans",10151,"ENG","431","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Paul Lawrie",5105,"SCO","438","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Richard McEvoy",7389,"ENG","439","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Bjorn Akesson",11530,"SWE","446","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Rhys Davies",11527,"WAL","447","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Joachim B Hansen",14284,"DEN","462","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jamie McLeary",9240,"SCO","470","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Renato Paratore",16549,"ITA","472","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jens Fahrbring",13445,"SWE","476","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Morten Orum Madsen",13411,"DEN","488","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Shiv Kapur",9553,"IND","494","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Craig Lee",4398,"SCO","498","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Clement Berardo",14970,"FRA","503","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Matt Ford",10139,"ENG","515","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Andrew McArthur",9130,"SCO","522","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Oliver Fisher",10863,"ENG","539","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"John Parry",13764,"ENG","543","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Chris Paisley",14844,"ENG","546","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Michael Hoey",7303,"NIR","549","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Ryan Evans",19030,"ENG","581","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Matteo Manassero",11460,"ITA","596","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Scott Jamieson",11397,"SCO","602","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Edouard Espana",14787,"FRA","607","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Johan Edfors",6852,"SWE","684","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jimmy Gunn",18163,"SCO","688","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Simon Khan",6686,"ENG","725","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Stuart Manley",8222,"WAL","747","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jeev Milkha Singh",3831,"IND","806","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Steve Webster",5667,"ENG","828","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Edoardo Molinari",7033,"ITA","848","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Niclas Fasth",3832,"SWE","853","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Oliver Wilson",8300,"ENG","857","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"David Dixon",7311,"ENG","928","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Peter Whiteford",7822,"SCO","933","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Matthew Baldwin",13344,"ENG","1050","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Simon Dyson",6436,"ENG","1057","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jack Doherty",8161,"SCO","1070","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Colin Montgomerie",741,"SCO","1587","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Paul McGinley",5222,"IRL","1716","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Alastair Forsyth",1801,"SCO","1811","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Sandy Lyle",294,"SCO","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Gareth Wright",10439,"WAL","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Jin Jeong",13573,"KOR","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Kris Nicol",14922,"SCO","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Albert Venter(Am)",21202,"RSA","1836","Aberdeen Asset Management Scottish Open",6281,2016-07-10,"European Tour",NA,NA,2016-07-07
+"Dean Burmester",14424,"RSA","117","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ryan Fox",11889,"NZL","190","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jordan L Smith",18586,"ENG","230","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Dylan Frittelli",11955,"RSA","236","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Sebastian Soderberg",18517,"SWE","257","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Alexander Knappe",12318,"GER","268","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Matt Wallace",20706,"ENG","273","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Bernd Ritthammer",12521,"GER","279","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"John Hahn",17539,"USA","322","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Damien Perrier",12661,"FRA","324","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Christofer Blomstrand",20167,"SWE","359","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"James Heath",9365,"ENG","369","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Romain Langasque",16652,"FRA","370","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Simon Forsstrom",19806,"SWE","378","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jens Dantorp",14018,"SWE","394","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Matthieu Pavon",19960,"FRA","409","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Duncan Stewart",12472,"SCO","411","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Estanislao Goya",10877,"ARG","414","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Tom Murray",17077,"ENG","429","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jurrian Van der Vaart",13489,"NED","444","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Garrick Porteous",16400,"ENG","451","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Alexander Bjork",14775,"SWE","477","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Max Orrin",17903,"ENG","481","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Espen Kofstad",13349,"NOR","491","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ben Stow",16401,"ENG","495","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Daan Huizing",12650,"NED","500","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Darius Van Driel",13374,"NED","504","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ruaidhri McGee",17818,"IRL","506","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Lorenzo Gagli",10073,"ITA","528","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Daniel Gaunt",6132,"AUS","530","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Scott Henry",12468,"SCO","557","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Steven Tiley",9311,"ENG","570","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Matthew Nixon",15184,"ENG","579","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Matteo Delpodio",11121,"ITA","586","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Thomas Detry(Am)",14181,"BEL","598","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Florian Fritsch",9217,"GER","600","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Marcel Schneider",12522,"GER","609","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Alessandro Tadini",7001,"ITA","622","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Aaron Rai",18554,"ENG","624","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Mads Sogaard",15678,"DEN","644","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"David Law",14784,"SCO","667","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Pablo Martin Benavides",7885,"ESP","675","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"James Robinson",12298,"ENG","676","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Kevin Phelan",14702,"IRL","678","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Johan Edfors",6852,"SWE","684","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Chris Selfridge",13982,"IRL","701","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Manuel Trappel",14681,"AUT","707","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Paul Maddy",17343,"ENG","711","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Robert Coles",5714,"ENG","717","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Oliver Farr",13318,"WAL","720","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jose Manuel Lara",5815,"ESP","724","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Francesco Laporta",14987,"ITA","730","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Carlos del Moral",10222,"ESP","731","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Kristian Krogh Johannessen",16421,"NOR","739","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Pedro Oriol",10248,"ESP","744","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Martin Keskari",14017,"GER","752","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Josh Loughrey",19812,"ENG","763","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ricardo Santos",8816,"POR","766","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Joel Girrbach",15592,"SUI","771","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Mathieu Decottignies Lafon",13998,"FRA","778","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Steven Jeppesen",8125,"SWE","781","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Tapio Pulkkanen",13139,"FIN","787","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ashley Chesters",18735,"ENG","811","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ben Parker",11816,"ENG","814","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Marcus Kinhult",18514,"SWE","858","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Victor Riu",12217,"FRA","868","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jerome Lando-Casanova",14040,"FRA","887","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jason Barnes",15186,"ENG","892","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Pontus Widegren",11661,"SWE","898","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Craig Hinton",15580,"ENG","908","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Dimi Papadatos",15168,"AUS","924","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Benjamin Rusch",13281,"SUI","929","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Toby Tree",19357,"ENG","943","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Oscar Stark",18131,"SWE","978","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Reinier Saxton",11564,"NED","981","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Juan Francisco Sarasti",13886,"ESP","982","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Eric Blom",16443,"SWE","986","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Marco Crespi",7933,"ITA","1029","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Adrien Bernadet",10202,"FRA","1039","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Krister Eriksson",13346,"SWE","1053","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Robin Kind",14986,"NED","1055","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Philipp Mejow",19897,"GER","1056","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Gareth Shaw",13325,"NIR","1059","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Andreas Hartø",14285,"DEN","1068","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Joshua White",18784,"ENG","1074","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Emilio Cuartero Blanco",19459,"ESP","1084","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Sam Hutsby",11104,"ENG","1086","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Joel Sjoholm",12485,"SWE","1096","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Gavin Moynihan",17585,"IRL","1096","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Gary Hurley",18657,"IRL","1098","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Darren Wright",16092,"ENG","1122","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Daniel Jennevret",13449,"SWE","1140","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Francois Calmels",9292,"FRA","1144","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jimmy Mullen",17647,"ENG","1144","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Charles-Edouard Russo",8914,"FRA","1158","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Niccolo Ravano",10071,"ITA","1171","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Martin Wiegele",7869,"AUT","1184","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Daniel Gavins",18241,"ENG","1228","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jean-Baptiste Gonnet",7979,"FRA","1230","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Steven Brown",15771,"ENG","1231","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"George Woolgar",14067,"ENG","1253","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Charlie Ford",14400,"ENG","1269","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Filippo Bergamaschi",15266,"ITA","1373","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ross Kellett",13235,"SCO","1399","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Filip Mruzek",14883,"CZE","1401","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Brinson Paolini",17638,"USA","1413","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Pierre Relecom",12228,"BEL","1421","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Kalle Samooja",14120,"FIN","1436","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Christian Gloet",16444,"DEN","1447","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Michael Palmer",21201,"RSA","1465","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"James Allan",18778,"ENG","1481","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Gerard Piris Mateu",15371,"ESP","1593","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Scott Fallon",17474,"ENG","1598","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Teemu Bakker",13372,"FIN","1599","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Martin Leth Simonsen(Am)",16448,"DEN","1607","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Damian Ulrich",10520,"SUI","1623","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Sean Einhaus",10223,"GER","1644","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Sandro Piaget",11351,"MON","1651","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Tim Gornik",19605,"SLO","1666","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Alvaro Velasco",9603,"ESP","1696","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Martin Rominger",9528,"SUI","1700","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Pedro Figueiredo",10033,"POR","1764","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Niklas Lemke",10418,"SWE","1797","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Andrea Maestroni",7000,"ITA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Craig Sutherland",10605,"SCO","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jean-Luc Burnier",11347,"SUI","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Fabian Becker",12506,"GER","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Andrea Perrino",13014,"ITA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Petr Nic",13070,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Lukas Nemecz",13089,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Rene Gruber",13298,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ondrej Lieser",13390,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Leonardo Motta",13896,"ITA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Lukas Tintera",14091,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Petr Gal-jr",14882,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Christoph Koerbler(Am)",15422,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Petr Dedek",16717,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Daniel Suchan(Am)",17522,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ales Korinek",17865,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Vojtech Kostelka(AM)",18519,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Paul Shields",18682,"SCO","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Michal Brezovsky(AM)",18720,"SVK","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jan Friesz(AM)",18721,"SVK","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Tomas Navrata(AM)",18725,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Petr Valasek",18727,"SVK","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Ben Robinson(AM)",18914,"ENG","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Cormac Sharvin(AM)",18915,"NIR","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Jan  Cafourek",19851,"CZE","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Steven Cairns",20709,"GER","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Robert Molnar",21216,"AUT","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Vishnoo Seeneevassen",21374,"MRI","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Robin Roussel",21507,"FRA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Chase Koepka",21997,"USA","1836","D+D REAL Slovakia Challenge",6282,2016-07-10,"European Challenge Tour",NA,NA,2016-07-07
+"Hideto Tanihara",7046,"JPN","84","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yuta Ikeda",8236,"JPN","91","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shingo Katayama",3770,"JPN","103","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Younghan Song",16160,"KOR","122","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yusaku Miyazato",7031,"JPN","128","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yoshinori Fujimoto",11773,"JPN","136","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Prayad Marksaeng",3990,"THA","142","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Thanyakorn Khrongpha",13684,"THA","157","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tomohiro Kondo",6625,"JPN","162","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shugo Imahira",13485,"JPN","167","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ryo Ishikawa",12232,"JPN","173","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Satoshi Kodaira",13531,"JPN","179","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Brad Kennedy",6287,"AUS","181","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Junwon Park",10999,"KOR","185","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Sanghyun Park",10086,"KOR","187","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Junggon Hwang",14936,"KOR","200","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Daisuke Kataoka",11195,"JPN","204","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Michael Hendry",11885,"NZL","207","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Toshinori Muto",7936,"JPN","218","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Liang Wen-chong",6470,"CHN","219","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shaun Norris",7677,"RSA","229","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Koumei Oda",7940,"JPN","233","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hyungsung Kim",11131,"KOR","258","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Katsumasa Miyamoto",5791,"JPN","269","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ryutaro Nagano",10523,"JPN","272","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yosuke Tsukada",14567,"JPN","297","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Michio Matsumura",12419,"JPN","298","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ikjae Jang",6658,"KOR","299","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masahiro Kawamura",13530,"JPN","305","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Adam Bland",10829,"AUS","311","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Angelo Que",7438,"PHI","313","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Matthew Griffin",9780,"AUS","316","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Taichi Teshima",5820,"JPN","325","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hiroyuki Fujita",5599,"JPN","328","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Sanghee Lee",13923,"KOR","337","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Azuma Yano",7045,"JPN","345","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hyunwoo Ryu",13928,"KOR","349","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yuki Inamori",16165,"JPN","355","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Won Joon Lee",10713,"AUS","383","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Byungmin Cho",11696,"KOR","384","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Atomu Shigenaga",10719,"JPN","387","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Jaebum Park",11159,"KOR","392","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ryuichi Oda",7132,"JPN","417","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shunsuke Sonoda",12250,"JPN","426","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tadahiro Takayama",6835,"JPN","428","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Scott Strange",7478,"AUS","442","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Juvic Pagunsan",8615,"PHI","490","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shintaro Kobayashi",10560,"JPN","501","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"David Oh",8547,"USA","510","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ippei Koike",12739,"JPN","516","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Toru Taniguchi",3750,"JPN","518","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yoshitaka Takeya",12208,"JPN","527","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Brendan Jones",6254,"AUS","541","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Mingyu Cho",12096,"KOR","547","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Kazuhiro Yamashita",6833,"JPN","565","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Kyongjun Moon",13836,"KOR","575","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Seunghyuk Kim",7716,"KOR","630","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Akio Sadakata",7416,"JPN","665","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Kurt Barnes",7701,"AUS","710","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Satoshi Tomiyama",8610,"JPN","733","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hosung Choi",9041,"KOR","748","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"S.K. Ho",7307,"KOR","764","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Mikumu Horikawa",15056,"JPN","765","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tatsunori Nukaga",9591,"JPN","815","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Koki Shiomi",17337,"JPN","861","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tetsuji Hiratsuka",6247,"JPN","888","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Keiichiro Fukabori",3976,"JPN","897","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hidemasa Hoshino",6001,"JPN","1028","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yujiro Ohori(Am)",17802,"JPN","1043","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Jinichiro Kozuma",14209,"JPN","1074","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Kaname Yokoo",5680,"JPN","1087","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yasuki Hiramoto",13312,"JPN","1108","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shinji Tomimura",14310,"JPN","1111","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Sungjae Im",17488,"KOR","1157","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ryuko Tokimatsu",16648,"JPN","1189","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Han Lee",7180,"USA","1235","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Naomi Ohta",7856,"JPN","1240","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masanori Kobayashi",1599,"JPN","1252","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Nobuhiro Masuda",7476,"JPN","1255","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ryuji Masaoka",8394,"JPN","1260","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yoshinobu Tsukada",7296,"JPN","1295","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hiroo Kawai",10710,"JPN","1322","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yuki Kono",15032,"JPN","1391","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shota Akiyoshi",13528,"JPN","1413","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shigeru Nonaka",6097,"JPN","1447","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Kenichi Kuboya",5790,"JPN","1512","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yasuharu Imano",5676,"JPN","1605","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masaya Tomida",8881,"JPN","1662","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Koichi Kitamura",15176,"JPN","1723","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Makoto Inoue",6992,"JPN","1741","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tommy Nakajima",386,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masashi Ozaki",392,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Naomichi Joe Ozaki",393,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hirofumi Miyase",3808,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masayoshi Yamazoe",5441,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Takao Nogami",5740,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Jun Kikuchi",5978,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Rich Tate",5986,"AUS","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Paul Sheehan",6111,"AUS","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Satoru Hirota",6378,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yui Ueda",6565,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Kazuhiro Shimizu",6832,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Futoshi Fujita",7028,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Takashi Iwamoto",7174,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tomokazu Yoshinaga",7267,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masashi Ishimaru",8890,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Junpei Takayama",8910,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shinya Shoda",18819,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Fumihiro Ebine",9000,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masahiko Arai",9093,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Masataka Mori(Am)",9534,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yasunobu Fukunaga",9592,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yasunori Yoshida",9596,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Hisaki Takeuchi",9617,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Koji Iwasaki",11088,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tatsuya Kodai",11197,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Daisuke Yasumoto",12293,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Yu Morimoto",12674,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Tomohiro Umeyama",13151,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Narutoshi Yamaoka",14731,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Shota Fukuhara",15388,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Daisuke Harada",16131,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ryo Harada",16456,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Ayumi Kawamitsu",17404,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Koji Okajima",17925,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+" Suzuchiyo",18015,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Keiichi Kaneko",20140,"JPN","1836","Japan PGA Championship Nissin Cupnoodle Cup",6283,2016-07-10,"Japan Golf Tour",NA,NA,2016-07-07
+"Franck Daux",20670,"FRA","584","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Enrico Di Nitto",17652,"ITA","727","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Hubert Tisserand(Am)",19930,"FRA","797","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Tom Shadbolt",15190,"ENG","847","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Leo Lespinasse",20130,"FRA","849","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Fabien Marty",11685,"FRA","854","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Aron Zemmer",15952,"ITA","938","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Stefano Pitoni",17895,"ITA","961","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"David Mor",20689,"ESP","961","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Robin Goger",14240,"AUT","1013","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Victor Perez",20730,"FRA","1013","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Erwan Vielledent",19407,"FRA","1069","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Romain Bechu",12658,"FRA","1155","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"David Borda Antonana",13112,"ESP","1191","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Jean-Pierre Verselin",17610,"FRA","1218","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Julien Foret",8815,"FRA","1231","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"David Carey",20668,"IRL","1294","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nicolas Tacher",17609,"FRA","1319","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Daniel Berna Manzanares",18419,"ESP","1319","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Daniel Young",19908,"SCO","1319","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Cristiano Terragni",10519,"ITA","1338","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Marc Dobias",11349,"SUI","1338","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Andrew Jones(1981)",21301,"ENG","1382","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Federico Maccario",17655,"ITA","1456","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Daniel Osorio",8827,"ESP","1479","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Corrado de Stefani",16386,"ITA","1485","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Raphael Marguery",15339,"FRA","1535","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Kevin Hesbois",13373,"BEL","1593","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Andrew Cooley",19961,"ENG","1593","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Alexandre Widemann",20132,"FRA","1602","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Francois Delamontagne",6373,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Uli Weinhandl",6533,"AUT","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Julien Millet",9175,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Jason Kelly",9878,"NOR","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Christophe Brazillier",10275,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Federico Colombo",11120,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Julien Grillon",11359,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nicolas Peyrichou",11691,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nunzio Lombardi",12175,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Alan Bihan",12211,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Timothee Briset",13907,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Xavier Poncelet",13912,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Ricki Neil-Jones",13958,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Romain Schneider",14793,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Arthur Gabella",14811,"SUI","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Simon Fernoux",15335,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Joon Kim",15369,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Luca D'andreamatteo",15815,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Thomas Grava",18636,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Mervin Rocchi",18638,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Lambert Cochet",18768,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Jeremy Gandon(AM)",18933,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Julien Rodallec",18934,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Gauthier Leblois",16178,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Fabrice Ho",16624,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Clement Rameaux",17124,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Gary Gilligan",17176,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Clemens Dvorak",17589,"AUT","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Thomas Elissalde",17699,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Charles Tortuyaux",17840,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Alessandro Grammatica",19526,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Maxime Radureau",19874,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Alexander Holmes",19999,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Alexandre Daydou(AM)",20129,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nils Drost",20274,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Federico Ranelletti",20295,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Leonardo Sbarigia",20299,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Roberto Laino",20329,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Carl Jonathan Cohen",20359,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Jack Heasman",20436,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Juan Carlos Osorio(1988)",20580,"ESP","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Jake Ayres",20665,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Baptiste Courtachon",20669,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Valerio Pelliccia",20691,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Amaury Rosaye",20698,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Santiago Tarrio",20704,"ESP","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nivorn Inplad de Mattei",20714,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nicolas Aparicio(Am)",20808,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Miguel Cabrera Bello",20810,"ESP","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Charles Herbert",20818,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Raphael Quintana",20824,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Michele Ortolani",20845,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Paul Elissalde(Am)",20848,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nelson Da Silva Ramos",20859,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nicolas Maheut(Am)",20896,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Tommy O'Driscoll",20898,"IRL","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Guglielmo Bravetti",21006,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Leonard Bem",21275,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Maxime Capelle(Am)",21277,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Louis Capon",21278,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Nicholas De Pedrazzi",21279,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Benjamin Wheeler",21286,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Abel Moneim El Shafie(Am)",21300,"EGY","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Oliver Roberts",21562,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Paul BariteauAm)",21565,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"David Giaoui",21823,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Davide Ghisalberti",21662,"ITA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Paul Hernaez(Am)",21695,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Martin Farfal(Am)",21971,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Thomas Garnier",21972,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"George Twyman",21982,"ENG","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Clement Canitrot",22057,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Julien Cosentino",22113,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Benjamin Etchemendy",22116,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"John Richard",22125,"FRA","1836","Saint-Malo Golf Open",6285,2016-07-10,"Alps Golf Tour",NA,NA,2016-07-07
+"Oliver Lindell",20085,"FIN","452","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Bjorn Hellgren",16231,"SWE","529","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Mark F Haastrup",7952,"DEN","658","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Rasmus Hjelm Nielsen",11622,"DEN","663","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Niclas Hellberg",20057,"FIN","755","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Erik Myllymaki",16408,"FIN","829","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Mikael Lindberg",20084,"SWE","838","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Tobias Rosendahl",14782,"SWE","862","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Niclas Johansson",14893,"SWE","877","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Oliver Suhr",12562,"DEN","885","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Per Langfors",20414,"SWE","888","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Alex Wennstam",19933,"SWE","911","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Mikael Salminen",13141,"FIN","916","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Christian Aronsen",9497,"NOR","932","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Ola Johansson",20403,"SWE","961","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Benjamin Henry Poke",20244,"DEN","984","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Linus Vaisanen",19959,"FIN","995","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Oskar Henningsson",9399,"SWE","1007","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Oscar Lengden",20410,"SWE","1008","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Nicolai Tinning",20256,"DEN","1013","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Nikolaj E Nissen",18552,"DEN","1148","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Christopher Lang",20407,"SWE","1155","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Daniel Lokke",14287,"DEN","1179","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Gustav Adell",12234,"SWE","1191","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Ludwig Nordeklint",8181,"SWE","1269","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Petter Bocian",9630,"SWE","1375","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Andreas Andersson",11653,"SWE","1380","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Victor Almstrom",14675,"SWE","1406","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Sondre Erevik Ronold",17838,"NOR","1406","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Sebastian Hansson(1991)",20397,"SWE","1406","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"David Palm",10420,"SWE","1427","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Torbjorn Johansen",21404,"NOR","1427","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Martin Amtkjaer",20156,"DEN","1485","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Marcus Larsson",12583,"SWE","1524","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Kasper K Estrup",15673,"DEN","1546","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Patrick O'Neill",16447,"DEN","1596","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Erik Oja",20097,"SWE","1602","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Jonas Haglund",18862,"FIN","1615","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Simon Willer",20126,"DEN","1615","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Patrick Winther",20127,"DEN","1624","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Nicolai Kristensen(1992-05)",18857,"DEN","1625","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Christopher Feldborg Nielsen",20147,"SWE","1646","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Nils Floren",14019,"SWE","1662","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Joakim Rask",5922,"SWE","1721","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Joakim Haeggman",4358,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Mattias Eliasson",5160,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Bjorn Pettersson",6518,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Joakim Backstrom",6851,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Oscar Floren",9397,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Ake Nilsson",9493,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Jesper Kennegard",11531,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Elias Bertheussen",12488,"NOR","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Victor Flatau",12581,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Miro Veijalainen",14121,"FIN","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Pontus Ellerstrom",14714,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Albert Eckhardt",16405,"FIN","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Oliver Hauen-Limkilde Nyholm",16446,"DEN","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Martin Ovesen",19847,"DEN","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Andreas Gronkvist",20054,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Henric Sturehed",20148,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Axel Arinbjarnarson",20161,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Jesper Gunder Larsen",20214,"DEN","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Marcus Lindstrom(1992)",20221,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Niklas Lindstrom",20222,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Max Munther",20229,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Hampus Nilsson",20234,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Jesper Olsson",20238,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Andreas Sondergaard",20252,"DEN","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Filip Tragardh",20257,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Adam Andersson",20525,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"David Backstrom",20529,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Jesper Andersson(Am)",20804,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Petter Bengtsson",20805,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Lukas Crisp",20806,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Mark Larsson",21340,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
+"Fredrik From",21621,"SWE","1836","Kristianstad Åhus Open",6287,2016-07-10,"Nordic Golf League",NA,NA,2016-07-07
