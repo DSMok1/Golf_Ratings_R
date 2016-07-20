@@ -1,1 +1,463 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Jason Day",9771,"AUS","1","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Dustin Johnson",12422,"USA","2","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Matt Kuchar",6169,"USA","17","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jim Furyk",2881,"USA","22","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Brandt Snedeker",8820,"USA","23","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Kevin Kisner",11328,"USA","30","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Emiliano Grillo",12808,"ARG","40","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Charley Hoffman",5768,"USA","41","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Danny Lee",11826,"NZL","43","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"K.T. Kim",7880,"KOR","44","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Matthew Fitzpatrick",17646,"ENG","45","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"William McGirt",12477,"USA","47","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jimmy Walker",7293,"USA","49","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Chris Kirk",12423,"USA","64","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ryan Palmer",7820,"USA","70","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Graeme McDowell",7548,"NIR","72","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Robert Streb",14852,"USA","75","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Tony Finau",11676,"USA","77","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Patton Kizzire",13470,"USA","78","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jim Herman",12846,"USA","80","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Daniel Summerhays",12424,"USA","87","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jon Curran",14699,"USA","96","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Colt Knost",12149,"USA","97","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Kevin Streelman",8480,"USA","101","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Troy Merritt",13367,"USA","103","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Roberto Castro",12643,"USA","104","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Kyle Reifers",11329,"USA","105","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Bryce Molder",7292,"USA","108","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Vaughn Taylor",6930,"USA","113","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"John Senden",5207,"AUS","114","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"K.J. Choi",1804,"KOR","116","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Siwoo Kim",14609,"KOR","118","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"George Coetzee",10884,"RSA","119","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Vijay Singh",653,"FIJ","121","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ben Martin",14007,"USA","122","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Sean O'Hair",7626,"USA","123","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Chez Reavie",7961,"USA","124","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Cameron Tringale",14013,"USA","127","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Brian Harman",8825,"USA","128","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"David Hearn",7340,"CAN","130","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jonas Blixt",8182,"SWE","135","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Steven Bowditch",7053,"AUS","137","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Graham Delaet",10252,"CAN","140","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Brian Stuard",13022,"USA","141","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Alex Cejka",4425,"GER","148","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Bryson DeChambeau",19841,"USA","154","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Harold Varner III",16602,"USA","155","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Billy Hurley III",11046,"USA","158","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Thomas Aiken",7679,"RSA","160","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Patrick Rodgers",16283,"USA","161","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Scott Brown",11330,"USA","164","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Andrew Loupe",15318,"USA","165","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Cameron Smith",15856,"AUS","167","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Will Wilcox",14696,"USA","169","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Chad Campbell",6248,"USA","171","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Sunghoon Kang",7881,"KOR","174","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Chris Stroud",9604,"USA","176","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Zac Blair",17639,"USA","182","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Adam Hadwin",13965,"CAN","183","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Hunter Mahan",7636,"USA","186","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Hiroshi Iwata",9099,"JPN","188","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jerry Kelly",5151,"USA","199","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Peter Malnati",14926,"USA","200","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jhonattan Vegas",13508,"VEN","203","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Martin Piller",13760,"USA","204","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"John Huh",14606,"USA","207","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Spencer Levin",8199,"USA","210","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Morgan Hoffmann",14082,"USA","214","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jason Gore",6321,"USA","217","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Johnson Wagner",7927,"USA","220","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Martin Laird",9586,"SCO","222","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Greg Chalmers",5625,"AUS","225","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ken Duke",493,"USA","228","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Greg Owen",5723,"ENG","232","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ricky Barnes",6846,"USA","233","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"George McNeill",6419,"USA","234","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Brendon Todd",12425,"USA","238","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Stewart Cink",5665,"USA","244","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ernie Els",874,"RSA","247","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Seungyul Noh",11117,"KOR","251","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Hudson Swafford",14706,"USA","252","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Chad Collins",7744,"USA","254","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Blayne Barber",15608,"USA","259","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Tom Hoge",15575,"USA","260","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Brad Fritsch",7207,"CAN","261","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Sam Saunders",11048,"USA","263","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Derek Fathauer",12689,"USA","264","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Chesson Hadley",14967,"USA","268","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Steve Marino",7741,"USA","269","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jon Rahm",19195,"ESP","278","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Rory Sabbatini",6283,"RSA","279","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Brett Stegmaier",11354,"USA","282","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Scott Stallings",12359,"USA","285","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Shawn Stefani",14012,"USA","286","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Robert Garrigus",6789,"USA","287","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Nick Taylor",13126,"CAN","294","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Bronson Burgoon",11082,"USA","299","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Geoff Ogilvy",5698,"AUS","303","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"J.J. Henry",6222,"USA","304","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Brendon de Jonge",8767,"ZIM","307","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Scott Pinckney",15477,"USA","308","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Luke List",7960,"USA","309","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Kyle Stanley",12069,"USA","316","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Tyler Aldridge",11677,"USA","321","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Camilo Villegas",9171,"COL","322","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Michael Kim",17543,"USA","326","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Dawie van der Walt",9883,"RSA","333","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Tyrone van Aswegen",9913,"RSA","338","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Rhein Gibson",13342,"AUS","339","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Rob Oppenheim",8002,"USA","340","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Michael Thompson",12946,"USA","346","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Steve Wheatcroft",10292,"USA","355","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Meenwhee Kim",11702,"KOR","357","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Daniel McCarthy",11594,"USA","360","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Mark Hubbard",16333,"USA","365","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Rod Pampling",5668,"AUS","367","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Tim Wilkinson",7097,"NZL","368","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Andres Gonzales",11640,"USA","371","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Carl Pettersson",7048,"SWE","372","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Stuart Appleby",5294,"AUS","378","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Wes Roach",15720,"USA","380","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Will Mackenzie",7470,"USA","381","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Bud Cauley",14502,"USA","384","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Henrik Norlander",11657,"SWE","398","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Angel Cabrera",5717,"ARG","400","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Mark Wilson",4107,"USA","405","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Andrew Landry",14000,"USA","415","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ben Crane",6674,"USA","422","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Cameron Percy",5874,"AUS","433","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Donghwan Lee",8211,"KOR","438","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Erik Compton",6556,"USA","451","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jeff Overton",10498,"USA","468","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Kelly Kraft",15852,"USA","470","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Carlos Ortiz",14735,"MEX","477","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Abraham Ancer",18238,"MEX","501","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Justin Leonard",5603,"USA","523","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Corey Conners",17576,"CAN","568","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jordan Niebrugge",18284,"USA","615","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Michael Johnson",15120,"USA","626","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Taylor Moore",21944,"USA","626","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Derek Ernst",16711,"USA","671","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"D.A. Points",6761,"USA","711","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Adam Cornelson",15423,"CAN","791","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Richard H. Lee",15233,"USA","835","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ted Potter-jr",8769,"USA","963","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Robert Allenby",4949,"AUS","1087","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Joey Garber",18658,"USA","1216","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Billy Kennerly",15658,"USA","1471","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Mike Weir",5513,"CAN","1733","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Dave Levesque",7155,"CAN","1841","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Garrett Rank",19946,"CAN","1841","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Benjamin Taylor",19948,"ENG","1841","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Blair Hamilton",20043,"CAN","1841","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Jared DuToit",22086,"CAN","1841","RBC Canadian Open",6296,2016-07-24,"PGA Tour",NA,NA,2016-07-20
+"Ollie Schniederjans",18662,"USA","159","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Martin Flores",10535,"USA","240","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Richy Werenski",19364,"USA","241","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"C.T. Pan",15475,"TPE","248","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kyounghoon Lee",13497,"KOR","258","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Trey Mullinax",18761,"USA","284","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Seamus Power",10104,"IRL","295","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Brian Campbell",18628,"USA","305","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"J.J Spaun",17536,"USA","312","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ryan Armour",8469,"USA","342","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Rodolfo Cazaubon Jnr",18185,"MEX","347","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Josh Geary",9903,"NZL","351","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Joel Dahmen",14509,"USA","408","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Austin Cook",18579,"USA","412","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kyle Thompson",7617,"USA","426","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Juan Sebastian Munoz",20770,"COL","429","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jonathan Randolph",14837,"USA","432","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jason Millard",17567,"USA","439","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Sebastian Vazquez",15487,"MEX","441","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Rick Lamb",18869,"USA","478","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ryan Blaum",9643,"USA","484","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kent Bulle",15715,"USA","484","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Cody Gribble",17508,"USA","486","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Andrew Svoboda",11274,"USA","488","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Nicholas Lindheim",16713,"USA","493","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"JT Poston",21554,"USA","494","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Bryden MacPherson",14378,"AUS","497","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Brandon Hagy",18695,"USA","520","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"John Merrick",9584,"USA","526","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Adam Schenk",19477,"USA","528","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kevin Tway",13127,"USA","535","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Tag Ridings",6840,"USA","543","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Adam Svensson",13997,"CAN","545","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Brice Garnett",11451,"USA","546","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Steven Alker",4871,"NZL","547","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Matt Atkins",19360,"USA","563","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Josh Teater",8085,"USA","564","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Rafael Campos",12909,"PUE","570","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Albin Choi",15606,"CAN","571","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Zack Sucher",14036,"USA","572","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Sebastian Cappelen",14776,"DEN","578","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Curtis Thompson",19395,"USA","580","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ryan Brehm",10423,"USA","581","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Sam Ryder",16715,"USA","584","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Mark Anderson",12131,"USA","585","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Roberto Diaz",15394,"MEX","611","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Taylor Pendrith",17780,"CAN","618","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"John Mallinger",9027,"USA","619","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Alex Kang",17531,"USA","621","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Steve Allan",5697,"AUS","623","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Bhavik Patel",16107,"USA","630","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Adam Long",15473,"USA","631","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Alex Prugh",12339,"USA","638","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Chris Baker",13971,"USA","648","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Justin Hueber",18590,"USA","649","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Justin Hicks",9166,"USA","650","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jorge Fernandez-Valdes",16786,"ARG","652","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Alexandre Rocha",7441,"BRA","655","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Brady Schnell",12414,"USA","659","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Anthony Paolucci",15207,"USA","662","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Grayson Murray",14655,"USA","664","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Darron Stiles",6401,"USA","667","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Nate Lashley",10943,"USA","669","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Blake Adams",12088,"USA","676","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Andrew Putnam",14704,"USA","685","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Bryan Bigley",15329,"USA","685","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Scott Harrington",8479,"USA","692","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jimmy Gunn",18163,"SCO","706","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Brett Drewitt",15162,"AUS","723","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jin Park",7362,"KOR","724","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Casey Wittenberg",8819,"USA","728","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Daniel Mazziotta",18195,"USA","731","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Matt Fast",14561,"USA","740","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Timothy Madigan",18535,"USA","750","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Anders Albertson",21235,"USA","753","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Craig Barlow",6138,"USA","763","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Zack Fischer",17273,"USA","774","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Steven Fox",17059,"USA","782","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Andy Winings",14807,"USA","786","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Tyler Duncan",18187,"USA","815","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Eric Axley",8024,"USA","818","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Denny McCarthy",19870,"USA","825","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Erik Barnes",14799,"USA","828","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jason Allred",7804,"USA","838","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Mathew Goggin",3756,"AUS","840","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Todd Baek",12745,"KOR","842","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Charlie Wi",5905,"KOR","844","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Oliver Goss",16813,"AUS","851","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Greg Eason",17719,"ENG","866","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Tommy Cocha",12805,"ARG","872","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Andrew Yun",15614,"USA","874","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jim Renner",12475,"USA","878","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Brad Elder",6204,"USA","882","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Mackenzie Hughes",15556,"CAN","885","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jack Maguire",19869,"USA","889","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Travis Bertoni",12563,"USA","895","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Keith Mitchell",17365,"USA","896","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ryan Yip",12083,"CAN","902","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Michael Hebert",18251,"USA","910","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ryan Spears",14011,"USA","915","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Peter Lonard",4122,"AUS","936","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Stephan Jaeger",16394,"GER","951","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Oscar Fraustro",9834,"MEX","957","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Chris Naegel",17345,"USA","989","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Hunter Hamrick",16242,"USA","999","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Aaron Watkins",9932,"USA","1019","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Chris Smith",2079,"USA","1020","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Steve LeBrun",7099,"USA","1024","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Peter Tomasulo",9910,"USA","1034","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Bill Lunde",7962,"USA","1035","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Chase Wright",16807,"USA","1042","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Marc Turnesa",7627,"USA","1045","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Matt Davidson",9872,"USA","1053","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ben Kohles",16395,"USA","1056","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jeff Gove",6390,"USA","1095","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Drew Weaver",12416,"USA","1116","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Michael Arnaud",13815,"USA","1149","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Xander Schauffele",19895,"USA","1153","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ian Davis",18589,"USA","1172","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ryan Sullivan",17276,"USA","1213","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Byron Smith",9687,"USA","1235","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Brian Richey",16138,"USA","1244","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Chris Wilson",7432,"USA","1306","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"B.J. Staten",7642,"USA","1311","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Benjamin Alvarado",12547,"CHI","1325","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Matt Harmon",12385,"USA","1377","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Chris Thompson",11983,"USA","1409","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kurt Kitayama",21891,"USA","1424","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Michael Gellerman",19909,"USA","1496","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Tom Whitney",20353,"USA","1538","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"John Rollins",6300,"USA","1564","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jhared Hack",14457,"USA","1691","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Russell Surber",9200,"USA","1773","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Gregor Main",13756,"USA","1798","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Scott Gardiner",6270,"AUS","1804","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Len Mattiace",3982,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kent Jones",5825,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Justin Peters",8663,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Reid Edstrom",8848,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jonathan Fricke",10194,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Adam Mitchell",13522,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Steele DeWald",15700,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jesse Speirs",15709,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Chas Narramore",15718,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kyle Scott",15861,"RSA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Jeff Berkshire",16318,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Tyler Weworski",17517,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Robert J Bell",19732,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Doug Letson",19746,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Kyle Jones",19867,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Charlie Danielson",21310,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Max Marsico",22204,"USA","1841","Utah Championship presented by Zions Bank ",6297,2016-07-24,"Web.com Tour",NA,NA,2016-07-20
+"Ryan Fox",11889,"NZL","185","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Clement Sordet",17718,"FRA","196","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Dylan Frittelli",11955,"RSA","215","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jordan L Smith",18586,"ENG","230","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Matt Wallace",20706,"ENG","255","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Sebastian Soderberg",18517,"SWE","262","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Alexander Knappe",12318,"GER","270","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Romain Langasque",16652,"FRA","280","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Damien Perrier",12661,"FRA","291","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Christofer Blomstrand",20167,"SWE","317","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"John Hahn",17539,"USA","328","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Adrien Saddier",14792,"FRA","343","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Matthieu Pavon",19960,"FRA","379","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Simon Forsstrom",19806,"SWE","382","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jose-Filipe Lima",7868,"POR","392","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Nick Cullen",14247,"AUS","393","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Duncan Stewart",12472,"SCO","417","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Alexander Bjork",14775,"SWE","423","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Max Orrin",17903,"ENG","442","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jurrian Van der Vaart",13489,"NED","448","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Oliver Lindell",20085,"FIN","454","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Garrick Porteous",16400,"ENG","459","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Gary King",17835,"ENG","495","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Steven Tiley",9311,"ENG","513","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Daan Huizing",12650,"NED","515","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Darius Van Driel",13374,"NED","518","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Lorenzo Gagli",10073,"ITA","533","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jack Senior",15115,"ENG","555","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Garth Mulroy",8065,"RSA","574","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Matthew Nixon",15184,"ENG","592","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Thomas Detry",14181,"BEL","594","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Paul Howard",19510,"ENG","598","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Matteo Delpodio",11121,"ITA","603","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Moritz Lampert",13438,"GER","616","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Marcel Schneider",12522,"GER","620","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Aaron Rai",18554,"ENG","629","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Florian Fritsch",9217,"GER","633","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Andrea Pavan",12177,"ITA","646","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Chris Selfridge",13982,"IRL","658","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Eirik Tage Johansen",11317,"NOR","661","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Mads Sogaard",15678,"DEN","666","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Niccolo Ravano",10071,"ITA","670","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Edouard Dubois",10624,"FRA","671","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Kristian Krogh Johannessen",16421,"NOR","675","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Joel Stalter",17722,"FRA","681","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Steven Jeppesen",8125,"SWE","682","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"David Law",14784,"SCO","687","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Nicolas Geyger",13607,"CHI","691","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"James Robinson",12298,"ENG","698","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Josh Loughrey",19812,"ENG","708","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Kevin Phelan",14702,"IRL","709","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Manuel Trappel",14681,"AUT","720","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Mikael Lundberg",4718,"SWE","721","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Paul Maddy",17343,"ENG","729","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Oliver Farr",13318,"WAL","744","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Francesco Laporta",14987,"ITA","754","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jose Manuel Lara",5815,"ESP","755","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Sebastian Heisele",16499,"GER","759","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Martin Keskari",14017,"GER","768","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Ricardo Santos",8816,"POR","781","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Mathieu Decottignies Lafon",13998,"FRA","793","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Toby Tree",19357,"ENG","800","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Tapio Pulkkanen",13139,"FIN","802","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Juan Francisco Sarasti",13886,"ESP","821","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Julien Guerrier",10201,"FRA","827","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Mark Tullo",10872,"CHI","852","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Lionel Weber",15513,"FRA","853","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Marcus Armitage",17813,"ENG","871","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Marcus Kinhult",18514,"SWE","881","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jaakko Makitalo",9261,"FIN","886","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Victor Riu",12217,"FRA","894","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Ross Kellett",13235,"SCO","908","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Hugues Joannes",11201,"BEL","910","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Anton Karlsson",20405,"SWE","926","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jerome Lando-Casanova",14040,"FRA","931","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jason Barnes",15186,"ENG","935","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Robin Kind",14986,"NED","940","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Rhys Enoch",12287,"WAL","952","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Dimi Papadatos",15168,"AUS","954","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Benjamin Rusch",13281,"SUI","959","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Stiggy Hodgson",16398,"ENG","965","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jack Doherty",8161,"SCO","971","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Peter Whiteford",7822,"SCO","983","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Reinier Saxton",11564,"NED","1000","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Scott Fernandez",15616,"ESP","1008","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Taco Remkes",10678,"NED","1016","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Steven Brown",15771,"ENG","1040","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Charlie Ford",14400,"ENG","1051","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Sam Hutsby",11104,"ENG","1055","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Marco Crespi",7933,"ITA","1060","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Sihwan Kim",13307,"KOR","1062","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Laurie Canter",14795,"ENG","1076","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Adrien Bernadet",10202,"FRA","1079","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Philipp Mejow",19897,"GER","1080","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Joshua White",18784,"ENG","1085","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Joel Sjoholm",12485,"SWE","1118","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Darren Wright",16092,"ENG","1147","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"William Harrold",17070,"ENG","1155","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jimmy Mullen",17647,"ENG","1163","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Francois Calmels",9292,"FRA","1174","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Kalle Samooja",14120,"FIN","1178","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Romain Bechu",12658,"FRA","1182","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Charles-Edouard Russo",8914,"FRA","1190","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Martin Wiegele",7869,"AUT","1194","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jordi Garcia Pinto",12990,"ESP","1227","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jacob Glennemo",13447,"SWE","1240","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jean-Baptiste Gonnet",7979,"FRA","1260","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Maarten Lafeber",5843,"NED","1310","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Wil Besseling",9413,"NED","1320","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Cyril Bouniol",18240,"FRA","1338","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Filippo Bergamaschi",15266,"ITA","1405","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Filip Mruzek",14883,"CZE","1427","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Brinson Paolini",17638,"USA","1459","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Antonio Hortal",14572,"ESP","1469","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Christian Gloet",16444,"DEN","1469","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Michael Palmer",21201,"RSA","1479","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jose Luis Adarraga Gomez",8915,"ESP","1488","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Julian Suri",18059,"USA","1488","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"David Antonelli",12405,"FRA","1527","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Richard Jouven",21282,"FRA","1550","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Pierre Relecom",12228,"BEL","1555","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Gerard Piris Mateu",15371,"ESP","1609","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Teemu Bakker",13372,"FIN","1615","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Alexandre Widemann",20132,"FRA","1615","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Scott Fallon",17474,"ENG","1642","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Bradley Neil",18737,"SCO","1642","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Martin Rominger",9528,"SUI","1724","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Alvaro Velasco",9603,"ESP","1730","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Roger Sabarros",2276,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Andrea Maestroni",7000,"ITA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Anthony Grenier",9293,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Christophe Brazillier",10275,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Anthony Snobeck",10655,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Julien Grillon",11359,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Andrea Perrino",13014,"ITA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Darryn Lloyd",13728,"RSA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Leonardo Motta",13896,"ITA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Adrian Meronk(Am)",14196,"POL","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Olivier Rozner",15511,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Gregoire Schoeb(Am)",17839,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Clement Batut",18626,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Oscar Bergqvist",19805,"SWE","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Robin Sciot-Siegrist(Am)",20131,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Kevin Turlan",20309,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Baptiste Courtachon",20669,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Ugo Coussaud(Am)",20727,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jeff Hopkins",21305,"IRL","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Robin Roussel",21507,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jordan Wrisdale",21508,"ENG","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Mervin Rocchi",18638,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Paul Shields",18682,"SCO","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Thomas Perrot(Am)",18697,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Antoine Rozner(AM)",18770,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Nicolas Maheut(Am)",20896,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Louis Cohen-Boyer",21098,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
+"Jeremy Gandon(AM)",18933,"FRA","1841","Le Vaudreuil Golf Challenge",6298,2016-07-24,"European Challenge Tour",NA,NA,2016-07-20
