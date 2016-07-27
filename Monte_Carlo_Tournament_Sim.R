@@ -41,7 +41,7 @@ Tournament_Projection <- merge(Tournament,Ratings[,c("Player_ID","Rank","OWGR_Ra
 Tournament_Projection$Projected_Rating[is.na(Tournament_Projection$Projected_Rating)] <- 3.0
 Tournament_Projection$Projected_Stdev[is.na(Tournament_Projection$Projected_Stdev)] <- 3.0
 
-Tournament_Projection$Projected_Stdev <- Tournament_Projection$Projected_Stdev - 0.6
+Tournament_Projection$Projected_Stdev <- Tournament_Projection$Projected_Stdev - 0.5
 
 str(Tournament_Projection)
 

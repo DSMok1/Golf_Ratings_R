@@ -1,1 +1,559 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Jason Day",9771,"AUS","1","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Dustin Johnson",12422,"USA","2","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jordan Spieth",14636,"USA","3","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rory McIlroy",10091,"NIR","4","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Henrik Stenson",5994,"SWE","5","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Bubba Watson",7334,"USA","6","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rickie Fowler",12965,"USA","7","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Adam Scott",6430,"AUS","8","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Danny Willett",12920,"ENG","9","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Sergio Garcia",5689,"ESP","10","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Justin Rose",6093,"ENG","11","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Branden Grace",11952,"RSA","12","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Phil Mickelson",1547,"USA","13","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Patrick Reed",14838,"USA","14","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Louis Oosthuizen",7672,"RSA","15","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"J.B. Holmes",7959,"USA","16","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Matt Kuchar",6169,"USA","17","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Brooks Koepka",16243,"USA","18","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Hideki Matsuyama",13562,"JPN","19","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Zach Johnson",6986,"USA","20","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Brandt Snedeker",8820,"USA","21","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jim Furyk",2881,"USA","22","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Charl Schwartzel",7398,"RSA","23","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Chris Wood",12451,"ENG","24","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Scott Piercy",7899,"USA","25","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Russell Knox",13831,"SCO","26","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rafael Cabrera Bello",7457,"ESP","27","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Shane Lowry",13900,"IRL","28","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Kevin Kisner",11328,"USA","29","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Paul Casey",7108,"ENG","30","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Byeong Hun An",14459,"KOR","31","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Bill Haas",7900,"USA","32","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Kevin Chappell",13305,"USA","33","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Kevin Na",7452,"USA","34","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Andy Sullivan",15326,"ENG","35","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Thongchai Jaidee",5973,"THA","36","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Emiliano Grillo",12808,"ARG","37","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Daniel Berger",17606,"USA","38","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Lee Westwood",4052,"ENG","39","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Justin Thomas",14139,"USA","40","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Danny Lee",11826,"NZL","41","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Charley Hoffman",5768,"USA","42","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Soren Kjeldsen",6149,"DEN","43","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"K.T. Kim",7880,"KOR","44","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Matthew Fitzpatrick",17646,"ENG","45","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"William McGirt",12477,"USA","46","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Marc Leishman",7649,"AUS","47","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jimmy Walker",7293,"USA","48","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Alex Noren",10419,"SWE","49","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"David Lingmerth",14815,"SWE","50","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Martin Kaymer",8117,"GER","51","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jason Dufner",7301,"USA","52","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Tyrrell Hatton",14796,"ENG","53","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Gary Woodland",12577,"USA","54","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Bernd Wiesberger",9531,"AUT","55","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Harris English",14577,"USA","56","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Francesco Molinari",7655,"ITA","57","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Kiradech Aphibarnrat",12321,"THA","58","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Ryan Moore",7489,"USA","59","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"James Hahn",11374,"USA","60","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Chris Kirk",12423,"USA","61","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Smylie Kaufman",18631,"USA","62","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Thomas Pieters",13944,"BEL","63","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Anirban Lahiri",12669,"IND","64","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Thorbjorn Olesen",13412,"DEN","65","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Joost Luiten",10158,"NED","66","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Billy Horschel",11276,"USA","67","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Webb Simpson",11049,"USA","68","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Ryan Palmer",7820,"USA","70","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Hideto Tanihara",7046,"JPN","71","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Graeme McDowell",7548,"NIR","72","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jeunghun Wang",15366,"KOR","73","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Robert Streb",14852,"USA","74","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Fabian Gomez",8571,"ARG","75","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Brendan Steele",11019,"USA","76","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Tony Finau",11676,"USA","77","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jim Herman",12846,"USA","78","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Victor Dubuisson",10198,"FRA","79","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jamie Donaldson",7084,"WAL","80","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rikard Karlberg",9398,"SWE","80","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Patton Kizzire",13470,"USA","82","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Scott Hend",1888,"AUS","83","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Matt Jones",8605,"AUS","84","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Luke Donald",4163,"ENG","85","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jhonattan Vegas",13508,"VEN","86","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Steve Stricker",4818,"USA","87","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Andrew Johnston",14666,"ENG","88","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Daniel Summerhays",12424,"USA","89","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Marcus Fraser",7070,"AUS","90","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jamie Lovemark",11382,"USA","92","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Soomin Lee",14614,"KOR","93","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Brandon Stone",15229,"RSA","95","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Yuta Ikeda",8236,"JPN","96","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Colt Knost",12149,"USA","97","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jon Curran",14699,"USA","98","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Bradley Dredge",6150,"WAL","99","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Troy Merritt",13367,"USA","100","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Ross Fisher",9396,"ENG","101","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Kevin Streelman",8480,"USA","102","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jason Bohn",6462,"USA","103","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Russell Henley",14578,"USA","104","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Roberto Castro",12643,"USA","105","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Kyle Reifers",11329,"USA","106","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"James Morrison",11061,"ENG","107","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Bryce Molder",7292,"USA","108","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Keegan Bradley",13872,"USA","109","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Siwoo Kim",14609,"KOR","110","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"John Senden",5207,"AUS","111","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Freddie Jacobson",3846,"SWE","112","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"K.J. Choi",1804,"KOR","113","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Younghan Song",16160,"KOR","114","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Kristoffer Broberg",15603,"SWE","115","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Vaughn Taylor",6930,"USA","116","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Gregory Bourdy",7932,"FRA","118","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"George Coetzee",10884,"RSA","119","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jason Kokrak",12337,"USA","120","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Cameron Tringale",14013,"USA","122","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Nicolas Colsaerts",6893,"BEL","123","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Vijay Singh",653,"FIJ","126","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Aaron Baddeley",6252,"AUS","136","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Jonas Blixt",8182,"SWE","138","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Brian Stuard",13022,"USA","143","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Padraig Harrington",5716,"IRL","150","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Billy Hurley III",11046,"USA","157","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Harold Varner III",16602,"USA","162","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"David Toms",4340,"USA","182","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Zac Blair",17639,"USA","187","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Peter Malnati",14926,"USA","207","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Greg Chalmers",5625,"AUS","229","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Ernie Els",874,"RSA","255","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Y.E. Yang",6629,"KOR","292","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Darren Clarke",3523,"NIR","563","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"John Daly",863,"USA","1219","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rocco Mediate",627,"USA","1423","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Matt Dobyns",7466,"USA","1485","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Brian Gaffney",6787,"USA","1601","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Brad Lardon",4086,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Shaun Micheel",4377,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Omar Uresti",5183,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rich Beem",6301,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rod Perry",8263,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Johan Kok",8601,"RSA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Ryan Helminen",10360,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Michael Block",12333,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Rich Berberian, Jr.",19863,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"Benjamin Polland",20344,"USA","1842","PGA Championship ",6301,2016-07-31,"Major Championship",NA,NA,2016-07-27
+"J.J Spaun",17536,"USA","226","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"C.T. Pan",15475,"TPE","237","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Trey Mullinax",18761,"USA","261","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Brad Fritsch",7207,"CAN","271","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Nicholas Lindheim",16713,"USA","280","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Seamus Power",10104,"IRL","297","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Brian Campbell",18628,"USA","310","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Rhein Gibson",13342,"AUS","334","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Austin Cook",18579,"USA","350","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ryan Armour",8469,"USA","351","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Rodolfo Cazaubon Jnr",18185,"MEX","356","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Josh Geary",9903,"NZL","370","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Joel Dahmen",14509,"USA","415","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Juan Sebastian Munoz",20770,"COL","435","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Julian Etulain",11911,"ARG","439","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jason Millard",17567,"USA","441","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Sebastian Vazquez",15487,"MEX","447","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Max Homa",17538,"USA","452","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jonathan Byrd",6931,"USA","453","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ryan Blaum",9643,"USA","465","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Cody Gribble",17508,"USA","468","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Rick Lamb",18869,"USA","477","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Sebastian Cappelen",14776,"DEN","487","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Kent Bulle",15715,"USA","491","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Andrew Svoboda",11274,"USA","496","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"JT Poston",21554,"USA","497","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Kevin Tway",13127,"USA","506","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Bryden MacPherson",14378,"AUS","511","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Brandon Hagy",18695,"USA","523","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Adam Schenk",19477,"USA","529","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Tag Ridings",6840,"USA","548","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Adam Svensson",13997,"CAN","549","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Steven Alker",4871,"NZL","553","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Tom Gillis",3901,"USA","561","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Josh Teater",8085,"USA","565","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Matt Atkins",19360,"USA","567","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Albin Choi",15606,"CAN","574","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Alex Prugh",12339,"USA","576","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Zack Sucher",14036,"USA","580","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ryan Brehm",10423,"USA","583","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Rafael Campos",12909,"PUE","584","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Lucas Lee",13618,"BRA","585","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Sam Ryder",16715,"USA","587","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Curtis Thompson",19395,"USA","588","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Roberto Diaz",15394,"MEX","614","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Taylor Pendrith",17780,"CAN","624","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Bhavik Patel",16107,"USA","630","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Steve Allan",5697,"AUS","632","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"John Mallinger",9027,"USA","633","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Roger Sloan",14050,"CAN","640","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Adam Long",15473,"USA","645","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Chris Baker",13971,"USA","650","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Justin Hueber",18590,"USA","655","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Grayson Murray",14655,"USA","659","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Alexandre Rocha",7441,"BRA","664","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Justin Hicks",9166,"USA","665","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jorge Fernandez-Valdes",16786,"ARG","666","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Nate Lashley",10943,"USA","670","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Darron Stiles",6401,"USA","675","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Blake Adams",12088,"USA","680","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Xander Schauffele",19895,"USA","686","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Bryan Bigley",15329,"USA","687","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Andrew Putnam",14704,"USA","693","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Michael Putnam",10180,"USA","704","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jimmy Gunn",18163,"SCO","709","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jin Park",7362,"KOR","727","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Casey Wittenberg",8819,"USA","730","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Brett Drewitt",15162,"AUS","731","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Daniel Mazziotta",18195,"USA","738","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Anders Albertson",21235,"USA","759","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Gonzalo Fdez-Castano",8262,"ESP","760","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Timothy Madigan",18535,"USA","760","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jack Maguire",19869,"USA","764","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Erik Barnes",14799,"USA","772","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Keith Mitchell",17365,"USA","774","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Craig Barlow",6138,"USA","776","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Nicholas Thompson",10889,"USA","782","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Zack Fischer",17273,"USA","787","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Steven Fox",17059,"USA","792","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Andy Winings",14807,"USA","800","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Diego Velasquez",14840,"COL","802","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Bill Lunde",7962,"USA","812","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Tyler Duncan",18187,"USA","831","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Denny McCarthy",19870,"USA","838","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Eric Axley",8024,"USA","839","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Richard H. Lee",15233,"USA","845","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jason Allred",7804,"USA","856","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Mathew Goggin",3756,"AUS","859","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Charlie Wi",5905,"KOR","860","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Todd Baek",12745,"KOR","865","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jim Renner",12475,"USA","885","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Greg Eason",17719,"ENG","889","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Brad Elder",6204,"USA","896","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Mackenzie Hughes",15556,"CAN","898","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Andrew Yun",15614,"USA","904","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Tommy Cocha",12805,"ARG","905","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Travis Bertoni",12563,"USA","911","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ryan Yip",12083,"CAN","920","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Michael Hebert",18251,"USA","922","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ryan Spears",14011,"USA","926","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Peter Lonard",4122,"AUS","944","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jeff Gove",6390,"USA","944","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Stephan Jaeger",16394,"GER","958","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Drew Weaver",12416,"USA","970","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Oscar Fraustro",9834,"MEX","972","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Chris Naegel",17345,"USA","989","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ricardo Celia",19000,"COL","1000","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Hunter Hamrick",16242,"USA","1007","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Steve LeBrun",7099,"USA","1038","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Chris Smith",2079,"USA","1043","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Marc Turnesa",7627,"USA","1046","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Aaron Watkins",9932,"USA","1051","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Chase Wright",16807,"USA","1057","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Peter Tomasulo",9910,"USA","1058","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Matt Davidson",9872,"USA","1065","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ben Kohles",16395,"USA","1067","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Mark Silvers",14705,"USA","1078","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ian Davis",18589,"USA","1176","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Benjamin Silverman",17381,"USA","1226","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Byron Smith",9687,"USA","1237","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Brian Richey",16138,"USA","1250","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Daniel Chopra",2035,"SWE","1254","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"T.J. Vogel",17280,"USA","1254","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Chris Wilson",7432,"USA","1314","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"B.J. Staten",7642,"USA","1316","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Benjamin Alvarado",12547,"CHI","1331","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Matt Harmon",12385,"USA","1393","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Chris Thompson",11983,"USA","1400","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Kurt Kitayama",21891,"USA","1418","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Maverick McNealy",18634,"USA","1429","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jonathan Garrick",21885,"USA","1459","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Charlie Danielson",21310,"USA","1478","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Michael Gellerman",19909,"USA","1493","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"John Rollins",6300,"USA","1582","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Michael Miller(1992)",17902,"USA","1595","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jhared Hack",14457,"USA","1700","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Russell Surber",9200,"USA","1778","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Len Mattiace",3982,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Kent Jones",5825,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Ben Curtis",7101,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Reid Edstrom",8848,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jonathan Fricke",10194,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Adam Mitchell",13522,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Chas Narramore",15718,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Kyle Scott",15861,"RSA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Steven Ihm",17641,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Jacob Eggers",18786,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Trevor Simsby",19363,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Doug Letson",19746,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Kyle Jones",19867,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Alex Franklin",19887,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Andre De Decker",21303,"RSA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Cody Blick",21876,"USA","1842","Ellie Mae Classic at TPC Stonebrae ",6302,2016-07-31,"Web.com Tour",NA,NA,2016-07-27
+"Daniel McCarthy",11594,"USA","360","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Scott Vincent",14559,"ZIM","407","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Emilio/Puma Dominguez",11900,"ARG","546","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Corey Conners",17576,"CAN","571","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Taylor Moore",21944,"USA","621","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Justin Shin",17618,"CAN","724","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Eugene Wong",14836,"CAN","726","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ryan Williams",13191,"CAN","792","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jarryd Felton",16835,"AUS","795","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Adam Cornelson",15423,"CAN","802","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Max Rottluff",19899,"GER","816","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Gregory Yates",19830,"USA","828","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Talor Gooch",18580,"USA","869","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Samuel Del Val",15791,"ESP","899","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Carter Jenkins",15456,"USA","900","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Michael Gligic",13404,"CAN","911","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Wilson Bateman",15499,"CAN","928","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Cameron Peck",13352,"USA","937","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Michael Letzig",7641,"USA","986","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Riley Wheeldon",15447,"CAN","994","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Brad Clapp",17527,"CAN","1019","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Caleb Sturgeon",21904,"USA","1030","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Daniel Miernicki",14798,"USA","1049","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ben Geyer",19361,"USA","1072","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Cao Yi",15067,"CHN","1073","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Kevin Spooner",18666,"CAN","1084","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Wade Binfield",18435,"USA","1127","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ethan Tracy",19552,"USA","1131","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Sean Harlingten",8202,"USA","1151","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Brad Schneider",3703,"USA","1160","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Clayton Rask",13186,"USA","1176","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"James Love",8130,"CAN","1194","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jeff Rein",17298,"USA","1194","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Austin Connelly",19704,"CAN","1194","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Matt Hill",14029,"CAN","1224","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Cameron Wilson",16248,"USA","1230","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"David Skinns",10873,"ENG","1232","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ross Beal",19731,"USA","1244","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Danny Sahl",9352,"CAN","1268","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Cory Renfrew",11443,"CAN","1277","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Nicholas Reach",13376,"USA","1277","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Charlie Bull",19735,"ENG","1289","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Riley Fleming",17577,"CAN","1305","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"John Chin",14797,"USA","1311","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Kyle Wilshire",19774,"USA","1339","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Clark Klaasen",14005,"USA","1349","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Tain Lee",16598,"USA","1395","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Max Gilbert",17684,"CAN","1395","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Joseph Harrison",19744,"USA","1395","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Manav Shah",21901,"USA","1407","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Michael Schoolcraft",19766,"USA","1425","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"William Starke",20879,"USA","1425","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jonathan Moore",11278,"USA","1442","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Charlie Danielson",21310,"USA","1478","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Seath Lauer",15121,"USA","1490","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Chase Marinell",19750,"USA","1490","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Thomas Hay",16330,"CAN","1493","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Paul Barjon",16566,"FRA","1493","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Chris Williams",15481,"USA","1566","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Julien Brun",16363,"FRA","1588","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jonathan Khan",19833,"USA","1588","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Curtis Reed",19762,"USA","1610","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Logan McCracken",19754,"USA","1618","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Carlos Sainz Jr",14519,"USA","1628","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Sam Love",18632,"USA","1631","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Eric Onesi",15457,"USA","1646","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Brock MacKenzie",9167,"USA","1667","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Conrad Shindler",17274,"USA","1742","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Chris Hemmerich",18570,"CAN","1825","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Devin Carrey",14507,"CAN","1833","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"David Anthony",6769,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Wes Heffernan",6884,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Grant Fuhr",10414,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Tadd Fujikawa",11283,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Justin Bates",11598,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ted F. Smith",12445,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Erick Justesen",13174,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Darren Hupfer",14027,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Brian Dwyer",14262,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Brad Benjamin",14486,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Aaron Cockerill",15596,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Nyasha Mauchaza",15660,"ZIM","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Sebastian Szirmak",15710,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Byron Meth",15855,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Edward Figueroa",16044,"PUE","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jonathan Fly",16226,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ryan Linton",16309,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Vaita Guillaume",16432,"PYF","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Matthew NeSmith",16433,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Tim Ailes",16435,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Charlie Winegardner",17483,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Sepp Straka(Am)",17511,"AUT","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Nicholas Delio",17544,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"James Erkenbeck",17720,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Will McCurdy",17758,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Andrew Ledger",17778,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Lucas Kim",17855,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Thomas Baik",18112,"ARG","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Charlie Harrison",18189,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Colin Featherstone",18257,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Adam Webb",18373,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Crawford Reeves",18418,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Kazuo Hoffman",18533,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jay Myers",18538,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Christopher Wolfe",18550,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Mike Ballo, Jr.",18678,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jake Johnson",18712,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Dillon Rust",18771,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Russell Budd",18874,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Zack Kempa",18876,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jake Knapp",19396,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ryan Heisey",19469,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Seth Reeves",19643,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Curtis Donahoe",19737,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Zachary Edmondson",19739,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"David Fink",19741,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Matt F Hansen",19743,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Paul McConnell",19753,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Joel Thelen",19770,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Chris Worrell",19775,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Benjamin Taylor",19948,"ENG","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Scott Wolfes",20549,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Sean Bozuk",20643,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jack Whelan",21329,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Blake Pugh",21395,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Cody Blick",21876,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Ryan Burgess",21878,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Bradley Caldwell",21879,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Trevor Cone",21880,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Mathias Dahl",21881,"SWE","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Brendan Dillon",21882,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Dylan Freeman",21884,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Mark Geddes",21886,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Taylor R. Hancock",21887,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Maxwell Hosking",21888,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jeffrey Kang",21889,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Jae Yong Kim",21890,"KOR","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Craig McCoy",21893,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Colin Monagle",21895,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Joe Parkinson",21897,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Kyle Pilgrim",21898,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Blake Redmond",21899,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Roman Robledo",21900,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Michael Tolladay",21905,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"John Tomlinson",21906,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Elliott Whitley",21907,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Nathan Anderson",21929,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Spencer Fletcher",21941,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Henry Lebioda",21943,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Preston Valder",21947,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Aaron Wise",22051,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Sang Gyun Lee",22155,"CAN","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"David Wetterich",22247,"USA","1842","Syncrude Oil Country Championship presented by AECON",6303,2016-07-31,"PGA Tour Canada",NA,NA,2016-07-27
+"Antoine Schwartz",15512,"FRA","482","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Julian Kunzenbacher",18842,"GER","552","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Christopher Mivis",11198,"BEL","554","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Max Kramer",9220,"GER","648","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Johann Lopez Lazzaro",14684,"FRA","654","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Kenny Subregis",18935,"FRA","784","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Patrick Kopp",20152,"GER","842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Hinrich Arkenau",20356,"GER","846","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Maximilian Roehrig",17559,"GER","856","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Stanislav Matus",14086,"CZE","868","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Benedict Staben",19808,"GER","978","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Maarten Bosch",20269,"NED","978","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Max Laier",18843,"GER","985","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Stanislas Gautier",21212,"FRA","990","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Mathieu Fenasse",17831,"FRA","1012","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Alexandre Kaleka",11358,"FRA","1075","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Chris Robb",20297,"SCO","1091","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Luca Galliano",15566,"SUI","1094","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Stephan Gross-Jr",9232,"GER","1212","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Nicolas Thommen",12374,"SUI","1223","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Younes El Hassani",7297,"MAR","1256","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Maximilian Walz",16486,"GER","1302","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Marcel Ohorn",20290,"GER","1335","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Michael Kraaij",12501,"NED","1379","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Sven Cremer",18743,"GER","1387","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"David Heinzinger",20278,"GER","1442","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Daniel Wuensche",13362,"GER","1466","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Robbie Van West",16498,"NED","1478","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Jonas Kolbing",12360,"GER","1493","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Adrian Meronk(Am)",14196,"POL","1493","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Fernand Osther",14988,"NED","1493","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"David Antonelli",12405,"FRA","1534","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Ross Cameron",14093,"SCO","1563","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Julien Gressier",15336,"FRA","1597","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Amine Joudar",7298,"MAR","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Clemens Prader",7922,"AUT","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Leo Astl",10539,"AUT","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Alexander Rosswag",12371,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Mikhail Morozov",12449,"RUS","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Fabian Becker",12506,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Dylan Boshart",12648,"NED","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Jakub Ossowski",13071,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Maksymilian Saluda",13072,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Phillip Mclean",13238,"SCO","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Mateusz Gradecki(Am)",14191,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Grzegorz Zielinski",14201,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Mehdi Saissi",14718,"MAR","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Edouard Amacher",14808,"SUI","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Nikita Ponomarev",15012,"RUS","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Andrea Gurini",15723,"SUI","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Ahmed Marjane",15970,"MAR","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Anton Kirstein",16269,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Christian Kaiser",16315,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Alexander Culverwell",17791,"SCO","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Dominik Pietzsch",18709,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Petr Valasek",18727,"SVK","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Thomas Bosco-Cwiok",19658,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Sam Kiloh",20004,"SCO","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Max Eichmeier",20182,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Michael Wolf",20219,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Jan-Philip Neuendorf",20230,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Andreas Sondergaard",20252,"DEN","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Patrick Actis Alesina",20264,"ITA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Ian Ashenden",20266,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Michal Bargenda(Am)",20267,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Peter Henry Bronson",20271,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Valentino Campion",20272,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Kamil Chojnicki",20273,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Alain Jeanrenaud",20280,"SUI","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Mateusz Jedrzejczyk",20281,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Jens-Oliver Lenk",20285,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Ryan Lloyd",20286,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Jan Pietka(Am)",20293,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Francesco Rocca",20298,"ITA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Sascha Schmidt",20300,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Arnaud Seguin",20302,"FRA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Jan Szmidt(Am)",20304,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Kamil Tatarczuk(Am)",20306,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Ryan Thatford",20307,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Thomas Thatford",20308,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Jakub Urbanski(Am)",20311,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Christopher Van Der Meulen",20312,"RSA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Oliver Weigt",20313,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Kevin Duncan",20324,"SCO","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Davide Albertini",20355,"SUI","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Florian Kolberg",20372,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Aaron Leitmannstetter",20374,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Maximilian Querling(Am)",20381,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Evanildo Silva dos Santos",20382,"NED","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Rob van de Vin",20386,"NED","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Ted Coffron",20496,"USA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Michael Muthreich",20504,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Philipp Pakosch(Am)",20505,"POL","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Vladimir Osipov",20579,"RUS","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Colin Piltner(Am)",20719,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Luigi Zenere",20725,"ITA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Claudio Consul(Am)",21210,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Zeno Felder",21211,"SUI","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Michael Heffner",21214,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Robert Molnar",21216,"AUT","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Max Griesbeck",21700,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Laurids Lohr",21705,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Finn Fleer",21833,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Stephane Soum",21963,"FRA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Julius Kreutzer(Am)",22078,"GER","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
+"Julien Cosentino",22113,"FRA","1842","LOTOS Polish Open",6308,2016-07-31,"ProGolf Tour",NA,NA,2016-07-27
