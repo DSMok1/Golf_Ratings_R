@@ -1,1 +1,896 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Rickie Fowler",12965,"USA","8","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Patrick Reed",14838,"USA","14","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jimmy Walker",7293,"USA","17","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Hideki Matsuyama",13562,"JPN","20","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"J.B. Holmes",7959,"USA","21","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jim Furyk",2881,"USA","22","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Brandt Snedeker",8820,"USA","25","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Rafael Cabrera Bello",7457,"ESP","27","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Scott Piercy",7899,"USA","28","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Kevin Kisner",11328,"USA","30","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Justin Thomas",14139,"USA","31","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Bill Haas",7900,"USA","33","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Kevin Na",7452,"USA","34","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Shane Lowry",13900,"IRL","36","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"William McGirt",12477,"USA","42","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Danny Lee",11826,"NZL","45","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Ryan Moore",7489,"USA","50","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Tyrrell Hatton",14796,"ENG","53","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jason Dufner",7301,"USA","55","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Harris English",14577,"USA","59","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Webb Simpson",11049,"USA","62","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Robert Streb",14852,"USA","64","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Chris Kirk",12423,"USA","68","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Billy Horschel",11276,"USA","73","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Graeme McDowell",7548,"NIR","78","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Patton Kizzire",13470,"USA","85","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Matt Jones",8605,"AUS","87","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Luke Donald",4163,"ENG","90","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Russell Henley",14578,"USA","93","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Roberto Castro",12643,"USA","102","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jerry Kelly",5151,"USA","103","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Ben Martin",14007,"USA","105","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Kyle Reifers",11329,"USA","106","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Wesley Bryan",21236,"USA","108","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Keegan Bradley",13872,"USA","109","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Troy Merritt",13367,"USA","113","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Siwoo Kim",14609,"KOR","115","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Alex Cejka",4425,"GER","116","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jason Bohn",6462,"USA","117","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jason Kokrak",12337,"USA","120","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Freddie Jacobson",3846,"SWE","121","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Bryce Molder",7292,"USA","122","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Cameron Tringale",14013,"USA","127","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Chez Reavie",7961,"USA","128","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jon Rahm",19195,"ESP","129","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"David Hearn",7340,"CAN","136","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Brian Harman",8825,"USA","138","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Martin Laird",9586,"SCO","139","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Retief Goosen",4884,"RSA","140","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Sean O'Hair",7626,"USA","141","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Graham Delaet",10252,"CAN","142","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Brian Stuard",13022,"USA","143","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Steven Bowditch",7053,"AUS","152","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jonas Blixt",8182,"SWE","154","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Boo Weekley",7403,"USA","159","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Scott Brown",11330,"USA","164","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Andrew Loupe",15318,"USA","166","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Harold Varner III",16602,"USA","167","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Thomas Aiken",7679,"RSA","169","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Chad Campbell",6248,"USA","171","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Cameron Smith",15856,"AUS","175","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Adam Hadwin",13965,"CAN","176","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Sunghoon Kang",7881,"KOR","178","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Chris Stroud",9604,"USA","181","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Spencer Levin",8199,"USA","183","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"David Toms",4340,"USA","196","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Morgan Hoffmann",14082,"USA","200","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Johnson Wagner",7927,"USA","201","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Hiroshi Iwata",9099,"JPN","207","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Robert Garrigus",6789,"USA","211","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Peter Malnati",14926,"USA","213","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Martin Piller",13760,"USA","215","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Lucas Glover",7399,"USA","218","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"John Huh",14606,"USA","224","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Ken Duke",493,"USA","225","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Greg Chalmers",5625,"AUS","228","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Hunter Mahan",7636,"USA","233","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jason Gore",6321,"USA","243","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Ernie Els",874,"RSA","248","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"George McNeill",6419,"USA","252","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Greg Owen",5723,"ENG","254","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Steve Marino",7741,"USA","255","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Rhein Gibson",13342,"AUS","259","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Geoff Ogilvy",5698,"AUS","260","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Blayne Barber",15608,"USA","261","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Seungyul Noh",11117,"KOR","262","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Shawn Stefani",14012,"USA","266","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Steve Wheatcroft",10292,"USA","267","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Stewart Cink",5665,"USA","268","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Derek Fathauer",12689,"USA","269","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Matt Every",10185,"USA","271","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Chad Collins",7744,"USA","276","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Meenwhee Kim",11702,"KOR","277","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Chesson Hadley",14967,"USA","281","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Tom Hoge",15575,"USA","284","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Brendon Todd",12425,"USA","289","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Luke List",7960,"USA","291","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Brett Stegmaier",11354,"USA","293","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Sam Saunders",11048,"USA","295","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Scott Stallings",12359,"USA","302","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Bronson Burgoon",11082,"USA","310","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Nick Taylor",13126,"CAN","314","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Kyle Stanley",12069,"USA","316","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Tyler Aldridge",11677,"USA","318","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Michael Kim",17543,"USA","322","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Michael Thompson",12946,"USA","325","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Brendon de Jonge",8767,"ZIM","327","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Bud Cauley",14502,"USA","328","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"J.J. Henry",6222,"USA","331","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Camilo Villegas",9171,"COL","333","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Scott Pinckney",15477,"USA","339","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Ben Crane",6674,"USA","347","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Andres Gonzales",11640,"USA","350","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Rob Oppenheim",8002,"USA","352","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Mark Hubbard",16333,"USA","363","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Dawie van der Walt",9883,"RSA","368","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Stuart Appleby",5294,"AUS","369","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Rod Pampling",5668,"AUS","371","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Henrik Norlander",11657,"SWE","375","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Tim Wilkinson",7097,"NZL","376","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Kelly Kraft",15852,"USA","381","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Andrew Landry",14000,"USA","405","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Cameron Percy",5874,"AUS","406","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Wes Roach",15720,"USA","409","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Tim Herron",5621,"USA","415","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Will Mackenzie",7470,"USA","433","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Luke Guthrie",15610,"USA","434","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Mark Wilson",4107,"USA","445","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Carlos Ortiz",14735,"MEX","451","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Angel Cabrera",5717,"ARG","454","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Donghwan Lee",8211,"KOR","468","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Erik Compton",6556,"USA","482","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Lee McCoy",19871,"USA","489","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Scott Langley",14700,"USA","490","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Abraham Ancer",18238,"MEX","523","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Alex Prugh",12339,"USA","525","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Miguel Angel Carballo",8570,"ARG","534","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Justin Leonard",5603,"USA","556","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Dicky Pride",5467,"USA","564","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Lucas Lee",13618,"BRA","565","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Brice Garnett",11451,"USA","584","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Tom Gillis",3901,"USA","614","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Derek Ernst",16711,"USA","640","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jordan Niebrugge",18284,"USA","655","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Darron Stiles",6401,"USA","714","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Arjun Atwal",5701,"IND","730","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"D.A. Points",6761,"USA","744","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Joey Garber",18658,"USA","1215","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Robert Allenby",4949,"AUS","1257","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jarrod Lyle",8392,"AUS","1473","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Jerry Haas",750,"USA","1835","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"Neal Lancaster",4199,"USA","1835","Wyndham Championship ",6326,2016-08-21,"PGA Tour",NA,NA,2016-08-17
+"J.J Spaun",17536,"USA","208","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Seamus Power",10104,"IRL","257","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Trey Mullinax",18761,"USA","264","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Dominic Bozzelli",17564,"USA","272","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Kyounghoon Lee",13497,"KOR","279","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Brad Fritsch",7207,"CAN","290","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Brian Campbell",18628,"USA","309","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"JT Poston",21554,"USA","313","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ryan Armour",8469,"USA","338","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Austin Cook",18579,"USA","343","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Rodolfo Cazaubon Jnr",18185,"MEX","361","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Brandon Hagy",18695,"USA","383","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Josh Geary",9903,"NZL","397","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Stephan Jaeger",16394,"GER","403","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jonathan Randolph",14837,"USA","412","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Grayson Murray",14655,"USA","424","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Xander Schauffele",19895,"USA","427","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Kevin Tway",13127,"USA","431","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Sebastian Vazquez",15487,"MEX","441","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"James Driscoll",6228,"USA","443","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Juan Sebastian Munoz",20770,"COL","457","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Kyle Thompson",7617,"USA","461","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Julian Etulain",11911,"ARG","463","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jason Millard",17567,"USA","464","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Max Homa",17538,"USA","472","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jonathan Byrd",6931,"USA","480","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ryan Blaum",9643,"USA","481","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Rick Lamb",18869,"USA","484","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Kent Bulle",15715,"USA","500","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Josh Teater",8085,"USA","512","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Cody Gribble",17508,"USA","516","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Chris Baker",13971,"USA","524","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Andrew Svoboda",11274,"USA","529","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ryan Brehm",10423,"USA","531","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Sam Ryder",16715,"USA","537","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Matt Atkins",19360,"USA","544","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Bryden MacPherson",14378,"AUS","546","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Zack Sucher",14036,"USA","550","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Roger Sloan",14050,"CAN","551","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Adam Schenk",19477,"USA","553","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"John Merrick",9584,"USA","557","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Adam Svensson",13997,"CAN","571","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Blake Adams",12088,"USA","577","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Albin Choi",15606,"CAN","586","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Tag Ridings",6840,"USA","589","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Bhavik Patel",16107,"USA","593","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Steve Allan",5697,"AUS","596","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Mark Anderson",12131,"USA","597","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Rafael Campos",12909,"PUE","627","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Curtis Thompson",19395,"USA","638","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Denny McCarthy",19870,"USA","639","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Eric Axley",8024,"USA","641","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jin Park",7362,"KOR","647","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"John Mallinger",9027,"USA","647","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Taylor Pendrith",17780,"CAN","651","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jimmy Gunn",18163,"SCO","658","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Gonzalo Fdez-Castano",8262,"ESP","668","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Zack Fischer",17273,"USA","670","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Keith Mitchell",17365,"USA","681","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Justin Hueber",18590,"USA","682","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Adam Long",15473,"USA","684","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Nate Lashley",10943,"USA","689","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Brady Schnell",12414,"USA","692","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Justin Hicks",9166,"USA","694","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Alexandre Rocha",7441,"BRA","697","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Matt Fast",14561,"USA","707","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Bryan Bigley",15329,"USA","709","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jorge Fernandez-Valdes",16786,"ARG","720","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Anders Albertson",21235,"USA","722","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Scott Harrington",8479,"USA","723","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Michael Putnam",10180,"USA","743","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Casey Wittenberg",8819,"USA","748","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Craig Barlow",6138,"USA","756","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Andrew Yun",15614,"USA","757","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Daniel Mazziotta",18195,"USA","764","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Brett Drewitt",15162,"AUS","775","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jack Maguire",19869,"USA","780","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Timothy Madigan",18535,"USA","805","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Erik Barnes",14799,"USA","807","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Steven Fox",17059,"USA","812","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Diego Velasquez",14840,"COL","832","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Nicholas Thompson",10889,"USA","836","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Brad Elder",6204,"USA","837","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Drew Weaver",12416,"USA","839","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Bill Lunde",7962,"USA","843","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Andy Winings",14807,"USA","857","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Tyler Duncan",18187,"USA","866","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ted Potter-jr",8769,"USA","881","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Oliver Goss",16813,"AUS","885","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Charlie Wi",5905,"KOR","891","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Mathew Goggin",3756,"AUS","893","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jason Allred",7804,"USA","895","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jim Renner",12475,"USA","903","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Todd Baek",12745,"KOR","917","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Greg Eason",17719,"ENG","917","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Michael Hebert",18251,"USA","939","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Tommy Cocha",12805,"ARG","947","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jeff Gove",6390,"USA","955","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ryan Yip",12083,"CAN","959","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Travis Bertoni",12563,"USA","959","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Peter Tomasulo",9910,"USA","963","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ryan Spears",14011,"USA","964","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Peter Lonard",4122,"AUS","969","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Chris Naegel",17345,"USA","1005","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Hunter Hamrick",16242,"USA","1015","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Oscar Fraustro",9834,"MEX","1025","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Steve LeBrun",7099,"USA","1039","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Marc Turnesa",7627,"USA","1059","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Chris Smith",2079,"USA","1069","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ben Kohles",16395,"USA","1083","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Chase Wright",16807,"USA","1095","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Aaron Watkins",9932,"USA","1104","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Matt Davidson",9872,"USA","1115","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Chris Wilson",7432,"USA","1124","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Mark Silvers",14705,"USA","1144","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Michael Arnaud",13815,"USA","1188","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ian Davis",18589,"USA","1219","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Russell Surber",9200,"USA","1240","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Benjamin Silverman",17381,"USA","1249","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Byron Smith",9687,"USA","1263","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Brian Richey",16138,"USA","1277","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"B.J. Staten",7642,"USA","1335","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Chris Thompson",11983,"USA","1401","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Kurt Kitayama",21891,"USA","1418","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Matt Harmon",12385,"USA","1455","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Michael Gellerman",19909,"USA","1489","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"John Rollins",6300,"USA","1660","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Vince India",15793,"USA","1677","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jhared Hack",14457,"USA","1729","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Scott Gardiner",6270,"AUS","1829","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Robert Gamez",2878,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Len Mattiace",3982,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Hunter Haas",6594,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Ben Curtis",7101,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Reid Edstrom",8848,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Adam Mitchell",13522,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Nick Rousey",14849,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Jesse Speirs",15709,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Chas Narramore",15718,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Kyle Scott",15861,"RSA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Doug Letson",19746,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Kyle Jones",19867,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Dylan Healey",22026,"USA","1835","News Sentinel Open presented by Pilot",6327,2016-08-21,"Web.com Tour",NA,NA,2016-08-17
+"Scott Vincent",14559,"ZIM","422","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Taylor Moore",21944,"USA","576","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Corey Conners",17576,"CAN","587","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Tyler McCumber",17584,"USA","706","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Aaron Wise",22051,"USA","717","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Charlie Bull",19735,"ENG","719","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Eugene Wong",14836,"CAN","762","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Adam Cornelson",15423,"CAN","815","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ryan Williams",13191,"CAN","820","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"John Catlin",18524,"USA","860","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Talor Gooch",18580,"USA","887","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Carter Jenkins",15456,"USA","900","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Samuel Del Val",15791,"ESP","913","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brock MacKenzie",9167,"USA","919","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Austin Connelly",19704,"CAN","924","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Michael Gligic",13404,"CAN","933","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Cameron Peck",13352,"USA","945","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Wilson Bateman",15499,"CAN","958","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Eric Steger",19479,"USA","965","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Riley Wheeldon",15447,"CAN","1019","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Michael Letzig",7641,"USA","1021","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Caleb Sturgeon",21904,"USA","1034","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Chris Ross",14835,"CAN","1035","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brad Clapp",17527,"CAN","1040","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"David Skinns",10873,"ENG","1056","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Daniel Miernicki",14798,"USA","1073","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ben Geyer",19361,"USA","1084","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Cao Yi",15067,"CHN","1097","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Wade Binfield",18435,"USA","1135","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ethan Tracy",19552,"USA","1148","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"William Starke",20879,"USA","1158","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Conrad Shindler",17274,"USA","1163","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Sean Harlingten",8202,"USA","1167","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brad Schneider",3703,"USA","1173","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"James Love",8130,"CAN","1198","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Paul Barjon",16566,"FRA","1198","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jeff Rein",17298,"USA","1198","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Scott Wolfes",20549,"USA","1228","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Clayton Rask",13186,"USA","1238","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Matt Hill",14029,"CAN","1247","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"T.J. Vogel",17280,"USA","1265","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ross Beal",19731,"USA","1267","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Danny Sahl",9352,"CAN","1292","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Cory Renfrew",11443,"CAN","1299","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Nicholas Reach",13376,"USA","1303","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Seth Reeves",19643,"USA","1316","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brad Brunner",21502,"USA","1326","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Riley Fleming",17577,"CAN","1327","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Carlos Sainz Jr",14519,"USA","1341","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Kyle Wilshire",19774,"USA","1350","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Mike Van Sickle",14083,"USA","1386","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Joseph Harrison",19744,"USA","1394","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Tain Lee",16598,"USA","1405","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Manav Shah",21901,"USA","1405","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Max Gilbert",17684,"CAN","1413","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Michael Schoolcraft",19766,"USA","1423","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Thomas Hay",16330,"CAN","1489","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Peter Campbell",12842,"CAN","1521","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Seath Lauer",15121,"USA","1532","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Chase Marinell",19750,"USA","1532","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Chris Williams",15481,"USA","1598","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Julien Brun",16363,"FRA","1609","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jonathan Khan",19833,"USA","1609","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Michael Miller(1992)",17902,"USA","1614","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Curtis Reed",19762,"USA","1627","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Sam Love",18632,"USA","1655","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Eric Onesi",15457,"USA","1661","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Vince Covello",11441,"USA","1716","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Chris Hemmerich",18570,"CAN","1833","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"David Anthony",6769,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Derek Gillespie",6883,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Matt McQuillan",6935,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Justin Bates",11598,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ted F. Smith",12445,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Erick Justesen",13174,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brett Lederer",13378,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Darren Hupfer",14027,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brian Dwyer",14262,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brad Benjamin",14486,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Devin Carrey",14507,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Aaron Cockerill",15596,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Nyasha Mauchaza",15660,"ZIM","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brett Cairns",15697,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Sebastian Szirmak",15710,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Byron Meth",15855,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Edward Figueroa",16044,"PUE","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jonathan Fly",16226,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Vaita Guillaume",16432,"PYF","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Matthew NeSmith",16433,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Charlie Winegardner",17483,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Sepp Straka(Am)",17511,"AUT","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Nicholas Delio",17544,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"James Erkenbeck",17720,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Will McCurdy",17758,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Andrew Ledger",17778,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Thomas Baik",18112,"ARG","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jared Wolfe",18164,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Charlie Harrison",18189,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"William Kropp",18193,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Colin Featherstone",18257,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Adam Webb",18373,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ty Dunlap",18420,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Kazuo Hoffman",18533,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Christopher Wolfe",18550,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Stuart MacDonald(Am)",18571,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jake Scott",18581,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jake Johnson",18712,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Dillon Rust",18771,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Cam Lowdon",18829,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Russell Budd",18874,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jake Knapp",19396,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ryan Heisey",19469,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"David Pastore",19593,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Curtis Donahoe",19737,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Zachary Edmondson",19739,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"David Fink",19741,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Matt F Hansen",19743,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Paul McConnell",19753,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Joel Thelen",19770,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Chris Worrell",19775,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Benjamin Taylor",19948,"ENG","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Benjamin Polland",20344,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jack Whelan",21329,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Cody Blick",21876,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jeb Buchanan",21877,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Ryan Burgess",21878,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Bradley Caldwell",21879,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Trevor Cone",21880,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Mathias Dahl",21881,"SWE","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Brendan Dillon",21882,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Dylan Freeman",21884,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Taylor R. Hancock",21887,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jeffrey Kang",21889,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Jae Yong Kim",21890,"KOR","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Craig McCoy",21893,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Colin Monagle",21895,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Joe Parkinson",21897,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Blake Redmond",21899,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Roman Robledo",21900,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Matthew Siporin",21902,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Michael Tolladay",21905,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"John Tomlinson",21906,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Elliott Whitley",21907,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Nathan Anderson",21929,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Spencer Fletcher",21941,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Sean Kelly",21942,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Henry Lebioda",21943,"USA","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Scott Secord",22309,"CAN","1835","National Capital Open to Support Our Troops",6328,2016-08-21,"PGA Tour Canada",NA,NA,2016-08-17
+"Andy Sullivan",15326,"ENG","39","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Lee Westwood",4052,"ENG","43","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Matthew Fitzpatrick",17646,"ENG","48","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Thomas Pieters",13944,"BEL","61","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jaco Van Zyl",7105,"RSA","72","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jamie Donaldson",7084,"WAL","82","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Bradley Dredge",6150,"WAL","104","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Dean Burmester",14424,"RSA","144","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Lucas Bjerregaard",11619,"DEN","151","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Lee Slattery",6866,"ENG","155","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Tommy Fleetwood",12294,"ENG","173","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Eddie Pepperell",15113,"ENG","174","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"David Howell",5718,"ENG","180","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Maximilian Kieffer",12317,"GER","185","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Matthew Southgate",15191,"ENG","189","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Richard Bland",6516,"ENG","192","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Marc Warren",7567,"SCO","193","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Nacho Elvira",12988,"ESP","198","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"David Horsey",11230,"ENG","206","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Haydn Porteous",15866,"RSA","210","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Callum Shinkwin",18244,"ENG","219","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Robert Rock",7895,"ENG","235","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Peter Hanson",6850,"SWE","241","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Robert Dinwiddie",11894,"ENG","250","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Pelle Edberg",8574,"SWE","270","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Zander Lombard",16897,"RSA","274","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Gary Stal",13262,"FRA","285","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Graeme Storm",3323,"ENG","286","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Nino Bertasio",13013,"ITA","296","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Gary Boyd",12795,"ENG","299","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Brett Rumford",6255,"AUS","300","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jason Scrivener",12734,"AUS","301","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Mike Lorenzo-Vera",9675,"FRA","304","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jacques Blaauw",13681,"RSA","307","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Richard Sterne",7049,"RSA","308","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Rory Sabbatini",6283,"RSA","315","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"David Lipsky",15980,"USA","319","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jeff Winther",15680,"DEN","320","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Thomas Bjorn",5725,"DEN","332","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Mikko Korhonen",9252,"FIN","334","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Borja Virto Astudillo",17313,"ESP","335","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Carlos Pigem",13885,"ESP","346","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Ross McGowan",11981,"ENG","348","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Adrian Otaegui",14975,"ESP","359","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"David Drysdale",6867,"SCO","372","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Justin Walters",8045,"RSA","373","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Paul Dunne",18736,"IRL","374","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Thomas Linard",15337,"FRA","378","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Daniel Im",12971,"USA","379","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Lasse Jensen",10170,"DEN","390","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Paul Peterson",16341,"USA","398","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Terry Pilkadaris",6334,"AUS","399","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jean Hugo",6304,"RSA","407","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Daniel Brooks",12897,"ENG","413","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Chris Paisley",14844,"ENG","421","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Paul Lawrie",5105,"SCO","429","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Chris Hanson",12295,"ENG","431","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Robert Karlsson",4331,"SWE","446","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Oliver Fisher",10863,"ENG","448","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Richard McEvoy",7389,"ENG","449","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Estanislao Goya",10877,"ARG","459","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Tom Murray",17077,"ENG","469","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Joachim B Hansen",14284,"DEN","471","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jbe' Kruger",11978,"RSA","475","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Bjorn Akesson",11530,"SWE","476","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Rhys Davies",11527,"WAL","477","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Ben Evans",10151,"ENG","483","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Renato Paratore",16549,"ITA","488","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Matt Ford",10139,"ENG","493","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Tjaart Van Der Walt",5937,"RSA","496","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jamie McLeary",9240,"SCO","506","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Seve Benson",11574,"ENG","508","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Craig Lee",4398,"SCO","519","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Clement Berardo",14970,"FRA","527","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jens Fahrbring",13445,"SWE","537","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Ryan Evans",19030,"ENG","540","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Shiv Kapur",9553,"IND","547","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Daniel Gaunt",6132,"AUS","559","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Andrew McArthur",9130,"SCO","573","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jack Senior",15115,"ENG","583","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"John Parry",13764,"ENG","606","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Mark Foster",5928,"ENG","608","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jason Knutzon",7231,"USA","612","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Carlos del Moral",10222,"ESP","656","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Matteo Delpodio",11121,"ITA","660","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Anders Hansen",5724,"DEN","664","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Scott Jamieson",11397,"SCO","669","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Niccolo Ravano",10071,"ITA","673","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Tom Lewis",15164,"ENG","684","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Edouard Espana",14787,"FRA","689","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Florian Fritsch",9217,"GER","694","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Mads Sogaard",15678,"DEN","700","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"David Law",14784,"SCO","710","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Steven Jeppesen",8125,"SWE","718","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Pedro Oriol",10248,"ESP","725","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Javier Colomo ",12605,"ESP","728","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"James Robinson",12298,"ENG","735","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Josh Loughrey",19812,"ENG","737","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Johan Edfors",6852,"SWE","753","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jeev Milkha Singh",3831,"IND","770","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Mikael Lundberg",4718,"SWE","778","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Francesco Laporta",14987,"ITA","789","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Robert Coles",5714,"ENG","800","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Stuart Manley",8222,"WAL","801","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Steve Webster",5667,"ENG","812","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Niclas Fasth",3832,"SWE","819","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Michael Jonzon",5218,"SWE","861","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Scott Fernandez",15616,"ESP","890","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Peter Lawrie",2338,"IRL","906","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jake Roos",9879,"RSA","916","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Ulrich Van Den Berg",6155,"RSA","923","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Joel Sjoholm",12485,"SWE","934","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"David Dixon",7311,"ENG","962","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Hugues Joannes",11201,"BEL","973","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Dimi Papadatos",15168,"AUS","995","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"George Murray",10263,"SCO","998","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Edoardo Molinari",7033,"ITA","1007","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Oscar Stark",18131,"SWE","1018","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Robin Goger",14240,"AUT","1044","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Peter Whiteford",7822,"SCO","1072","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Steven Brown",15771,"ENG","1085","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Charlie Ford",14400,"ENG","1088","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Joshua White",18784,"ENG","1097","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Laurie Canter",14795,"ENG","1101","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Marco Crespi",7933,"ITA","1126","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Oliver Wilson",8300,"ENG","1130","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Matthew Baldwin",13344,"ENG","1135","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"John Daly",863,"USA","1256","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Daniel Gavins",18241,"ENG","1279","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Simon Dyson",6436,"ENG","1376","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Darryn Lloyd",13728,"RSA","1437","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Filip Mruzek",14883,"CZE","1451","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Michael Palmer",21201,"RSA","1521","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Gabriel Axell",20150,"SWE","1657","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Kenneth Ferrie",6576,"ENG","1817","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Andrea Perrino",13014,"ITA","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Lukas Nemecz",13089,"AUT","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"James Busby",13316,"ENG","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jin Jeong",13573,"KOR","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Lukas Tintera",14091,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Petr Gal-jr",14882,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Simon Zach(Am)",15671,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Petr Dedek",16717,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Vitek Novak(Am)",16719,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Daniel Suchan(Am)",17522,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Ales Korinek",17865,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Paul Shields",18682,"SCO","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Michal Brezovsky(AM)",18720,"SVK","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jan Friesz(AM)",18721,"SVK","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Petr Valasek",18727,"SVK","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Cormac Sharvin",18915,"NIR","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jan  Cafourek",19851,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Mathias Lynne Schjolberg",20248,"NOR","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Jiri Zuska(AM)",21598,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Chase Koepka",21997,"USA","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"David Siwy(Am)",22209,"CZE","1835","D+D REAL Czech Masters",6329,2016-08-21,"European Tour",NA,NA,2016-08-17
+"Ryan Fox",11889,"NZL","150","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Clement Sordet",17718,"FRA","177","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Dylan Frittelli",11955,"RSA","188","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Jordan L Smith",18586,"ENG","234","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Alexander Bjork",14775,"SWE","239","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Romain Langasque",16652,"FRA","239","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Alexander Knappe",12318,"GER","244","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Bernd Ritthammer",12521,"GER","247","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Damien Perrier",12661,"FRA","280","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Espen Kofstad",13349,"NOR","282","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Sebastian Soderberg",18517,"SWE","287","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"James Heath",9365,"ENG","317","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Sam Walker",7157,"ENG","321","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"John Hahn",17539,"USA","345","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Adrien Saddier",14792,"FRA","349","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Simon Forsstrom",19806,"SWE","355","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Joel Stalter",17722,"FRA","358","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Ben Stow",16401,"ENG","360","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Jose-Filipe Lima",7868,"POR","382","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Aaron Rai",18554,"ENG","391","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Duncan Stewart",12472,"SCO","392","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Matthieu Pavon",19960,"FRA","394","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Max Orrin",17903,"ENG","402","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Dominic Foos",17022,"GER","417","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Darius Van Driel",13374,"NED","440","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Jens Dantorp",14018,"SWE","450","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Jurrian Van der Vaart",13489,"NED","465","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Steven Tiley",9311,"ENG","492","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Pep Angles Ros",19634,"ESP","498","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Gary King",17835,"ENG","517","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Lorenzo Gagli",10073,"ITA","520","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Oliver Farr",13318,"WAL","568","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Thomas Detry",14181,"BEL","599","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Sebastian Heisele",16499,"GER","603","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Julien Guerrier",10201,"FRA","605","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Chris Selfridge",13982,"IRL","609","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Alessandro Tadini",7001,"ITA","618","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Andrea Pavan",12177,"ITA","620","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Moritz Lampert",13438,"GER","657","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Nicolas Geyger",13607,"CHI","716","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Ross Kellett",13235,"SCO","754","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Joel Girrbach",15592,"SUI","802","Rolex Trophy",6330,2016-08-21,"European Challenge Tour",NA,NA,2016-08-17
+"Jaco Ahlers",11852,"RSA","306","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Christiaan Bezuidenhout",18103,"RSA","336","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Keith Horne",6165,"RSA","341","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Ockie Strydom",13731,"RSA","365","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Vaughn Groenewald",1331,"RSA","442","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Danie van Tonder",15193,"RSA","494","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Merrick Bremner",10811,"RSA","501","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Mark Williams",4872,"ZIM","510","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Anthony Michael",14397,"RSA","511","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Lyle Rowe",11956,"RSA","533","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Titch Moore",6312,"RSA","543","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Oliver Bekker",12819,"RSA","548","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Rourke Van der Spuy",18827,"RSA","549","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Louis de Jager",12821,"RSA","560","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Erik van Rooyen",17550,"RSA","566","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Christiaan Basson",11953,"RSA","611","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jean-Paul Strydom",17138,"RSA","634","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jacques Kruyswijk",16896,"RSA","661","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Ruan de Smidt",15864,"RSA","686","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Justin Harding",10886,"RSA","699","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Andrew Curlewis",9899,"RSA","715","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jonathan Agren",20400,"SWE","767","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Peter Karmis",8427,"RSA","782","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Callum Mowat",18153,"RSA","793","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Madalitso Muthiya",11035,"ZAM","797","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Bryce Easton",15181,"RSA","823","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Tyrone Mordt",8430,"RSA","835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Wallie Coetsee",5936,"RSA","864","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"PH McIntyre",12839,"RSA","878","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Neil Schietekat",11980,"RSA","928","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Breyten Meyer",19532,"RSA","936","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Colin Nel",9882,"RSA","948","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Mark Murless",5730,"RSA","1012","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Teaghan Gauche",21196,"RSA","1097","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jared Harvey",15865,"RSA","1119","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Derick Petersen",10883,"RSA","1182","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Alex Haindl",10792,"RSA","1184","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Steven Ferreira",14432,"RSA","1222","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Heinrich Bruiners",11976,"RSA","1224","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jake Redman",13705,"RSA","1236","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Lindani Ndwandwe",7076,"RSA","1300","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Theunis Spangenberg",10818,"RSA","1369","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Drikus Van der Walt",15843,"RSA","1380","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Doug McGuigan",4497,"SCO","1452","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jason Viljoen",21206,"RSA","1489","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Tyrone Ferreira",12823,"RSA","1548","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Ryan Tipping",8425,"RSA","1576","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Allan Versfeld",15194,"RSA","1577","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Bryce Bibby",18152,"RSA","1600","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Leroux Ferreira",14263,"RSA","1626","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Henry Featherstone",19422,"ENG","1687","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Ryan Cairns",10634,"ZIM","1732","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Stuart J. Smith",16123,"BOT","1826","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Ben Fouchee",1029,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Nic Henning",5248,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Warren Abery",5735,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Alan Michell",6320,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jeff Inglis",7692,"ENG","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Charl Coetzee",9958,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Antonio Rosado",10035,"POR","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Johan Engelbrecht",10805,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Wynand Dingle",12863,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Keenan Davidse",13725,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Pieter Kruger",13772,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Stefan Engell Andersen",13842,"KEN","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Matthew Carvell",14399,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Trevor Mahoney",14435,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Greg Bentley",14536,"ZIM","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"JJ Senekal",15185,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Dayne Moore",15824,"ZAM","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Daniel Hammond",15991,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Allister de Kock",16037,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Gert Myburgh",16898,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Darren Tibshraeny",16945,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Drikus Bruyns",17316,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Stephen Ferreira",17409,"POR","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jacquin Hess",17784,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Gideon Pienaar",18203,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Pieterjan Woest",19278,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Dwayne Basson",19419,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Bryn Flanagan",19525,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"MJ Viljoen",19537,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Tyron McComb",21050,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jason Froneman",21195,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jason Diab",21296,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Gerrit Foster",21304,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Jeff Hopkins",21305,"IRL","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Ruan Pretorius",21308,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Neal Herman",21347,"RSA","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Shane Granger",21442,"BOT","1835","Vodacom Origins of Golf - Arabella",6331,2016-08-21,"Sunshine Tour",NA,NA,2016-08-17
+"Steve Surry",9498,"ENG","644","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Matthew Cort",7313,"ENG","710","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ashley Chesters",18735,"ENG","721","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mark Laskey",11112,"WAL","764","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Greg Payne",20020,"ENG","788","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Richard James",17810,"WAL","825","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Andrew Marshall",7177,"ENG","855","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Chris Lloyd",15201,"ENG","944","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Haydn McCullen",19121,"ENG","961","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Chris Gane",6570,"ENG","983","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Richard Edginton",10257,"ENG","983","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Adam Runcie",14065,"WAL","983","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"David Coupland",12427,"ENG","1058","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Gavin Moynihan",17585,"IRL","1110","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Neil Fenwick",15491,"SCO","1111","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Maw",18909,"ENG","1138","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jason Timmis",16181,"ENG","1144","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"David Booth",18739,"ENG","1184","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jimmy Mullen",17647,"ENG","1186","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Paul McKechnie",7826,"SCO","1198","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Luke Jackson",20001,"ENG","1198","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Adam Hodkinson",22134,"ENG","1198","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Sam Connor",18679,"ENG","1244","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Steven Uzzell",13311,"ENG","1260","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Niall Kearney",14396,"IRL","1288","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Robbie Busher",17397,"ENG","1295","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Nick Marsh",21306,"ENG","1313","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mark Young",19949,"ENG","1334","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Nicholas Garland",19988,"ENG","1354","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Joseph Dean",16497,"ENG","1440","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Chris Evans(Feb1985)",19902,"ENG","1440","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ben Storey",20032,"ENG","1440","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Hendrik Beins",20357,"GER","1440","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Stephen Grant(1977)",13061,"IRL","1468","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Nick McCarthy",15172,"ENG","1489","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Peter Tarver-Jones",19516,"ENG","1489","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Luke Cornford",19974,"ENG","1489","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Curtis Griffiths",19991,"ENG","1489","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Sam Robertshawe",20025,"ENG","1535","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Frazer",13319,"WAL","1573","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Alex Wrigley",18747,"ENG","1587","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Graeme A Clark",9388,"ENG","1624","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Lynch",20331,"ENG","1624","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Bradley Neil",18737,"SCO","1664","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jamie Elson",7564,"ENG","1673","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Ablett",12439,"ENG","1673","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Conor O'Neil",20018,"SCO","1673","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Craig Farrelly",12979,"ENG","1687","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Alan Dunbar",14814,"NIR","1687","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jordan McColl",19905,"SCO","1687","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jack Harrison",18202,"ENG","1710","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Phillip Price",4739,"WAL","1795","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Paul Dwyer",2632,"ENG","1798","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mark Murphy",6906,"IRL","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Sandeep Grewal",7083,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Steven Parry",7461,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Tim Rice",7662,"IRL","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mark Ramsdale",9393,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Steve Graham",9499,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Craig Sutherland",10605,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Kevin Harper",11961,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Watts",12299,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Matt Haines",12931,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Ruebotham",13239,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Wallace Booth",14034,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Charlie Simpson",14229,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Luke Goddard",14290,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Kris Nicol",14922,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Chris Cannon",15222,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Gareth Evans",15615,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Neil Raymond",15620,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Michael Stewart",15867,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Hugo Dobson",16058,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Rhys Pugh",16221,"WAL","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Reeve Whitson",17314,"NIR","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Sam Forgan",17816,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Benjamin Martin",17956,"TRI","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Nathan Kimsey",18027,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Luke Bangerter",18247,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Craig Lawrie",18680,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Luke Joy",19314,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jack Colegate",19860,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"George Parker",19861,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Scott Borrowman",19900,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Adams",19962,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ryan Boyns",19967,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Blane Breheny",19968,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jamie Brittain",19969,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Andrew Cheese",19971,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"David Clarkson",19972,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Miles Collins",19973,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Dave Corsby",19975,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jamie Dick",19979,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"John Duff",19980,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Connor Fletcher",19984,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ben Hall",19992,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Warren Harmston",19994,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Thomas Hayward",19996,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Alastair Kinnaird",20005,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Charlie Lidyard",20007,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Kyson Lloyd",20008,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Liam Murray",20012,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Paul Nessling",20013,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Paul Newman",20015,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Tom Perry",20021,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ashley Rees",20024,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Josh Sims",20028,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ben Smith1993727",20030,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Robert Sutton",20033,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mike Bedford",20133,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mason Papple",20240,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Todd Adcock",20316,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Max Brackley",20318,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Michael Farrier-Twist",20325,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Roberto Laino",20329,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Robert Watson",20340,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Josh Kenny",20348,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Michael Bullen",20431,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Joshua Carpenter",20432,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ryan O'Neill",20440,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Simpson",20443,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Steven",20445,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Christopher Forsyth",20543,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Julian Taylor(Am)",20634,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jake Ayres",20665,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"John Henry",20680,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Tomasz Anderson",20726,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jonathan Breen",21763,"NIR","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Simon Bryan",21765,"IRL","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Billy Downing",21769,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"James Ford",21770,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jordan Godwin",21772,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Adam Hedges",21774,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jonathan Hewitt",21775,"WAL","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Greg Hughes",21776,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Miguel Moitas",21781,"POR","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Michael Saunders",21784,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Daniel Scourfield",21785,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Henry Smart",21786,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Billy Spooner",21787,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mark Talbott",21788,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Nick Watson",21790,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"David Woodhead",21792,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Ryan Campbell",21908,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Nick Cunningham",21909,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Sam Cutting",21910,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Sean Lawrie",21913,"SCO","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"George Mullins",21915,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Robert Prior",21918,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Tom Jordan",22136,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Joey Lamb",22138,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Michael McIntyre",22142,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Matt Mumford",22143,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jack South",22145,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Henry Todd",22146,"USA","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Daniel Whitby-Smith",22149,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Mark James(1991)",22191,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Tommy Obergan",22197,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jack Owen",22198,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Max Penney",22199,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jon White",22203,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Jamie Debrou",22326,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Dean Homewood",22359,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
+"Darren Walkley",22362,"ENG","1835","The Matchroom Sport Championship",6332,2016-08-21,"EuroPro Tour",NA,NA,2016-08-17
