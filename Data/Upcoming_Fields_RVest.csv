@@ -1,1082 +1,550 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Jason Day",9771,"AUS","1","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Dustin Johnson",12422,"USA","2","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jordan Spieth",14636,"USA","3","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Henrik Stenson",5994,"SWE","4","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Rory McIlroy",10091,"NIR","5","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Adam Scott",6430,"AUS","6","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Bubba Watson",7334,"USA","7","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Rickie Fowler",12965,"USA","8","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Patrick Reed",14838,"USA","9","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Justin Rose",6093,"ENG","10","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Sergio Garcia",5689,"ESP","12","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Phil Mickelson",1547,"USA","13","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Branden Grace",11952,"RSA","14","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Matt Kuchar",6169,"USA","15","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Hideki Matsuyama",13562,"JPN","16","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Louis Oosthuizen",7672,"RSA","17","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Brooks Koepka",16243,"USA","18","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jimmy Walker",7293,"USA","19","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Russell Knox",13831,"SCO","20","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"J.B. Holmes",7959,"USA","21","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jim Furyk",2881,"USA","22","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Brandt Snedeker",8820,"USA","23","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Zach Johnson",6986,"USA","24","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Emiliano Grillo",12808,"ARG","25","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Charl Schwartzel",7398,"RSA","26","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Scott Piercy",7899,"USA","29","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Paul Casey",7108,"ENG","30","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Justin Thomas",14139,"USA","31","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Kevin Kisner",11328,"USA","32","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Kevin Chappell",13305,"USA","34","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Bill Haas",7900,"USA","35","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Daniel Berger",17606,"USA","38","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"William McGirt",12477,"USA","40","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Ryan Moore",7489,"USA","43","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Charley Hoffman",5768,"USA","47","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Marc Leishman",7649,"AUS","49","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Danny Lee",11826,"NZL","51","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Gary Woodland",12577,"USA","52","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"David Lingmerth",14815,"SWE","54","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Daniel Summerhays",12424,"USA","56","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jason Dufner",7301,"USA","57","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Harris English",14577,"USA","60","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Siwoo Kim",14609,"KOR","62","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Webb Simpson",11049,"USA","63","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Luke Donald",4163,"ENG","64","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"James Hahn",11374,"USA","65","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Billy Horschel",11276,"USA","66","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Ryan Palmer",7820,"USA","68","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Tony Finau",11676,"USA","71","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Brendan Steele",11019,"USA","72","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Graeme McDowell",7548,"NIR","73","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Chris Kirk",12423,"USA","76","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Sean O'Hair",7626,"USA","77","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Smylie Kaufman",18631,"USA","79","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jhonattan Vegas",13508,"VEN","80","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Fabian Gomez",8571,"ARG","83","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jim Herman",12846,"USA","84","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Steve Stricker",4818,"USA","87","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Patton Kizzire",13470,"USA","93","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jamie Lovemark",11382,"USA","94","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jon Curran",14699,"USA","97","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Russell Henley",14578,"USA","98","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jerry Kelly",5151,"USA","99","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jason Kokrak",12337,"USA","100","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Charles Howell III",6892,"USA","102","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Colt Knost",12149,"USA","103","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Roberto Castro",12643,"USA","105","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Kevin Streelman",8480,"USA","107","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"John Senden",5207,"AUS","110","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"K.J. Choi",1804,"KOR","112","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Ben Martin",14007,"USA","113","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Kyle Reifers",11329,"USA","115","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Vaughn Taylor",6930,"USA","116","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Freddie Jacobson",3846,"SWE","118","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Alex Cejka",4425,"GER","119","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Patrick Rodgers",16283,"USA","121","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Jason Bohn",6462,"USA","122","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Vijay Singh",653,"FIJ","123","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Bryce Molder",7292,"USA","124","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Chez Reavie",7961,"USA","125","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Brian Harman",8825,"USA","132","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Martin Laird",9586,"SCO","136","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Aaron Baddeley",6252,"AUS","137","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Brian Stuard",13022,"USA","138","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"David Hearn",7340,"CAN","139","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Billy Hurley III",11046,"USA","147","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Johnson Wagner",7927,"USA","155","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Sunghoon Kang",7881,"KOR","164","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Scott Brown",11330,"USA","166","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Ricky Barnes",6846,"USA","170","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Adam Hadwin",13965,"CAN","179","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Chad Campbell",6248,"USA","182","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Harold Varner III",16602,"USA","183","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Spencer Levin",8199,"USA","190","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"John Huh",14606,"USA","214","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Hudson Swafford",14706,"USA","224","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Tyrone van Aswegen",9913,"RSA","250","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Derek Fathauer",12689,"USA","258","Deutsche Bank Championship",6347,2016-09-04,"PGA Tour",NA,NA,2016-09-02
-"Daniel McCarthy",11594,"USA","369","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Scott Vincent",14559,"ZIM","437","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Taylor Moore",21944,"USA","538","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Brock MacKenzie",9167,"USA","584","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Tyler McCumber",17584,"USA","656","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Adam Cornelson",15423,"CAN","657","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Aaron Wise",22051,"USA","717","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Charlie Bull",19735,"ENG","723","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Max Rottluff",19899,"GER","831","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ryan Williams",13191,"CAN","842","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"John Catlin",18524,"USA","868","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Talor Gooch",18580,"USA","902","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Austin Connelly",19704,"CAN","927","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Michael Gligic",13404,"CAN","950","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Cameron Peck",13352,"USA","951","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Riley Wheeldon",15447,"CAN","1039","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Caleb Sturgeon",21904,"USA","1044","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Michael Letzig",7641,"USA","1048","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Brad Clapp",17527,"CAN","1064","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"David Skinns",10873,"ENG","1071","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Daniel Miernicki",14798,"USA","1096","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ben Geyer",19361,"USA","1104","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Wade Binfield",18435,"USA","1147","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"William Starke",20879,"USA","1158","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ethan Tracy",19552,"USA","1161","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Conrad Shindler",17274,"USA","1174","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Sean Harlingten",8202,"USA","1182","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Brad Schneider",3703,"USA","1185","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"James Love",8130,"CAN","1201","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Paul Barjon",16566,"FRA","1201","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jeff Rein",17298,"USA","1201","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Scott Wolfes",20549,"USA","1234","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Clayton Rask",13186,"USA","1264","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Matt Hill",14029,"CAN","1267","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"T.J. Vogel",17280,"USA","1276","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ross Beal",19731,"USA","1292","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Danny Sahl",9352,"CAN","1310","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Cory Renfrew",11443,"CAN","1312","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Hunter Stewart",18294,"USA","1313","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Nicholas Reach",13376,"USA","1319","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"John Chin",14797,"USA","1319","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Seth Reeves",19643,"USA","1319","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Kyle Wilshire",19774,"USA","1362","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Carlos Sainz Jr",14519,"USA","1374","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Clark Klaasen",14005,"USA","1398","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Joseph Harrison",19744,"USA","1405","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Mike Van Sickle",14083,"USA","1413","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Tain Lee",16598,"USA","1413","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Zachary Edmondson",19739,"USA","1413","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Manav Shah",21901,"USA","1413","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Max Gilbert",17684,"CAN","1433","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Michael Schoolcraft",19766,"USA","1433","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jonathan Garrick",21885,"USA","1474","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Thomas Hay",16330,"CAN","1503","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Seath Lauer",15121,"USA","1559","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Chase Marinell",19750,"USA","1559","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jonathan Moore",11278,"USA","1597","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Chris Williams",15481,"USA","1632","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Julien Brun",16363,"FRA","1636","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jonathan Khan",19833,"USA","1636","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Michael Miller(1992)",17902,"USA","1643","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Curtis Reed",19762,"USA","1655","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Sam Love",18632,"USA","1679","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Eric Onesi",15457,"USA","1684","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Vince Covello",11441,"USA","1738","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Matt McQuillan",6935,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jesse Smith",10309,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Justin Bates",11598,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ted F. Smith",12445,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Erick Justesen",13174,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Darren Hupfer",14027,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Brian Dwyer",14262,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Brad Benjamin",14486,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Devin Carrey",14507,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Corey Hale",15174,"AUS","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Aaron Cockerill",15596,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Sebastian Szirmak",15710,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Glenn Northcutt",16148,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jonathan Fly",16226,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Vaita Guillaume",16432,"PYF","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Matthew NeSmith",16433,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Olin Browne-Jr",16488,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Charlie Winegardner",17483,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Sepp Straka(Am)",17511,"AUT","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Nicholas Delio",17544,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Eric Banks",17704,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Will McCurdy",17758,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Andrew Ledger",17778,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Lucas Kim",17855,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Thomas Baik",18112,"ARG","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jared Wolfe",18164,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Charlie Harrison",18189,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Colin Featherstone",18257,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Adam Webb",18373,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Kazuo Hoffman",18533,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Christopher Wolfe",18550,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Chris Hemmerich",18570,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jake Scott",18581,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Mitchell Sutton",18582,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jake Johnson",18712,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Dillon Rust",18771,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Russell Budd",18874,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Zack Kempa",18876,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Toby Williams(am)",19292,"AUS","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ryan Heisey",19469,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"David Fink",19741,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Matt F Hansen",19743,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Paul McConnell",19753,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Joel Thelen",19770,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Benjamin Taylor",19948,"ENG","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Benjamin Polland",20344,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Sean Bozuk",20643,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ally Tidcombe",20774,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jack Whelan",21329,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Cody Blick",21876,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jeb Buchanan",21877,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Ryan Burgess",21878,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Bradley Caldwell",21879,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Trevor Cone",21880,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Mathias Dahl",21881,"SWE","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Brendan Dillon",21882,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Dylan Freeman",21884,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Taylor R. Hancock",21887,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jeffrey Kang",21889,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Jae Yong Kim",21890,"KOR","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Colin Monagle",21895,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Joe Parkinson",21897,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Michael Tolladay",21905,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"John Tomlinson",21906,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Elliott Whitley",21907,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Spencer Fletcher",21941,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Sean Kelly",21942,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Henry Lebioda",21943,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Tom Lovelady",22068,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Brian Churchill-Smith",22243,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"David Wetterich",22247,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Michael Blair",22262,"CAN","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Taylor Gove",22457,"USA","1849","Cape Breton Open",6348,2016-09-04,"PGA Tour Canada",NA,NA,2016-09-02
-"Dou Ze-cheng",16757,"CHN","213","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Rohan Blizard",11838,"AUS","426","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Gunn Charoenkul",14128,"THA","454","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zhang Xin-jun",13026,"CHN","523","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Maxwell McCardle",13674,"AUS","565","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Alex Kang",17531,"USA","626","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Daniel Pearce",16933,"NZL","634","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jarin Todd",14821,"USA","690","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Janne Kaske",14117,"FIN","726","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Lincoln Tighe",16980,"AUS","748","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Justin Shin",17618,"CAN","771","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Eugene Wong",14836,"CAN","782","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Chen Zi-hao",15405,"CHN","786","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Charlie Saxon",21324,"USA","794","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Daniel Nisbet",11823,"AUS","797","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Taewoo Kim(Jan1993)",17384,"KOR","831","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"He Ze-yu",9764,"CHN","892","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Andrew Evans",15589,"AUS","915","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Paul Imondi",15956,"USA","977","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"David Lutterus",8388,"AUS","1045","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"James Gibellini",17788,"AUS","1054","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Rakhyun Cho",18340,"KOR","1057","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Seungyun Lee",16302,"KOR","1076","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Christopher Wood",16012,"AUS","1094","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Cao Yi",15067,"CHN","1127","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jake Stirling",17677,"AUS","1148","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Taeksoo Kim",18349,"KOR","1170","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Peter Cooke",8607,"AUS","1177","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jake Higginbottom",15849,"AUS","1186","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Niall Platt",19504,"USA","1245","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Sam Chien",18339,"USA","1285","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Scott Laycock",3472,"AUS","1335","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"He Shao-Cai",12622,"CHN","1340","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Cristiano Terragni",10519,"ITA","1362","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jiung Jeong",18311,"KOR","1393","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Su Dong",9745,"CHN","1425","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Chris Brown",18337,"AUS","1503","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Callum Tarren",20519,"ENG","1503","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Mark Baldwin",11569,"USA","1530","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Luo Xue-wen(Am)",17349,"CHN","1540","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jack Munro",17601,"AUS","1563","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Mu Hu",8900,"CHN","1568","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Alex Hawley",16005,"AUS","1597","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yeh Wei-Tze",6442,"TPE","1602","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yang Guang-ming",15311,"CHN","1624","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Bin Yan",16772,"CHN","1624","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Rory Hie",13306,"INA","1631","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Ray Beaufils",12826,"AUS","1634","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"She Zihan",17983,"CHN","1735","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Tseng Hong-Sheng",14281,"TPE","1747","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Ben Lein",18351,"USA","1781","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zhou Guo-wu",12973,"CHN","1819","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Mathew Perry",15894,"NZL","1826","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Hidetomo Sato",7941,"JPN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jon Mclean",8303,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Wu Wei-Huang",8329,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Liao Gui-ming",8332,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yuan Hao",9552,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Ye Jian-feng",9765,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Tommy Mou",10530,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Xu Qin",10614,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Chen Jian",11575,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Chen Xiao-ma",11576,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zhi Shang",11589,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Chen Ding-Gen",11758,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Thomas Petersson",12384,"SWE","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Ben Fox",13162,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Garrett Sapp",13196,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"WU Hong-fu",13459,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zhao Xion gyi",13468,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Shun Yat Hak",13568,"HKG","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Kookhyan Kim",13876,"KOR","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Shodai Hayashi",14145,"JPN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Liang Ding Feng",14326,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Wu Tu xuan",14954,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Li Fang-yi",15309,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zhu Wei-yu",15312,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Taewoun Ko",15344,"KOR","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yin Yongxuan(Am)",15418,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jin Daxing",15869,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Li Xin-yang",15870,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Josh Munn",15891,"NZL","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Mitchell Davis",15915,"AUS","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Wu Hao-chuan",16771,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Peter Martin",16965,"AUS","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jungwoong Ko",17441,"KOR","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Shotaro Wada",17829,"JPN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Liu Yu-jui",17880,"TPE","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Rui Takamatsu",17901,"JPN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"James Moseley",17920,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yang Yi-nong",17940,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Tang Rong Jian",18352,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jia Zhang",18393,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"He Ze-ming",18411,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Wen Cheng Huang",18458,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Mi Yi Yuan",18460,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zi Ting Wang",18465,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Song Zhu",18466,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"John P. Brown",18523,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yao Xue Feng",18612,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Sun Yan",18619,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Xiao Bo Wen",18624,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Lin Yu Xin(Am)",18983,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yi Long Chen",19021,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Chen Chanping",19063,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zou Lin-yun",19082,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Liu Ziwei(Am)",19108,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zhang Zi-Hong(am)",19110,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Li Jian Shan",19260,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Sun Yi Cheng",19263,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Yao Yu Xiang",19264,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Teemu Putkonen",19404,"FIN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Campbell Rawson",19412,"AUS","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Joseph Gunerman",19485,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Fan Shi Yu",19497,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Wang Chang Wei",19506,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Zhang Jun-bin(AM)",19632,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Wesley Yates",19703,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Michael Skelton",20029,"ENG","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Heegun Kwak",20755,"KOR","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Wenwu Long",20935,"CHN","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Jack Persons",21743,"USA","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Doyoung Yoon",21744,"KOR","1849","Yulongwan Yunnan Open",6350,2016-09-04,"PGA Tour China",NA,NA,2016-09-02
-"Danny Willett",12920,"ENG","11","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Chris Wood",12451,"ENG","28","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Alex Noren",10419,"SWE","39","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Andy Sullivan",15326,"ENG","42","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Thongchai Jaidee",5973,"THA","44","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Lee Westwood",4052,"ENG","46","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Matthew Fitzpatrick",17646,"ENG","48","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Tyrrell Hatton",14796,"ENG","55","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Bernd Wiesberger",9531,"AUT","61","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Scott Hend",1888,"AUS","82","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Bradley Dredge",6150,"WAL","85","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Rikard Karlberg",9398,"SWE","86","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Andrew Johnston",14666,"ENG","88","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Marcus Fraser",7070,"AUS","89","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Soomin Lee",14614,"KOR","104","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"James Morrison",11061,"ENG","106","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Gregory Bourdy",7932,"FRA","108","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Ross Fisher",9396,"ENG","114","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Nicolas Colsaerts",6893,"BEL","126","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Kristoffer Broberg",15603,"SWE","127","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Ricardo Gouveia",18722,"POR","129","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"George Coetzee",10884,"RSA","130","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Anthony Wall",5931,"ENG","132","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Julien Quesne",9131,"FRA","142","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Fabrizio Zanotti",9842,"PAR","151","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Richie Ramsay",11396,"SCO","152","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Miguel Tabuena",15274,"PHI","153","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"David Howell",5718,"ENG","157","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Lucas Bjerregaard",11619,"DEN","158","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Bryson DeChambeau",19841,"USA","161","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Lee Slattery",6866,"ENG","163","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Li Haotong",15310,"CHN","167","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Miguel A Jimenez",3596,"ESP","171","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Alejandro Canizares",11509,"ESP","172","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Pablo Larrazabal",9133,"ESP","173","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Alexander Levy",14973,"FRA","174","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Tommy Fleetwood",12294,"ENG","177","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Romain Wattel",13165,"FRA","180","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Paul Peterson",16341,"USA","187","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Eddie Pepperell",15113,"ENG","189","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Matthew Southgate",15191,"ENG","193","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Marc Warren",7567,"SCO","194","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Maximilian Kieffer",12317,"GER","195","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Richard Bland",6516,"ENG","196","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jorge Campillo",14016,"ESP","197","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Benjamin Hebert",12213,"FRA","200","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Nacho Elvira",12988,"ESP","202","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Nathan Holman",15923,"AUS","206","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Romain Langasque",16652,"FRA","209","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Robert Rock",7895,"ENG","211","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Haydn Porteous",15866,"RSA","215","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"David Lipsky",15980,"USA","220","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Callum Shinkwin",18244,"ENG","221","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Raphael Jacquelin",5784,"FRA","232","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Sebastien Gros",16650,"FRA","237","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Stewart Cink",5665,"USA","238","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"S.S.P. Chawrasia",7040,"IND","241","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Mikko Ilonen",6929,"FIN","245","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Prom Meesawat",7109,"THA","248","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Felipe Aguilar",8135,"CHI","256","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Darren Fichardt",5754,"RSA","259","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Gary Boyd",12795,"ENG","261","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Graeme Storm",3323,"ENG","262","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Robert Dinwiddie",11894,"ENG","276","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Marcel Siem",6950,"GER","277","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Johan Carlsson",11658,"SWE","278","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Adrian Otaegui",14975,"ESP","283","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Pelle Edberg",8574,"SWE","284","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Trevor Fisher-Jr",7678,"RSA","285","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Y.E. Yang",6629,"KOR","287","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Richard Green",3877,"AUS","291","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Richard Sterne",7049,"RSA","294","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Brett Rumford",6255,"AUS","295","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Adilson da Silva",5239,"BRA","296","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Roope Kakko",9199,"FIN","300","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Eduardo De la Riva",6637,"ESP","302","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Nino Bertasio",13013,"ITA","303","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Gary Stal",13262,"FRA","310","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jeff Winther",15680,"DEN","314","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Paul Dunne",18736,"IRL","315","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Joakim Lagergren",14780,"SWE","316","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Mike Lorenzo-Vera",9675,"FRA","317","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Matteo Manassero",11460,"ITA","318","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Masahiro Kawamura",13530,"JPN","324","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Siddikur Rahman",13766,"BAN","334","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Mikko Korhonen",9252,"FIN","336","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Magnus A Carlsson",7823,"SWE","350","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Borja Virto Astudillo",17313,"ESP","353","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Carlos Pigem",13885,"ESP","360","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Stephen Gallacher",5647,"SCO","361","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Chan Shih-chang",9698,"TPE","389","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Thomas Linard",15337,"FRA","399","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Paul Lawrie",5105,"SCO","405","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Daniel Brooks",12897,"ENG","411","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"David Drysdale",6867,"SCO","412","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Danthai Boonma",16424,"THA","418","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Andrew Dodt",8364,"AUS","420","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Thitiphun Chuayprakong",14129,"THA","425","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Gregory Havret",6239,"FRA","432","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Natipong Srithong",8531,"THA","435","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Chris Paisley",14844,"ENG","438","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Chiragh Kumar",10764,"IND","441","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Sam Brazel",8390,"AUS","442","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Joachim B Hansen",14284,"DEN","448","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jazz Janewattananond",14368,"THA","450","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Nicholas Fung",12889,"MAS","456","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Renato Paratore",16549,"ITA","464","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Oliver Fisher",10863,"ENG","465","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Alvaro Quiros",7886,"ESP","470","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jbe' Kruger",11978,"RSA","482","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Matt Ford",10139,"ENG","491","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Bjorn Akesson",11530,"SWE","498","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Craig Lee",4398,"SCO","499","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Rashid Khan",12668,"IND","501","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Rhys Davies",11527,"WAL","503","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Ben Evans",10151,"ENG","513","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Michael Hoey",7303,"NIR","520","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Richard T Lee",12413,"CAN","536","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Mardan Mamat",5685,"SIN","550","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jens Fahrbring",13445,"SWE","553","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Darren Clarke",3523,"NIR","593","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Morten Orum Madsen",13411,"DEN","605","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"John Parry",13764,"ENG","633","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jason Knutzon",7231,"USA","636","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Scott Jamieson",11397,"SCO","645","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Himmat Rai",11782,"IND","646","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Hung Chien-Yao",11738,"TPE","648","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jyoti Randhawa",5771,"IND","654","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Lee Chieh-po",16563,"TPE","660","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Simon Khan",6686,"ENG","682","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Edouard Espana",14787,"FRA","716","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Florian Fritsch",9217,"GER","721","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Javier Colomo ",12605,"ESP","753","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Arjun Atwal",5701,"IND","763","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Mithun Perera",14261,"SRI","784","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Joel Girrbach",15592,"SUI","817","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Steve Webster",5667,"ENG","840","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Edoardo Molinari",7033,"ITA","965","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Steve Lewton",12838,"ENG","1101","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Luca Galliano",15566,"SUI","1116","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Matthew Baldwin",13344,"ENG","1170","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Luca Cianchetti(Am)",20843,"ITA","1175","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Ricardo Gonzalez",5054,"ARG","1308","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Raphael De Sousa",8040,"SUI","1369","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Marc Dobias",11349,"SUI","1378","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Oliver Wilson",8300,"ENG","1498","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Simon Dyson",6436,"ENG","1606","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Sven Struver",3931,"GER","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Mathias Gronberg",4388,"SWE","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jean-F Lucquin",6369,"FRA","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Allen John(Am)",10255,"GER","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jin Jeong",13573,"KOR","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Mathias Eggenberger(Am)",14810,"SUI","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Marco Iten(Am)",15593,"SUI","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Jeremy Freiburghaus(AM)",19811,"SUI","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Neal Woernhard(Am)",19813,"SUI","1849","Omega European Masters",6351,2016-09-04,"Asian Tour","European Tour",NA,2016-09-02
-"Clement Sordet",17718,"FRA","184","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jordan L Smith",18586,"ENG","205","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Alexander Knappe",12318,"GER","223","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Bernd Ritthammer",12521,"GER","243","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Damien Perrier",12661,"FRA","246","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Sebastian Soderberg",18517,"SWE","299","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"James Heath",9365,"ENG","325","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Nick Cullen",14247,"AUS","337","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Matthieu Pavon",19960,"FRA","344","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Adrien Saddier",14792,"FRA","349","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jose-Filipe Lima",7868,"POR","364","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Aaron Rai",18554,"ENG","366","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Ben Stow",16401,"ENG","370","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Duncan Stewart",12472,"SCO","376","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Pep Angles Ros",19634,"ESP","378","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Darius Van Driel",13374,"NED","408","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Scott Henry",12468,"SCO","423","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Max Orrin",17903,"ENG","428","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jens Dantorp",14018,"SWE","457","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Daan Huizing",12650,"NED","484","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Garrick Porteous",16400,"ENG","507","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Antoine Schwartz",15512,"FRA","514","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Lorenzo Gagli",10073,"ITA","517","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Gary King",17835,"ENG","527","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Kristian Krogh Johannessen",16421,"NOR","563","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Matthew Nixon",15184,"ENG","571","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Daniel Gaunt",6132,"AUS","581","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Marcel Schneider",12522,"GER","597","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jack Senior",15115,"ENG","607","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Sebastian Heisele",16499,"GER","608","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Paul Howard",19510,"ENG","616","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Chris Selfridge",13982,"IRL","617","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Andrea Pavan",12177,"ITA","624","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Franck Daux",20670,"FRA","628","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Alessandro Tadini",7001,"ITA","639","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Matteo Delpodio",11121,"ITA","669","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Carlos del Moral",10222,"ESP","670","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Johann Lopez Lazzaro",14684,"FRA","672","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Thriston Lawrence",18105,"RSA","676","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Moritz Lampert",13438,"GER","679","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Eirik Tage Johansen",11317,"NOR","693","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Mads Sogaard",15678,"DEN","717","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Edouard Dubois",10624,"FRA","719","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Mathieu Fenasse",17831,"FRA","731","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Steven Jeppesen",8125,"SWE","733","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"David Law",14784,"SCO","735","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Nicolas Geyger",13607,"CHI","741","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Pedro Oriol",10248,"ESP","744","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Lionel Weber",15513,"FRA","755","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Ross Kellett",13235,"SCO","766","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Steven Brown",15771,"ENG","780","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Stiggy Hodgson",16398,"ENG","783","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Paul Maddy",17343,"ENG","795","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jose Manuel Lara",5815,"ESP","810","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Kevin Phelan",14702,"IRL","811","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Scott Fernandez",15616,"ESP","812","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Martin Keskari",14017,"GER","826","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Marcus Armitage",17813,"ENG","837","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Mathieu Decottignies Lafon",13998,"FRA","839","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Rory McNamara",19608,"IRL","843","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Toby Tree",19357,"ENG","852","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Oscar Stark",18131,"SWE","856","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Ricardo Santos",8816,"POR","858","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Wil Besseling",9413,"NED","859","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Juan Francisco Sarasti",13886,"ESP","866","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Tapio Pulkkanen",13139,"FIN","873","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Ben Parker",11816,"ENG","886","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Mark Tullo",10872,"CHI","896","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Pontus Widegren",11661,"SWE","906","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Marcus Kinhult",18514,"SWE","912","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Sihwan Kim",13307,"KOR","917","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Martin Ovesen",19847,"DEN","919","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Victor Riu",12217,"FRA","942","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Joel Sjoholm",12485,"SWE","948","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Charlie Ford",14400,"ENG","966","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Philipp Mejow",19897,"GER","986","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Robin Kind",14986,"NED","987","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Birgir Hafthorsson",6166,"ISL","1019","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jason Barnes",15186,"ENG","1021","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Hugues Joannes",11201,"BEL","1025","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Benjamin Rusch",13281,"SUI","1026","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jack Doherty",8161,"SCO","1027","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Stanislas Gautier",21212,"FRA","1031","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Reinier Saxton",11564,"NED","1051","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jerome Lando-Casanova",14040,"FRA","1067","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Raphael Marguery",15339,"FRA","1069","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Eric Blom",16443,"SWE","1072","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"David Coupland",12427,"ENG","1087","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Julien Foret",8815,"FRA","1089","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Peter Whiteford",7822,"SCO","1102","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Krister Eriksson",13346,"SWE","1117","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Joshua White",18784,"ENG","1117","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Gary Hurley",18657,"IRL","1138","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Emilio Cuartero Blanco",19459,"ESP","1170","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Adrien Bernadet",10202,"FRA","1191","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Sam Hutsby",11104,"ENG","1193","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Darren Wright",16092,"ENG","1199","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Cyril Bouniol",18240,"FRA","1221","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"William Harrold",17070,"ENG","1224","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Brinson Paolini",17638,"USA","1230","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Martin Wiegele",7869,"AUT","1237","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Francois Calmels",9292,"FRA","1248","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jacob Glennemo",13447,"SWE","1263","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Charles-Edouard Russo",8914,"FRA","1271","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jean-Baptiste Gonnet",7979,"FRA","1296","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Tim Gornik",19605,"SLO","1326","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Robin Sciot-Siegrist(Am)",20131,"FRA","1335","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Nicolas Tacher",17609,"FRA","1345","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Maarten Lafeber",5843,"NED","1381","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Cesar Costilla",10868,"ARG","1424","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Darryn Lloyd",13728,"RSA","1444","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Olivier Rozner",15511,"FRA","1468","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Filippo Bergamaschi",15266,"ITA","1473","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jose Luis Adarraga Gomez",8915,"ESP","1499","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Christian Gloet",16444,"DEN","1554","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"David Antonelli",12405,"FRA","1583","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Pierre Relecom",12228,"BEL","1602","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Antonio Hortal",14572,"ESP","1614","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Antti Ahokas",11897,"FIN","1650","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Alexandre Widemann",20132,"FRA","1664","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Teemu Bakker",13372,"FIN","1666","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Bernhard Reiter",13090,"AUT","1705","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Scott Fallon",17474,"ENG","1722","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Damian Ulrich",10520,"SUI","1727","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Martin Rominger",9528,"SUI","1776","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Alvaro Velasco",9603,"ESP","1818","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Dominique Nouailhac",3460,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Andrea Maestroni",7000,"ITA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Christophe Brazillier",10275,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Anthony Snobeck",10655,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Federico Colombo",11120,"ITA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Julien Grillon",11359,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Nicolas Peyrichou",11691,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Joao Carlota",12079,"POR","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Xavier Poncelet",13912,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Petr Gal-jr",14882,"CZE","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Guillaume Cambis",15334,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Christoph Koerbler",15422,"AUT","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Grant Forrest(Am)",16475,"SCO","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Clement Rameaux",17124,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Gregoire Schoeb(Am)",17839,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Clement Batut",18626,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Paul Shields",18682,"SCO","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Thomas Perrot(Am)",18697,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Petr Valasek",18727,"SVK","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Julien Rodallec",18934,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Tomasz Anderson",20726,"ENG","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Nicolas Aparicio",20808,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Louis Capon",21278,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Robin Roussel",21507,"FRA","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Jordan Wrisdale",21508,"ENG","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"Ewen Ferguson(Am)",21646,"SCO","1849","Cordon Golf Open",6352,2016-09-04,"European Challenge Tour",NA,NA,2016-09-02
-"K.T. Kim",7880,"KOR","53","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hideto Tanihara",7046,"JPN","67","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yuta Ikeda",8236,"JPN","96","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Younghan Song",16160,"KOR","120","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ryo Ishikawa",12232,"JPN","140","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shingo Katayama",3770,"JPN","141","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yoshinori Fujimoto",11773,"JPN","148","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yusaku Miyazato",7031,"JPN","154","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Brad Kennedy",6287,"AUS","162","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Michael Hendry",11885,"NZL","169","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shugo Imahira",13485,"JPN","185","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Thanyakorn Khrongpha",13684,"THA","192","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Junwon Park",10999,"KOR","198","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Tomohiro Kondo",6625,"JPN","199","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Sanghyun Park",10086,"KOR","204","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Toshinori Muto",7936,"JPN","208","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Junggon Hwang",14936,"KOR","217","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hiroshi Iwata",9099,"JPN","218","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shaun Norris",7677,"RSA","227","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Satoshi Kodaira",13531,"JPN","235","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Koumei Oda",7940,"JPN","239","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Daisuke Kataoka",11195,"JPN","252","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Liang Wen-chong",6470,"CHN","257","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Katsumasa Miyamoto",5791,"JPN","271","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ryutaro Nagano",10523,"JPN","308","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hyungsung Kim",11131,"KOR","320","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yosuke Tsukada",14567,"JPN","335","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Michio Matsumura",12419,"JPN","347","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Adam Bland",10829,"AUS","352","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Matthew Griffin",9780,"AUS","357","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ikjae Jang",6658,"KOR","373","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yuki Inamori",16165,"JPN","374","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Angelo Que",7438,"PHI","377","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Atomu Shigenaga",10719,"JPN","380","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Sanghee Lee",13923,"KOR","381","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Won Joon Lee",10713,"AUS","382","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Tadahiro Takayama",6835,"JPN","385","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Azuma Yano",7045,"JPN","395","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Taichi Teshima",5820,"JPN","410","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hiroyuki Fujita",5599,"JPN","413","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ryuko Tokimatsu",16648,"JPN","414","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Byungmin Cho",11696,"KOR","415","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Kodai Ichihara",12140,"JPN","417","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hyunwoo Ryu",13928,"KOR","421","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Jaebum Park",11159,"KOR","453","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Chapchai Nirat",9985,"THA","459","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ryuichi Oda",7132,"JPN","474","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Juvic Pagunsan",8615,"PHI","495","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Scott Strange",7478,"AUS","504","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ippei Koike",12739,"JPN","508","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shintaro Kobayashi",10560,"JPN","511","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yoshitaka Takeya",12208,"JPN","524","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Chinnarat Phadungsil",9984,"THA","532","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Takashi Iwamoto",7174,"JPN","557","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Toru Taniguchi",3750,"JPN","581","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"David Oh",8547,"USA","606","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Mingyu Cho",12096,"KOR","618","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Brendan Jones",6254,"AUS","619","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Kyongjun Moon",13836,"KOR","649","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yujiro Ohori",17802,"JPN","676","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Sungjae Im",17488,"KOR","740","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Seungsu Han",8046,"KOR","766","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Mikumu Horikawa",15056,"JPN","776","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Akio Sadakata",7416,"JPN","778","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Kurt Barnes",7701,"AUS","790","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Satoshi Tomiyama",8610,"JPN","802","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Chan Kim",15004,"USA","807","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"David Smail",4986,"NZL","823","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hosung Choi",9041,"KOR","838","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Seukhyun Baek",13098,"KOR","847","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Seunghyuk Kim",7716,"KOR","862","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"S.K. Ho",7307,"KOR","894","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Tatsunori Nukaga",9591,"JPN","897","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Nobuhiro Masuda",7476,"JPN","899","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Koki Shiomi",17337,"JPN","912","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Tetsuji Hiratsuka",6247,"JPN","931","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Keiichiro Fukabori",3976,"JPN","989","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Han Lee",7180,"USA","1074","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shinichi Yokota",5070,"JPN","1083","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Masanori Kobayashi",1599,"JPN","1084","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Kitaek Kwon",7247,"KOR","1092","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Naoto Takayanagi",15100,"JPN","1104","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ryuji Masaoka",8394,"JPN","1123","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Jinichiro Kozuma",14209,"JPN","1128","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yosuke Asaji",12637,"JPN","1139","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shinji Tomimura",14310,"JPN","1218","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hidemasa Hoshino",6001,"JPN","1231","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shintaro Kai",8245,"JPN","1233","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yasuki Hiramoto",13312,"JPN","1260","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Kiyoshi Miyazato",7168,"JPN","1274","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Naomi Ohta",7856,"JPN","1278","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Tomoyo Ikemura",18809,"JPN","1301","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Daisuke Maruyama",6018,"JPN","1420","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yuki Kitagawa",17900,"JPN","1438","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shota Akiyoshi",13528,"JPN","1479","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yoshinobu Tsukada",7296,"JPN","1490","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Masao Nakajima",6023,"JPN","1495","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hiroo Kawai",10710,"JPN","1563","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Kenichi Kuboya",5790,"JPN","1640","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Masaya Tomida",8881,"JPN","1725","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Masashi Ozaki",392,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Hirofumi Miyase",3808,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Masatsugu Morofuji",8118,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Junpei Takayama",8910,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Koichi Kashimura",9015,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yasunori Yoshida",9596,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Shunta Maeawakura",10775,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yu Morimoto",12674,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Tomohiro Umeyama",13151,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Koki Furuta",13333,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Koichiro Kawano",13988,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yuki Kasai",14021,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Taihei Sato",14371,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ryosuke Kinoshita",14904,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Yuwa Kosaihira(Am)",15314,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Ryoma Miki",18503,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Keita Nakajima(AM)",21074,"JPN","1849","Fujisankei Classic",6353,2016-09-04,"Japan Golf Tour",NA,NA,2016-09-02
-"Jinho Choi",7024,"KOR","234","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Changwoo Lee",15061,"KOR","568","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyowon Park",12277,"KOR","590","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sangyeop Lee",15062,"KOR","603","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Junsung Kim",15343,"KOR","631","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Taehoon Kim",7589,"KOR","642","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Joongkyung Mo",5940,"KOR","647","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jinjae Byun",13916,"KOR","671","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Taehee Lee",11156,"KOR","693","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Heungchol Joo",15528,"KOR","697","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jihoon Lee 730",17447,"KOR","701","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Junsub Park",13927,"KOR","722","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungho Lee",13924,"KOR","749","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Inhoi Hur",9635,"KOR","750","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Ilhwan Park",11703,"KOR","785","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Innchoon Hwang",10078,"KOR","800","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyungjoon Lee",15796,"KOR","815","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Giwhan Kim",12993,"KOR","819","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Myung-Ho Kwon",15540,"KOR","898","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Bongsub Kim",15531,"KOR","916","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Dongmin Lee",14610,"KOR","921","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Byungjun Kim",15532,"KOR","945","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hong Chang-kyu",11423,"USA","946","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Daehyun Kim",9634,"KOR","964","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Soonsang Hong",7020,"KOR","982","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Gwanwoo Ma",16157,"KOR","1011","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Doeun An",14380,"KOR","1053","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jooneob Son",10732,"KOR","1093","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungyoon Kim",603,"KOR","1099","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jiho Jung",6645,"KOR","1108","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Daeeok Jeong",16762,"KOR","1113","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Song-Gyu Yoo",18823,"KOR","1125","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Yongjin Shin",5337,"KOR","1156","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jungho Yoon",12200,"KOR","1159","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Dohoon Kim 753",7018,"KOR","1168","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Mingeun Cho",15517,"KOR","1181","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Daesub Kim",6644,"KOR","1189","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jinsung Kim",15278,"KOR","1234","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Minsuck Kang",19572,"KOR","1254","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Doyeob Mun",17386,"KOR","1261","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Yoonho Bae",15058,"KOR","1299","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Dohoon Kim 752",11701,"KOR","1343","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Dongseop Maeng",14482,"KOR","1372","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Geonha Kim",17775,"KOR","1378","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Woochan Kim",9054,"KOR","1396","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungmin Hong",14605,"KOR","1407","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaeho Kim",16197,"KOR","1410","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Junghwan Lee",13498,"KOR","1474","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Taewoo Kim(Feb1993)",17905,"KOR","1480","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Youngjea Byun",21511,"KOR","1480","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaehun Jeong",21515,"KOR","1491","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hakhyung Kim",18728,"KOR","1574","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Inho Kim",17437,"KOR","1587","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Taekgi Lee",20758,"KOR","1594","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jiman Kang",7199,"KOR","1645","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyungseok Seo",17499,"KOR","1645","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungyeol Kwon",14759,"KOR","1650","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"AN Jae-Hyun",15515,"NZL","1657","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sengyong Kim",13501,"KOR","1672","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Dongha Lee(1982)",6650,"KOR","1721","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jingyu Lee",15071,"KOR","1724","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jeongu Ham",17872,"KOR","1771","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Joonwoo Choi",7249,"KOR","1797","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Woohyun Kim",12190,"KOR","1830","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyungtae Kim 404",6007,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungchul Bae",6651,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Boowon Park",7369,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jeonghyeob Hyun",7604,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Soohwan Kim",7879,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kweonil Kang",9057,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jongyul Suk",9060,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungpil Park",10084,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaehan Lee(Am)",10725,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Minkyu Han",11126,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Yuncheol Jeon",11699,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaemin Hwang",11995,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Keunho Lee",12274,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jason Kang",13857,"USA","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Gyoungyoon Yu",14336,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kisang Lee",14480,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyunbin Park",14529,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyungmin Kim",14608,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jooyeob Baek",14931,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Doosik Jung",15340,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Gyubin Kim",15342,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Seongman Han",15523,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaemin Hwang 859",15525,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jeong-Woo Lee",15543,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Seung-Hyun Oh",15546,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Seungtaek Lee",16162,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Won Seo",16278,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Joungjun Park",16545,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Martin Kim",17027,"ARG","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Namhun Kim(Am)",17383,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Seunghwan Jung",17460,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Backjun An",17484,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Esak Choi",17486,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Yoonsik Kong",17491,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jiwoon Park",17498,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungjun Park",17876,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyeonyong Yang",17877,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Baejong Park",17938,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Taeklim Jung",18312,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sangyoon Kang",18313,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Minseok Kim(1979)",18316,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jongheon Park",18559,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kim Seong-keun",18686,"USA","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jangho Park",18689,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Joungwhan Park",18816,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungbin Park",18835,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaewon Choi",18879,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Seungha Shin",18886,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Cheolseong Kim",19050,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Woonchul Na",19440,"NZL","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kyungmin Min",19576,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Geeseon Song",19578,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hansung Yoo",19579,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sangwoo Yu",19580,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kyungseok Chun",19625,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Sungmin Cho",19817,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Junhyeok Park",19827,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Yoseop Seo",20841,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Galam Jeon",21513,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Seonghyeon Jeon",21514,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaegyu Kang",21519,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaehoon Lee(1984)",21521,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jaejin Lee",21522,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jongsu Lee",21523,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kyeongjun Lee",21524,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Wooseong Lee",21525,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hongjoo Park",21526,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kibeom Song",21528,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Kyounghoon Song",21529,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Hyungil Yoo",21531,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Chunil You",21532,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Minseok Choi",21732,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Jisoo Ham",21733,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Keunchan Eom",21924,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Haegang Choi",22501,"KOR","1849","NS HomeShopping GunsanCC Jeonbuk Open",6354,2016-09-04,"Korean Golf Tour",NA,NA,2016-09-02
-"Mark Laskey",11112,"WAL","583","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ashley Chesters",18735,"ENG","610","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Matthew Cort",7313,"ENG","629","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Steve Surry",9498,"ENG","665","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Billy Hemstock",14843,"ENG","709","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Greg Payne",20020,"ENG","795","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Richard James",17810,"WAL","831","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Andrew Marshall",7177,"ENG","874","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Curtis Griffiths",19991,"ENG","889","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Chris Lloyd",15201,"ENG","956","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Joseph Dean",16497,"ENG","974","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Haydn McCullen",19121,"ENG","978","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Chris Gane",6570,"ENG","989","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Wilkinson",20039,"ENG","989","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Adam Runcie",14065,"WAL","1006","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jonathan Caldwell",13682,"NIR","1032","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Alex Wrigley",18747,"ENG","1078","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Neil Fenwick",15491,"SCO","1129","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Maw",18909,"ENG","1146","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jason Timmis",16181,"ENG","1150","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"David Booth",18739,"ENG","1195","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Adam Hodkinson",22134,"ENG","1201","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Luke Jackson",20001,"ENG","1225","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jamie Rutherford",18555,"ENG","1259","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sam Connor",18679,"ENG","1265","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Steven Uzzell",13311,"ENG","1281","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Niall Kearney",14396,"IRL","1307","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Robbie Busher",17397,"ENG","1311","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Nick Marsh",21306,"ENG","1325","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Mark Young",19949,"ENG","1339","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Nicholas Garland",19988,"ENG","1365","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Chris Evans(Feb1985)",19902,"ENG","1450","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Hendrik Beins",20357,"GER","1456","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Wilson",20314,"ENG","1468","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Stephen Grant(1977)",13061,"IRL","1491","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Nick McCarthy",15172,"ENG","1503","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Peter Tarver-Jones",19516,"ENG","1503","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Andrew Cheese",19971,"ENG","1503","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Miles Collins",19973,"ENG","1503","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Luke Cornford",19974,"ENG","1503","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sam Robertshawe",20025,"ENG","1562","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Frazer",13319,"WAL","1594","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Graeme A Clark",9388,"ENG","1653","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Lynch",20331,"ENG","1653","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Bradley Neil",18737,"SCO","1687","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jamie Elson",7564,"ENG","1696","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Ablett",12439,"ENG","1696","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Conor O'Neil",20018,"SCO","1696","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Callum MaCaulay",12470,"SCO","1703","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Craig Farrelly",12979,"ENG","1710","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jordan McColl",19905,"SCO","1710","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Phillip Price",4739,"WAL","1823","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Paul Dwyer",2632,"ENG","1837","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sandeep Grewal",7083,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sean Whiffin",7264,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Tim Rice",7662,"IRL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Matthew Tottey",9085,"WAL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Mark Ramsdale",9393,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Craig Sutherland",10605,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Ruebotham",13239,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jamie Howarth",13296,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Wallace Booth",14034,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Charlie Simpson",14229,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Luke Goddard",14290,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Zack Saltman",14719,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jamie Abbott",14794,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Kris Nicol",14922,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Gareth Evans",15615,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Kieran Muir",15890,"NZL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Hugo Dobson",16058,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Rhys Pugh",16221,"WAL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Paul M Reed",16292,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jack McDonald",16372,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Matthew Tweddell",17130,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Reeve Whitson",17314,"NIR","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Lee Clarke",17560,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Matthew Moseley",17811,"WAL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sam Forgan",17816,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Craig Lawrie",18680,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ben Robinson",18914,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"George Parker",19861,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Neil Henderson",19904,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Adams",19962,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ryan Boyns",19967,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Blane Breheny",19968,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jamie Brittain",19969,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"David Clarkson",19972,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jamie Dick",19979,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"John Duff",19980,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Rhodri Fieldhouse",19983,"WAL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Connor Fletcher",19984,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Steven Gibbs",19989,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Kris Gray",19990,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ben Hall",19992,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Warren Harmston",19994,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Thomas Hayward",19996,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Kit Holmes",20000,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Charlie Lidyard",20007,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Liam Murray",20012,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Paul Nessling",20013,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Tom Perry",20021,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ben Rawsthorne",20023,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Josh Sims",20028,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ben Smith1993727",20030,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Mike Bedford",20133,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Andrew Scrimshaw",20138,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Mason Papple",20240,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Robert Watson",20340,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Josh Kenny",20348,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Michael Bullen",20431,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Joshua Carpenter",20432,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ryan O'Neill",20440,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Simpson",20443,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Steven",20445,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Liam Hancock",20451,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Luke Towler",20457,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Lewis  Clarke",20630,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Julian Taylor(Am)",20634,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"John Henry",20680,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Luigi Zenere",20725,"ITA","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Tom Wilde",20861,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Alistair Waddell",21649,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jonathan Breen",21763,"NIR","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Simon Bryan",21765,"IRL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jordan Godwin",21772,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jonathan Hewitt",21775,"WAL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ashley Mason",21779,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Craig Melding",21780,"WAL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Fraser Moore",21782,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Graham Roberts",21783,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Michael Saunders",21784,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Daniel Scourfield",21785,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Henry Smart",21786,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Billy Spooner",21787,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Nick Watson",21790,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"James Willis",21791,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"David Woodhead",21792,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ryan Campbell",21908,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sam Cutting",21910,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sean Lawrie",21913,"SCO","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sam Edwards",22133,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Tom Jordan",22136,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Joey Lamb",22138,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Michael McIntyre",22142,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Matt Mumford",22143,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jack South",22145,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Adam Wilson",22148,"WAL","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Daniel Whitby-Smith",22149,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Robert Batchelor",22185,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Ryan Hinsley",22189,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Tommy Obergan",22197,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jack Owen",22198,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jon White",22203,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jon Thomson(Am)",22210,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Jon Bromley",22263,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Dean Homewood",22359,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Sufian Dhaduk",22435,"ENG","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
-"Hunter Glenn(Am)",22527,"USA","1849","The COBRA PUMA GOLF Championship",6355,2016-09-04,"EuroPro Tour",NA,NA,2016-09-02
+"Jason Day",9771,"AUS","1","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Dustin Johnson",12422,"USA","2","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Rory McIlroy",10091,"NIR","3","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jordan Spieth",14636,"USA","4","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Adam Scott",6430,"AUS","6","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Bubba Watson",7334,"USA","7","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Patrick Reed",14838,"USA","8","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Rickie Fowler",12965,"USA","9","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Justin Rose",6093,"ENG","10","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Sergio Garcia",5689,"ESP","12","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Branden Grace",11952,"RSA","13","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Phil Mickelson",1547,"USA","14","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jimmy Walker",7293,"USA","15","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Hideki Matsuyama",13562,"JPN","16","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Matt Kuchar",6169,"USA","17","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Louis Oosthuizen",7672,"RSA","18","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Russell Knox",13831,"SCO","19","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Brooks Koepka",16243,"USA","20","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"J.B. Holmes",7959,"USA","21","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Paul Casey",7108,"ENG","22","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Brandt Snedeker",8820,"USA","24","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Zach Johnson",6986,"USA","25","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Emiliano Grillo",12808,"ARG","26","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Charl Schwartzel",7398,"RSA","28","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Scott Piercy",7899,"USA","31","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Kevin Chappell",13305,"USA","32","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Kevin Kisner",11328,"USA","33","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Justin Thomas",14139,"USA","34","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Kevin Na",7452,"USA","35","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Bill Haas",7900,"USA","36","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Ryan Moore",7489,"USA","37","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Daniel Berger",17606,"USA","40","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"William McGirt",12477,"USA","42","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Marc Leishman",7649,"AUS","48","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Charley Hoffman",5768,"USA","49","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Gary Woodland",12577,"USA","50","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"David Lingmerth",14815,"SWE","54","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Daniel Summerhays",12424,"USA","56","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jason Dufner",7301,"USA","57","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"James Hahn",11374,"USA","58","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Siwoo Kim",14609,"KOR","59","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Harris English",14577,"USA","60","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Luke Donald",4163,"ENG","65","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Fabian Gomez",8571,"ARG","67","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Ryan Palmer",7820,"USA","68","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Billy Horschel",11276,"USA","69","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Tony Finau",11676,"USA","70","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Chris Kirk",12423,"USA","75","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jhonattan Vegas",13508,"VEN","76","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Sean O'Hair",7626,"USA","78","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Smylie Kaufman",18631,"USA","81","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Brendan Steele",11019,"USA","82","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Graeme McDowell",7548,"NIR","83","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jim Herman",12846,"USA","85","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jason Kokrak",12337,"USA","89","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jamie Lovemark",11382,"USA","97","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Charles Howell III",6892,"USA","98","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Jon Curran",14699,"USA","99","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Roberto Castro",12643,"USA","101","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Kevin Streelman",8480,"USA","106","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Vaughn Taylor",6930,"USA","108","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Kyle Reifers",11329,"USA","113","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Ben Martin",14007,"USA","115","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"David Hearn",7340,"CAN","116","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Billy Hurley III",11046,"USA","123","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Brian Harman",8825,"USA","127","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Brian Stuard",13022,"USA","128","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Aaron Baddeley",6252,"AUS","140","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"Hudson Swafford",14706,"USA","193","BMW Championship",6357,2016-09-11,"PGA Tour",NA,NA,2016-09-06
+"K.T. Kim",7880,"KOR","53","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Kiradech Aphibarnrat",12321,"THA","61","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Andrew Johnston",14666,"ENG","74","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Matt Jones",8605,"AUS","91","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Wesley Bryan",21236,"USA","110","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"J.J Spaun",17536,"USA","139","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Ollie Schniederjans",18662,"USA","160","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Bryson DeChambeau",19841,"USA","163","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Thomas Aiken",7679,"RSA","170","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"C.T. Pan",15475,"TPE","184","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Richy Werenski",19364,"USA","192","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Chris Stroud",9604,"USA","195","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Cameron Smith",15856,"AUS","196","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Martin Piller",13760,"USA","220","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Hiroshi Iwata",9099,"JPN","224","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Ryan Brehm",10423,"USA","229","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Martin Flores",10535,"USA","236","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Greg Owen",5723,"ENG","250","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jason Gore",6321,"USA","257","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Rhein Gibson",13342,"AUS","265","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Seamus Power",10104,"IRL","266","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"George McNeill",6419,"USA","272","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Dominic Bozzelli",17564,"USA","273","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Trey Mullinax",18761,"USA","274","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Steve Wheatcroft",10292,"USA","279","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Meenwhee Kim",11702,"KOR","289","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Tom Hoge",15575,"USA","301","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Nicholas Lindheim",16713,"USA","305","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brad Fritsch",7207,"CAN","307","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Sam Saunders(07-1987)",11048,"USA","308","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"JT Poston",21554,"USA","310","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Chesson Hadley",14967,"USA","311","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Scott Stallings",12359,"USA","316","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brian Campbell",18628,"USA","322","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Rory Sabbatini",6283,"RSA","328","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Bronson Burgoon",11082,"USA","329","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Tyler Aldridge",11677,"USA","333","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Michael Thompson",12946,"USA","339","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Ryan Armour",8469,"USA","340","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Andres Gonzales",11640,"USA","343","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brendon de Jonge",8767,"ZIM","344","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jonathan Randolph",14837,"USA","347","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Austin Cook",18579,"USA","350","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Camilo Villegas",9171,"COL","354","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Tim Wilkinson",7097,"NZL","357","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Sam Ryder",16715,"USA","359","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Scott Pinckney",15477,"USA","366","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Rob Oppenheim",8002,"USA","369","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Grayson Murray",14655,"USA","377","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Henrik Norlander",11657,"SWE","379","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Kelly Kraft",15852,"USA","383","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Rick Lamb",18869,"USA","385","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Mackenzie Hughes",15556,"CAN","390","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Rod Pampling",5668,"AUS","393","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brandon Hagy",18695,"USA","396","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Cameron Percy",5874,"AUS","399","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Stuart Appleby",5294,"AUS","404","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Dawie van der Walt",9883,"RSA","408","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Kevin Tway",13127,"USA","415","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Tim Herron",5621,"USA","425","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Wes Roach",15720,"USA","428","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Andrew Landry",14000,"USA","430","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Stephan Jaeger",16394,"GER","431","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Xander Schauffele",19895,"USA","436","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Joel Dahmen",14509,"USA","445","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jason Millard",17567,"USA","446","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Carlos Ortiz",14735,"MEX","447","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"James Driscoll",6228,"USA","450","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Will Mackenzie",7470,"USA","452","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Scott Langley",14700,"USA","453","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Kyle Thompson",7617,"USA","454","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Luke Guthrie",15610,"USA","465","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Adam Schenk",19477,"USA","472","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Ryan Blaum",9643,"USA","477","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Chris Baker",13971,"USA","479","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Juan Sebastian Munoz",20770,"COL","480","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Andres Romero",7751,"ARG","481","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Mark Wilson",4107,"USA","483","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Julian Etulain",11911,"ARG","487","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Sebastian Cappelen",14776,"DEN","489","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Max Homa",17538,"USA","492","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Bobby Wyatt",18660,"USA","500","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jonathan Byrd",6931,"USA","512","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Alex Prugh",12339,"USA","517","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Erik Compton",6556,"USA","519","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Josh Teater",8085,"USA","520","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Zack Fischer",17273,"USA","521","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jeff Overton",10498,"USA","535","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brice Garnett",11451,"USA","537","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Adam Svensson",13997,"CAN","546","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Cody Gribble",17508,"USA","550","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Abraham Ancer",18238,"MEX","553","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Miguel Angel Carballo",8570,"ARG","555","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Zack Sucher",14036,"USA","557","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Roger Sloan",14050,"CAN","558","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Matt Atkins",19360,"USA","559","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Andrew Svoboda",11274,"USA","564","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jack Maguire",19869,"USA","568","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"John Merrick",9584,"USA","582","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Denny McCarthy",19870,"USA","587","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Andrew Putnam",14704,"USA","590","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Blake Adams",12088,"USA","593","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Steven Alker",4871,"NZL","602","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Albin Choi",15606,"CAN","606","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Bhavik Patel",16107,"USA","610","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Tag Ridings",6840,"USA","613","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"D.A. Points",6761,"USA","614","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Eric Axley",8024,"USA","651","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Roberto Diaz",15394,"MEX","654","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"John Peterson",15611,"USA","657","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"John Mallinger",9027,"USA","661","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Derek Ernst",16711,"USA","665","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jin Park",7362,"KOR","670","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Jimmy Gunn",18163,"SCO","673","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Curtis Thompson",19395,"USA","676","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Gonzalo Fdez-Castano",8262,"ESP","697","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Keith Mitchell",17365,"USA","699","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brady Schnell",12414,"USA","704","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Adam Long",15473,"USA","705","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Ted Potter-jr",8769,"USA","718","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Alexandre Rocha",7441,"BRA","725","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Matt Fast",14561,"USA","731","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Anders Albertson",21235,"USA","739","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Scott Harrington",8479,"USA","749","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Timothy Madigan",18535,"USA","751","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Erik Barnes",14799,"USA","765","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brian Gay",5951,"USA","773","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Michael Putnam",10180,"USA","788","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Brett Drewitt",15162,"AUS","812","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Nicholas Thompson",10889,"USA","897","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Greg Eason",17719,"ENG","938","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"D.J. Trahan",7236,"USA","1088","DAP Championship ",6358,2016-09-11,"Web.com Tour",NA,NA,2016-09-06
+"Daniel McCarthy",11594,"USA","283","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Scott Vincent",14559,"ZIM","442","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Taylor Moore",21944,"USA","496","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Brock MacKenzie",9167,"USA","589","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Adam Cornelson",15423,"CAN","659","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Tyler McCumber",17584,"USA","671","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Aaron Wise",22051,"USA","720","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Charlie Bull",19735,"ENG","728","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Michael Gligic",13404,"CAN","811","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Max Rottluff",19899,"GER","831","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Austin Connelly",19704,"CAN","844","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Ryan Williams",13191,"CAN","856","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"John Catlin",18524,"USA","878","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Carter Jenkins",15456,"USA","907","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Michael Schoolcraft",19766,"USA","907","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Talor Gooch",18580,"USA","913","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Cameron Peck",13352,"USA","958","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Wilson Bateman",15499,"CAN","990","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Matt Davidson",9872,"USA","1014","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Riley Wheeldon",15447,"CAN","1054","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Caleb Sturgeon",21904,"USA","1055","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Michael Letzig",7641,"USA","1062","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Chris Ross",14835,"CAN","1072","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Brad Clapp",17527,"CAN","1079","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"David Skinns",10873,"ENG","1081","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Benjamin Silverman",17381,"CAN","1091","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Daniel Miernicki",14798,"USA","1110","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Ben Geyer",19361,"USA","1112","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"William Starke",20879,"USA","1165","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Ethan Tracy",19552,"USA","1170","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Conrad Shindler",17274,"USA","1177","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Brad Schneider",3703,"USA","1190","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Sean Harlingten",8202,"USA","1195","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"James Love",8130,"CAN","1200","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Paul Barjon",16566,"FRA","1211","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jeff Rein",17298,"USA","1215","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Scott Wolfes",20549,"USA","1230","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Matt Hill",14029,"CAN","1273","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Clayton Rask",13186,"USA","1278","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"T.J. Vogel",17280,"USA","1281","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Ross Beal",19731,"USA","1300","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Dillon Rust",18771,"USA","1307","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Danny Sahl",9352,"CAN","1318","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Cory Renfrew",11443,"CAN","1318","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Hunter Stewart",18294,"USA","1321","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"John Chin",14797,"USA","1322","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Seth Reeves",19643,"USA","1322","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Nicholas Reach",13376,"USA","1329","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Riley Fleming",17577,"CAN","1361","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Kyle Wilshire",19774,"USA","1371","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Carlos Sainz Jr",14519,"USA","1393","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Tain Lee",16598,"USA","1415","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Zachary Edmondson",19739,"USA","1415","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Joseph Harrison",19744,"USA","1415","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Manav Shah",21901,"USA","1415","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Clark Klaasen",14005,"USA","1420","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Mike Van Sickle",14083,"USA","1427","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Max Gilbert",17684,"CAN","1435","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jonathan Garrick",21885,"USA","1483","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Thomas Hay",16330,"CAN","1539","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Seath Lauer",15121,"USA","1578","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Chase Marinell",19750,"USA","1578","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jonathan Moore",11278,"USA","1621","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Julien Brun",16363,"FRA","1651","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jonathan Khan",19833,"USA","1651","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Michael Miller(1992)",17902,"USA","1657","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Sam Love",18632,"USA","1699","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Eric Onesi",15457,"USA","1701","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Vince Covello",11441,"USA","1751","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Dudley Hart",3879,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jesse Smith",10309,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Brian Dwyer",14262,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Brad Benjamin",14486,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Devin Carrey",14507,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Justin Bates",11598,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Ted F. Smith",12445,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Erick Justesen",13174,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Brett Lederer",13378,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Sebastian Szirmak",15710,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Byron Meth",15855,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Aaron Cockerill",15596,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jonathan Fly",16226,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Vaita Guillaume",16432,"PYF","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Matthew NeSmith",16433,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Eric Hawerchuck",16526,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Charlie Winegardner",17483,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Sepp Straka(Am)",17511,"AUT","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Nicholas Delio",17544,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Eric Banks",17704,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Will McCurdy",17758,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Andrew Ledger",17778,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Thomas Baik",18112,"ARG","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jared Wolfe",18164,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Charlie Harrison",18189,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Colin Featherstone",18257,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Kazuo Hoffman",18533,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Christopher Wolfe",18550,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Chris Hemmerich",18570,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Mike Ballo, Jr.",18678,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jake Johnson",18712,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Russell Budd",18874,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Zack Kempa",18876,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Ryan Heisey",19469,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"David Pastore",19593,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"David Fink",19741,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Matt F Hansen",19743,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Paul McConnell",19753,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Joel Thelen",19770,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Benjamin Taylor",19948,"ENG","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Blair Hamilton",20043,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jack Whelan",21329,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Cody Blick",21876,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Ryan Burgess",21878,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Bradley Caldwell",21879,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Trevor Cone",21880,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Mathias Dahl",21881,"SWE","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Brendan Dillon",21882,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Dylan Freeman",21884,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Taylor R. Hancock",21887,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jeffrey Kang",21889,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Jae Yong Kim",21890,"KOR","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Colin Monagle",21895,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Joe Parkinson",21897,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Blake Redmond",21899,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Roman Robledo",21900,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Michael Tolladay",21905,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"John Tomlinson",21906,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Elliott Whitley",21907,"CAN","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Spencer Fletcher",21941,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Sean Kelly",21942,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Henry Lebioda",21943,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Max Marsico",22204,"USA","1857","Niagara Championship ",6359,2016-09-11,"PGA Tour Canada",NA,NA,2016-09-06
+"Emilio/Puma Dominguez",11900,"ARG","439","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Sebastian Vazquez",15487,"MEX","473","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Augusto Nunez",16796,"ARG","473","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Corey Conners",17576,"CAN","603","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Michael Johnson",15120,"USA","632","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"John Young Kim",17232,"USA","683","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Nate Lashley",10943,"USA","705","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Anthony Paolucci",15207,"USA","707","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Justin Hueber",18590,"USA","716","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Martin Trainer",15634,"USA","721","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Samuel Del Val",15791,"ESP","735","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Tim O'Neal",9890,"USA","745","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Eric Steger",19479,"USA","768","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Sam Fidone",19618,"USA","866","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Paul Apyan",14294,"USA","874","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Derek Rende",17380,"USA","891","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Leandro Marelli",15240,"ARG","907","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Rafael Echenique",7988,"ARG","936","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Sebastian MacLean",16584,"BOL","946","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Joe Affrunti",9194,"USA","947","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Felipe Velazquez",16571,"VEN","972","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Ken Looper",17327,"USA","976","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brady Watt",16845,"AUS","982","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Tommy Cocha",12805,"ARG","1001","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Guillermo Pereira",19455,"CHI","1011","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Lanto Griffin",15330,"USA","1012","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Rick Cochran III",16305,"USA","1016","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Ricardo Celia",19000,"COL","1064","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Seth Fair",18377,"USA","1070","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Kelvin Day",15281,"ENG","1083","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Daniel Balin",14872,"USA","1089","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Tom Whitney",20353,"USA","1146","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brandon Harkins",15427,"USA","1160","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Jeff Karlsson",14779,"SWE","1171","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Peter Campbell",12842,"CAN","1178","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Wil Collins",8116,"USA","1226","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Austin Quick",19474,"USA","1228","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Daniel Stapff",16594,"BRA","1240","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Jose Toledo",8670,"GUA","1254","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"James Vargas",11798,"USA","1290","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Cameron Wilson",16248,"USA","1304","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Ted Purdy",5906,"USA","1309","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brian Richey",16138,"USA","1313","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Armando Favela",14568,"MEX","1316","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Nicholas Cochran",18434,"USA","1328","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Robert Rohanna",14968,"USA","1334","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Rafael Becker",17275,"BRA","1340","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brad Brunner",21502,"USA","1352","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brad Hopfinger",18190,"USA","1372","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Michael Buttacavoli",15395,"USA","1390","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Bryan Martin",17199,"USA","1405","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Ryan McCarthy",15165,"AUS","1410","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Nelson Ledesma",15239,"ARG","1413","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Alvaro Jose Arizabaleta",15246,"COL","1415","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"David Johnson",14418,"USA","1429","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Guillermo Pumarol",15903,"DOM","1437","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Oscar Alvarez",9165,"COL","1454","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Jordan Elsen",21430,"USA","1455","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Clodomiro Carranza",7773,"ARG","1459","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Jose de Jesus Rodriguez",12855,"MEX","1459","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Wesley McClain",21318,"USA","1462","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Juan Pablo Luna",12956,"COL","1466","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Linus Gillgren",15642,"SWE","1493","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Sergio Franky",12003,"COL","1497","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Maximiliano Godoy",12774,"ARG","1543","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brad Gehl",18791,"USA","1543","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Jay Woodson",9082,"USA","1550","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Sean Jacklin",12006,"SCO","1559","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Sebastian Saavedra",11922,"ARG","1561","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Armando Villarreal",17396,"MEX","1593","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Andres Echavarria",15238,"COL","1614","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Marcelo Rozo",16591,"COL","1614","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Mark Anguiano",19029,"USA","1687","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Vince India",15793,"USA","1716","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Steve Carney",18532,"USA","1751","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Yoshio Yamamoto",16240,"MEX","1755","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Julio Zapata",7219,"ARG","1777","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Evan Harmeling",16909,"USA","1777","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Mauricio Azcue",13773,"MEX","1843","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Oscar Serna",5972,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brad Adamonis",7612,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Rafael Gomez",7747,"ARG","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Daniel Barbetti",8572,"ARG","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Cristian Espinoza",13600,"CHI","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Alan Wagner",10871,"ARG","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Santiago Quirarte",11755,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Santiago Gavino",13201,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Edward Figueroa",16044,"PUE","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Michael Weaver",16110,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"David Vanegas",13812,"COL","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Daniel Brunson",14398,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Will Roebuck",15202,"ENG","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Patricio Salem",15258,"PER","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Will Collins",16145,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Juan Diego Fernandez",16237,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"James Hazen",16281,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Patrick Newcomb",16311,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Daniel Zuluaga",16597,"COL","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Rafael Guerrero",16788,"VEN","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Franco Romero",16802,"ARG","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Omar Tejeira",17174,"PAN","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Rodrigo Lee",17237,"BRA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Robert De Biase",17369,"VEN","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Michael Davan",17378,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Andreas Halvorsen",17747,"NOR","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Andre Tourinho",17970,"BRA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Julio Vegas",18033,"VEN","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Juan Pablo Hernandez",18075,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Matias Simasky",18128,"ARG","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"William Kropp",18193,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"David Rose",18223,"CAN","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brian Hughes",18436,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Gustavo Arizpe",19036,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Gerardo Ruiz",19079,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Ramon Garcia",19096,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Pablo Rincon",19103,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Roberto Rodriguez",19496,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Henry Davis",19541,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Blake Olson",19758,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Weston Payne",19954,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Raoul Menard",20772,"CAN","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Jose Antonio Hernandez",20974,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Nicolas Maruri",20975,"MEX","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Louis Cohen-Boyer",21098,"FRA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Brian Bullington",21312,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Scott Cahill",21313,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Donald Leafstrand",21317,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Will Murphy",21321,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Eric Sugimoto",21326,"JPN","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Tyler Torano",21327,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Trey Valentine",21328,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"McCormick Clouser",21396,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Taylor Dio",21398,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Chase Sargent",21323,"USA","1857","San Luis Championship ",6360,2016-09-11,"PGA Tour Latinoamerica",NA,NA,2016-09-06
+"Ben Eccles",17163,"AUS","690","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Craig Hinton",15580,"ENG","957","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Zane Scotland",7265,"ENG","1052","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Antonio Costa",17305,"CHI","1133","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Rayhan Thomas(AM)",21234,"IND","1139","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Younes El Hassani",7297,"MAR","1296","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"James Allan",18778,"ENG","1577","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Henry Featherstone",19422,"ENG","1731","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Karl Ableidinger",5297,"AUT","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Danny Poulter",7182,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Amine Joudar",7298,"MAR","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Faycal Serghini",9304,"MAR","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Max Williams",13741,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Ahmed Almusharrekh",14407,"UAE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Lee Corfield",9390,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Paul Doherty",10175,"SCO","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Jonathan Fransson",11248,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Per Barth",11314,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Othman Al Mulla(Am)",11985,"KSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Michael Dreyer",12851,"RSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Ahmed Marjane",15970,"MAR","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Jake Shepherd",15972,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Mehdi Saissi",14718,"MAR","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Stuart Archibald",14842,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Victor Bertran Crous",15325,"ESP","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Hamza Amin",15420,"PAK","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Petr Dedek",16717,"CZE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Michael Harradine(Am)",17069,"SUI","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Daniel Owen",17121,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Ryan Laird",17166,"AUS","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Clarke Lutton",17182,"SCO","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Daniel Suchan",17522,"CZE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Scott Campbell",17814,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Azaan Al Rumhy(Am)",18024,"OMA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Matt Killen",18219,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Adam Ward",18231,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Sixto Casabona-Navarro",18627,"ESP","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Joshua Seale",18647,"RSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Manish Goyal",19133,"IND","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Tyler Hogarty",19312,"RSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Luke Joy",19314,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Daniel Kay",19315,"SCO","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Shaifiq Masih",19316,"PAK","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"James Yeomans",19317,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Andi Dill",19348,"RSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Altaaf Bux",19600,"RSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Cyril Suk",19717,"CZE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Liam Crawford",19976,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Ashley Rees",20024,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Jesper Alm",20155,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Oscar Hertzberg",20191,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Tom Boys",20270,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Aaron Leitmannstetter",20374,"GER","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Max Helgesson",20399,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Kalle Nilsson",20416,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Borja Cabello",20667,"ESP","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Fredrik Lindblom",21609,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Ben Alexander(Am)",21611,"SCO","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"David Anderson",21612,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"James Ashman",21613,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Aarkesh Bhatia(Am)",21615,"IND","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Louis  Campbell ",21616,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Mark Chamberlain",21617,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Benjamin David(Am)",21618,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Kevin Esteve",21620,"AND","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Fredrik From",21621,"SWE","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Jordan  Garnish ",21622,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Robert Horridge(Am)",21624,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Tiago Lobo(Am)",21626,"BRA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Jonny McAllister",21627,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Mariano Ochoa",21629,"ESP","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Elliott Oxlade",21630,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"James Perkinson",21632,"NZL","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Adam Sagar",21633,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Rocco Sanjust",21634,"ITA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Abdulrahman Sihag",21635,"KEN","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Josh Taylor",21636,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Michael Stokes",21714,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Phumlani Maluka(Am)",22007,"RSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Gary Munro",22010,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Jonathan Waschefort",22042,"RSA","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
+"Sam Towler",22440,"ENG","1857","Dubai Creek Open",6370,2016-09-11,"MGT Logo 2",NA,NA,2016-09-06
