@@ -24,7 +24,16 @@ Ratings <- read.csv("Output/Golf_Ratings_Current.csv")
 # Partial_Results <- read.csv("Output/Current_Event_Simulation.csv")
 
 
-Trials <- 10000
+# Tour Championship Fedex Cup Code
+Fedex_Pts_Before_TC <- read.csv("Data/Fedex_Pts_Reset_Tour_Champ.csv")
+Fedex_Pts_From_TC <- read.csv("Data/Fedex_Pts_Tour_Champ.csv")
+TC_Tournament_ID <- 6381
+
+Tournament %<>% filter(Event_ID == TC_Tournament_ID)
+
+
+
+Trials <- 100000
 
 
 ### Map Data ####
@@ -33,6 +42,7 @@ Trials <- 10000
 
 Tournament_Projection <- merge(Tournament,Ratings[,c("Player_ID","Rank","OWGR_Rank","Projected_Rating","Projected_Stdev","Weight_Sum","Recent_Tour","Rounds_Last_Year","Country")],by = c("Player_ID"),all.x = TRUE)
 
+Tournament_Projection <- merge(Tournament_Projection,Fedex_Pts_Before_TC)
 
 # Tournament_Projection$Projected_Rating[Tournament_Projection$Player_Name=="Mark O'Meara"] <- 2.0
 # Tournament_Projection$Projected_Stdev[Tournament_Projection$Player_Name=="Mark O'Meara"] <- 3.0
@@ -61,9 +71,14 @@ str(Tournament_Projection)
 #            )
 
 
+
+
 ### Simulation Engine ####
 
 Sim_Once <- function(Data,Iteration) {
+#   # For prototyping:
+#   Data = Tournament_Projection
+#   Iteration = 1
   
   Sim_Result_1 <- unlist(lapply(Data[,c("Projected_Stdev")],function(x) rnorm(1,sd = x)))
   Sim_Result_2 <- unlist(lapply(Data[,c("Projected_Stdev")],function(x) rnorm(1,sd = x)))
@@ -72,14 +87,38 @@ Sim_Once <- function(Data,Iteration) {
   
   Results_Frame <- cbind.data.frame (Sim_Result_1,Sim_Result_2,Sim_Result_3,Sim_Result_4)
 
-  Result <- Data[,c("Player_Name","Player_ID","Event_ID")]
+  Result <- Data[,c("Player_Name","Player_ID","Event_ID","Fedex_Pts")]
   
   Result$Sim_Result_Raw <- (rowSums(Results_Frame)  + 4*Data$Projected_Rating)
   
   Result$Sim_Result <- Result$Sim_Result_Raw # + Result$Round_1
+  
+  Result$Sim_Result_Rounded <- round(Result$Sim_Result)  # round to nearest stroke
    
   Result %<>% group_by(Event_ID) %>%
-  mutate( Rank = min_rank(Sim_Result)) %>% ungroup()
+  mutate( Rank = min_rank(Sim_Result),
+          Rank_Round = min_rank(Sim_Result_Rounded),
+          Rank_Final = Rank_Round) %>% ungroup()  # Rank the results
+  
+  Result$Rank_Final[Result$Rank_Round==1 & !Result$Rank==1] <- 2  # Break ties for winner
+
+  Result <- merge(Result, Fedex_Pts_From_TC,by.x = "Rank", by.y = "Tour_Champ_Rank" )
+  
+  Tour_Champ_Pts_Split <- group_by(Result, Event_ID, Rank_Final) %>%
+    summarise( Fedex_Pts_to_split = sum(Fedex_Pts_Earned),
+               Num_Tied = length(Fedex_Pts_Earned),
+               Fedex_Pts_Split = Fedex_Pts_to_split/Num_Tied) %>% ungroup() 
+  
+  Result$Fedex_Pts_Earned <-  
+    Tour_Champ_Pts_Split$Fedex_Pts_Split[match(Result$Rank_Final,Tour_Champ_Pts_Split$Rank_Final)]
+  
+  Result$Fedex_Pts_Final <-  Result$Fedex_Pts + Result$Fedex_Pts_Earned
+  
+  Result %<>% group_by(Event_ID) %>%
+    mutate( Fedex_Rank = min_rank(-Fedex_Pts_Final)
+            ) %>% ungroup()  # Rank the results  
+  
+  # View(Result)
   
   return (Result)
   
@@ -112,14 +151,20 @@ Player_ID_Group <- group_by(Trial_Sim, Player_ID)
 Finishes <- summarise(Player_ID_Group,
                       Win = sum(Rank == 1)/Trials, 
                       Top_5 = sum(Rank<6)/Trials, 
-                      Top_10 = sum(Rank<11)/Trials)
+                      Top_10 = sum(Rank<11)/Trials,
+                      Fedex_Champ = sum(Fedex_Rank == 1)/Trials,
+                      Fedex_2nd = sum(Fedex_Rank == 2)/Trials,
+                      Fedex_Top_5 = sum(Fedex_Rank<6)/Trials,
+                      Fedex_Top_10 = sum(Fedex_Rank<11)/Trials,
+                      Avg_Fedex_Pts = mean(Fedex_Pts_Final))
 
 
 Tournament_Projection_Out <-
   merge(Tournament_Projection,Finishes,by = c("Player_ID"))
 
 Tournament_Projection_Out %<>% group_by(Event_ID) %>%
-  mutate(Win_Rank = min_rank(-Win)) %>% ungroup()
+  mutate(Win_Rank = min_rank(-Win),
+         Fedex_Win_Rank = min_rank(-Fedex_Champ)) %>% ungroup()
 
 
 ### Rearrange and export results ####
@@ -135,6 +180,12 @@ Tournament_Projection_Out <-
                             "Player_ID",
                             "Projected_Rating",
                             "Projected_Stdev",
+                            "Fedex_Win_Rank",
+                            "Fedex_Champ",
+                            "Fedex_2nd",
+                            "Fedex_Top_5",
+                            "Fedex_Top_10",
+                            "Avg_Fedex_Pts",
                             "Win_Rank",
                             "Win",
                             "Top_5",
