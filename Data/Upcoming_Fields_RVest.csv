@@ -1,218 +1,524 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Dylan Frittelli",11955,"RSA","144","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Ryan Fox",11889,"NZL","148","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Bernd Ritthammer",12521,"GER","190","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Romain Langasque",16652,"FRA","192","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Alexander Knappe",12318,"GER","193","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jordan L Smith",18586,"ENG","196","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Clement Sordet",17718,"FRA","201","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Alexander Bjork",14775,"SWE","230","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Sam Walker",7157,"ENG","236","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Damien Perrier",12661,"FRA","249","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Espen Kofstad",13349,"NOR","290","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Joel Stalter",17722,"FRA","295","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jaco Ahlers",11852,"RSA","301","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Sebastian Soderberg",18517,"SWE","310","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Nick Cullen",14247,"AUS","323","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"James Heath",9365,"ENG","332","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Thomas Detry",14181,"BEL","333","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Duncan Stewart",12472,"SCO","339","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Aaron Rai",18554,"ENG","345","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Christofer Blomstrand",20167,"SWE","352","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Adrien Saddier",14792,"FRA","353","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Matthieu Pavon",19960,"FRA","361","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Pep Angles Ros",19634,"ESP","368","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jose-Filipe Lima",7868,"POR","380","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Darius Van Driel",13374,"NED","384","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Simon Forsstrom",19806,"SWE","386","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Ben Stow",16401,"ENG","387","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Ross McGowan",11981,"ENG","414","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Scott Henry",12468,"SCO","436","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Max Orrin",17903,"ENG","460","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Bjorn Hellgren",16231,"SWE","476","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Gary King",17835,"ENG","484","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jurrian Van der Vaart",13489,"NED","493","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Daan Huizing",12650,"NED","497","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jens Dantorp",14018,"SWE","499","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Tom Murray",17077,"ENG","516","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Steven Tiley",9311,"ENG","520","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Garrick Porteous",16400,"ENG","528","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Lorenzo Gagli",10073,"ITA","549","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Matthew Nixon",15184,"ENG","551","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Marcus Armitage",17813,"ENG","552","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Oscar Stark",18131,"SWE","564","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Alvaro Velasco",9603,"ESP","581","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Kristian Krogh Johannessen",16421,"NOR","583","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Daniel Gaunt",6132,"AUS","594","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Louis de Jager",12821,"RSA","609","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Oliver Farr",13318,"WAL","609","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Ruaidhri McGee",17818,"IRL","612","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Matteo Delpodio",11121,"ITA","613","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Steven Jeppesen",8125,"SWE","628","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Julien Guerrier",10201,"FRA","633","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Chris Selfridge",13982,"IRL","638","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Paul Howard",19510,"ENG","641","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Marcel Schneider",12522,"GER","643","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Sebastian Heisele",16499,"GER","645","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Niccolo Ravano",10071,"ITA","646","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jack Senior",15115,"ENG","661","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Anton Karlsson",20405,"SWE","678","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Steven Brown",15771,"ENG","683","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Thriston Lawrence",18105,"RSA","685","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Nicolas Geyger",13607,"CHI","687","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Carlos del Moral",10222,"ESP","694","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Moritz Lampert",13438,"GER","703","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Stiggy Hodgson",16398,"ENG","720","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Eirik Tage Johansen",11317,"NOR","722","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Martin Ovesen",19847,"DEN","741","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Edouard Dubois",10624,"FRA","757","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Mads Sogaard",15678,"DEN","758","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"David Law",14784,"SCO","767","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Ross Kellett",13235,"SCO","778","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Pedro Oriol",10248,"ESP","786","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Manuel Trappel",14681,"AUT","793","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"James Robinson",12298,"ENG","820","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Scott Fernandez",15616,"ESP","828","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Paul Maddy",17343,"ENG","842","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Joel Girrbach",15592,"SUI","844","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Wil Besseling",9413,"NED","869","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Francesco Laporta",14987,"ITA","886","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Ricardo Santos",8816,"POR","890","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Kevin Phelan",14702,"IRL","891","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Victor Riu",12217,"FRA","892","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Juan Francisco Sarasti",13886,"ESP","895","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Birgir Hafthorsson",6166,"ISL","926","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Marcus Kinhult",18514,"SWE","942","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Peter Whiteford",7822,"SCO","947","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Mark Tullo",10872,"CHI","961","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Pontus Widegren",11661,"SWE","968","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Hugues Joannes",11201,"BEL","977","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jaakko Makitalo",9261,"FIN","988","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Charlie Ford",14400,"ENG","989","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Philipp Mejow",19897,"GER","1026","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Sam Connor",18679,"ENG","1028","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Cyril Bouniol",18240,"FRA","1038","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Kalle Samooja",14120,"FIN","1061","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Reinier Saxton",11564,"NED","1098","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jason Barnes",15186,"ENG","1112","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Krister Eriksson",13346,"SWE","1138","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jerome Lando-Casanova",14040,"FRA","1156","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Joshua White",18784,"ENG","1156","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Gary Hurley",18657,"IRL","1176","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Marco Crespi",7933,"ITA","1206","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Martin Wiegele",7869,"AUT","1265","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Sam Hutsby",11104,"ENG","1293","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Jordi Garcia Pinto",12990,"ESP","1373","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Maarten Lafeber",5843,"NED","1438","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Filippo Bergamaschi",15266,"ITA","1550","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Gabriel Axell",20150,"SWE","1724","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Mark Nichols",2429,"USA","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Peter Gustafsson",6525,"SWE","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Yevgeny Kafelnikov",10473,"RUS","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Alexander Mayorov",10604,"RUS","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Lukas Nemecz",13089,"AUT","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Alexander Vongay(Am)",13479,"KAZ","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Petr Dedek",16717,"CZE","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Paul Shields",18682,"SCO","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Nurtai Saldarov(AM)",18991,"KAZ","1873","Kazakhstan Open",6391,2016-10-02,"European Challenge Tour",NA,NA,2016-09-27
-"Andrew Marshall",7177,"ENG","711","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mathiam Keyser",18218,"RSA","725","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Antonio Costa",17305,"CHI","904","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Carlos Balmaseda",6543,"ESP","971","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Craig Hinton",15580,"ENG","975","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Stephen Dodd",4311,"WAL","1014","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Luke Joy",19314,"ENG","1054","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Zane Scotland",7265,"ENG","1081","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Younes El Hassani",7297,"MAR","1121","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Oskar Henningsson",9399,"SWE","1135","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Fredrik Lindblom",21609,"SWE","1211","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"David Booth",18739,"ENG","1237","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Adam Sagar",21633,"ENG","1335","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Per Barth",11314,"SWE","1522","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Sixto Casabona-Navarro",18627,"ESP","1522","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Sandro Piaget",11351,"MON","1747","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Danny Poulter",7182,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Amine Joudar",7298,"MAR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Lee Corfield",9390,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Shahid Javed",10012,"PAK","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Paul Doherty",10175,"SCO","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jonathan Fransson",11248,"SWE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jean-Luc Burnier",11347,"SUI","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Othman Al Mulla(Am)",11985,"KSA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Stephen Thomas",12573,"CAN","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Ganive Giddie(Am)",12899,"KEN","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Ahmed Al musharrekh",14407,"UAE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mehdi Saissi",14718,"MAR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Khaled Attieh(Am)",15221,"KSA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Victor Bertran Crous",15325,"ESP","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Ahmed Marjane",15970,"MAR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jake Shepherd",15972,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mustapha El Maouas",16069,"MAR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Michael Harradine(Am)",17069,"SUI","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Daniel Owen",17121,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Ryan Laird",17166,"AUS","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Aadil Jehangir",17214,"PAK","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Daniel Suchan",17522,"CZE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Scott Campbell",17814,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Ediz Kemaloglu",18052,"TUR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Matt Killen",18219,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Adam Ward",18231,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Manish Goyal",19133,"IND","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Peter Badawy",19309,"LBN","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Shaifiq Masih",19316,"PAK","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"James Yeomans",19317,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Andi Dill",19348,"RSA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Altaaf Bux",19600,"RSA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Anton Guedra",19606,"SWE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Liam Crawford",19976,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Joe Heraty",19998,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jesper Alm",20155,"SWE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Oscar Hertzberg",20191,"SWE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Edward Barry-Walsh",20268,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Tom Boys",20270,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Aaron Leitmannstetter",20374,"GER","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Kalle Nilsson",20416,"SWE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Borja Cabello",20667,"ESP","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Gonzalo Escauriaza",20672,"ESP","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jamal Allali(Am)",21259,"MAR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mohamed El Khallali(Am)",21266,"MAR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Amine El Malki(Am)",21267,"MAR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"David Anderson",21612,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"James Ashman",21613,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Aarkesh Bhatia(Am)",21615,"IND","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Louis  Campbell ",21616,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mark Chamberlain",21617,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Benjamin David(Am)",21618,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Kevin Esteve",21620,"AND","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Fredrik From",21621,"SWE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jordan  Garnish ",21622,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Robert Horridge(Am)",21624,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Ryan Hunter(Am)",21625,"NZL","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Tiago Lobo(Am)",21626,"BRA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jonny McAllister",21627,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mariano Ochoa",21629,"ESP","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Elliott Oxlade",21630,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"James Perkinson",21632,"NZL","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Rocco Sanjust",21634,"ITA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Josh Taylor",21636,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Deha Senay",21648,"TUR","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Phumlani Maluka(Am)",22007,"RSA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Gary Munro",22010,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Jonathan Waschefort",22042,"RSA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Matias Calderon(Am)",22607,"CHI","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Todd Clements(Am)",22608,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Quintin Crause(Am)",22609,"RSA","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Rafa Culla",22610,"ESP","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Andrew Devonport",22611,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Anukool Dubey",22613,"IND","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Sam Hobday(Am)",22614,"BRN","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Edward Holland(Am)",22615,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Edward Kent",22616,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Salvador Paya Vila",22620,"ESP","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Alasdair Plumb(Am)",22621,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Christofer Rahm(Am)",22622,"SWE","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mark Raven",22623,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Su Zi Hao(Am)",22624,"CHN","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Andrew Wilkinson",22625,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Daniel Hendry(Am)",22708,"ENG","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
-"Mohammed Naqas",22728,"PAK","1873","Ascorp Golf Citizen Abu Dhabi Open",6397,2016-10-02,"MGT Logo 2",NA,NA,2016-09-27
+"Kiradech Aphibarnrat",12321,"THA","67","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Matt Jones",8605,"AUS","95","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Bryson DeChambeau",19841,"USA","109","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Wesley Bryan",21236,"USA","110","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"J.J Spaun",17536,"USA","133","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Grayson Murray",14655,"USA","161","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Cameron Smith",15856,"AUS","167","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Ollie Schniederjans",18662,"USA","173","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"C.T. Pan",15475,"TPE","181","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Thomas Aiken",7679,"RSA","189","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Martin Flores",10535,"USA","210","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Richy Werenski",19364,"USA","216","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Michael Thompson",12946,"USA","217","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Hiroshi Iwata",9099,"JPN","224","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Ryan Brehm",10423,"USA","226","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Martin Piller",13760,"USA","244","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Nicholas Lindheim",16713,"USA","247","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Greg Owen",5723,"ENG","263","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Rhein Gibson",13342,"AUS","269","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Jason Gore",6321,"USA","277","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Seamus Power",10104,"IRL","278","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Meenwhee Kim",11702,"KOR","283","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Steve Wheatcroft",10292,"USA","287","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Dominic Bozzelli",17564,"USA","289","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Trey Mullinax",18761,"USA","294","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"George McNeill",6419,"USA","305","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"JT Poston",21554,"USA","306","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Tom Hoge",15575,"USA","317","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Sam Saunders(07-1987)",11048,"USA","323","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brad Fritsch",7207,"CAN","327","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brian Campbell",18628,"USA","337","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Mackenzie Hughes",15556,"CAN","338","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Austin Cook",18579,"USA","341","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Chesson Hadley",14967,"USA","344","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Kevin Tway",13127,"USA","348","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Rick Lamb",18869,"USA","351","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Sam Ryder",16715,"USA","352","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Jonathan Randolph",14837,"USA","354","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Rory Sabbatini",6283,"RSA","357","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Tim Wilkinson",7097,"NZL","361","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Tyler Aldridge",11677,"USA","365","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Xander Schauffele",19895,"USA","366","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Kelly Kraft",15852,"USA","369","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brandon Hagy",18695,"USA","376","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Ryan Armour",8469,"USA","377","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Rod Pampling",5668,"AUS","387","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Julian Etulain",11911,"ARG","388","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Rob Oppenheim",8002,"USA","392","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Cameron Percy",5874,"AUS","393","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Stuart Appleby",5294,"AUS","394","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Henrik Norlander",11657,"SWE","398","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Will Mackenzie",7470,"USA","400","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Camilo Villegas",9171,"COL","402","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Ryan Blaum",9643,"USA","410","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Miguel Angel Carballo",8570,"ARG","411","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Mark Anderson",12131,"USA","416","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brendon de Jonge",8767,"ZIM","417","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Scott Pinckney",15477,"USA","423","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Tim Herron",5621,"USA","432","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Zack Sucher",14036,"USA","452","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Stephan Jaeger",16394,"GER","453","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Dawie van der Walt",9883,"RSA","454","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Adam Schenk",19477,"USA","459","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Chris Baker",13971,"USA","460","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Jason Millard",17567,"USA","464","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Wes Roach",15720,"USA","465","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"James Driscoll",6228,"USA","468","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Kyle Thompson",7617,"USA","476","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Andrew Landry",14000,"USA","477","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Scott Langley",14700,"USA","481","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Bobby Wyatt",18660,"USA","483","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Max Homa",17538,"USA","492","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Luke Guthrie",15610,"USA","495","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Juan Sebastian Munoz",20770,"COL","498","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Josh Teater",8085,"USA","504","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Sebastian Cappelen",14776,"DEN","505","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Carlos Ortiz",14735,"MEX","507","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Cody Gribble",17508,"USA","510","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Jonathan Byrd",6931,"USA","520","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Andres Romero",7751,"ARG","525","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Mark Wilson",4107,"USA","527","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Alex Prugh",12339,"USA","537","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Steven Alker",4871,"NZL","539","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Erik Compton",6556,"USA","543","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Zack Fischer",17273,"USA","546","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Adam Svensson",13997,"CAN","559","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brice Garnett",11451,"USA","571","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Andrew Putnam",14704,"USA","573","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Jack Maguire",19869,"USA","576","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"D.A. Points",6761,"USA","579","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Roger Sloan",14050,"CAN","580","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Matt Atkins",19360,"USA","597","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Denny McCarthy",19870,"USA","598","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Tag Ridings",6840,"USA","600","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Gonzalo Fdez-Castano",8262,"ESP","605","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Abraham Ancer",18238,"MEX","606","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Andrew Svoboda",11274,"USA","612","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"John Merrick",9584,"USA","616","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Blake Adams",12088,"USA","618","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Bhavik Patel",16107,"USA","634","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Albin Choi",15606,"CAN","640","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"John Mallinger",9027,"USA","650","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Eric Axley",8024,"USA","678","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brett Drewitt",15162,"AUS","696","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Derek Ernst",16711,"USA","702","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Jimmy Gunn",18163,"SCO","704","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Roberto Diaz",15394,"MEX","712","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Keith Mitchell",17365,"USA","715","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Scott Harrington",8479,"USA","723","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Ted Potter-jr",8769,"USA","725","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Jin Park",7362,"KOR","735","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Erik Barnes",14799,"USA","737","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Curtis Thompson",19395,"USA","751","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Adam Long",15473,"USA","754","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brady Schnell",12414,"USA","759","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Anders Albertson",21235,"USA","762","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Alexandre Rocha",7441,"BRA","775","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Matt Fast",14561,"USA","779","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Brian Gay",5951,"USA","800","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Timothy Madigan",18535,"USA","815","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Michael Putnam",10180,"USA","886","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Greg Eason",17719,"ENG","995","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Nicholas Thompson",10889,"USA","1000","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"D.J. Trahan",7236,"USA","1123","Web.com Tour Championship",6399,2016-10-09,"Web.com Tour",NA,NA,2016-10-05
+"Danny Willett",12920,"ENG","9","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Branden Grace",11952,"RSA","14","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Louis Oosthuizen",7672,"RSA","20","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Alex Noren",10419,"SWE","29","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Rafael Cabrera Bello",7457,"ESP","30","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Thomas Pieters",13944,"BEL","39","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Shane Lowry",13900,"IRL","41","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Matthew Fitzpatrick",17646,"ENG","45","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Lee Westwood",4052,"ENG","47","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Martin Kaymer",8117,"GER","48","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Soren Kjeldsen",6149,"DEN","49","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Tyrrell Hatton",14796,"ENG","53","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Bernd Wiesberger",9531,"AUT","58","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Joost Luiten",10158,"NED","63","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Sean O'Hair",7626,"USA","75","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Andrew Johnston",14666,"ENG","76","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Graeme McDowell",7548,"NIR","81","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Rikard Karlberg",9398,"SWE","83","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Bradley Dredge",6150,"WAL","84","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Thorbjorn Olesen",13412,"DEN","85","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Ross Fisher",9396,"ENG","92","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Brandon Stone",15229,"RSA","94","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jamie Donaldson",7084,"WAL","96","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Victor Dubuisson",10198,"FRA","98","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Alexander Levy",14973,"FRA","106","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"James Morrison",11061,"ENG","112","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Gregory Bourdy",7932,"FRA","115","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Soomin Lee",14614,"KOR","119","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Nicolas Colsaerts",6893,"BEL","124","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Troy Merritt",13367,"USA","126","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Julien Quesne",9131,"FRA","127","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Anthony Wall",5931,"ENG","130","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Richard Bland",6516,"ENG","134","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Kristoffer Broberg",15603,"SWE","144","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Padraig Harrington",5716,"IRL","146","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Fabrizio Zanotti",9842,"PAR","147","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"George Coetzee",10884,"RSA","148","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Ricardo Gouveia",18722,"POR","150","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Alejandro Canizares",11509,"ESP","151","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Wu Ashun",11763,"CHN","153","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Nacho Elvira",12988,"ESP","164","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Dean Burmester",14424,"RSA","165","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Tommy Fleetwood",12294,"ENG","166","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Lucas Bjerregaard",11619,"DEN","168","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"David Horsey",11230,"ENG","169","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Pablo Larrazabal",9133,"ESP","171","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"David Howell",5718,"ENG","174","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Richie Ramsay",11396,"SCO","177","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Lee Slattery",6866,"ENG","180","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Matthew Southgate",15191,"ENG","184","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jorge Campillo",14016,"ESP","186","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Paul Peterson",16341,"USA","196","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Romain Wattel",13165,"FRA","200","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Robert Rock",7895,"ENG","201","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Chris Stroud",9604,"USA","213","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"David Lipsky",15980,"USA","214","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Maximilian Kieffer",12317,"GER","215","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Marc Warren",7567,"SCO","218","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Benjamin Hebert",12213,"FRA","220","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Eddie Pepperell",15113,"ENG","222","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Zac Blair",17639,"USA","225","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Raphael Jacquelin",5784,"FRA","227","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Peter Hanson",6850,"SWE","229","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Nathan Holman",15923,"AUS","230","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Haydn Porteous",15866,"RSA","236","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Peter Uihlein",11357,"USA","238","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Callum Shinkwin",18244,"ENG","240","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Mikko Ilonen",6929,"FIN","248","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Mike Lorenzo-Vera",9675,"FRA","250","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Darren Fichardt",5754,"RSA","251","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Richard Green",3877,"AUS","254","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Felipe Aguilar",8135,"CHI","261","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Robert Karlsson",4331,"SWE","270","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Adrian Otaegui",14975,"ESP","271","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Prom Meesawat",7109,"THA","275","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Sebastien Gros",16650,"FRA","276","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Nino Bertasio",13013,"ITA","280","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Graeme Storm",3323,"ENG","281","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Gary Boyd",12795,"ENG","282","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Eduardo De la Riva",6637,"ESP","284","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Chris Paisley",14844,"ENG","286","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Paul Dunne",18736,"IRL","295","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jeff Winther",15680,"DEN","296","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Johan Carlsson",11658,"SWE","298","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Pelle Edberg",8574,"SWE","300","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jacques Blaauw",13681,"RSA","302","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Brett Rumford",6255,"AUS","304","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jaco Ahlers",11852,"RSA","313","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Richard Sterne",7049,"RSA","314","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Y.E. Yang",6629,"KOR","315","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Roope Kakko",9199,"FIN","319","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Joakim Lagergren",14780,"SWE","322","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Matteo Manassero",11460,"ITA","324","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Robert Dinwiddie",11894,"ENG","326","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Trevor Fisher-Jr",7678,"RSA","335","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Magnus A Carlsson",7823,"SWE","342","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Mikko Korhonen",9252,"FIN","346","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Chris Hanson",12295,"ENG","347","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Marcel Siem",6950,"GER","360","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Gary Stal",13262,"FRA","364","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Thomas Linard",15337,"FRA","367","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Christiaan Bezuidenhout",18103,"RSA","371","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Matthew Millar",7449,"AUS","373","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Justin Walters",8045,"RSA","384","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Borja Virto Astudillo",17313,"ESP","399","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Ryan Evans",19030,"ENG","402","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"David Drysdale",6867,"SCO","404","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Renato Paratore",16549,"ITA","408","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Daniel Im",12971,"USA","409","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Gregory Havret",6239,"FRA","414","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jean Hugo",6304,"RSA","419","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Daniel Brooks",12897,"ENG","426","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Natipong Srithong",8531,"THA","434","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Lasse Jensen",10170,"DEN","435","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Richard McEvoy",7389,"ENG","439","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Joachim B Hansen",14284,"DEN","444","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Ben Evans",10151,"ENG","446","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Stephen Gallacher",5647,"SCO","451","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Andrew Dodt",8364,"AUS","458","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jbe' Kruger",11978,"RSA","463","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Oliver Fisher",10863,"ENG","469","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Florian Fritsch",9217,"GER","485","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Scott Jamieson",11397,"SCO","489","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Alvaro Quiros",7886,"ESP","502","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Craig Lee",4398,"SCO","508","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Matt Ford",10139,"ENG","522","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Richard T Lee",12413,"CAN","538","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Bjorn Akesson",11530,"SWE","542","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Michael Hoey",7303,"NIR","545","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Tjaart Van Der Walt",5937,"RSA","549","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Rhys Davies",11527,"WAL","551","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jamie McLeary",9240,"SCO","557","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jordan Zunic",15170,"AUS","562","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Merrick Bremner",10811,"RSA","567","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jens Fahrbring",13445,"SWE","572","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"David Bransdon",5624,"AUS","577","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Simon Khan",6686,"ENG","582","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Erik van Rooyen",17550,"RSA","585","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Oliver Bekker",12819,"RSA","588","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Tom Lewis",15164,"ENG","636","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Andrew McArthur",9130,"SCO","683","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Morten Orum Madsen",13411,"DEN","694","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"John Parry",13764,"ENG","699","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Kristopher R Mueck",15933,"AUS","726","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Edouard Espana",14787,"FRA","810","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Rhys West",10989,"RSA","871","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Steve Webster",5667,"ENG","903","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Francesco Laporta",14987,"ITA","903","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Niclas Fasth",3832,"SWE","906","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Matthew Guyatt",11833,"AUS","941","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Mathew Goggin",3756,"AUS","1013","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Ulrich Van Den Berg",6155,"RSA","1024","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Edoardo Molinari",7033,"ITA","1066","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Daniel Valente",15943,"AUS","1070","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Paul Waring",12426,"ENG","1123","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Laurie Canter",14795,"ENG","1182","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Matthew Baldwin",13344,"ENG","1269","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Nick Dougherty",6954,"ENG","1484","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Adrian Meronk(Am)",14196,"POL","1521","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Oliver Wilson",8300,"ENG","1571","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Simon Dyson",6436,"ENG","1809","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Paul McGinley",5222,"IRL","1856","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Trevor Immelman",5935,"RSA","1874","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jin Jeong",13573,"KOR","1874","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Grant Forrest(Am)",16475,"SCO","1874","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Cormac Sharvin",18915,"NIR","1874","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Jack Hume(AM)",19714,"IRL","1874","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Ewen Ferguson",21646,"SCO","1874","Alfred Dunhill Links Championship",6401,2016-10-09,"European Tour",NA,NA,2016-10-05
+"Romain Langasque",16652,"FRA","193","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Clement Sordet",17718,"FRA","203","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Alexander Bjork",14775,"SWE","231","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Damien Perrier",12661,"FRA","249","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Matt Wallace",20706,"ENG","259","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Duncan Stewart",12472,"SCO","298","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Sebastian Soderberg",18517,"SWE","331","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Nick Cullen",14247,"AUS","334","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"James Heath",9365,"ENG","340","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Aaron Rai",18554,"ENG","349","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Christofer Blomstrand",20167,"SWE","359","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jose-Filipe Lima",7868,"POR","386","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Darius Van Driel",13374,"NED","389","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Scott Henry",12468,"SCO","447","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Max Orrin",17903,"ENG","471","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Garrick Porteous",16400,"ENG","475","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Bjorn Hellgren",16231,"SWE","478","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Gary King",17835,"ENG","488","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jens Dantorp",14018,"SWE","506","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Tom Murray",17077,"ENG","524","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Christopher Mivis",11198,"BEL","547","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Lorenzo Gagli",10073,"ITA","550","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Marcus Armitage",17813,"ENG","554","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Matthew Nixon",15184,"ENG","560","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Alvaro Velasco",9603,"ESP","582","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jack Senior",15115,"ENG","589","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Daniel Gaunt",6132,"AUS","603","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Oliver Farr",13318,"WAL","615","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Matteo Delpodio",11121,"ITA","619","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Ruaidhri McGee",17818,"IRL","620","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Steven Brown",15771,"ENG","621","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Julien Guerrier",10201,"FRA","643","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Steven Jeppesen",8125,"SWE","650","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Paul Howard",19510,"ENG","653","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Niccolo Ravano",10071,"ITA","654","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Andrea Pavan",12177,"ITA","664","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Marcel Schneider",12522,"GER","665","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Anton Karlsson",20405,"SWE","682","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Thriston Lawrence",18105,"RSA","686","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Nicolas Geyger",13607,"CHI","697","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Carlos del Moral",10222,"ESP","706","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Stefano Pitoni",17895,"ITA","716","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Stiggy Hodgson",16398,"ENG","728","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Martin Ovesen",19847,"DEN","744","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Robert Coles",5714,"ENG","764","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Edouard Dubois",10624,"FRA","767","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Mads Sogaard",15678,"DEN","772","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"David Law",14784,"SCO","788","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Josh Loughrey",19812,"ENG","799","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Pedro Oriol",10248,"ESP","800","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Ricardo Santos",8816,"POR","814","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Pontus Widegren",11661,"SWE","825","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Scott Fernandez",15616,"ESP","836","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Joel Girrbach",15592,"SUI","856","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Paul Maddy",17343,"ENG","862","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Johan Edfors",6852,"SWE","866","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jose Manuel Lara",5815,"ESP","873","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Niccolo Quintarelli",13897,"ITA","888","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Kalle Samooja",14120,"FIN","902","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Victor Riu",12217,"FRA","909","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Juan Francisco Sarasti",13886,"ESP","909","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Kevin Phelan",14702,"IRL","916","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Tapio Pulkkanen",13139,"FIN","930","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Marcus Kinhult",18514,"SWE","952","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Sihwan Kim",13307,"KOR","953","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Peter Whiteford",7822,"SCO","958","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Mark Tullo",10872,"CHI","980","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Joel Sjoholm",12485,"SWE","981","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Hugues Joannes",11201,"BEL","991","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Charlie Ford",14400,"ENG","992","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jaakko Makitalo",9261,"FIN","997","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Aron Zemmer",15952,"ITA","1015","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Philipp Mejow",19897,"GER","1033","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Sam Connor",18679,"ENG","1035","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Robin Kind",14986,"NED","1039","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Cyril Bouniol",18240,"FRA","1044","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jack Doherty",8161,"SCO","1053","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Rhys Enoch",12287,"WAL","1075","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Benjamin Rusch",13281,"SUI","1081","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Benjamin Henry Poke",20244,"DEN","1095","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jason Barnes",15186,"ENG","1123","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Taco Remkes",10678,"NED","1155","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Joshua White",18784,"ENG","1155","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jordi Garcia Pinto",12990,"ESP","1164","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jerome Lando-Casanova",14040,"FRA","1179","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Marco Crespi",7933,"ITA","1229","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Luca Cianchetti(Am)",20843,"ITA","1232","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Adrien Bernadet",10202,"FRA","1249","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Emilio Cuartero Blanco",19459,"ESP","1255","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"William Harrold",17070,"ENG","1271","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Martin Wiegele",7869,"AUT","1276","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jacob Glennemo",13447,"SWE","1299","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Sam Hutsby",11104,"ENG","1304","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Andreas Hartø",14285,"DEN","1331","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Robin Sciot-Siegrist(Am)",20131,"FRA","1358","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Cristiano Terragni",10519,"ITA","1404","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Darryn Lloyd",13728,"RSA","1453","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Maarten Lafeber",5843,"NED","1456","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Filip Mruzek",14883,"CZE","1549","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Filippo Bergamaschi",15266,"ITA","1559","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Pierre Relecom",12228,"BEL","1650","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Gerard Piris Mateu",15371,"ESP","1691","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Antti Ahokas",11897,"FIN","1696","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Gabriel Axell",20150,"SWE","1724","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Bernhard Reiter",13090,"AUT","1749","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Leonardo Motta",13896,"ITA","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Koray Varli(Am)",14594,"TUR","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Joao Carlota",12079,"POR","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Andrea Rota",12139,"ITA","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Dermot McElroy(Am)",15600,"NIR","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Javier Ballesteros",17325,"ESP","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Guido Migliozzi(Am)",17357,"ITA","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Paul Shields",18682,"SCO","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Dominik Pietzsch",18709,"GER","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Michele Cea(am)",18902,"ITA","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jae Woo Shim(AM)",19609,"TUR","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Jan  Cafourek",19851,"CZE","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Michele Ortolani",20845,"ITA","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Andrea Saracino(Am)",21013,"ITA","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Robert Molnar",21216,"AUT","1874","Italian Challenge Terre dei Consoli",6402,2016-10-09,"European Challenge Tour",NA,NA,2016-10-05
+"Siwoo Kim",14609,"KOR","55","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"K.J. Choi",1804,"KOR","117","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Changwoo Lee",15061,"KOR","436","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Heungchol Joo",15528,"KOR","441","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Donghwan Lee",8211,"KOR","526","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sangyeop Lee",15062,"KOR","575","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Joongkyung Mo",5940,"KOR","607","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Taewoo Kim(Feb1993)",17905,"KOR","609","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Hyungjoon Lee",15796,"KOR","621","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Hyowon Park",12277,"KOR","634","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Junsung Kim",15343,"KOR","642","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Taehoon Kim",7589,"KOR","691","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jinjae Byun",13916,"KOR","698","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Innchoon Hwang",10078,"KOR","729","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Junsub Park",13927,"KOR","734","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jihoon Lee(Oct 1986)",17447,"KOR","748","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Taehee Lee",11156,"KOR","763","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Minkyu Han",11126,"KOR","864","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Myung-Ho Kwon",15540,"KOR","925","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Dongmin Lee",14610,"KOR","971","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Hong Chang-kyu",11423,"USA","987","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Charlie Wi",5905,"KOR","989","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Dohoon Kim 753",7018,"KOR","990","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Bio Kim",12188,"KOR","1006","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Daehyun Kim",9634,"KOR","1025","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Inho Kim",17437,"KOR","1059","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Gwanwoo Ma",16157,"KOR","1060","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Soonsang Hong",7020,"KOR","1074","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Daesub Kim",6644,"KOR","1075","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Doeun An",14380,"KOR","1096","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sungyoon Kim",603,"KOR","1135","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jooneob Son",10732,"KOR","1141","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Daeeok Jeong",16762,"KOR","1168","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Song-Gyu Yoo",18823,"KOR","1170","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jiho Jung",6645,"KOR","1172","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seungtaek Lee",16162,"KOR","1175","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jungho Yoon",12200,"KOR","1207","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Mingeun Cho",15517,"KOR","1213","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jinsung Kim",15278,"KOR","1283","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Minseok Kang",19572,"KOR","1293","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Doyeob Mun",17386,"KOR","1294","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Baejong Park",17938,"KOR","1353","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Yoonho Bae",15058,"KOR","1372","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Geonha Kim",17775,"KOR","1404","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Woochan Kim",9054,"KOR","1441","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sungmin Hong",14605,"KOR","1470","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Youngjea Byun",21511,"KOR","1490","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jaeho Kim",16197,"KOR","1497","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Yuncheol Jeon",11699,"KOR","1510","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jaemin Hwang 859",15525,"KOR","1510","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Joungwhan Park",18816,"KOR","1510","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Yoseop Seo",20841,"KOR","1510","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jaehun Jeong",21515,"KOR","1564","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Hakhyung Kim",18728,"KOR","1629","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Taekgi Lee",20758,"KOR","1641","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sungyeol Kwon",14759,"KOR","1687","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Hyungseok Seo",17499,"KOR","1687","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"AN Jae-Hyun",15515,"NZL","1693","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sengyong Kim",13501,"KOR","1718","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jiman Kang",7199,"KOR","1721","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Dongha Lee(1982)",6650,"KOR","1765","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jingyu Lee",15071,"KOR","1765","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Gowoong Choi",16140,"KOR","1792","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Joonwoo Choi",7249,"KOR","1835","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sungchul Bae",6651,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jeonghyeob Hyun",7604,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Soohwan Kim",7879,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Kweonil Kang",9057,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jongyul Suk",9060,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sungpil Park",10084,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jaemin Hwang",11995,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Doosik Jung",15340,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Gyubin Kim",15342,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seongman Han",15523,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jason Kang",13857,"USA","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Gyoungyoon Yu",14336,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Kisang Lee",14480,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Hyungmin Kim",14608,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jooyeob Baek",14931,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Keunho Lee",12274,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Joungjun Park",16545,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Martin Kim",17027,"ARG","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seunghwan Jung",17460,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Backjun An",17484,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Esak Choi",17486,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Minseok Kim(1979)",18316,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seungseop Yu",18497,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jongheon Park",18559,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sungbin Park",18835,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seungha Shin",18886,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Cheolseong Kim",19050,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Woonchul Na",19440,"NZL","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Kyungmin Min",19576,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Geeseon Song",19578,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Kyungseok Chun",19625,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Sungmin Cho",19817,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Junhyeok Park",19827,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Minkyu Kim(Feb2001)",20780,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Minseok Choi",21732,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jisoo Ham",21733,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Galam Jeon",21513,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seonghyeon Jeon",21514,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jaegyu Kang",21519,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Jaehoon Lee(1984)",21521,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Kyeongjun Lee",21524,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Hongjoo Park",21526,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Kibeom Song",21528,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Chunil You",21532,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seonghyeon Kim(Am)",21688,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Keunchan Eom",21924,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
+"Seungryul Lee",22502,"KOR","1874","Hyundai Insurance KJ Choi Invitational",6407,2016-10-09,"Korean Golf Tour",NA,NA,2016-10-05
