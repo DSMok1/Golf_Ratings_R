@@ -1,325 +1,573 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Jimmy Walker",7293,"USA","18","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Brooks Koepka",16243,"USA","22","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ryan Moore",7489,"USA","32","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Scott Piercy",7899,"USA","34","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Francesco Molinari",7655,"ITA","37","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Kevin Na",7452,"USA","39","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"William McGirt",12477,"USA","44","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Charley Hoffman",5768,"USA","56","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Brendan Steele",11019,"USA","57","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Danny Lee",11826,"NZL","59","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"James Hahn",11374,"USA","60","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"David Lingmerth",14815,"SWE","64","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Daniel Summerhays",12424,"USA","65","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Chris Kirk",12423,"USA","68","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Harris English",14577,"USA","72","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Billy Horschel",11276,"USA","73","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Webb Simpson",11049,"USA","75","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Fabian Gomez",8571,"ARG","78","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Graeme McDowell",7548,"NIR","79","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Tony Finau",11676,"USA","80","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Sean O'Hair",7626,"USA","81","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Patton Kizzire",13470,"USA","82","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jason Kokrak",12337,"USA","85","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jim Herman",12846,"USA","87","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Robert Streb",14852,"USA","89","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Smylie Kaufman",18631,"USA","94","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ryo Ishikawa",12232,"JPN","96","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jamie Lovemark",11382,"USA","97","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jon Curran",14699,"USA","100","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Charles Howell III",6892,"USA","103","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Keegan Bradley",13872,"USA","105","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Matt Jones",8605,"AUS","108","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Vaughn Taylor",6930,"USA","109","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Russell Henley",14578,"USA","113","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Bryson DeChambeau",19841,"USA","114","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Kevin Streelman",8480,"USA","115","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Wesley Bryan",21236,"USA","116","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Colt Knost",12149,"USA","117","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Billy Hurley III",11046,"USA","120","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Brian Harman",8825,"USA","123","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Kyle Reifers",11329,"USA","125","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"John Senden",5207,"AUS","126","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Troy Merritt",13367,"USA","127","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"David Hearn",7340,"CAN","128","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jon Rahm",19195,"ESP","129","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ben Martin",14007,"USA","131","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Patrick Rodgers",16283,"USA","132","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Alex Cejka",4425,"GER","134","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Aaron Baddeley",6252,"AUS","137","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Martin Laird",9586,"SCO","138","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Johnson Wagner",7927,"USA","139","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Brian Stuard",13022,"USA","143","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"J.J Spaun",17536,"USA","144","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Chez Reavie",7961,"USA","145","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Vijay Singh",653,"FIJ","152","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Grayson Murray",14655,"USA","156","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Bryce Molder",7292,"USA","157","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jason Bohn",6462,"USA","165","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Graham Delaet",10252,"CAN","166","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Cameron Smith",15856,"AUS","170","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Derek Fathauer",12689,"USA","171","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Cameron Tringale",14013,"USA","174","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Harold Varner III",16602,"USA","181","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Sunghoon Kang",7881,"KOR","182","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Scott Brown",11330,"USA","184","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ollie Schniederjans",18662,"USA","186","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ricky Barnes",6846,"USA","193","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Adam Hadwin",13965,"CAN","194","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"C.T. Pan",15475,"TPE","196","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Chad Campbell",6248,"USA","197","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jonas Blixt",8182,"SWE","199","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Cody Gribble",17508,"USA","205","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Spencer Levin",8199,"USA","211","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Robert Garrigus",6789,"USA","214","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Steven Bowditch",7053,"AUS","215","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Greg Owen",5723,"ENG","218","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Tyrone van Aswegen",9913,"RSA","219","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Hiroshi Iwata",9099,"JPN","221","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Boo Weekley",7403,"USA","223","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Lucas Glover",7399,"USA","227","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ryan Brehm",10423,"USA","228","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Martin Flores",10535,"USA","229","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Richy Werenski",19364,"USA","232","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Michael Thompson",12946,"USA","233","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Luke List",7960,"USA","235","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"John Huh",14606,"USA","238","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Zac Blair",17639,"USA","240","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Nicholas Lindheim",16713,"USA","254","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Morgan Hoffmann",14082,"USA","259","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Brett Stegmaier",11354,"USA","261","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Blayne Barber",15608,"USA","262","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Greg Chalmers",5625,"AUS","266","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Michael Kim",17543,"USA","269","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Mackenzie Hughes",15556,"CAN","273","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ken Duke",493,"USA","276","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Peter Malnati",14926,"USA","277","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Andres Gonzales",11640,"USA","280","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Stewart Cink",5665,"USA","282","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Geoff Ogilvy",5698,"AUS","286","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Dominic Bozzelli",17564,"USA","287","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Davis Love III",3464,"USA","288","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Bud Cauley",14502,"USA","292","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Steve Marino",7741,"USA","295","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Xander Schauffele",19895,"USA","297","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Kyle Stanley",12069,"USA","300","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Seungyul Noh",11117,"KOR","301","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Trey Mullinax",18761,"USA","303","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Seamus Power",10104,"IRL","311","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Shawn Stefani",14012,"USA","314","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ernie Els",874,"RSA","322","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"JT Poston",21554,"USA","324","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Hunter Mahan",7636,"USA","327","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Scott Stallings",12359,"USA","330","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Pat Perez",6762,"USA","344","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Nick Watney",7955,"USA","347","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ryan Blaum",9643,"USA","367","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Kevin Tway",13127,"USA","379","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Ben Crane",6674,"USA","384","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Matt Every",10185,"USA","403","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Nick Taylor",13126,"CAN","410","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Julian Etulain",11911,"ARG","415","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Stuart Appleby",5294,"AUS","417","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Miguel Angel Carballo",8570,"ARG","419","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Kelly Kraft",15852,"USA","420","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Will Mackenzie",7470,"USA","425","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"J.J. Henry",6222,"USA","436","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Mark Hubbard",16333,"USA","450","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Rod Pampling",5668,"AUS","451","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Zack Sucher",14036,"USA","457","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Bobby Wyatt",18660,"USA","499","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Carl Pettersson",7048,"SWE","524","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Steven Alker",4871,"NZL","525","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Jonathan Byrd",6931,"USA","540","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Lee McCoy",19871,"USA","548","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Aaron Wise",22051,"USA","623","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Gonzalo Fdez-Castano",8262,"ESP","635","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Brian Gay",5951,"USA","820","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Tommy Gainey",12169,"USA","998","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Bob Estes",889,"USA","1877","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Marty Jertson",15116,"USA","1877","Shriners Hospitals for Children Open",6437,2016-11-06,"PGA Tour",NA,NA,2016-11-02
-"Danny Willett",12920,"ENG","10","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Tyrrell Hatton",14796,"ENG","35","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Byeong Hun An",14459,"KOR","42","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Lee Westwood",4052,"ENG","45","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Andy Sullivan",15326,"ENG","46","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Soren Kjeldsen",6149,"DEN","50","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Thongchai Jaidee",5973,"THA","51","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Bernd Wiesberger",9531,"AUT","52","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Scott Hend",1888,"AUS","63","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Anirban Lahiri",12669,"IND","70","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Kiradech Aphibarnrat",12321,"THA","74","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Andrew Johnston",14666,"ENG","84","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Jeunghun Wang",15366,"KOR","90","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Thorbjorn Olesen",13412,"DEN","92","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Jaco Van Zyl",7105,"RSA","95","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Alexander Levy",14973,"FRA","98","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Padraig Harrington",5716,"IRL","99","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Brandon Stone",15229,"RSA","101","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Victor Dubuisson",10198,"FRA","106","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Richard Bland",6516,"ENG","107","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"James Morrison",11061,"ENG","119","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Gregory Bourdy",7932,"FRA","122","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Nicolas Colsaerts",6893,"BEL","135","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Julien Quesne",9131,"FRA","140","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Tommy Fleetwood",12294,"ENG","149","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"David Horsey",11230,"ENG","151","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Richard Sterne",7049,"RSA","155","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Wu Ashun",11763,"CHN","158","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Fabrizio Zanotti",9842,"PAR","159","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"George Coetzee",10884,"RSA","160","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Ricardo Gouveia",18722,"POR","161","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Nacho Elvira",12988,"ESP","167","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Alejandro Canizares",11509,"ESP","169","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Matthew Southgate",15191,"ENG","172","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Pablo Larrazabal",9133,"ESP","176","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Lucas Bjerregaard",11619,"DEN","177","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Li Haotong",15310,"CHN","185","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Lee Slattery",6866,"ENG","187","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Jorge Campillo",14016,"ESP","188","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Marc Warren",7567,"SCO","191","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Robert Rock",7895,"ENG","192","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"David Lipsky",15980,"USA","203","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Richie Ramsay",11396,"SCO","204","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Joakim Lagergren",14780,"SWE","206","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Thomas Aiken",7679,"RSA","207","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Romain Wattel",13165,"FRA","209","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Benjamin Hebert",12213,"FRA","224","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Mikko Ilonen",6929,"FIN","225","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Callum Shinkwin",18244,"ENG","237","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Maximilian Kieffer",12317,"GER","239","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Raphael Jacquelin",5784,"FRA","247","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Chris Paisley",14844,"ENG","253","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Haydn Porteous",15866,"RSA","255","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Mike Lorenzo-Vera",9675,"FRA","263","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Mikko Korhonen",9252,"FIN","265","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Nathan Holman",15923,"AUS","274","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Darren Fichardt",5754,"RSA","278","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Adrian Otaegui",14975,"ESP","284","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Pelle Edberg",8574,"SWE","289","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Felipe Aguilar",8135,"CHI","296","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Robert Karlsson",4331,"SWE","304","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"S.S.P. Chawrasia",7040,"IND","305","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Renato Paratore",16549,"ITA","315","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Nino Bertasio",13013,"ITA","325","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Johan Carlsson",11658,"SWE","332","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Magnus A Carlsson",7823,"SWE","350","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Matteo Manassero",11460,"ITA","356","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Justin Walters",8045,"RSA","368","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Lasse Jensen",10170,"DEN","370","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Marcel Siem",6950,"GER","375","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Paul Lawrie",5105,"SCO","377","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Gregory Havret",6239,"FRA","402","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Daniel Brooks",12897,"ENG","423","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"David Drysdale",6867,"SCO","431","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Oliver Fisher",10863,"ENG","435","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Ali Altuntas(Am)",18051,"TUR","1877","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Mutlu Guner(Am)",18430,"TUR","1877","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Leon Acikalin(Am)",21644,"TUR","1877","Turkish Airlines Open",6439,2016-11-06,"European Tour",NA,NA,2016-11-02
-"Alexander Knappe",12318,"GER","111","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Jordan L Smith",18586,"ENG","112","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Dylan Frittelli",11955,"RSA","147","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Ryan Fox",11889,"NZL","153","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Sam Walker",7157,"ENG","163","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Romain Langasque",16652,"FRA","179","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Alexander Bjork",14775,"SWE","189","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Bernd Ritthammer",12521,"GER","195","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Clement Sordet",17718,"FRA","212","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Jose-Filipe Lima",7868,"POR","264","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Matthieu Pavon",19960,"FRA","267","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Damien Perrier",12661,"FRA","269","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Pep Angles Ros",19634,"ESP","271","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Thomas Detry",14181,"BEL","293","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Joel Stalter",17722,"FRA","302","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Marcus Armitage",17813,"ENG","307","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Duncan Stewart",12472,"SCO","312","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Espen Kofstad",13349,"NOR","317","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"James Heath",9365,"ENG","333","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Nick Cullen",14247,"AUS","338","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Johan Edfors",6852,"SWE","339","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Aaron Rai",18554,"ENG","346","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Darius Van Driel",13374,"NED","366","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Sebastian Soderberg",18517,"SWE","371","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Adrien Saddier",14792,"FRA","378","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Scott Henry",12468,"SCO","390","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Ben Stow",16401,"ENG","409","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Simon Forsstrom",19806,"SWE","416","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Max Orrin",17903,"ENG","421","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Oscar Stark",18131,"SWE","459","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Daan Huizing",12650,"NED","493","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Jens Dantorp",14018,"SWE","499","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Gary King",17835,"ENG","501","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Garrick Porteous",16400,"ENG","510","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Jurrian Van der Vaart",13489,"NED","513","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Julien Guerrier",10201,"FRA","538","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Steven Tiley",9311,"ENG","544","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Anton Karlsson",20405,"SWE","552","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Lorenzo Gagli",10073,"ITA","594","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Alvaro Velasco",9603,"ESP","600","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Oliver Farr",13318,"WAL","652","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Reinier Saxton",11564,"NED","714","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Sebastian Heisele",16499,"GER","717","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Jordi Garcia Pinto",12990,"ESP","743","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Moritz Lampert",13438,"GER","756","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Ricardo Santos",8816,"POR","845","NBO Golf Classic Grand Final",6440,2016-11-06,"European Challenge Tour",NA,NA,2016-11-02
-"Andrew Marshall",7177,"ENG","691","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Craig Hinton",15580,"ENG","773","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Rayhan Thomas(AM)",21234,"IND","790","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Antonio Costa",17305,"CHI","930","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Luke Joy",19314,"ENG","1061","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Zane Scotland",7265,"ENG","1114","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Joe Heraty",19998,"ENG","1139","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Aaron Leitmannstetter",20374,"GER","1139","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Younes El Hassani",7297,"MAR","1147","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Fredrik Lindblom",21609,"SWE","1234","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Ahmed Marjane",15970,"MAR","1343","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Daniel Owen",17121,"ENG","1343","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Scott Campbell",17814,"ENG","1343","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Adam Sagar",21633,"ENG","1343","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Lee Corfield",9390,"ENG","1522","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Per Barth",11314,"SWE","1522","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Max Williams",13741,"ENG","1522","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Sixto Casabona-Navarro",18627,"ESP","1522","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Fredrik From",21621,"SWE","1522","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Jordan  Garnish ",21622,"ENG","1522","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Tiago Lobo(Am)",21626,"BRA","1522","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Faycal Serghini",9304,"MAR","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Paul Doherty",10175,"SCO","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Jonathan Fransson",11248,"SWE","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Jean-Luc Burnier",11347,"SUI","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Othman Al Mulla(Am)",11985,"KSA","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Michael Dreyer",12851,"RSA","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Mehdi Saissi",14718,"MAR","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Stuart Archibald",14842,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Khaled Attieh(Am)",15221,"KSA","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Jake Shepherd",15972,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Mustapha El Maouas",16069,"MAR","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Ryan Laird",17166,"AUS","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Clarke Lutton",17182,"SCO","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Daniel Suchan",17522,"CZE","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Ediz Kemaloglu",18052,"TUR","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Matt Killen",18219,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Adam Ward",18231,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Joshua Seale",18647,"RSA","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Tyler Hogarty",19312,"RSA","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Andi Dill",19348,"RSA","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Anton Guedra",19606,"SWE","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Liam Crawford",19976,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Jesper Alm",20155,"SWE","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Oscar Hertzberg",20191,"SWE","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Edward Barry-Walsh",20268,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Max Helgesson",20399,"SWE","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Borja Cabello",20667,"ESP","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Louis  Campbell ",21616,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Benjamin David(Am)",21618,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Kevin Esteve",21620,"AND","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Jonny McAllister",21627,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Mariano Ochoa",21629,"ESP","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Elliott Oxlade",21630,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Rocco Sanjust",21634,"ITA","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Josh Taylor",21636,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Todd Clements(Am)",22608,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Rafa Culla",22610,"ESP","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Sam Hobday(Am)",22614,"BRN","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
-"Edward Holland(Am)",22615,"ENG","1877","Tour Championship",6443,2016-11-06,"MGT Logo 2",NA,NA,2016-11-02
+"Russell Knox",13831,"SCO","19","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Emiliano Grillo",12808,"ARG","26","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jim Furyk",2881,"USA","32","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Scott Piercy",7899,"USA","35","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Marc Leishman",7649,"AUS","48","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Siwoo Kim",14609,"KOR","53","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Gary Woodland",12577,"USA","54","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Danny Lee",11826,"NZL","58","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Charley Hoffman",5768,"USA","59","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Harris English",14577,"USA","70","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Chris Kirk",12423,"USA","71","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Billy Horschel",11276,"USA","73","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Anirban Lahiri",12669,"IND","74","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jhonattan Vegas",13508,"VEN","76","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Webb Simpson",11049,"USA","77","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Luke Donald",4163,"ENG","78","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Fabian Gomez",8571,"ARG","80","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Graeme McDowell",7548,"NIR","81","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Tony Finau",11676,"USA","82","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jason Kokrak",12337,"USA","86","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jim Herman",12846,"USA","88","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ryo Ishikawa",12232,"JPN","96","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Keegan Bradley",13872,"USA","97","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jamie Lovemark",11382,"USA","99","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Charles Howell III",6892,"USA","101","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jerry Kelly",5151,"USA","102","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jon Curran",14699,"USA","106","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Vaughn Taylor",6930,"USA","111","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Bryson DeChambeau",19841,"USA","114","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Wesley Bryan",21236,"USA","116","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Kevin Streelman",8480,"USA","118","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Billy Hurley III",11046,"USA","119","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jon Rahm",19195,"ESP","120","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Brian Harman",8825,"USA","121","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Kyle Reifers",11329,"USA","126","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"K.J. Choi",1804,"KOR","128","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"David Hearn",7340,"CAN","131","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Alex Cejka",4425,"GER","132","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Martin Laird",9586,"SCO","134","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Patrick Rodgers",16283,"USA","135","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ben Martin",14007,"USA","138","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Johnson Wagner",7927,"USA","143","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ian Poulter",1435,"ENG","145","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"J.J Spaun",17536,"USA","146","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Chez Reavie",7961,"USA","147","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Brian Stuard",13022,"USA","152","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Grayson Murray",14655,"USA","157","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Cameron Smith",15856,"AUS","159","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Derek Fathauer",12689,"USA","171","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Graham Delaet",10252,"CAN","174","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jason Bohn",6462,"USA","176","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Cameron Tringale",14013,"USA","179","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Harold Varner III",16602,"USA","188","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Sunghoon Kang",7881,"KOR","190","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Adam Hadwin",13965,"CAN","192","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Scott Brown",11330,"USA","193","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ollie Schniederjans",18662,"USA","194","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ricky Barnes",6846,"USA","197","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Chad Campbell",6248,"USA","201","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jonas Blixt",8182,"SWE","204","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"C.T. Pan",15475,"TPE","205","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Cody Gribble",17508,"USA","208","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Hudson Swafford",14706,"USA","212","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Spencer Levin",8199,"USA","215","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ryan Brehm",10423,"USA","220","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Steven Bowditch",7053,"AUS","221","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"John Huh",14606,"USA","222","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Robert Garrigus",6789,"USA","224","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Tyrone van Aswegen",9913,"RSA","226","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Martin Flores",10535,"USA","229","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Luke List",7960,"USA","230","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Boo Weekley",7403,"USA","232","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Richy Werenski",19364,"USA","237","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Michael Thompson",12946,"USA","238","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Chris Stroud",9604,"USA","242","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Zac Blair",17639,"USA","247","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Kyle Stanley",12069,"USA","250","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Brett Stegmaier",11354,"USA","264","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Stewart Cink",5665,"USA","266","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Morgan Hoffmann",14082,"USA","267","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Nicholas Lindheim",16713,"USA","269","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Pat Perez",6762,"USA","271","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Michael Kim",17543,"USA","275","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Mackenzie Hughes",15556,"CAN","276","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Greg Chalmers",5625,"AUS","279","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Shawn Stefani",14012,"USA","281","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ken Duke",493,"USA","286","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Peter Malnati",14926,"USA","288","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Andres Gonzales",11640,"USA","291","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Dominic Bozzelli",17564,"USA","299","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Bud Cauley",14502,"USA","300","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Trey Mullinax",18761,"USA","304","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Steve Marino",7741,"USA","311","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Seungyul Noh",11117,"KOR","313","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Seamus Power",10104,"IRL","325","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"JT Poston",21554,"USA","329","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ernie Els",874,"RSA","332","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Scott Stallings",12359,"USA","342","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Hunter Mahan",7636,"USA","344","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ryan Blaum",9643,"USA","357","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Rick Lamb",18869,"USA","375","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Kevin Tway",13127,"USA","392","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Ben Crane",6674,"USA","401","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Rory Sabbatini",6283,"RSA","406","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Nick Taylor",13126,"CAN","414","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Matt Every",10185,"USA","418","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Miguel Angel Carballo",8570,"ARG","423","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Julian Etulain",11911,"ARG","431","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Camilo Villegas",9171,"COL","437","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Will Mackenzie",7470,"USA","440","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"J.J. Henry",6222,"USA","444","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Rodolfo Cazaubon Jnr",18185,"MEX","446","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Mark Hubbard",16333,"USA","456","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Zack Sucher",14036,"USA","458","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Aaron Wise",22051,"USA","492","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Steven Alker",4871,"NZL","531","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Carl Pettersson",7048,"SWE","535","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Mark Wilson",4107,"USA","537","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Carlos Ortiz",14735,"MEX","544","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Angel Cabrera",5717,"ARG","547","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Gonzalo Fdez-Castano",8262,"ESP","636","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Roberto Diaz",15394,"MEX","727","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"John Peterson",15611,"USA","761","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Brian Gay",5951,"USA","820","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Jonathan Garrick",21885,"USA","1128","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Bob Estes",889,"USA","1871","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Cameron Davis(Am)",17786,"AUS","1871","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Matthew NeSmith",16433,"USA","1871","OHL Classic at Mayakoba",6444,2016-11-13,"PGA Tour",NA,NA,2016-11-09
+"Nate Lashley",10943,"USA","347","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Guillermo Pereira",19455,"CHI","459","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Augusto Nunez",16796,"ARG","472","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Emilio/Puma Dominguez",11900,"ARG","478","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Taylor Moore",21944,"USA","519","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Andres Romero",7751,"ARG","530","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Corey Conners",17576,"CAN","574","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Ryan Ruffels",17169,"AUS","578","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Martin Trainer",15634,"USA","602","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Jorge Fernandez-Valdes",16786,"ARG","621","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Andres Echavarria",15238,"COL","663","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Samuel Del Val",15791,"ESP","780","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Eric Steger",19479,"USA","800","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Tim O'Neal",9890,"USA","804","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Tom Whitney",20353,"USA","817","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Paul Apyan",14294,"USA","826","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Kelvin Day",15281,"ENG","863","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Daniel Mazziotta",18195,"USA","879","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Seth Fair",18377,"USA","884","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Sam Fidone",19618,"USA","921","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Diego Velasquez",14840,"COL","952","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Brad Hopfinger",18190,"USA","973","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Leandro Marelli",15240,"ARG","985","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Ricardo Celia",19000,"COL","1010","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Robert Rohanna",14968,"USA","1036","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Peter Campbell",12842,"CAN","1039","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Felipe Velazquez",16571,"VEN","1076","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Brady Watt",16845,"AUS","1079","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Tommy Cocha",12805,"ARG","1166","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Armando Favela",14568,"MEX","1169","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Daniel Balin",14872,"USA","1206","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Wil Collins",8116,"USA","1280","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Daniel Stapff",16594,"BRA","1318","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"James Vargas",11798,"USA","1380","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Brad Brunner",21502,"USA","1404","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Matias Simasky",18128,"ARG","1412","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Brian Richey",16138,"USA","1425","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Wesley McClain",21318,"USA","1457","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Weston Payne",19954,"USA","1473","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"David Johnson",14418,"USA","1491","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Michael Buttacavoli",15395,"USA","1491","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Bryan Martin",17199,"USA","1499","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Jordan Elsen",21430,"USA","1540","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Cesar Costilla",10868,"ARG","1552","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Clodomiro Carranza",7773,"ARG","1564","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Guillermo Pumarol",15903,"DOM","1576","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Sergio Franky",12003,"COL","1583","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Jay Woodson",9082,"USA","1611","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Juan Pablo Luna",12956,"COL","1622","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Linus Gillgren",15642,"SWE","1637","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Rafael Becker",17275,"BRA","1666","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Nelson Ledesma",15239,"ARG","1668","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Sebastian Saavedra",11922,"ARG","1688","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Oscar Alvarez",9165,"COL","1713","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Mark Anguiano",19029,"USA","1735","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Ariel Canete",5926,"ARG","1815","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Matias O'Curry",13629,"ARG","1828","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Julio Zapata",7219,"ARG","1830","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Gustavo Acosta",7215,"ARG","1843","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Sergio Acevedo",9851,"ARG","1859","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Rodolfo Gonzalez",6588,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Derek Gillespie",6883,"CAN","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Cesar Monasterio",7227,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Brad Adamonis",7612,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Rafael Gomez",7747,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Miguel Angel Rodriguez",8568,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Daniel Barbetti",8572,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Francisco Ojeda",9849,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Julian Nicolosi",9850,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Alan Wagner",10871,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Paulo Pinto",10964,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"David Ferreyra",11899,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Luciano Dodda",11914,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Hector Cespedes",12767,"PAR","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Armando Zarlenga",12818,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Jorge Monroy",12928,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Cristian Espinoza",13600,"CHI","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Santiago Russi",13635,"CHI","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Juan Galli(Am)",13662,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Daniel Brunson",14398,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Eric Atsma",14574,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Will Roebuck",15202,"ENG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Ary Rodriguez",15257,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Patricio Salem",15258,"PER","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Brian Maurer",15562,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Juan Diego Fernandez",16237,"MEX","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Julian Lerda",17014,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Santiago Bauni",17025,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Andreas Halvorsen",17747,"NOR","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Stuart Gold",17854,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Thomas Baik",18112,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Lucas Lozada",18126,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Facundo Villanueva",18129,"PHI","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Cody Paladino",18197,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Kristian Caparros",18255,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Barrett Kelpin",18259,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Bernardo Bide",18332,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Ignacio Marino",18334,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"James Hazen",16281,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Patrick Newcomb",16311,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Francisco Bide",16776,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Rafael Guerrero",16788,"VEN","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Mariano Guiraldes",16789,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Franco Martinangeli",16794,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Sergio Rohlmann",16800,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Franco Romero",16802,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Rodrigo Lee",17237,"BRA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Robert De Biase",17369,"VEN","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Jacob Eggers",18786,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Aaron Crawford",18788,"CAN","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Spencer L. Lawson",18792,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Ryan Heisey",19469,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Raoul Menard",20772,"CAN","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Guillermo Ferrari",21029,"URU","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Agustin Bardas",21065,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Louis Cohen-Boyer",21098,"FRA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Brian Bullington",21312,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Donald Leafstrand",21317,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Xander McDonald-Smith",21319,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Will Murphy",21321,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Jose Pablo Segurola",21325,"ESP","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Eric Sugimoto",21326,"JPN","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Tyler Torano",21327,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Trey Valentine",21328,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Mariano Benitez",21452,"ARG","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"James Beck III",21427,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Payne Denman",21429,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Kevin DeHuff",21546,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Otto Black",22353,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Jeff Wells",22561,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Casey Fernandez",22730,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Bo Andrews",22770,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Hunter Zetsche",22774,"USA","1871","Argentina Classic presentado por NEC ",6445,2016-11-13,"PGA Tour Latinoamerica",NA,NA,2016-11-09
+"Henrik Stenson",5994,"SWE","4","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Danny Willett",12920,"ENG","11","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Branden Grace",11952,"RSA","15","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Alex Noren",10419,"SWE","17","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Louis Oosthuizen",7672,"RSA","25","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Charl Schwartzel",7398,"RSA","27","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Rafael Cabrera Bello",7457,"ESP","30","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Tyrrell Hatton",14796,"ENG","34","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Chris Wood",12451,"ENG","36","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Thomas Pieters",13944,"BEL","42","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Andy Sullivan",15326,"ENG","47","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Thongchai Jaidee",5973,"THA","49","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Matthew Fitzpatrick",17646,"ENG","50","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Martin Kaymer",8117,"GER","51","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Soren Kjeldsen",6149,"DEN","52","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Scott Hend",1888,"AUS","63","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Joost Luiten",10158,"NED","64","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"David Lingmerth",14815,"SWE","65","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Thorbjorn Olesen",13412,"DEN","69","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Ross Fisher",9396,"ENG","72","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Kiradech Aphibarnrat",12321,"THA","75","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Andrew Johnston",14666,"ENG","83","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Rikard Karlberg",9398,"SWE","85","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Bradley Dredge",6150,"WAL","90","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Jeunghun Wang",15366,"KOR","91","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Jaco Van Zyl",7105,"RSA","95","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Alexander Levy",14973,"FRA","98","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Padraig Harrington",5716,"IRL","100","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Richard Bland",6516,"ENG","103","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"David Horsey",11230,"ENG","107","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Marcus Fraser",7070,"AUS","109","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Brandon Stone",15229,"RSA","110","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Victor Dubuisson",10198,"FRA","112","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Gregory Bourdy",7932,"FRA","124","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"James Morrison",11061,"ENG","125","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Li Haotong",15310,"CHN","137","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Nicolas Colsaerts",6893,"BEL","139","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Soomin Lee",14614,"KOR","141","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"George Coetzee",10884,"RSA","142","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Julien Quesne",9131,"FRA","144","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Tommy Fleetwood",12294,"ENG","151","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Nacho Elvira",12988,"ESP","156","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Ricardo Gouveia",18722,"POR","163","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Richard Sterne",7049,"RSA","164","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Pablo Larrazabal",9133,"ESP","168","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Fabrizio Zanotti",9842,"PAR","172","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Matthew Southgate",15191,"ENG","173","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Alejandro Canizares",11509,"ESP","175","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Lucas Bjerregaard",11619,"DEN","182","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Joakim Lagergren",14780,"SWE","183","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"David Lipsky",15980,"USA","184","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Retief Goosen",4884,"RSA","189","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Jorge Campillo",14016,"ESP","190","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Lee Slattery",6866,"ENG","195","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Marc Warren",7567,"SCO","199","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Robert Rock",7895,"ENG","200","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Mikko Ilonen",6929,"FIN","209","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Thomas Aiken",7679,"RSA","211","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Romain Wattel",13165,"FRA","214","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Richie Ramsay",11396,"SCO","216","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Benjamin Hebert",12213,"FRA","231","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Raphael Jacquelin",5784,"FRA","239","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Chris Paisley",14844,"ENG","262","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Adrian Otaegui",14975,"ESP","268","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Nathan Holman",15923,"AUS","292","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Felipe Aguilar",8135,"CHI","295","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Renato Paratore",16549,"ITA","303","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Johan Carlsson",11658,"SWE","327","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Matteo Manassero",11460,"ITA","339","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Lasse Jensen",10170,"DEN","353","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Marcel Siem",6950,"GER","380","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"David Drysdale",6867,"SCO","385","Nedbank Golf Challenge hosted by Gary Player",6447,2016-11-13,"European Tour",NA,NA,2016-11-09
+"Rhein Gibson",13342,"AUS","301","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jason Scrivener",12734,"AUS","326","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Matthew Millar",7449,"AUS","417","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Rohan Blizard",11838,"AUS","486","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Andrew Dodt",8364,"AUS","520","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Aron Price",9772,"AUS","533","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Wade Ormsby",7532,"AUS","539","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Maxwell McCardle",13674,"AUS","541","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Daniel Nisbet",11823,"AUS","553","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Peter Senior",520,"AUS","561","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Adam Blyth",7704,"AUS","606","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"David Bransdon",5624,"AUS","645","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Daniel Pearce",16933,"NZL","654","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Matthew Giles",9783,"AUS","662","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Nirun Sae-Ueng",18594,"THA","672","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Andrew Evans",15589,"AUS","691","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Scott Arnold",11810,"AUS","707","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"James Nitties",7388,"AUS","717","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jimmy Gunn",18163,"SCO","735","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Stephen Dartnall",11843,"AUS","743","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Tim Hart",15920,"AUS","754","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Chanat Sakulpolphaisan",13784,"THA","771","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Kristopher R Mueck",15933,"AUS","792","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Aaron Pike",10828,"AUS","802","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Brad Shilton",8412,"NZL","803","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"David Klein",15851,"GER","806","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Michael Sim",7681,"AUS","819","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jarryd Felton",16835,"AUS","829","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Brett Coletta(Am)",18177,"AUS","838","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Michael Long",4865,"NZL","843","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Todd Sinnott",16918,"AUS","847","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Lincoln Tighe",16980,"AUS","852","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Geoff Drakeford",15848,"AUS","856","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Anthony Houston",15924,"AUS","861","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ashley Hall",7708,"AUS","892","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"David McKenzie",4912,"AUS","915","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Brad Moules",17917,"AUS","932","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Deyen Lawson",15885,"AUS","943","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jake McLeod",17146,"AUS","979","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Matthew Guyatt",11833,"AUS","999","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Lucas Herbert",17064,"AUS","1037","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Aaron Wilkin",17790,"AUS","1041","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Brett Rankin",11820,"AUS","1072","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Stephen Leaney",4889,"AUS","1082","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jason Norris",5769,"AUS","1083","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Peter Lonard",4122,"AUS","1098","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Dale Brandt-Richards",15160,"AUS","1099","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Rory Bourke",15845,"AUS","1100","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Daniel Valente",15943,"AUS","1116","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jake Higginbottom",15849,"AUS","1119","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Travis Smyth",19232,"AUS","1133","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Neven Basic",7700,"AUS","1190","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Steven Jeffress",7481,"AUS","1193","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Lindsay Wilson",17055,"AUS","1197","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Josh Younger",11828,"AUS","1202","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Aaron Townsend",8415,"AUS","1211","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Mitchell Brown",8385,"AUS","1222","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jarrod Lyle",8392,"AUS","1228","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Gareth Paddison",6397,"NZL","1238","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Damien Jordan",14353,"AUS","1278","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Anthony Summers",5233,"AUS","1301","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Robert Allenby",4949,"AUS","1310","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ed Stedman",6271,"AUS","1314","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Peter Wilson",7944,"AUS","1371","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Callan O'Reilly",16968,"AUS","1386","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Darren Beck",9905,"AUS","1421","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Anthony Brown",7086,"AUS","1423","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Scott Laycock",3472,"AUS","1430","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Adam Stephens",11814,"AUS","1439","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Keita Nakajima(Am)",21074,"JPN","1488","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ryan Lynch",12830,"AUS","1491","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ben Campbell",14373,"NZL","1491","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Peter Fowler",497,"AUS","1501","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Taylor MacDonald",17144,"AUS","1516","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ryan Carter",11039,"USA","1637","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Nick O'Hern",6100,"AUS","1695","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Harry Bateman",16921,"NZL","1793","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ryan Haller",7057,"AUS","1823","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jamie Arnold",10861,"AUS","1823","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Nathan Green",6258,"AUS","1844","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Troy Moses(am)",18094,"AUS","1846","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Craig Parry",637,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Peter O'Malley",660,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jason King",5902,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Chris Gaunt",6251,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Leigh McKechnie",7061,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ryan Dillon",7095,"USA","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ewan Porter",7485,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Tim Wood",10841,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Daniel Popovic",11824,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Matthew Gleeson",11832,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Richie Gallichan",11837,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Steven Jones",11892,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jin Jeong",13573,"KOR","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Ryan Chisnall",16924,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Tyler Hodge",16931,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jordan Mullaney",16967,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"DJ Loypur",17065,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Dylan Perry",17066,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Tommy Mansuwan",17115,"THA","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jamie Hook",17143,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Cory Crawford",17785,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Luke Toomey(am)",17889,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Luke Humphries",18092,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jack McLeod",18093,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Tom Power Horan",18096,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Zach Murray(AM)",18155,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Pawin Ingkhapradit",15147,"THA","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jamie Sadlowski",15750,"CAN","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Josh Munn",15891,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Benjamin Clementson",15912,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Nathan Park",15936,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jack Wilson",15946,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Kota Kagasaki",16022,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Fraser Wilkin",16089,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Sam Lee",18861,"FIJ","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Terrance Ng(Am)",18899,"HKG","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Haydn Barron(Am)",19068,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Josh Armstrong",19201,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Clayton Bridges",19203,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Harrison Endycott",19208,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jarrod Freeman",19211,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Daniel Gale(Am)",19212,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Blake Windred",19234,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Tae Koh",19267,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Kyle Michel",19391,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Hayden Beard",19397,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Christopher Akers",19408,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jarrod Stirling(Am)",20556,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Taichiro Ideriha(Am)",20638,"JPN","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Xu Guo-zhen",21019,"CHN","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Thomas Holz(Am)",21113,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jake Nagle",21116,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Austin Bautista(Am)",21152,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Will Heffernan(Am)",21247,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Lachlan McDonald",21248,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Jack Williams",21250,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Daniel Hillier(Am)",21362,"NZL","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Kingsley Kelly",21750,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Nathan Buzimkic",21558,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Connor Syme(Am)",22089,"SCO","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Aito Inada(Am)",22510,"JPN","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Liu Zehao",22550,"CHN","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Kevin Yuan(Am)",22668,"AUS","1871","NSW Open Championship ",6449,2016-11-13,"AUS Logo2",NA,NA,2016-11-09
+"Heungchol Joo",15528,"KOR","297"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Changwoo Lee",15061,"KOR","455"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sungjae Im",17488,"KOR","518"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jungho Yoon",12200,"KOR","566"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Hyungjoon Lee",15796,"KOR","603"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sangyeop Lee",15062,"KOR","604"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Inhoi Hur",9635,"KOR","613"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Taewoo Kim(Feb1993)",17905,"KOR","619"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Joongkyung Mo",5940,"KOR","642"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Junsub Park",13927,"KOR","645"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Junsung Kim",15343,"KOR","651"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jihoon Lee(Oct 1986)",17447,"KOR","655"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Taehoon Kim",7589,"KOR","676"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Hyowon Park",12277,"KOR","685"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Kyongjun Moon",13836,"KOR","694"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Innchoon Hwang",10078,"KOR","764"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Minkyu Han",11126,"KOR","782"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Ilhwan Park",11703,"KOR","848"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jooneob Son",10732,"KOR","896"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Bongsub Kim",15531,"KOR","914"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Myung-Ho Kwon",15540,"KOR","939"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Daehyun Kim",9634,"KOR","948"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jiho Jung",6645,"KOR","963"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Byungjun Kim",15532,"KOR","994"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Dohoon Kim 753",7018,"KOR","1016"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Dongmin Lee",14610,"KOR","1024"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Hong Chang-kyu",11423,"USA","1025"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Youngjea Byun",21511,"KOR","1026"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Geonha Kim",17775,"KOR","1069"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Gwanwoo Ma",16157,"KOR","1101"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Doeun An",14380,"KOR","1119"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Seungtaek Lee",16162,"KOR","1173"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sungyoon Kim",603,"KOR","1176"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Song-Gyu Yoo",18823,"KOR","1191"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Daeeok Jeong",16762,"KOR","1198"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Mingeun Cho",15517,"KOR","1245"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jaehun Jeong",21515,"KOR","1255"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Yongjin Shin",5337,"KOR","1258"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Hyungseok Seo",17499,"KOR","1272"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Minseok Kang",19572,"KOR","1312"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jinsung Kim",15278,"KOR","1318"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Baejong Park",17938,"KOR","1355"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Yoonho Bae",15058,"KOR","1419"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Woochan Kim",9054,"KOR","1464"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jeonghyeob Hyun",7604,"KOR","1466"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Kisang Lee",14480,"KOR","1466"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jooyeob Baek",14931,"KOR","1503"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Yuncheol Jeon",11699,"KOR","1507"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jaemin Hwang 859",15525,"KOR","1507"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sungmin Hong",14605,"KOR","1540"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jaeho Kim",16197,"KOR","1590"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Hakhyung Kim",18728,"KOR","1659"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Taekgi Lee",20758,"KOR","1668"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sengyong Kim",13501,"KOR","1740"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jiman Kang",7199,"KOR","1771"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Dongha Lee(1982)",6650,"KOR","1790"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Gowoong Choi",16140,"KOR","1820"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Joonwoo Choi",7249,"KOR","1858"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Hyungtae Kim 404",6007,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sungchul Bae",6651,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Boowon Park",7369,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Soohwan Kim",7879,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Kweonil Kang",9057,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jongyul Suk",9060,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sungpil Park",10084,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jaemin Hwang",11995,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Keunho Lee",12274,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Martin Kim",17027,"ARG","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jason Kang",13857,"USA","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Gyoungyoon Yu",14336,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Hyungmin Kim",14608,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Doosik Jung",15340,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Youngwoo Nam",15347,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Seunghwan Jung",17460,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Esak Choi",17486,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Minseok Kim(1979)",18316,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jongheon Park",18559,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sungbin Park",18835,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Junhyung You",18837,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Jaewon Choi",18879,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Seungha Shin",18886,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Cheolseong Kim",19050,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Woonchul Na",19440,"NZL","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Kyungseok Chun",19625,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Sungmin Cho",19817,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Junhyeok Park",19827,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Taehoon Ok",21072,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Galam Jeon",21513,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Seonghyeon Jeon",21514,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Kyeongjun Lee",21524,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Kibeom Song",21528,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Bumjun Choi(Am)",21684,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Keunchan Eom",21924,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Lion-sungho Kim(1998)",22758,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
+"Seungmin Kim",22798,"KOR","1871"," Caido Korea Tour Championship",6451,2016-11-13,"Korean Golf Tour",NA,NA,2016-11-09
