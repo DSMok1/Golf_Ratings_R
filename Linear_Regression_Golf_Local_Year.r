@@ -39,7 +39,7 @@ Min_Player_Rounds_Last_Yr <-
   20                      # The sufficient number of rounds by a player to include that player (25)
 
 Minimum_Player_In_Round <-
-  17                      # The minimum number of players present in a round to include it (17)
+  15                      # The minimum number of players present in a round to include it (17)
 
 Save_Location <-  paste0("Output/Archive/Golf_Ratings_",Rating_Date,".csv")
 
@@ -635,7 +635,7 @@ write.csv(Target_Results_Players, file = Save_Location, row.names = FALSE)
 
 
 
-if (Split_Date==Sys.Date()) {
+if (Split_Date %in% c(Sys.Date(),Sys.Date()-1)) {
   Save_Location_Current <-
     "Output/Golf_Ratings_Current.csv"
   
