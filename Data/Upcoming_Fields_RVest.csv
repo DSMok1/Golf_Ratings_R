@@ -1,155 +1,125 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Adam Scott",6430,"AUS","7","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Marc Leishman",7649,"AUS","54","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Scott Hend",1888,"AUS","60","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Danny Lee",11826,"NZL","64","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jaco Van Zyl",7105,"RSA","95","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Cameron Smith",15856,"AUS","111","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jordan L Smith",18586,"ENG","114","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Marcus Fraser",7070,"AUS","118","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ryan Fox",11889,"NZL","131","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Rod Pampling",5668,"AUS","139","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"John Senden",5207,"AUS","141","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Brad Kennedy",6287,"AUS","147","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Michael Hendry",11885,"NZL","153","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ian Poulter",1435,"ENG","166","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Harold Varner III",16602,"USA","184","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Romain Langasque",16652,"FRA","195","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Pavit Tangkamolprasert",11958,"THA","238","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Rhein Gibson",13342,"AUS","251","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jason Scrivener",12734,"AUS","259","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Greg Chalmers",5625,"AUS","267","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Peter Uihlein",11357,"USA","274","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Adam Blyth",7704,"AUS","280","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jose-Filipe Lima",7868,"POR","290","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Danthai Boonma",16424,"THA","291","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Nathan Holman",15923,"AUS","303","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Nick Cullen",14247,"AUS","316","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Prom Meesawat",7109,"THA","319","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Richard Green",3877,"AUS","323","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Duncan Stewart",12472,"SCO","325","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Nino Bertasio",13013,"ITA","355","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Brett Rumford",6255,"AUS","357","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Aaron Rai",18554,"ENG","363","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ashley Hall",7708,"AUS","368","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Y.E. Yang",6629,"KOR","381","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Darius Van Driel",13374,"NED","384","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Stephen Gallacher",5647,"SCO","396","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Matthew Griffin",9780,"AUS","409","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Robert Dinwiddie",11894,"ENG","411","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Matthew Millar",7449,"AUS","412","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Thitiphun Chuayprakong",14129,"THA","429","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Borja Virto Astudillo",17313,"ESP","438","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ryan Evans",19030,"ENG","443","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Wade Ormsby",7532,"AUS","468","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Gary King",17835,"ENG","471","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Panuphol Pittayarat",14133,"THA","472","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Natipong Srithong",8531,"THA","478","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ben Evans",10151,"ENG","484","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Terry Pilkadaris",6334,"AUS","487","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Rohan Blizard",11838,"AUS","492","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Josh Geary",9903,"NZL","494","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Kurt Barnes",7701,"AUS","495","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Scott Strange",7478,"AUS","497","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Curtis Luck(Am)",16842,"AUS","503","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Brett Coletta(Am)",18177,"AUS","504","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jarryd Felton",16835,"AUS","508","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Aron Price",9772,"AUS","519","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jordan Zunic",15170,"AUS","520","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Sam Brazel",8390,"AUS","521","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Andrew Dodt",8364,"AUS","522","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Simon Khan",6686,"ENG","552","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Michael Jonzon",5218,"SWE","558","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Maxwell McCardle",13674,"AUS","563","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Daniel Nisbet",11823,"AUS","577","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Matt Ford",10139,"ENG","592","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ben Eccles",17163,"AUS","604","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Daniel Fox",10112,"AUS","607","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Sangyeop Lee",15062,"KOR","620","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Junsung Kim",15343,"KOR","658","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Oliver Farr",13318,"WAL","673","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"James Nitties",7388,"AUS","680","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Matthew Giles",9783,"AUS","685","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Brett Drewitt",15162,"AUS","698","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Tom Lewis",15164,"ENG","711","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Hyowon Park",12277,"KOR","714","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Mikael Lundberg",4718,"SWE","721","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Lincoln Tighe",16980,"AUS","722","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Michael Wright",6535,"AUS","731","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ross Kellett",13235,"SCO","739","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"David Klein",15851,"GER","742","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Scott Arnold",11810,"AUS","746","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Aaron Pike",10828,"AUS","755","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Stephen Dartnall",11843,"AUS","776","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Kalem Richardson",15897,"AUS","782","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Todd Sinnott",16918,"AUS","782","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Geoff Drakeford",15848,"AUS","816","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Stephen Leaney",4889,"AUS","829","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Rory Bourke",15845,"AUS","840","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jake McLeod",17146,"AUS","841","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Kristopher R Mueck",15933,"AUS","845","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Samuel Cyr",15975,"USA","850","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Michael Sim",7681,"AUS","854","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Niclas Johansson",14893,"SWE","859","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Steve Webster",5667,"ENG","869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Michael Long",4865,"NZL","876","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Anthony Houston",15924,"AUS","880","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Stuart Manley",8222,"WAL","888","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Charlie Ford",14400,"ENG","895","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Brett Rankin",11820,"AUS","909","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Robert Allenby",4949,"AUS","921","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jason Norris",5769,"AUS","927","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"David McKenzie",4912,"AUS","933","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Peter Lonard",4122,"AUS","941","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Brad Moules",17917,"AUS","956","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Dimi Papadatos",15168,"AUS","966","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Deyen Lawson",15885,"AUS","971","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"James Gibellini",17788,"AUS","999","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Byungjun Kim",15532,"KOR","1004","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Mark Brown",3486,"NZL","1119","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ben Campbell",14373,"NZL","1126","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Paul Waring",12426,"ENG","1138","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Edoardo Molinari",7033,"ITA","1152","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jack Wilson",15946,"AUS","1168","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Mathew Goggin",3756,"AUS","1170","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Neven Basic",7700,"AUS","1214","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Mitchell Brown",8385,"AUS","1249","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jarrod Lyle",8392,"AUS","1251","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Cameron Davis",17786,"AUS","1266","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Chris Gaunt",6251,"AUS","1280","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Josh Younger",11828,"AUS","1295","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Anthony Summers",5233,"AUS","1328","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ed Stedman",6271,"AUS","1341","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Richard Finch",6636,"ENG","1356","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Borja Etchart",12155,"ESP","1359","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Callan O'Reilly",16968,"AUS","1414","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jin Jeong",13573,"KOR","1430","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Darren Beck",9905,"AUS","1442","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"David Gleeson",5898,"AUS","1447","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Scott Laycock",3472,"AUS","1455","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Anthony Brown",7086,"AUS","1464","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Adam Stephens",11814,"AUS","1464","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ryan Lynch",12830,"AUS","1500","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Taylor MacDonald",17144,"AUS","1552","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Julian Suri",18059,"USA","1574","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ryan McCarthy",15165,"AUS","1608","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Bradley Neil",18737,"SCO","1776","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Harry Bateman",16921,"NZL","1815","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ryan Haller",7057,"AUS","1843","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Marcus Both",7087,"AUS","1861","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Craig Parry",637,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Peter O'Malley",660,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Martin Pettigrew",6121,"NZL","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Simon Dyson",6436,"ENG","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Daniel Popovic",11824,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Matt Docking",15290,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Zhu Wei-yu",15312,"CHN","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jamie Sadlowski",15750,"CAN","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Paul Hayden",15921,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Jamie Hook",17143,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Ryan Laird",17166,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Cory Crawford",17785,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Tom Power Horan",18096,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Christopher Akers",19408,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Nathan Buzimkic",21558,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
-"Maverick Antcliff",22815,"AUS","1869","Australian PGA Championship",6465,2016-12-04,"AUS Logo2","European Tour",NA,2016-11-29
+"Patrick Reed",14838,"USA","8","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Danny Willett",12920,"ENG","12","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Justin Rose",6093,"ENG","15","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Rafael Cabrera Bello",7457,"ESP","33","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Thongchai Jaidee",5973,"THA","52","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Scott Hend",1888,"AUS","60","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jeunghun Wang",15366,"KOR","62","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Kiradech Aphibarnrat",12321,"THA","80","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jordan L Smith",18586,"ENG","116","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Marcus Fraser",7070,"AUS","121","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Tommy Fleetwood",12294,"ENG","122","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Gregory Bourdy",7932,"FRA","128","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Bernd Ritthammer",12521,"GER","129","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Dylan Frittelli",11955,"RSA","150","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Miguel Tabuena",15274,"PHI","151","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Julien Quesne",9131,"FRA","154","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Nacho Elvira",12988,"ESP","155","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Soomin Lee",14614,"KOR","161","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Pablo Larrazabal",9133,"ESP","168","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Ian Poulter",1435,"ENG","171","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Gaganjeet Bhullar",10766,"IND","172","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Sam Walker",7157,"ENG","173","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Chan Shih-chang",9698,"TPE","174","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jorge Campillo",14016,"ESP","176","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Alexander Bjork",14775,"SWE","179","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"David Lipsky",15980,"USA","180","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Thomas Detry",14181,"BEL","195","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Dou Ze-cheng",16757,"CHN","198","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Benjamin Hebert",12213,"FRA","204","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Mikko Ilonen",6929,"FIN","210","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Paul Peterson",16341,"USA","213","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"S.S.P. Chawrasia",7040,"IND","215","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Matthieu Pavon",19960,"FRA","221","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Robert Rock",7895,"ENG","223","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"David Howell",5718,"ENG","228","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Romain Wattel",13165,"FRA","230","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Miguel A Jimenez",3596,"ESP","231","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Pavit Tangkamolprasert",11958,"THA","240","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Graeme Storm",3323,"ENG","243","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Thanyakorn Khrongpha",13684,"THA","253","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jason Scrivener",12734,"AUS","262","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Renato Paratore",16549,"ITA","264","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Pep Angles Ros",19634,"ESP","266","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Chris Paisley",14844,"ENG","267","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Damien Perrier",12661,"FRA","271","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Shaun Norris",7677,"RSA","272","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Lin Wen-Tang",6433,"TPE","274","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Brett Rumford",6255,"AUS","275","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Masahiro Kawamura",13530,"JPN","276","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Carlos Pigem",13885,"ESP","281","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Marcus Armitage",17813,"ENG","283","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Prom Meesawat",7109,"THA","290","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Paul Dunne",18736,"IRL","290","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Haydn Porteous",15866,"RSA","292","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Peter Uihlein",11357,"USA","297","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Danthai Boonma",16424,"THA","304","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Danny Chia",6386,"MAS","309","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Andrew Dodt",8364,"AUS","314","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Joel Stalter",17722,"FRA","324","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Lu Wei-chih",8170,"TPE","326","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Liang Wen-chong",6470,"CHN","329","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Nicholas Fung",12889,"MAS","331","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Duncan Stewart",12472,"SCO","334","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Chris Hanson",12295,"ENG","344","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"David Drysdale",6867,"SCO","349","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Sebastien Gros",16650,"FRA","363","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Stephen Gallacher",5647,"SCO","364","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Lasse Jensen",10170,"DEN","366","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Nino Bertasio",13013,"ITA","368","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Keith Horne",6165,"RSA","372","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Justin Walters",8045,"RSA","378","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jbe' Kruger",11978,"RSA","379","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Magnus A Carlsson",7823,"SWE","380","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Adilson da Silva",5239,"BRA","384","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Thitiphun Chuayprakong",14129,"THA","398","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Rashid Khan",12668,"IND","413","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Scott Henry",12468,"SCO","415","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Chapchai Nirat",9985,"THA","416","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Gregory Havret",6239,"FRA","421","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Angelo Que",7438,"PHI","425","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jyoti Randhawa",5771,"IND","431","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Chiragh Kumar",10764,"IND","435","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Siddikur Rahman",13766,"BAN","446","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Daniel Brooks",12897,"ENG","448","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Rahil Gangjee",7038,"IND","469","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jazz Janewattananond",14368,"THA","470","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Panuphol Pittayarat",14133,"THA","475","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Daniel Im",12971,"USA","477","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Sam Brazel",8390,"AUS","480","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Natipong Srithong",8531,"THA","482","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Wade Ormsby",7532,"AUS","485","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Terry Pilkadaris",6334,"AUS","498","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Lionel Weber",15513,"FRA","505","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Juvic Pagunsan",8615,"PHI","522","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Chinnarat Phadungsil",9984,"THA","524","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Scott Barr",5870,"AUS","547","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Antonio Lascuna",6472,"PHI","548","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Steven Tiley",9311,"ENG","555","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Hung Chien-Yao",11738,"TPE","570","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Richard T Lee",12413,"CAN","643","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Javier Colomo ",12605,"ESP","647","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Jason Knutzon",7231,"USA","648","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Himmat Rai",11782,"IND","665","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Lee Chieh-po",16563,"TPE","670","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Mardan Mamat",5685,"SIN","674","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Brett Munson",14877,"USA","686","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Shiv Kapur",9553,"IND","703","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Mithun Perera",14261,"SRI","728","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Kalem Richardson",15897,"AUS","788","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Pariya Junhasavasdikul",7860,"THA","872","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Arjun Atwal",5701,"IND","1052","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Chawalit Plaphol",5745,"THA","1151","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Paul Waring",12426,"ENG","1161","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Edoardo Molinari",7033,"ITA","1164","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Unho Park",7145,"AUS","1209","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Adam Groom",7394,"AUS","1327","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Steve Lewton",12838,"ENG","1381","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Rich Beem",6301,"USA","1435","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Zhang Lian-Wei",3654,"CHN","1871","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Simon Dyson",6436,"ENG","1871","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"James Stewart",7112,"HKG","1871","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Nathan Kimsey",18027,"ENG","1871","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Terrance Ng(Am)",18899,"HKG","1871","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
+"Yin ho Yue(Am)",22841,"HKG","1871","UBS Hong Kong Open",6471,2016-12-11,"Asian Tour","European Tour",NA,2016-12-07
