@@ -64,6 +64,7 @@ Import_Tourney_Results <- function(ID)  {
         "Korean Golf Tour 2" = "Korean Golf Tour",
         "oneAsia" = "OneAsia Tour",
         "PGATOUR_Australasia" = "PGA Tour Australasia",
+        "AUS Logo2" = "PGA Tour Australasia",
         "european_tour" = "European Tour",
         "european_challenge" = "European Challenge Tour",
         "webcom" = "Web.com Tour",
@@ -75,7 +76,8 @@ Import_Tourney_Results <- function(ID)  {
         "EPT Logo" = "EuroPro Tour" ,
         "NGL Logo" = "Nordic Golf League",
         "PGT Logo" = "ProGolf Tour",
-        "Alps Golf Tour" = "Alps Golf Tour"
+        "Alps Golf Tour" = "Alps Golf Tour",
+        "MGT Logo 2" = "MENA Tour"
       ),
       warn_missing = FALSE
     )
