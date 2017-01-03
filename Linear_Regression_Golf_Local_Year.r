@@ -18,8 +18,8 @@ library(dplyr)
 
 ### Primary Variables to Adjust ####
 
-Split_Date <- Sys.Date()
-  #as.Date("2010-01-01")   # This regression will do the XX years prior to this date
+Split_Date <- #Sys.Date()
+  as.Date("2016-12-14")   # This regression will do the XX years prior to this date
 Split_Type <-
   "Before"                 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
 
