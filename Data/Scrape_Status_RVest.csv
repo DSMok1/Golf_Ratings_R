@@ -2998,67 +2998,121 @@
 6449,"Tournament Results Collected",2016-12-05,"NSW Open Championship ",2016-11-13
 6450,"Tournament Results Collected",2016-12-05,"Resorts World Manila Masters",2016-11-13
 6451,"Tournament Results Collected",2016-12-05," Caido Korea Tour Championship",2016-11-13
-6452,"Tournament Results Collected",2016-12-07,"The RSM Classic ",2016-11-20
-6453,"Tournament Results Collected",2016-12-07,"111 VISA Open de Argentina ",2016-11-20
-6454,"Tournament Results Collected",2016-12-07,"Zhuhai Hengqin Phoenix Tree Open",2016-11-20
-6455,"Tournament Results Collected",2016-12-07,"DP World Tour Championship",2016-11-20
-6456,"Tournament Results Collected",2016-12-07,"Dunlop Phoenix Tournament",2016-11-20
-6457,"Tournament Results Collected",2016-12-07,"Emirates Australian Open ",2016-11-20
-6458,"Tournament Results Collected",2016-12-07,"BANK BRI-JCB Indonesia Open",2016-11-20
-6459,"Tournament Results Collected",2016-12-07,"Buick Open",2016-11-27
-6460,"Tournament Results Collected",2016-12-07,"Casio World Open",2016-11-27
-6461,"Tournament ID Not Valid",2016-12-07,NA,NA
-6462,"Tournament Results Collected",2016-12-07,"Combiphar Golf Invitational",2016-11-27
-6463,"Tournament Results Collected",2016-12-07,"Lion of Africa Cape Town Open presented by Sun International",2016-11-27
-6464,"Tournament Results Collected",2016-12-07,"Alfred Dunhill Championship",2016-12-04
-6465,"Tournament Results Collected",2016-12-07,"Australian PGA Championship",2016-12-04
-6466,"Tournament Results Collected",2016-12-07,"Golf Nippon Series JT Cup",2016-12-04
-6467,"Tournament Results Collected",2016-12-07,"Hero World Challenge",2016-12-04
-6468,"Tournament Results Collected",2016-12-07,"Panasonic Open India",2016-12-04
-6469,"Tournament Results Collected",2016-12-07,"Shell Championship",2016-12-04
-6470,"Tournament Results Collected",2016-12-07,"Thongchai Jaidee Foundation",2016-12-04
-6471,"Upcoming Tournament Field Collected",2016-12-07,"UBS Hong Kong Open",2016-12-11
-6472,"Tournament ID Not Valid",2016-12-07,NA,NA
-6473,"Tournament ID Not Valid",2016-12-07,NA,NA
-6474,"Tournament ID Not Valid",2016-12-07,NA,NA
-6475,"Tournament ID Not Valid",2016-12-07,NA,NA
-6476,"Tournament ID Not Valid",2016-12-07,NA,NA
-6477,"Tournament ID Not Valid",2016-12-07,NA,NA
-6478,"Tournament ID Not Valid",2016-12-07,NA,NA
-6479,"Tournament ID Not Valid",2016-12-07,NA,NA
-6480,"Tournament ID Not Valid",2016-12-07,NA,NA
-6481,"Tournament ID Not Valid",2016-12-07,NA,NA
-6482,"Tournament ID Not Valid",2016-12-07,NA,NA
-6483,"Tournament ID Not Valid",2016-12-07,NA,NA
-6484,"Tournament ID Not Valid",2016-12-07,NA,NA
-6485,"Tournament ID Not Valid",2016-12-07,NA,NA
-6486,"Tournament ID Not Valid",2016-12-07,NA,NA
-6487,"Tournament ID Not Valid",2016-12-07,NA,NA
-6488,"Tournament ID Not Valid",2016-12-07,NA,NA
-6489,"Tournament ID Not Valid",2016-12-07,NA,NA
-6490,"Tournament ID Not Valid",2016-12-07,NA,NA
-6491,"Tournament ID Not Valid",2016-12-07,NA,NA
-6492,"Tournament ID Not Valid",2016-12-07,NA,NA
-6493,"Tournament ID Not Valid",2016-12-07,NA,NA
-6494,"Tournament ID Not Valid",2016-12-07,NA,NA
-6495,"Tournament ID Not Valid",2016-12-07,NA,NA
-6496,"Tournament ID Not Valid",2016-12-07,NA,NA
-6497,"Tournament ID Not Valid",2016-12-07,NA,NA
-6498,"Tournament ID Not Valid",2016-12-07,NA,NA
-6499,"Tournament ID Not Valid",2016-12-07,NA,NA
-6500,"Tournament ID Not Valid",2016-12-07,NA,NA
-6501,"Tournament ID Not Valid",2016-12-07,NA,NA
-6502,"Tournament ID Not Valid",2016-12-07,NA,NA
-6503,"Tournament ID Not Valid",2016-12-07,NA,NA
-6504,"Tournament ID Not Valid",2016-12-07,NA,NA
-6505,"Tournament ID Not Valid",2016-12-07,NA,NA
-6506,"Tournament ID Not Valid",2016-12-07,NA,NA
-6507,"Tournament ID Not Valid",2016-12-07,NA,NA
-6508,"Tournament ID Not Valid",2016-12-07,NA,NA
-6509,"Tournament ID Not Valid",2016-12-07,NA,NA
-6510,"Tournament ID Not Valid",2016-12-07,NA,NA
-6511,"Tournament ID Not Valid",2016-12-07,NA,NA
-6512,"Tournament ID Not Valid",2016-12-07,NA,NA
-6513,"Tournament ID Not Valid",2016-12-07,NA,NA
-6514,"Tournament ID Not Valid",2016-12-07,NA,NA
-6515,"Tournament ID Not Valid",2016-12-07,NA,NA
+6452,"Tournament Results Collected",2017-01-03,"The RSM Classic ",2016-11-20
+6453,"Tournament Results Collected",2017-01-03,"111 VISA Open de Argentina ",2016-11-20
+6454,"Tournament Results Collected",2017-01-03,"Zhuhai Hengqin Phoenix Tree Open",2016-11-20
+6455,"Tournament Results Collected",2017-01-03,"DP World Tour Championship",2016-11-20
+6456,"Tournament Results Collected",2017-01-03,"Dunlop Phoenix Tournament",2016-11-20
+6457,"Tournament Results Collected",2017-01-03,"Emirates Australian Open ",2016-11-20
+6458,"Tournament Results Collected",2017-01-03,"BANK BRI-JCB Indonesia Open",2016-11-20
+6459,"Tournament Results Collected",2017-01-03,"Buick Open",2016-11-27
+6460,"Tournament Results Collected",2017-01-03,"Casio World Open",2016-11-27
+6461,"Tournament ID Not Valid",2017-01-03,NA,NA
+6462,"Tournament Results Collected",2017-01-03,"Combiphar Golf Invitational",2016-11-27
+6463,"Tournament Results Collected",2017-01-03,"Lion of Africa Cape Town Open presented by Sun International",2016-11-27
+6464,"Tournament Results Collected",2017-01-03,"Alfred Dunhill Championship",2016-12-04
+6465,"Tournament Results Collected",2017-01-03,"Australian PGA Championship",2016-12-04
+6466,"Tournament Results Collected",2017-01-03,"Golf Nippon Series JT Cup",2016-12-04
+6467,"Tournament Results Collected",2017-01-03,"Hero World Challenge",2016-12-04
+6468,"Tournament Results Collected",2017-01-03,"Panasonic Open India",2016-12-04
+6469,"Tournament Results Collected",2017-01-03,"Shell Championship",2016-12-04
+6470,"Tournament Results Collected",2017-01-03,"Thongchai Jaidee Foundation",2016-12-04
+6471,"Tournament Results Collected",2017-01-03,"UBS Hong Kong Open",2016-12-11
+6472,"Tournament ID Not Valid",2017-01-03,NA,NA
+6473,"Tournament Results Collected",2017-01-03,"Boonchu Ruangkit Championship",2016-12-25
+6474,"No Player Information for this tournament available",2017-01-03,"SBS Tournament of Champions ",2017-01-08
+6475,"Tournament ID Not Valid",2017-01-03,NA,NA
+6476,"Tournament ID Not Valid",2017-01-03,NA,NA
+6477,"Tournament ID Not Valid",2017-01-03,NA,NA
+6478,"Tournament ID Not Valid",2017-01-03,NA,NA
+6479,"Tournament ID Not Valid",2017-01-03,NA,NA
+6480,"Tournament ID Not Valid",2017-01-03,NA,NA
+6481,"Tournament ID Not Valid",2017-01-03,NA,NA
+6482,"Tournament ID Not Valid",2017-01-03,NA,NA
+6483,"Tournament ID Not Valid",2017-01-03,NA,NA
+6484,"Tournament ID Not Valid",2017-01-03,NA,NA
+6485,"Tournament ID Not Valid",2017-01-03,NA,NA
+6486,"Tournament ID Not Valid",2017-01-03,NA,NA
+6487,"Tournament ID Not Valid",2017-01-03,NA,NA
+6488,"Tournament ID Not Valid",2017-01-03,NA,NA
+6489,"Tournament ID Not Valid",2017-01-03,NA,NA
+6490,"Tournament ID Not Valid",2017-01-03,NA,NA
+6491,"Tournament ID Not Valid",2017-01-03,NA,NA
+6492,"Tournament ID Not Valid",2017-01-03,NA,NA
+6493,"Tournament ID Not Valid",2017-01-03,NA,NA
+6494,"Tournament ID Not Valid",2017-01-03,NA,NA
+6495,"Tournament ID Not Valid",2017-01-03,NA,NA
+6496,"Tournament ID Not Valid",2017-01-03,NA,NA
+6497,"Tournament ID Not Valid",2017-01-03,NA,NA
+6498,"Tournament ID Not Valid",2017-01-03,NA,NA
+6499,"Tournament ID Not Valid",2017-01-03,NA,NA
+6500,"Tournament ID Not Valid",2017-01-03,NA,NA
+6501,"Tournament ID Not Valid",2017-01-03,NA,NA
+6502,"Tournament ID Not Valid",2017-01-03,NA,NA
+6503,"Tournament ID Not Valid",2017-01-03,NA,NA
+6504,"Tournament ID Not Valid",2017-01-03,NA,NA
+6505,"Tournament ID Not Valid",2017-01-03,NA,NA
+6506,"Tournament ID Not Valid",2017-01-03,NA,NA
+6507,"Tournament ID Not Valid",2017-01-03,NA,NA
+6508,"Tournament ID Not Valid",2017-01-03,NA,NA
+6509,"Tournament ID Not Valid",2017-01-03,NA,NA
+6510,"Tournament ID Not Valid",2017-01-03,NA,NA
+6511,"Tournament ID Not Valid",2017-01-03,NA,NA
+6512,"Tournament ID Not Valid",2017-01-03,NA,NA
+6513,"Tournament ID Not Valid",2017-01-03,NA,NA
+6514,"Tournament ID Not Valid",2017-01-03,NA,NA
+6515,"Tournament ID Not Valid",2017-01-03,NA,NA
+6516,"Tournament ID Not Valid",2017-01-03,NA,NA
+6517,"Tournament ID Not Valid",2017-01-03,NA,NA
+6518,"Tournament ID Not Valid",2017-01-03,NA,NA
+6519,"Tournament ID Not Valid",2017-01-03,NA,NA
+6520,"Tournament ID Not Valid",2017-01-03,NA,NA
+6521,"Tournament ID Not Valid",2017-01-03,NA,NA
+6522,"Tournament ID Not Valid",2017-01-03,NA,NA
+6523,"Tournament ID Not Valid",2017-01-03,NA,NA
+6524,"Tournament ID Not Valid",2017-01-03,NA,NA
+6525,"Tournament ID Not Valid",2017-01-03,NA,NA
+6526,"Tournament ID Not Valid",2017-01-03,NA,NA
+6527,"Tournament ID Not Valid",2017-01-03,NA,NA
+6528,"Tournament ID Not Valid",2017-01-03,NA,NA
+6529,"Tournament ID Not Valid",2017-01-03,NA,NA
+6530,"Tournament ID Not Valid",2017-01-03,NA,NA
+6531,"Tournament ID Not Valid",2017-01-03,NA,NA
+6532,"Tournament ID Not Valid",2017-01-03,NA,NA
+6533,"Tournament ID Not Valid",2017-01-03,NA,NA
+6534,"Tournament ID Not Valid",2017-01-03,NA,NA
+6535,"Tournament ID Not Valid",2017-01-03,NA,NA
+6536,"Tournament ID Not Valid",2017-01-03,NA,NA
+6537,"Tournament ID Not Valid",2017-01-03,NA,NA
+6538,"Tournament ID Not Valid",2017-01-03,NA,NA
+6539,"Tournament ID Not Valid",2017-01-03,NA,NA
+6540,"Tournament ID Not Valid",2017-01-03,NA,NA
+6541,"Tournament ID Not Valid",2017-01-03,NA,NA
+6542,"Tournament ID Not Valid",2017-01-03,NA,NA
+6543,"Tournament ID Not Valid",2017-01-03,NA,NA
+6544,"Tournament ID Not Valid",2017-01-03,NA,NA
+6545,"Tournament ID Not Valid",2017-01-03,NA,NA
+6546,"Tournament ID Not Valid",2017-01-03,NA,NA
+6547,"Tournament ID Not Valid",2017-01-03,NA,NA
+6548,"Tournament ID Not Valid",2017-01-03,NA,NA
+6549,"Tournament ID Not Valid",2017-01-03,NA,NA
+6550,"Tournament ID Not Valid",2017-01-03,NA,NA
+6551,"Tournament ID Not Valid",2017-01-03,NA,NA
+6552,"Tournament ID Not Valid",2017-01-03,NA,NA
+6553,"Tournament ID Not Valid",2017-01-03,NA,NA
+6554,"Tournament ID Not Valid",2017-01-03,NA,NA
+6555,"Tournament ID Not Valid",2017-01-03,NA,NA
+6556,"Tournament ID Not Valid",2017-01-03,NA,NA
+6557,"Tournament ID Not Valid",2017-01-03,NA,NA
+6558,"Tournament ID Not Valid",2017-01-03,NA,NA
+6559,"Tournament ID Not Valid",2017-01-03,NA,NA
+6560,"Tournament ID Not Valid",2017-01-03,NA,NA
+6561,"Tournament ID Not Valid",2017-01-03,NA,NA
+6562,"Tournament ID Not Valid",2017-01-03,NA,NA
+6563,"Tournament ID Not Valid",2017-01-03,NA,NA
+6564,"Tournament ID Not Valid",2017-01-03,NA,NA
+6565,"Tournament ID Not Valid",2017-01-03,NA,NA
+6566,"Tournament ID Not Valid",2017-01-03,NA,NA
+6567,"Tournament ID Not Valid",2017-01-03,NA,NA
+6568,"Tournament ID Not Valid",2017-01-03,NA,NA
+6569,"Tournament ID Not Valid",2017-01-03,NA,NA
