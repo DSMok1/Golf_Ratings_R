@@ -19,7 +19,7 @@ library(dplyr)
 ### Primary Variables to Adjust ####
 
 Split_Date <-  # Sys.Date()
-   as.Date("2010-01-01")   # This regression will do the XX years prior to this date
+   as.Date("2010-01-10")   # This regression will do the XX years prior to this date
 Split_Type <-
   "Before"                 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
 
@@ -106,12 +106,12 @@ Interval_After <-
 
 Target_Subset <- if (Split_Type == "Before") {
   subset(Results, (
-    Event_Date < Split_Date &
-      Event_Date >= as.Date(Split_Date - Interval_Before)
+    Event_Date < Rating_Date &
+      Event_Date >= as.Date(Rating_Date - Interval_Before)
   ))
 } else if (Split_Type == "After") {
-  subset(Results, (Event_Date >= Split_Date &
-                     Event_Date < as.Date(Split_Date + Interval_After)))
+  subset(Results, (Event_Date >= Rating_Date &
+                     Event_Date < as.Date(Rating_Date + Interval_After)))
 } else {
   "Error"
 }
@@ -125,10 +125,10 @@ Target_Subset <- if (Split_Type == "Before") {
 Target_Subset$Weight <- if (Split_Type == "Before") {
   (Exponential_Decay_Constant ^ (Target_Subset$Week_Delta))*10
 } else {
-  ifelse ((Target_Subset$Event_Date < as.Date(Split_Date + 88)),
+  ifelse ((Target_Subset$Event_Date < as.Date(Rating_Date + 88)),
           Step_Weights[1],ifelse((
-            Target_Subset$Event_Date >= as.Date(Split_Date + 88) &
-              Target_Subset$Event_Date < as.Date(Split_Date + 88 + 365)
+            Target_Subset$Event_Date >= as.Date(Rating_Date + 88) &
+              Target_Subset$Event_Date < as.Date(Rating_Date + 88 + 365)
           ),Step_Weights[2],Step_Weights[3]
           )
   )
@@ -155,8 +155,8 @@ Count_Rounds_Players <- function (Data) {
     merge(Data,Number_Rounds_Target,by = c("Player_ID"))
   
   # Number of Recent Rounds
-  Data_Recent <-   subset(Data, (Event_Date >= as.Date(Split_Date - 365)&
-                                            Event_Date <= as.Date(Split_Date + 365)))
+  Data_Recent <-   subset(Data, (Event_Date >= as.Date(Rating_Date - 365)&
+                                            Event_Date <= as.Date(Rating_Date + 365)))
   
   Player_ID_Group <- group_by(Data_Recent,Player_ID)
   Rounds_Last_Year <- summarise(Player_ID_Group,
@@ -284,8 +284,8 @@ remove(Player_ID_Group)
 # Recent Tour
 Player_Info_2 <-   subset(Player_Info, Tour_Name != "Major Championship" & 
                             Tour_Name != "WGC" & 
-                            Event_Date >= as.Date(Split_Date - 365) &
-                            Event_Date <= as.Date(Split_Date + 365))
+                            Event_Date >= as.Date(Rating_Date - 365) &
+                            Event_Date <= as.Date(Rating_Date + 365))
 Player_Info_2$Recent_Tour_Wt <- 0.90^Player_Info_2$Week_Delta 
 
 
@@ -597,7 +597,7 @@ Target_Results_Players <- merge(Target_Results_Players,OWGR_Players[c("Player_ID
 
 ### Rearrange and export results ####
 
-Target_Results_Players$Rating_Date <- Split_Date
+Target_Results_Players$Rating_Date <- Rating_Date
 
 if(Prev_Results_Available) {Target_Results_Players <-
   Target_Results_Players[,c("Rank",
