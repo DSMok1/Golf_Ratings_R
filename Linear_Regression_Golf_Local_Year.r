@@ -18,8 +18,8 @@ library(dplyr)
 
 ### Primary Variables to Adjust ####
 
-Split_Date <-  Sys.Date()
-   # as.Date("2017-01-04")   # This regression will do the XX years prior to this date
+Split_Date <-  # Sys.Date()
+   as.Date("2010-01-01")   # This regression will do the XX years prior to this date
 Split_Type <-
   "Before"                 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
 
@@ -566,8 +566,9 @@ Target_Results_Players$Rank <- rank(Target_Results_Players$Projected_Rating)
 
 ###  Get Previous Ratings and show delta ####
 
+Prev_Results_Available <- ifelse(file.exists(Previous_Ratings),TRUE,FALSE)
 
-Previous_Target_Results <- read.csv(file = Previous_Ratings)
+if(Prev_Results_Available) {Previous_Target_Results <- read.csv(file = Previous_Ratings)
 
 Previous_Target_Results <- Previous_Target_Results[,c("Player_ID","Projected_Rating","Rank")]
 
@@ -582,21 +583,23 @@ Target_Results_Players <-
 
 Target_Results_Players$Change <- Target_Results_Players$Projected_Rating - Target_Results_Players$Previous_Rating
 Target_Results_Players$Rank_Change <- Target_Results_Players$Rank - Target_Results_Players$Prev_Rank
+}
 
 
 ###  Import OWGR Ratings
 
+OWGR_Players <- read.csv(gzfile("Data/Player_OWGR_History.csv.gz")) %>%
+  mutate(Date = as.Date(OWGR_Rank_Date)) %>%
+  filter(Date < Rating_Date, Date > Prev_Rating_Date)
 
-OWGR_Players <- read.csv("Data/Player_OWGR_Ranking_RVest.csv")
-
-Target_Results_Players <- merge(Target_Results_Players,OWGR_Players[c("Player_ID","OWGR_Rank","Player_Avg_OWGR_Pts")],all.x = TRUE)
+Target_Results_Players <- merge(Target_Results_Players,OWGR_Players[c("Player_ID","OWGR_Rank")],all.x = TRUE)
 
 
 ### Rearrange and export results ####
 
 Target_Results_Players$Rating_Date <- Split_Date
 
-Target_Results_Players <-
+if(Prev_Results_Available) {Target_Results_Players <-
   Target_Results_Players[,c("Rank",
                             "OWGR_Rank",
                             "Player_Name",
@@ -613,7 +616,7 @@ Target_Results_Players <-
                             "Rounds_Player",
                             "Avg_SoS",
                             "Center_Wt",
-                            "Player_Avg_OWGR_Pts",
+                            # "Player_Avg_OWGR_Pts",
                             "Primary_Player",
                             "Country",
                             "Rounds_Last_Year",
@@ -625,7 +628,41 @@ Target_Results_Players <-
                             "Sample_Stdev",
                             "Expected_Stdev",
                             "Rating_Date"
-  )]
+  )]} else {
+    Target_Results_Players <-
+      Target_Results_Players[,c("Rank",
+                                "OWGR_Rank",
+                                "Player_Name",
+                                "Player_ID",
+                                "Projected_Rating",
+                                "Rating_StdErr",
+                                "Projected_Stdev",
+                                "Weight_Sum",
+                                "Total_Weight",
+                                "Rounds_Player",
+                                "Avg_SoS",
+                                "Center_Wt",
+                                # "Player_Avg_OWGR_Pts",
+                                "Primary_Player",
+                                "Country",
+                                "Rounds_Last_Year",
+                                "Recent_Tour",
+                                "Common_Tour",
+                                "estimate",
+                                "std.error",
+                                "p.value",
+                                "Sample_Stdev",
+                                "Expected_Stdev",
+                                "Rating_Date"
+      )]
+    
+    
+  }
+
+
+
+
+
 
 Target_Results_Players <-
   Target_Results_Players[order(Target_Results_Players$Rank),]
