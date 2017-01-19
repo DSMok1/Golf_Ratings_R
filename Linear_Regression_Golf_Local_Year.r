@@ -16,12 +16,18 @@ library(stringr)
 library(dplyr)
 
 
-### Primary Variables to Adjust ####
+# ### Primary Variables to Adjust ####
+# 
+# Input_Date <-  # Sys.Date()
+#    as.Date("2010-03-29")   # This regression will do the XX years prior to this date
+# Split_Type <-
+#   "Before"                 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
+# 
 
-Split_Date <-  # Sys.Date()
-   as.Date("2010-01-10")   # This regression will do the XX years prior to this date
-Split_Type <-
-  "Before"                 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
+
+Golf_Ratings_Regression <- function(Split_Date = Sys.Date(),Split_Type = "Before"){
+  
+Split_Date <- as.Date(Split_Date)
 
 Rating_Date <- Split_Date + (4 - wday(Split_Date)) + 
   ifelse(wday(Split_Date)>4,7,0)      # Coming Wednesday
@@ -44,6 +50,10 @@ Minimum_Player_In_Round <-
 Save_Location <-  paste0("Output/Archive/Golf_Ratings_",Rating_Date,".csv")
 
 Previous_Ratings <-   paste0("Output/Archive/Golf_Ratings_",Prev_Rating_Date,".csv")
+
+
+
+
 
 ### Import from CSV File ######
 
@@ -700,5 +710,7 @@ if (Split_Date %in% c(Sys.Date(),Sys.Date()-1)) {
 }
 
 # write.csv(Target_Subset, file = "~/ETC/Sports/Golf/Target_Subset_Before_2010_0.98.csv" , row.names = FALSE)
+}
+
 
 
