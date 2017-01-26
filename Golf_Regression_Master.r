@@ -10,8 +10,8 @@ Source_Regression <- function () {if (!exists("Golf_Ratings_Regression", mode = 
 ### Primary Variables to Adjust ####
 
 First_Date <-  # Sys.Date()
-  as.Date("2010-12-31")   # This regression will do the XX years prior to this date
-Last_Date <- as.Date("2011-12-31")
+  as.Date("2012-12-31")   # This regression will do the XX years prior to this date
+Last_Date <- as.Date("2013-12-31")
 
 Split_Type <-  "Before"    
 # "Before" or "After" .. This also controls weighting type (exponential for before, Step after)
