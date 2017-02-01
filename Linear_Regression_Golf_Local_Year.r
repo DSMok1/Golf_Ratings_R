@@ -29,8 +29,7 @@ Golf_Ratings_Regression <- function(Split_Date = Sys.Date(),Split_Type = "Before
   
 Split_Date <- as.Date(Split_Date)
 
-Rating_Date <- Split_Date + (4 - wday(Split_Date)) + 
-  ifelse(wday(Split_Date)>4,7,0)      # Coming Wednesday
+Rating_Date <- Split_Date + (4 - wday(Split_Date))   # Wednesday of the current week
 
 Prev_Rating_Date <- Rating_Date -7         # Last Wednesday
 
@@ -52,7 +51,8 @@ Save_Location <-  paste0("Output/Archive/Golf_Ratings_",Rating_Date,".csv")
 Previous_Ratings <-   paste0("Output/Archive/Golf_Ratings_",Prev_Rating_Date,".csv")
 
 
-
+# Output the Rating_Date
+cat("The current rating is for the date", format(Rating_Date, "%Y-%m-%d"),".\n")
 
 
 ### Import from CSV File ######
@@ -340,7 +340,7 @@ BigLM_Golf_Regression <- function (Golf_Data) {
   
   library(biglm)
   
-  chunksize <- 5000                           #Set Chunk size
+  chunksize <- 1000                           #Set Chunk size
   length_Target <-
     NROW(Golf_Data)           #Get length of the dataset
   
@@ -689,7 +689,7 @@ if (Split_Date %in% c(Sys.Date(),Sys.Date()-1)) {
   Save_Location_Web_Table <-
     "Output/Golf_Ratings_Current_Web_Table.csv"
   
-  Website_Results_Table <-
+  if(Prev_Results_Available){Website_Results_Table <-
     Target_Results_Players[,c("Rank",
                               "OWGR_Rank",
                               "Player_Name",
@@ -701,7 +701,17 @@ if (Split_Date %in% c(Sys.Date(),Sys.Date()-1)) {
                               "Change",
                               "Rounds_Last_Year",
                               "Recent_Tour"
-    )]
+    )] } else{
+      Website_Results_Table <-
+        Target_Results_Players[,c("Rank",
+                                  "OWGR_Rank",
+                                  "Player_Name",
+                                  "Projected_Rating",
+                                  "Projected_Stdev",
+                                  "Rounds_Last_Year",
+                                  "Recent_Tour"
+        )] 
+    }
   
   write.csv(Target_Results_Players, file = Save_Location_Current, row.names = FALSE)
   
