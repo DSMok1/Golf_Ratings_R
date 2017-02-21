@@ -1,156 +1,246 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Jason Day",9771,"AUS","1","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Dustin Johnson",12422,"USA","4","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jordan Spieth",14636,"USA","6","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Patrick Reed",14838,"USA","10","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Justin Rose",6093,"ENG","12","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Matt Kuchar",6169,"USA","21","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Phil Mickelson",1547,"USA","22","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jimmy Walker",7293,"USA","23","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brandt Snedeker",8820,"USA","27","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"J.B. Holmes",7959,"USA","32","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Kevin Chappell",13305,"USA","35","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Scott Piercy",7899,"USA","36","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jim Furyk",2881,"USA","41","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jon Rahm",19195,"ESP","42","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Gary Woodland",12577,"USA","45","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"William McGirt",12477,"USA","47","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Kevin Kisner",11328,"USA","48","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Shane Lowry",13900,"IRL","53","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Webb Simpson",11049,"USA","56","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Siwoo Kim",14609,"KOR","59","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"James Hahn",11374,"USA","71","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Charley Hoffman",5768,"USA","72","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Pat Perez",6762,"USA","73","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Tony Finau",11676,"USA","75","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Daniel Summerhays",12424,"USA","78","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Chris Kirk",12423,"USA","80","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Danny Lee",11826,"NZL","82","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Roberto Castro",12643,"USA","83","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Sean O'Hair",7626,"USA","84","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ryan Palmer",7820,"USA","86","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jim Herman",12846,"USA","88","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Luke Donald",4163,"ENG","97","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Andrew Johnston",14666,"ENG","98","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Steve Stricker",4818,"USA","103","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jason Kokrak",12337,"USA","104","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Adam Hadwin",13965,"CAN","105","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Robert Streb",14852,"USA","106","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"J.J Spaun",17536,"USA","111","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"C.T. Pan",15475,"TPE","114","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Martin Laird",9586,"SCO","115","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Mackenzie Hughes",15556,"CAN","116","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Chez Reavie",7961,"USA","118","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Cameron Smith",15856,"AUS","119","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Smylie Kaufman",18631,"USA","122","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Rod Pampling",5668,"AUS","129","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Billy Hurley III",11046,"USA","131","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Kevin Streelman",8480,"USA","132","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Bryson DeChambeau",19841,"USA","136","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Grayson Murray",14655,"USA","141","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jerry Kelly",5151,"USA","145","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Padraig Harrington",5716,"IRL","146","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brian Stuard",13022,"USA","148","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Vaughn Taylor",6930,"USA","149","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Matt Jones",8605,"AUS","158","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Kyle Reifers",11329,"USA","160","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"John Senden",5207,"AUS","163","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Troy Merritt",13367,"USA","178","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"David Hearn",7340,"CAN","180","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Alex Cejka",4425,"GER","182","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ben Martin",14007,"USA","185","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"K.J. Choi",1804,"KOR","189","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Cody Gribble",17508,"USA","193","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Sunghoon Kang",7881,"KOR","194","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Geoff Ogilvy",5698,"AUS","197","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Derek Fathauer",12689,"USA","199","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Bryce Molder",7292,"USA","203","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Vijay Singh",653,"FIJ","210","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Michael Thompson",12946,"USA","212","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Robert Garrigus",6789,"USA","216","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Dominic Bozzelli",17564,"USA","220","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Richy Werenski",19364,"USA","222","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jonas Blixt",8182,"SWE","224","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Scott Brown",11330,"USA","226","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Tyrone van Aswegen",9913,"RSA","233","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Stewart Cink",5665,"USA","236","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Cameron Tringale",14013,"USA","239","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ricky Barnes",6846,"USA","240","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jason Bohn",6462,"USA","243","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Martin Flores",10535,"USA","245","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Greg Owen",5723,"ENG","251","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ryan Brehm",10423,"USA","252","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Andrew Loupe",15318,"USA","260","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Meenwhee Kim",11702,"KOR","261","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Spencer Levin",8199,"USA","267","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Zac Blair",17639,"USA","282","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Greg Chalmers",5625,"AUS","285","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Chris Stroud",9604,"USA","287","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brett Stegmaier",11354,"USA","290","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Andres Gonzales",11640,"USA","292","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Henrik Norlander",11657,"SWE","293","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Hiroshi Iwata",9099,"JPN","295","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Xander Schauffele",19895,"USA","306","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"JT Poston",21554,"USA","317","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Seamus Power",10104,"IRL","323","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Tim Wilkinson",7097,"NZL","325","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Steven Bowditch",7053,"AUS","329","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Scott Stallings",12359,"USA","330","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Peter Malnati",14926,"USA","336","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ken Duke",493,"USA","339","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brian Campbell",18628,"USA","349","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Trey Mullinax",18761,"USA","350","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Nicholas Lindheim",16713,"USA","354","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Morgan Hoffmann",14082,"USA","359","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ryan Blaum",9643,"USA","363","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ernie Els",874,"RSA","367","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Seungyul Noh",11117,"KOR","384","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Kelly Kraft",15852,"USA","391","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Steve Marino",7741,"USA","393","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ryan Armour",8469,"USA","396","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brandon Hagy",18695,"USA","398","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brett Coletta",18177,"AUS","401","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Steve Wheatcroft",10292,"USA","402","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Rick Lamb",18869,"USA","404","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Nick Taylor",13126,"CAN","406","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Sam Saunders(07-1987)",11048,"USA","412","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Kevin Tway",13127,"USA","416","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Rory Sabbatini",6283,"RSA","417","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Cameron Percy",5874,"AUS","428","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Chad Collins",7744,"USA","429","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Jonathan Randolph",14837,"USA","430","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brad Fritsch",7207,"CAN","440","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Mark Anderson",12131,"USA","448","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Rob Oppenheim",8002,"USA","449","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Stuart Appleby",5294,"AUS","463","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Mark Hubbard",16333,"USA","468","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Julian Etulain",11911,"ARG","472","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Hunter Mahan",7636,"USA","484","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Miguel Angel Carballo",8570,"ARG","485","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Tyler Aldridge",11677,"USA","486","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Zack Sucher",14036,"USA","493","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Will Mackenzie",7470,"USA","506","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brian Gay",5951,"USA","510","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Bobby Wyatt",18660,"USA","528","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Steven Alker",4871,"NZL","532","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Joel Dahmen",14509,"USA","536","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"J.J. Henry",6222,"USA","543","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Scott Langley",14700,"USA","548","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Max Homa",17538,"USA","553","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Nick Watney",7955,"USA","560","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Juan Sebastian Munoz",20770,"COL","572","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brendon Todd",12425,"USA","580","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Tag Ridings",6840,"USA","633","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Matt Every",10185,"USA","660","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"D.A. Points",6761,"USA","675","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Gonzalo Fdez-Castano",8262,"ESP","693","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Brett Drewitt",15162,"AUS","725","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Michael Putnam",10180,"USA","1163","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Charlie Beljan",13118,"USA","1227","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Beau Hossler(Am)",15470,"USA","1338","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"David Duval",4761,"USA","1706","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Bob Estes",889,"USA","1874","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Neal Lancaster",4199,"USA","1874","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Mike Weir",5513,"CAN","1874","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Rich Berberian, Jr.",19863,"USA","1874","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
-"Ray Otis",22165,"USA","1874","AT&T Pebble Beach Pro-Am",6494,2017-02-12,"PGA Tour",NA,NA,2017-02-07
+"Raphael Marguery",15339,"FRA","798","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Thomas Elissalde",17699,"FRA","809","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Leo Lespinasse",20130,"FRA","889","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"David Morago",20689,"ESP","891","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Alexandre Daydou",20129,"FRA","919","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Julien Brun",16363,"FRA","947","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Richard Jouven",21282,"FRA","975","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Erwan Vielledent",19407,"FRA","986","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Robin Goger",14240,"AUT","1023","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Julien Foret",8815,"FRA","1049","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Nicolas Tacher",17609,"FRA","1077","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Xavier Poncelet",13912,"FRA","1094","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Aron Zemmer",15952,"ITA","1098","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jean-Pierre Verselin",17610,"FRA","1203","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Bernard Neumayer",14678,"AUT","1242","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Corrado de Stefani",16386,"ITA","1259","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Andrew Jones(Aug1981)",21301,"ENG","1265","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Daniel Owen",17121,"ENG","1325","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jerome Lando-Casanova",14040,"FRA","1366","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Daniel Young",19908,"SCO","1414","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Daniel Jennevret",13449,"SWE","1428","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Lars Van Meijel",17858,"NED","1453","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Uli Weinhandl",6533,"AUT","1458","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"David Carey",20668,"IRL","1471","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Nunzio Lombardi",12175,"ITA","1488","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Marc Dobias",11349,"SUI","1512","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Gregoire Schoeb(Am)",17839,"FRA","1530","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Alessandro Grammatica",19526,"ITA","1530","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Miles Collins",19973,"ENG","1541","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"James Sharp",20303,"ENG","1541","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Charles-Edouard Russo",8914,"FRA","1569","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Maxime Radureau",19874,"FRA","1579","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Gregory Molteni",9331,"ITA","1650","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Gerard Piris Mateu",15371,"ESP","1745","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Kristian Kulokorpi",18863,"FIN","1747","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Kevin Hesbois",13373,"BEL","1760","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Andre Bossert",4463,"SUI","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Nicolas Peyrichou",11691,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Alan Bihan",12211,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"HP Bacher",12311,"AUT","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Rudy Thuillier",13263,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Rene Gruber",13298,"AUT","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Mattia Miloro",13895,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Leonardo Motta",13896,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Baptiste Chapellan",14444,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Arthur Gabella",14811,"SUI","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Rowin Caron",14983,"NED","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Victor Bertran Crous",15325,"ESP","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Simon Fernoux",15335,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jack McDonald",16372,"SCO","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Max Albertus",16496,"NED","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Giorgio De filippi",16548,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Gary Gilligan",17176,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Javier Gallegos",17326,"ESP","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jacopo Vecchi Fossa",17362,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Michael Ludwig(Am)",17590,"AUT","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Cyrille Daniel",17833,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Markus Habeler(Am)",18584,"AUT","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Thomas Perrot",18697,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Lambert Cochet",18768,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Antoine Rozner",18770,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Michele Cea(am)",18902,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Julien Rodallec",18934,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jamie Savage",19907,"SCO","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Reece Phillips",20243,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Leonardo Sbarigia",20299,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Ben Smith(Aug1993)",20335,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Felix Schulz(Am)",20590,"AUT","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jake Ayres",20665,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Baptiste Courtachon",20669,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jean Michel Hall",20678,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Liam Harper",20679,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Amaury Rosaye",20698,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Romain Vallaeys",20705,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Ugo Coussaud(Am)",20727,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Nicolas Aparicio",20808,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Miguel Cabrera Bello",20810,"ESP","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Michele Ortolani",20845,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Paul Elissalde",20848,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Nelson Da Silva Ramos",20859,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Nicolas Maheut(Am)",20896,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Tommy O'Driscoll",20898,"IRL","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Manuel Morugan",20967,"ESP","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Andrea Saracino(Am)",21013,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Leonard Bem",21275,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Maxime Capelle(Am)",21277,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Louis Capon",21278,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Luke Groves",21281,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Antoine Moreau(Am)",21283,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Eamonn O'Driscoll(Am)",21284,"IRL","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Lucas Vacarisas",21285,"ESP","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Benjamin Wheeler",21286,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Abel Moneim El Shafie(Am)",21300,"EGY","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Robin Roussel",21507,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Oliver Roberts",21562,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Ewen Ferguson",21646,"SCO","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Clemens Gaster(Am)",21661,"AUT","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Davide Ghisalberti",21662,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Luca Maria Giansanti",21822,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"George Twyman",21982,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jean-Baptiste Gonnet",22523,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Matyas Baldauf(Am)",22998,"HUN","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Nicholas Elliott",22999,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Alex Esmatges",23000,"ESP","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Richard Gai(Am)",23002,"ITA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Raphael Ginouves",23003,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Jean-Matthieu Houdayer",23004,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Joe Knox",23005,"SCO","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Christopher Labadie",23006,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Geoffrey Meurice",23007,"FRA","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Issa Nlareb A Amang",23008,"CMR","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"James Reeson",23009,"ENG","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Sherif Rizk(Am)",23010,"EGY","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Ramon Ventura(Am)",23012,"ESP","1886","Red Sea Little Venice Open",6511,2017-02-26,"Alps Golf Tour",NA,NA,2017-02-21
+"Florian Fritsch",9217,"GER","328","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Mark F Haastrup",7952,"DEN","383","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Joachim B Hansen",14284,"DEN","540","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Marcus Kinhult",18514,"SWE","600","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Martin Ovesen",19847,"DEN","682","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Daniel Lokke",14287,"DEN","712","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Richard James",17810,"WAL","721","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jordi Garcia Pinto",12990,"ESP","731","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Mathieu Fenasse",17831,"FRA","737","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Nicolai Tinning",20256,"DEN","775","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Ola Johansson",20403,"SWE","796","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Steven Jeppesen",8125,"SWE","816","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Mathias Gladbjerg",20187,"DEN","831","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Erik Myllymaki",16408,"FIN","856","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Marcel Schneider",12522,"GER","868","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Aksel Kristoffer Olsen",17749,"NOR","922","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Christian Aronsen",9497,"NOR","935","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Linus Vaisanen",19959,"FIN","944","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Max Laier",18843,"GER","951","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Joel Sjoholm",12485,"SWE","962","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Oliver Suhr",12562,"DEN","967","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Niclas Hellberg",20057,"FIN","979","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Mads Sogaard",15678,"DEN","983","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Patrick Winther",20127,"DEN","1025","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Mikael Salminen",13141,"FIN","1034","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Birgir Hafthorsson",6166,"ISL","1037","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Kristoffer Reitan",21407,"NOR","1068","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jarand Ekeland Arnoy",20463,"NOR","1091","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Victor Theandersson",20423,"SWE","1099","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Benjamin Henry Poke",20244,"DEN","1173","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jaakko Makitalo",9261,"FIN","1176","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Ake Nilsson",9493,"SWE","1214","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Filip Mruzek",14883,"CZE","1233","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Gustaf Kocken",20070,"SWE","1266","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Victor Gebhard Osterby",16449,"DEN","1282","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Philip Ulveman Juel-Berg",20207,"DEN","1314","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Gustav Adell",12234,"SWE","1329","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Tuomas Salminen",18865,"FIN","1344","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Martin Leth Simonsen",16448,"DEN","1372","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Pol Bech",9135,"ESP","1380","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Adrien Bernadet",10202,"FRA","1401","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Christian Baech Christensen",19638,"DEN","1442","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jan-Philip Neuendorf",20230,"GER","1507","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Peter Puhakka",20104,"FIN","1527","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jesper Gunder Larsen",20214,"DEN","1589","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Martin Amtkjaer",20156,"DEN","1605","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Torbjorn Johansen",21404,"NOR","1618","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Daniel Wuensche",13362,"GER","1686","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Christian Gloet",16444,"DEN","1731","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Nicolai Kristensen(1992-05)",18857,"DEN","1787","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jonas Haglund",18862,"FIN","1794","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Simon Willer",20126,"DEN","1794","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Christopher Feldborg Nielsen",20147,"SWE","1803","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Antti Ahokas",11897,"FIN","1807","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Joakim Rask",5922,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Ivo Giner",5993,"ESP","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Peter Kaensche",8489,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jason Kelly",9878,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jonathan Fransson",11248,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jani Perttila",13137,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Simon Gundorph",13410,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Wallace Booth",14034,"SCO","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Pontus Gad",14060,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Miro Veijalainen",14121,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Cahit Kaya",14590,"TUR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Pontus Ellerstrom",14714,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Vetle Maroy",15649,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Niklas Norgaard Moller",15676,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Lasse Sonne Nielsen",15677,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Albert Eckhardt",16405,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Lauri Ruuska",16409,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Oliver Hauen-Limkilde Nyholm",16446,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Niklas Dahlgren",16603,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Riku Mattila",17356,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Sebastian Kannler",17614,"GER","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Miki Kuronen",17725,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Ali Altuntas(Am)",18051,"TUR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Ediz Kemaloglu",18052,"TUR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jan Friesz",18721,"SVK","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Marten Palm(Am)",18783,"EST","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Anton Guedra",19606,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Nikolai Hogh",19640,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Peter Launer Baek",19642,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Warren Harmston",19994,"ENG","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Kim Koivu",20071,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Kalle Sneck",20118,"FIN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jeppe Kristian Andersen",20158,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Oscar Hertzberg",20191,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Andreas Johansson(Am) (1992)",20205,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Nicolai Kjaer Kokholm",20209,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jakob Kollerup",20210,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jacob Pingel Lauridsen",20218,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jesper Olsson",20238,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Soren Schulze Pettersson",20242,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Patrick Rasmussen",20245,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Kasper Sorensen",20253,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Joachim Szots",20255,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Allan Werner",20260,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jens-Oliver Lenk",20285,"GER","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Christian Kummerle(Am)",20373,"GER","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Adam Eineving",20392,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Charlie Lindh",20413,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jonas Svensson(Am)",20422,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Lasse Gerhardsen",20468,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Kevin Andre Wright",20494,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Oscar Hallberg",20559,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Pascal Schneider",20588,"GER","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Stefan Still(Am)",20593,"GER","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Axel Boasson",20733,"ISL","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Lukas Crisp",20806,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Jacob Jorgensen(Am)",20945,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Martin Granstad",21336,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Sander Stavnar",21605,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Kevin Esteve",21620,"AND","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Philip Jensen(Am)",21731,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Fredrik Hansen Jullum",21987,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Martin Ulseth",22106,"NOR","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Oscar Spolander",22363,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Michael Fossto",22378,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Rune Rasmussen(Am)",22401,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Lasse Strunge Larsen(Am)",22420,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Anton Mostrom",22445,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Frederik Andersen",22672,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Sander Aadusaar",22989,"EST","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Felix Aberg",22990,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Andri Bjornsson",22991,"ISL","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Gustav Salander(Am)",22993,"SWE","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Haraldur Magnus(Am)",22994,"ISL","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Thomas Lokke",22995,"DEN","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Gudmundur Kristjansson(Am)",22996,"ISL","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
+"Joe Kelly",22997,"ENG","1886","PGA Catalunya Resort Championship",6512,2017-02-26,"Nordic Golf League",NA,NA,2017-02-21
