@@ -1,190 +1,121 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Dustin Johnson",12422,"USA","1","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Rory McIlroy",10091,"NIR","3","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Hideki Matsuyama",13562,"JPN","4","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Henrik Stenson",5994,"SWE","5","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Jordan Spieth",14636,"USA","6","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Adam Scott",6430,"AUS","7","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Justin Thomas",14139,"USA","8","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Rickie Fowler",12965,"USA","9","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Sergio Garcia",5689,"ESP","10","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Alex Noren",10419,"SWE","11","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Patrick Reed",14838,"USA","12","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Justin Rose",6093,"ENG","13","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Danny Willett",12920,"ENG","14","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Bubba Watson",7334,"USA","15","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Paul Casey",7108,"ENG","16","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Tyrrell Hatton",14796,"ENG","17","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Branden Grace",11952,"RSA","18","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Russell Knox",13831,"SCO","19","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Matt Kuchar",6169,"USA","20","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Jimmy Walker",7293,"USA","21","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Brooks Koepka",16243,"USA","22","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Phil Mickelson",1547,"USA","23","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Brandt Snedeker",8820,"USA","24","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Louis Oosthuizen",7672,"RSA","25","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Rafael Cabrera Bello",7457,"ESP","26","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Charl Schwartzel",7398,"RSA","27","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Emiliano Grillo",12808,"ARG","28","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Matthew Fitzpatrick",17646,"ENG","29","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Gary Woodland",12577,"USA","30","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"J.B. Holmes",7959,"USA","31","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Francesco Molinari",7655,"ITA","32","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Ryan Moore",7489,"USA","33","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Daniel Berger",17606,"USA","34","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Thomas Pieters",13944,"BEL","35","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Bernd Wiesberger",9531,"AUT","36","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Yuta Ikeda",8236,"JPN","37","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Jon Rahm",19195,"ESP","38","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Kevin Chappell",13305,"USA","39","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Scott Piercy",7899,"USA","40","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Zach Johnson",6986,"USA","41","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Bill Haas",7900,"USA","42","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Jeunghun Wang",15366,"KOR","43","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Kevin Na",7452,"USA","44","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Martin Kaymer",8117,"GER","45","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Byeong Hun An",14459,"KOR","46","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Jim Furyk",2881,"USA","47","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Kevin Kisner",11328,"USA","48","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Lee Westwood",4052,"ENG","49","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Brendan Steele",11019,"USA","50","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"William McGirt",12477,"USA","51","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Chris Wood",12451,"ENG","52","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Andy Sullivan",15326,"ENG","54","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Tommy Fleetwood",12294,"ENG","55","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Hideto Tanihara",7046,"JPN","56","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Jhonattan Vegas",13508,"VEN","59","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"K.T. Kim",7880,"KOR","60","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Siwoo Kim",14609,"KOR","62","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Soren Kjeldsen",6149,"DEN","64","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Joost Luiten",10158,"NED","66","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Pat Perez",6762,"USA","67","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Scott Hend",1888,"AUS","68","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Brandon Stone",15229,"RSA","69","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Jason Dufner",7301,"USA","71","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Ross Fisher",9396,"ENG","72","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Thorbjorn Olesen",13412,"DEN","74","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Sean O'Hair",7626,"USA","78","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Roberto Castro",12643,"USA","84","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Fabrizio Zanotti",9842,"PAR","86","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Richard Sterne",7049,"RSA","90","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"David Lipsky",15980,"USA","102","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Pablo Larrazabal",9133,"ESP","103","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Mackenzie Hughes",15556,"CAN","116","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Sam Brazel",8390,"AUS","122","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Marcus Fraser",7070,"AUS","146","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Michael Hendry",11885,"NZL","174","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Matthew Griffin",9780,"AUS","392","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Roberto Diaz",15394,"MEX","472","WGC - Mexico Championship ",6513,2017-03-05,"WGC",NA,NA,2017-02-28
-"Brad Kennedy",6287,"AUS","180","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Ashley Hall",7708,"AUS","293","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Nick Cullen",14247,"AUS","301","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Matthew Millar",7449,"AUS","398","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jake McLeod",17146,"AUS","494","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jarryd Felton",16835,"AUS","506","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"David Bransdon",5624,"AUS","535","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Daniel Nisbet",11823,"AUS","583","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jordan Zunic",15170,"AUS","591","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Damien Jordan",14353,"AUS","592","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Matthew Giles",9783,"AUS","593","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Josh Geary",9903,"NZL","597","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Daniel Fox",10112,"AUS","603","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Daniel Pearce",16933,"NZL","715","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Andrew Evans",15589,"AUS","726","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"James Nitties",7388,"AUS","737","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Lincoln Tighe",16980,"AUS","742","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"David Klein",15851,"GER","772","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Michael Long",4865,"NZL","783","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Aaron Pike",10828,"AUS","826","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Tim Hart",15920,"AUS","841","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Rory Bourke",15845,"AUS","848","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Brad Shilton",8412,"NZL","849","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Brad Moules",17917,"AUS","874","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Kristopher R Mueck",15933,"AUS","875","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Gareth Paddison",6397,"NZL","921","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Peter Wilson",7944,"AUS","943","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Matthew Guyatt",11833,"AUS","954","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Deyen Lawson",15885,"AUS","998","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"David Smail",4986,"NZL","1018","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Sean Riordan",16935,"NZL","1067","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Aaron Wilkin",17790,"AUS","1081","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Dale Brandt-Richards",15160,"AUS","1087","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Ben Campbell",14373,"NZL","1096","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jack Wilson",15946,"AUS","1128","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Mark Brown",3486,"NZL","1174","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Rick Kulacz",10839,"AUS","1197","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Daniel Valente",15943,"AUS","1215","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"James Marchesani",19258,"AUS","1225","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Tae Koh",19267,"NZL","1249","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Lindsay Wilson",17055,"AUS","1255","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Neven Basic",7700,"AUS","1262","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Anthony Quayle(Am)",18900,"AUS","1280","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Mitchell Brown",8385,"AUS","1298","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Adam Groom",7394,"AUS","1319","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Anthony Murdaca",15167,"AUS","1340","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Blake Proverbs(am)",18157,"AUS","1385","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Josh Younger",11828,"AUS","1404","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Nick Gillespie",12747,"NZL","1414","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Callan O'Reilly",16968,"AUS","1427","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Tom Power Horan",18096,"AUS","1443","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Ryan Lynch",12830,"AUS","1462","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Darren Beck",9905,"AUS","1482","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Taylor MacDonald",17144,"AUS","1559","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Aaron Townsend",8415,"AUS","1563","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jared Pender",12751,"NZL","1691","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jack Munro",17601,"AUS","1836","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Sean Einhaus",10223,"GER","1844","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Harry Bateman",16921,"NZL","1879","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Dominic Barson",3526,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Grant Moorhead",4452,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Leigh McKechnie",7061,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Marcus Both",7087,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Heath Slocum",7170,"USA","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Doug Holloway",8423,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Andrew Martin",9774,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Troy Ropiha",11893,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Michael Choi",12345,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Matthew Stieger",14377,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Kieran Muir",15890,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jonathan Ratcliffe",15895,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Pieter Zwart",15902,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Benjamin Clementson",15912,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Fraser Wilkin",16089,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Sam An",16920,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Ryan Chisnall",16924,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Joonsang Chung",16925,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Tyler Hodge",16931,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Peter Martin",16965,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jordan Mullaney",16967,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Adam Burdett",17161,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Josh Whitehouse",17433,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Cory Crawford",17785,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Alex Edge",17884,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Luke Toomey(am)",17889,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Troy Moses",18094,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Michael Pearce",18095,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jack Sullivan",18098,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Andrew Schonewille",18181,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Victor Janin",18966,"FRA","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Josh Cabban",19205,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Harrison Endycott",19208,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Dale Williamson",19233,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Alexander Pitty",19289,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Christopher Akers",19408,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Ben Guilford",19434,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Steven Han",19435,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Steven Heyes",19436,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Shaun Jones",19437,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Woonchul Na",19440,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Brad Hayward",19443,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Sam Daley",20551,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Ryan Bernard",20911,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Jonathan Painter",21039,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Austin Bautista(Am)",21152,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Lachlan McDonald",21248,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Hamish Campbell",21351,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Wesley Jeon",21352,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Daniel Hillier(Am)",21362,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Luke Brown(Am)",22715,"NZL","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"James Corkill",22765,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
-"Maverick Antcliff",22815,"AUS","1887","Lawnmaster Horizon Golf NZ PGA Championship ",6515,2017-03-05,"PGA Tour Australasia",NA,NA,2017-02-28
+"Jason Day",9771,"AUS","2","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Rory McIlroy",10091,"NIR","3","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Hideki Matsuyama",13562,"JPN","4","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Henrik Stenson",5994,"SWE","5","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Rickie Fowler",12965,"USA","9","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Alex Noren",10419,"SWE","11","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Justin Rose",6093,"ENG","13","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Danny Willett",12920,"ENG","14","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Paul Casey",7108,"ENG","15","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Tyrrell Hatton",14796,"ENG","16","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Bubba Watson",7334,"USA","17","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Branden Grace",11952,"RSA","19","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Brooks Koepka",16243,"USA","23","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Brandt Snedeker",8820,"USA","24","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Charl Schwartzel",7398,"RSA","27","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Louis Oosthuizen",7672,"RSA","28","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Thomas Pieters",13944,"BEL","29","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Matthew Fitzpatrick",17646,"ENG","30","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Emiliano Grillo",12808,"ARG","32","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Francesco Molinari",7655,"ITA","33","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Tommy Fleetwood",12294,"ENG","35","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Ryan Moore",7489,"USA","36","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Kevin Chappell",13305,"USA","40","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Zach Johnson",6986,"USA","42","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Martin Kaymer",8117,"GER","44","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Jeunghun Wang",15366,"KOR","45","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Kevin Kisner",11328,"USA","46","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Kevin Na",7452,"USA","47","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Byeong Hun An",14459,"KOR","48","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Adam Hadwin",13965,"CAN","51","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"William McGirt",12477,"USA","52","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Webb Simpson",11049,"USA","60","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Marc Leishman",7649,"AUS","62","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Charles Howell III",6892,"USA","63","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Pat Perez",6762,"USA","68","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Siwoo Kim",14609,"KOR","69","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Tony Finau",11676,"USA","70","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Charley Hoffman",5768,"USA","71","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Wesley Bryan",21236,"USA","72","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Billy Horschel",11276,"USA","75","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Jim Herman",12846,"USA","76","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Anirban Lahiri",12669,"IND","77","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"James Hahn",11374,"USA","79","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Thorbjorn Olesen",13412,"DEN","80","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Sean O'Hair",7626,"USA","83","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Roberto Castro",12643,"USA","84","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Daniel Summerhays",12424,"USA","85","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Chris Kirk",12423,"USA","86","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Graeme McDowell",7548,"NIR","87","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"David Lingmerth",14815,"SWE","88","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Harris English",14577,"USA","89","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Hudson Swafford",14706,"USA","93","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Jamie Lovemark",11382,"USA","94","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Danny Lee",11826,"NZL","103","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Brian Harman",8825,"USA","104","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Fabian Gomez",8571,"ARG","105","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Jason Kokrak",12337,"USA","106","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Keegan Bradley",13872,"USA","110","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Martin Laird",9586,"SCO","111","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Mackenzie Hughes",15556,"CAN","113","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Scott Brown",11330,"USA","114","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Russell Henley",14578,"USA","115","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"J.J Spaun",17536,"USA","117","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Patton Kizzire",13470,"USA","123","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Cameron Smith",15856,"AUS","124","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Kevin Streelman",8480,"USA","125","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Chez Reavie",7961,"USA","126","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"C.T. Pan",15475,"TPE","128","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Graham Delaet",10252,"CAN","129","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Billy Hurley III",11046,"USA","130","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Patrick Rodgers",16283,"USA","132","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Harold Varner III",16602,"USA","133","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Ollie Schniederjans",18662,"USA","137","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Brian Stuard",13022,"USA","142","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Rod Pampling",5668,"AUS","143","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Grayson Murray",14655,"USA","153","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Smylie Kaufman",18631,"USA","154","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Aaron Baddeley",6252,"AUS","155","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Lucas Glover",7399,"USA","157","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Vaughn Taylor",6930,"USA","165","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Kyle Reifers",11329,"USA","175","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Kelly Kraft",15852,"USA","177","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Bud Cauley",14502,"USA","181","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Luke List",7960,"USA","182","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Chad Campbell",6248,"USA","183","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"David Hearn",7340,"CAN","188","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Morgan Hoffmann",14082,"USA","191","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Geoff Ogilvy",5698,"AUS","194","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"John Huh",14606,"USA","200","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Derek Fathauer",12689,"USA","201","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Cody Gribble",17508,"USA","203","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Ian Poulter",1435,"ENG","204","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Troy Merritt",13367,"USA","209","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Ben Martin",14007,"USA","212","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Kyle Stanley",12069,"USA","215","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Stewart Cink",5665,"USA","221","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Vijay Singh",653,"FIJ","240","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Seungyul Noh",11117,"KOR","248","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Michael Kim",17543,"USA","261","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Greg Owen",5723,"ENG","263","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Retief Goosen",4884,"RSA","268","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Greg Chalmers",5625,"AUS","307","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Camilo Villegas",9171,"COL","307","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Boo Weekley",7403,"USA","329","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Brandon Hagy",18695,"USA","335","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Rob Oppenheim",8002,"USA","365","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Ernie Els",874,"RSA","399","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Steve Wheatcroft",10292,"USA","423","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Sam Saunders(July1987)",11048,"USA","431","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Curtis Luck(Am)",16842,"AUS","440","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Steven Bowditch",7053,"AUS","508","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Ryan Ruffels",17169,"AUS","523","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Tim Herron",5621,"USA","530","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Matt Every",10185,"USA","927","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Robby Shelton IV",18635,"USA","1157","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"John Daly",863,"USA","1713","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Robert Gamez",2878,"USA","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Trevor Immelman",5935,"RSA","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Matthias Schwab(Am)",15016,"AUT","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"David Hronek",15119,"USA","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
