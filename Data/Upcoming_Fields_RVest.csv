@@ -1,121 +1,736 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Jason Day",9771,"AUS","2","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Rory McIlroy",10091,"NIR","3","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Hideki Matsuyama",13562,"JPN","4","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Henrik Stenson",5994,"SWE","5","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Rickie Fowler",12965,"USA","9","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Alex Noren",10419,"SWE","11","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Justin Rose",6093,"ENG","13","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Danny Willett",12920,"ENG","14","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Paul Casey",7108,"ENG","15","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Tyrrell Hatton",14796,"ENG","16","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Bubba Watson",7334,"USA","17","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Branden Grace",11952,"RSA","19","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Brooks Koepka",16243,"USA","23","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Brandt Snedeker",8820,"USA","24","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Charl Schwartzel",7398,"RSA","27","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Louis Oosthuizen",7672,"RSA","28","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Thomas Pieters",13944,"BEL","29","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Matthew Fitzpatrick",17646,"ENG","30","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Emiliano Grillo",12808,"ARG","32","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Francesco Molinari",7655,"ITA","33","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Tommy Fleetwood",12294,"ENG","35","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Ryan Moore",7489,"USA","36","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Kevin Chappell",13305,"USA","40","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Zach Johnson",6986,"USA","42","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Martin Kaymer",8117,"GER","44","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Jeunghun Wang",15366,"KOR","45","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Kevin Kisner",11328,"USA","46","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Kevin Na",7452,"USA","47","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Byeong Hun An",14459,"KOR","48","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Adam Hadwin",13965,"CAN","51","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"William McGirt",12477,"USA","52","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Webb Simpson",11049,"USA","60","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Marc Leishman",7649,"AUS","62","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Charles Howell III",6892,"USA","63","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Pat Perez",6762,"USA","68","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Siwoo Kim",14609,"KOR","69","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Tony Finau",11676,"USA","70","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Charley Hoffman",5768,"USA","71","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Wesley Bryan",21236,"USA","72","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Billy Horschel",11276,"USA","75","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Jim Herman",12846,"USA","76","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Anirban Lahiri",12669,"IND","77","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"James Hahn",11374,"USA","79","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Thorbjorn Olesen",13412,"DEN","80","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Sean O'Hair",7626,"USA","83","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Roberto Castro",12643,"USA","84","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Daniel Summerhays",12424,"USA","85","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Chris Kirk",12423,"USA","86","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Graeme McDowell",7548,"NIR","87","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"David Lingmerth",14815,"SWE","88","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Harris English",14577,"USA","89","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Hudson Swafford",14706,"USA","93","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Jamie Lovemark",11382,"USA","94","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Danny Lee",11826,"NZL","103","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Brian Harman",8825,"USA","104","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Fabian Gomez",8571,"ARG","105","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Jason Kokrak",12337,"USA","106","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Keegan Bradley",13872,"USA","110","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Martin Laird",9586,"SCO","111","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Mackenzie Hughes",15556,"CAN","113","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Scott Brown",11330,"USA","114","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Russell Henley",14578,"USA","115","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"J.J Spaun",17536,"USA","117","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Patton Kizzire",13470,"USA","123","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Cameron Smith",15856,"AUS","124","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Kevin Streelman",8480,"USA","125","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Chez Reavie",7961,"USA","126","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"C.T. Pan",15475,"TPE","128","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Graham Delaet",10252,"CAN","129","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Billy Hurley III",11046,"USA","130","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Patrick Rodgers",16283,"USA","132","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Harold Varner III",16602,"USA","133","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Ollie Schniederjans",18662,"USA","137","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Brian Stuard",13022,"USA","142","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Rod Pampling",5668,"AUS","143","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Grayson Murray",14655,"USA","153","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Smylie Kaufman",18631,"USA","154","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Aaron Baddeley",6252,"AUS","155","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Lucas Glover",7399,"USA","157","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Vaughn Taylor",6930,"USA","165","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Kyle Reifers",11329,"USA","175","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Kelly Kraft",15852,"USA","177","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Bud Cauley",14502,"USA","181","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Luke List",7960,"USA","182","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Chad Campbell",6248,"USA","183","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"David Hearn",7340,"CAN","188","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Morgan Hoffmann",14082,"USA","191","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Geoff Ogilvy",5698,"AUS","194","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"John Huh",14606,"USA","200","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Derek Fathauer",12689,"USA","201","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Cody Gribble",17508,"USA","203","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Ian Poulter",1435,"ENG","204","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Troy Merritt",13367,"USA","209","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Ben Martin",14007,"USA","212","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Kyle Stanley",12069,"USA","215","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Stewart Cink",5665,"USA","221","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Vijay Singh",653,"FIJ","240","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Seungyul Noh",11117,"KOR","248","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Michael Kim",17543,"USA","261","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Greg Owen",5723,"ENG","263","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Retief Goosen",4884,"RSA","268","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Greg Chalmers",5625,"AUS","307","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Camilo Villegas",9171,"COL","307","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Boo Weekley",7403,"USA","329","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Brandon Hagy",18695,"USA","335","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Rob Oppenheim",8002,"USA","365","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Ernie Els",874,"RSA","399","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Steve Wheatcroft",10292,"USA","423","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Sam Saunders(July1987)",11048,"USA","431","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Curtis Luck(Am)",16842,"AUS","440","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Steven Bowditch",7053,"AUS","508","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Ryan Ruffels",17169,"AUS","523","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Tim Herron",5621,"USA","530","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Matt Every",10185,"USA","927","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Robby Shelton IV",18635,"USA","1157","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"John Daly",863,"USA","1713","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Robert Gamez",2878,"USA","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Trevor Immelman",5935,"RSA","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"Matthias Schwab(Am)",15016,"AUT","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
-"David Hronek",15119,"USA","1893","Arnold Palmer Invitational presented by Mastercard",6524,2017-03-19,"PGA Tour",NA,NA,2017-03-14
+"Dustin Johnson",12422,"USA","1","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Rory McIlroy",10091,"NIR","2","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jason Day",9771,"AUS","3","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Hideki Matsuyama",13562,"JPN","4","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jordan Spieth",14636,"USA","6","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Justin Thomas",14139,"USA","7","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Sergio Garcia",5689,"ESP","10","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Alex Noren",10419,"SWE","11","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Patrick Reed",14838,"USA","12","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Tyrrell Hatton",14796,"ENG","14","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Danny Willett",12920,"ENG","15","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Paul Casey",7108,"ENG","16","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Bubba Watson",7334,"USA","17","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Phil Mickelson",1547,"USA","18","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Branden Grace",11952,"RSA","19","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Matt Kuchar",6169,"USA","20","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Russell Knox",13831,"SCO","21","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jimmy Walker",7293,"USA","22","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Brandt Snedeker",8820,"USA","23","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Brooks Koepka",16243,"USA","24","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jon Rahm",19195,"ESP","25","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Rafael Cabrera Bello",7457,"ESP","26","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Louis Oosthuizen",7672,"RSA","27","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Charl Schwartzel",7398,"RSA","28","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Francesco Molinari",7655,"ITA","29","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Emiliano Grillo",12808,"ARG","30","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Matthew Fitzpatrick",17646,"ENG","31","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Marc Leishman",7649,"AUS","32","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Tommy Fleetwood",12294,"ENG","33","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Thomas Pieters",13944,"BEL","34","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"J.B. Holmes",7959,"USA","35","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Ryan Moore",7489,"USA","36","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Gary Woodland",12577,"USA","37","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Kevin Kisner",11328,"USA","38","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Daniel Berger",17606,"USA","39","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Bernd Wiesberger",9531,"AUT","40","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Yuta Ikeda",8236,"JPN","41","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Kevin Chappell",13305,"USA","42","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Scott Piercy",7899,"USA","43","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jeunghun Wang",15366,"KOR","45","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Martin Kaymer",8117,"GER","46","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Bill Haas",7900,"USA","47","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Lee Westwood",4052,"ENG","49","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Zach Johnson",6986,"USA","50","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Byeong Hun An",14459,"KOR","51","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Kevin Na",7452,"USA","52","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Ross Fisher",9396,"ENG","53","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"William McGirt",12477,"USA","54","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Chris Wood",12451,"ENG","55","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Brendan Steele",11019,"USA","56","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jim Furyk",2881,"USA","57","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Andy Sullivan",15326,"ENG","58","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Shane Lowry",13900,"IRL","59","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Hideto Tanihara",7046,"JPN","60","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jhonattan Vegas",13508,"VEN","61","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Pat Perez",6762,"USA","62","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Thongchai Jaidee",5973,"THA","63","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Webb Simpson",11049,"USA","64","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Jason Dufner",7301,"USA","65","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Joost Luiten",10158,"NED","66","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Charles Howell III",6892,"USA","67","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Soren Kjeldsen",6149,"DEN","68","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Siwoo Kim",14609,"KOR","69","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"K.T. Kim",7880,"KOR","70","WGC - Dell Technologies Match Play",6528,2017-03-26,"WGC",NA,NA,2017-03-21
+"Wesley Bryan",21236,"USA","73","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Fabrizio Zanotti",9842,"PAR","78","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Thorbjorn Olesen",13412,"DEN","80","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Graeme McDowell",7548,"NIR","82","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Chris Kirk",12423,"USA","90","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Danny Lee",11826,"NZL","98","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Andrew Johnston",14666,"ENG","100","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Fabian Gomez",8571,"ARG","107","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ryo Ishikawa",12232,"JPN","112","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Scott Brown",11330,"USA","116","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"J.J Spaun",17536,"USA","118","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Harold Varner III",16602,"USA","126","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Graham Delaet",10252,"CAN","135","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Dominic Bozzelli",17564,"USA","142","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Bryson DeChambeau",19841,"USA","147","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Luke List",7960,"USA","169","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Peter Uihlein",11357,"USA","174","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Kyle Reifers",11329,"USA","177","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Alex Cejka",4425,"GER","178","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"David Hearn",7340,"CAN","179","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Matt Jones",8605,"AUS","182","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"K.J. Choi",1804,"KOR","186","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Sunghoon Kang",7881,"KOR","197","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ian Poulter",1435,"ENG","199","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"John Senden",5207,"AUS","201","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"JT Poston",21554,"USA","212","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Robert Garrigus",6789,"USA","215","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Bryce Molder",7292,"USA","219","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Cameron Tringale",14013,"USA","221","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Freddie Jacobson",3846,"SWE","223","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Tyrone van Aswegen",9913,"RSA","226","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Michael Thompson",12946,"USA","228","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Martin Flores",10535,"USA","237","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Richy Werenski",19364,"USA","246","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Jonas Blixt",8182,"SWE","247","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Seungyul Noh",11117,"KOR","249","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ricky Barnes",6846,"USA","258","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Scott Stallings",12359,"USA","266","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Retief Goosen",4884,"RSA","272","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Greg Owen",5723,"ENG","273","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ryan Brehm",10423,"USA","274","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Zac Blair",17639,"USA","277","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Meenwhee Kim",11702,"KOR","285","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Andres Gonzales",11640,"USA","290","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Brandon Hagy",18695,"USA","294","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Spencer Levin",8199,"USA","295","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Will Wilcox",14696,"USA","296","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Seamus Power",10104,"IRL","300","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Brett Stegmaier",11354,"USA","303","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Camilo Villegas",9171,"COL","311","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Chad Collins",7744,"USA","313","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Xander Schauffele",19895,"USA","322","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Tim Wilkinson",7097,"NZL","325","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Nick Taylor",13126,"CAN","328","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Trey Mullinax",18761,"USA","334","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Cameron Percy",5874,"AUS","336","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Boo Weekley",7403,"USA","340","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Chris Stroud",9604,"USA","343","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ken Duke",493,"USA","346","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ryan Blaum",9643,"USA","347","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Hiroshi Iwata",9099,"JPN","350","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Shawn Stefani",14012,"USA","365","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Brian Campbell",18628,"USA","376","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Nicholas Lindheim",16713,"USA","387","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ryan Armour",8469,"USA","405","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Rick Lamb",18869,"USA","414","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ben Crane",6674,"USA","416","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Kevin Tway",13127,"USA","420","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Brad Fritsch",7207,"CAN","421","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Steve Marino",7741,"USA","423","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Steve Wheatcroft",10292,"USA","427","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Rory Sabbatini",6283,"RSA","429","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Julian Etulain",11911,"ARG","431","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Sam Saunders(July1987)",11048,"USA","432","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Y.E. Yang",6629,"KOR","433","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"J.J. Henry",6222,"USA","440","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Mark Anderson",12131,"USA","441","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Will Mackenzie",7470,"USA","446","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Tom Hoge",15575,"USA","450","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Jonathan Randolph",14837,"USA","455","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Stuart Appleby",5294,"AUS","483","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Mark Hubbard",16333,"USA","492","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Miguel Angel Carballo",8570,"ARG","503","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Zack Sucher",14036,"USA","507","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Chesson Hadley",14967,"USA","519","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Joel Dahmen",14509,"USA","522","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Jonathan Byrd",6931,"USA","525","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Steven Bowditch",7053,"AUS","528","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Tyler Aldridge",11677,"USA","531","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Max Homa",17538,"USA","536","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"George McNeill",6419,"USA","545","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Steven Alker",4871,"NZL","554","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Bobby Wyatt",18660,"USA","555","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Hunter Mahan",7636,"USA","570","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"John Peterson",15611,"USA","570","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Mark Wilson",4107,"USA","589","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Brendon de Jonge",8767,"ZIM","591","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Andres Romero",7751,"ARG","600","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Juan Sebastian Munoz",20770,"COL","611","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Tag Ridings",6840,"USA","616","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"D.A. Points",6761,"USA","634","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Brett Drewitt",15162,"AUS","653","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Angel Cabrera",5717,"ARG","680","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Gonzalo Fdez-Castano",8262,"ESP","744","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Rafael Campos",12909,"PUE","780","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Carl Pettersson",7048,"SWE","797","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Dicky Pride",5467,"USA","815","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"John Merrick",9584,"USA","856","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Matt Every",10185,"USA","996","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Bill Lunde",7962,"USA","1033","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Kurt Kitayama",21891,"USA","1146","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Robby Shelton IV",18635,"USA","1168","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Wade Binfield",18435,"USA","1312","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Michael Bradley",3582,"USA","1649","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Sungjoon Park",14565,"KOR","1735","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Marcelo Rozo",16591,"COL","1855","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Trevor Immelman",5935,"RSA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Ben Curtis",7101,"USA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Alan Morin",7836,"USA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Neil Johnson",9307,"USA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Jay McLuen",11793,"USA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Hugo Leon",13619,"CHI","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Edward Figueroa",16044,"PUE","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Peter Williamson",17257,"USA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Rich Berberian, Jr.",19863,"USA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"William Cannon",22919,"USA","1894","Puerto Rico Open ",6529,2017-03-26,"PGA Tour",NA,NA,2017-03-21
+"Thomas Aiken",7679,"RSA","151","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Kyounghoon Lee",13497,"KOR","164","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Dou Ze-cheng",16757,"CHN","204","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Andrew Putnam",14704,"USA","250","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Nate Lashley",10943,"USA","264","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Sam Ryder",16715,"USA","287","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Rhein Gibson",13342,"AUS","288","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jacques Blaauw",13681,"RSA","309","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Zhang Xin-jun",13026,"CHN","320","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Andrew Landry",14000,"USA","326","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Kyle Thompson",7617,"USA","333","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Chris Baker",13971,"USA","363","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Rob Oppenheim",8002,"USA","364","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Augusto Nunez",16796,"ARG","379","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Martin Piller",13760,"USA","384","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Alex Kang",17531,"USA","406","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jason Gore",6321,"USA","435","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Aaron Wise",22051,"USA","438","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Ethan Tracy",19552,"USA","439","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Guillermo Pereira",19455,"CHI","443","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Roberto Diaz",15394,"MEX","460","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Austin Cook",18579,"USA","461","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Kent Bulle",15715,"USA","467","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jimmy Gunn",18163,"SCO","476","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Keith Mitchell",17365,"USA","478","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Taylor Moore",21944,"USA","484","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Corey Conners",17576,"CAN","499","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Stephan Jaeger",16394,"GER","510","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"James Driscoll",6228,"USA","512","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Josh Teater",8085,"USA","513","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Ted Potter-jr",8769,"USA","523","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jack Maguire",19869,"USA","534","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Emilio/Puma Dominguez",11900,"ARG","541","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Taewoo Kim(Jan1993)",17384,"KOR","549","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Denny McCarthy",19870,"USA","557","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Abraham Ancer",18238,"MEX","559","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jason Millard",17567,"USA","565","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Adam Schenk",19477,"USA","580","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Sebastian Cappelen",14776,"DEN","587","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Scott Langley",14700,"USA","597","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Samuel Del Val",15791,"ESP","602","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Andrew Yun",15614,"USA","604","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Martin Trainer",15634,"USA","607","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Alex Prugh",12339,"USA","613","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Brice Garnett",11451,"USA","623","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Talor Gooch",18580,"USA","628","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Luke Guthrie",15610,"USA","630","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Michael Johnson",15120,"USA","631","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Andrew Svoboda",11274,"USA","641","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Matt Atkins",19360,"USA","650","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Roger Sloan",14050,"CAN","651","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Wes Roach",15720,"USA","657","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Zack Fischer",17273,"USA","662","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Nicholas Thompson",10889,"USA","665","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Steve Allan",5697,"AUS","675","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Carlos Ortiz",14735,"MEX","683","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Bhavik Patel",16107,"USA","726","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Paul Barjon",16566,"FRA","728","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Brandon Harkins",15427,"USA","737","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Erik Compton",6556,"USA","760","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Blake Adams",12088,"USA","766","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Adam Svensson",13997,"CAN","773","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Eric Axley",8024,"USA","776","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Justin Shin",17618,"CAN","784","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Donghwan Lee",8211,"KOR","787","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"John Mallinger",9027,"USA","790","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Seth Fair",18377,"USA","819","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Albin Choi",15606,"CAN","840","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Chase Parker",22046,"USA","858","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Anders Albertson",21235,"USA","860","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Brady Schnell",12414,"USA","875","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Casey Wittenberg",8819,"USA","877","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Derek Ernst",16711,"USA","890","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Daniel Chopra",2035,"SWE","892","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jin Park",7362,"KOR","894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Scott Harrington",8479,"USA","906","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Erik Barnes",14799,"USA","906","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Robert Allenby",4949,"AUS","913","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Conrad Shindler",17274,"USA","918","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Peter Tomasulo",9910,"USA","945","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Curtis Thompson",19395,"USA","946","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Peter Lonard",4122,"AUS","974","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Alexandre Rocha",7441,"BRA","984","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Richard S. Johnson",1805,"SWE","998","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Adam Long",15473,"USA","1002","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jim Renner",12475,"USA","1007","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Ben Kohles",16395,"USA","1008","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Dan Woltman",13288,"USA","1009","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Ryan Yip",12083,"CAN","1022","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Timothy Madigan",18535,"USA","1041","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Lanto Griffin",15330,"USA","1046","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"John Chin",14797,"USA","1056","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Vince India",15793,"USA","1078","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Michael Gellerman",19909,"USA","1098","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Chris Naegel",17345,"USA","1141","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Ken Looper",17327,"USA","1155","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Kyle Wilshire",19774,"USA","1176","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Matt Harmon",12385,"USA","1179","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Marc Turnesa",7627,"USA","1203","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Greg Eason",17719,"ENG","1209","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Tom Lovelady",22068,"USA","1252","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"David Skinns",10873,"ENG","1263","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Scott Gutschewski",7305,"USA","1285","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Tommy Gainey",12169,"USA","1293","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"D.J. Trahan",7236,"USA","1301","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Benjamin Silverman",17381,"CAN","1318","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Seth Reeves",19643,"USA","1387","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Michael Letzig",7641,"USA","1394","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jamie Arnold",10861,"AUS","1429","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Chris Worrell",19775,"USA","1436","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"A.J. McInerney",22915,"USA","1436","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Steve Flesch",4707,"USA","1586","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Alex Aragon",7623,"USA","1612","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Cameron Wilson",16248,"USA","1732","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Mark Anguiano",19029,"USA","1770","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Edward Loar",6938,"USA","1800","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jim Knous",16382,"USA","1827","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Vince Covello",11441,"USA","1852","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Dudley Hart",3879,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Todd Demsey",3937,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Shaun Micheel",4377,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Brett Quigley",5101,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Brian Rowell",6083,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Bobby Gates",13433,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Jonathan Hodge",13520,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Michael D. Smith",13819,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Eric Meierdierks",14341,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Nick Rousey",14849,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Sepp Straka",17511,"AUT","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Zach Fullerton",18162,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Benjamin Taylor",19948,"ENG","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Eric Cole",21756,"USA","1894","Chitimacha Louisiana Open presented by NACHER",6530,2017-03-26,"Web.com Tour",NA,NA,2017-03-21
+"Charlie Saxon",21324,"USA","289","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Rodolfo Cazaubon Jnr",18185,"MEX","538","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Tyler McCumber",17584,"USA","551","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Andres Echavarria",15238,"COL","626","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Callum Tarren",20519,"ENG","698","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jorge Fernandez-Valdes",16786,"ARG","707","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Kelvin Day",15281,"ENG","731","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Sejun Yoon",16349,"USA","747","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Eric Steger",19479,"USA","761","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Brandon Matthews",22981,"USA","794","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Matias Simasky",18128,"ARG","833","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Cao Yi",15067,"CHN","871","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Sam Fidone",19618,"USA","878","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Anthony Paolucci",15207,"USA","880","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Paul Apyan",14294,"USA","888","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Tim O'Neal",9890,"USA","896","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Oscar Fraustro",9834,"MEX","937","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Nicholas Case Cochran",18434,"USA","1002","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Echavarria Nicolas",22833,"COL","1020","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Derek Rende",17380,"USA","1030","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Daniel Mazziotta",18195,"USA","1030","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Brad Hopfinger",18190,"USA","1044","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"James Beck III",21427,"USA","1047","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Peter Campbell",12842,"CAN","1079","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jared Wolfe",18164,"USA","1093","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Leandro Marelli",15240,"ARG","1095","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Derek Gillespie",6883,"CAN","1113","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Daniel Zuluaga",16597,"COL","1122","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Clodomiro Carranza",7773,"ARG","1127","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Ricardo Celia",19000,"COL","1132","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"T.J. Vogel",17280,"USA","1135","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Todd Baek",12745,"KOR","1157","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Tyler Duncan",18187,"USA","1169","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Hunter Hamrick",16242,"USA","1171","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Carlos Sainz Jr",14519,"USA","1218","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Brady Watt",16845,"AUS","1223","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Mark Silvers",14705,"USA","1232","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Armando Favela",14568,"MEX","1265","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Felipe Velazquez",16571,"VEN","1283","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Andreas Halvorsen",17747,"NOR","1304","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Rafael Becker",17275,"BRA","1322","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Santiago Gomez",22832,"COL","1333","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Austin Quick",19474,"USA","1334","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Juan Alvarez",16775,"URU","1350","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Will Collins",16145,"USA","1364","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Maximiliano Godoy",12774,"ARG","1391","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jose Toledo",8670,"GUA","1424","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"William Kropp",18193,"USA","1452","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Eric Sugimoto",21326,"JPN","1462","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"David S Bradshaw",11600,"USA","1483","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"James Vargas",11798,"USA","1508","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Ian Davis",18589,"USA","1563","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Michael Buttacavoli",15395,"USA","1564","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Daniel Vancsik",6587,"ARG","1630","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Benjamin Alvarado",12547,"CHI","1640","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Bryan Martin",17199,"USA","1640","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Armando Villarreal",17396,"MEX","1661","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Sebastian Saavedra",11922,"ARG","1716","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Nelson Ledesma",15239,"ARG","1716","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jonathan Page",19473,"USA","1730","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Tommy Cocha",12805,"ARG","1740","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Brad Gehl",18791,"USA","1798","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Sandro Piaget",11351,"MON","1817","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Steve Carney",18532,"USA","1870","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Matias O'Curry",13629,"ARG","1882","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Evan Harmeling",16909,"USA","1890","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Geoffrey Schacher",7748,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Bryce Ledford",8964,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Alan Wagner",10871,"ARG","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Armando Zarlenga",12818,"ARG","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Alfredo Adrian",12947,"VEN","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Cristian Espinoza",13600,"CHI","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Tyson Alexander",14002,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Devin Carrey",14507,"CAN","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Ty Capps",15835,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Michael Weaver",16110,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Alberto Sanchez",16246,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"James Hazen",16281,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Patrick Newcomb",16311,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Rafael Guerrero",16788,"VEN","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Julian Lerda",17014,"ARG","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Santiago Bauni",17025,"ARG","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Rodrigo Lee",17237,"BRA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Michael Davan",17378,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Chris Evans(March1988)",17391,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Adrian Rodriguez",17424,"MEX","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Thomas Baik",18112,"ARG","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Colin Featherstone",18257,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Matt Ryan",18261,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Ignacio Marino",18334,"ARG","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Geoffrey Maldonado",18512,"HON","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Matt Schall",18871,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Gerardo Ruiz",19079,"MEX","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Michael McGowan",19472,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Dalan Refioglu",19475,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Juan Salcedo",19598,"MEX","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Eduardo Alvarez",19707,"HON","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jonathen Schacher",19710,"HON","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Blake Olson",19758,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Sam Saunders(Mar1992)",19765,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Tom E Moore",19768,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Ally Tidcombe",20774,"CAN","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jose Antonio Hernandez",20974,"MEX","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Nicolas Maruri",20975,"MEX","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Asaf Cohen",21021,"ISR","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Tyler Torano",21327,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Mariano Benitez",21452,"ARG","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Javier Quevedo Gibbe",21551,"MEX","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Taylor R. Hancock",21887,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Spencer Fletcher",21941,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Hank Lebioda",21943,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Austin Jordan",22044,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Maclain Huge",22211,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Brett White",22461,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Joseph Naffah",22560,"VEN","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Nick Palladino",22773,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Adam Ball",22975,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"JD Dornes",22977,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Eric McCardle",22982,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Rohan Ramnath",22983,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jonathan Sanders",22984,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Austin Smotherman",22985,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Shad Tuten",22986,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Zach Zaback",22988,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"David Denlinger",23015,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Sean Bosdosh",23049,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Matthew Garcia",23051,"USA","1894","Honduras Open presented by Indura Golf Resort",6531,2017-03-26,"PGA Tour Latinoamerica",NA,NA,2017-03-21
+"Jacques Kruyswijk",16896,"RSA","238","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Matt Wallace",20706,"ENG","256","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jaco Ahlers",11852,"RSA","257","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Clement Sordet",17718,"FRA","292","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Erik van Rooyen",17550,"RSA","349","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Aaron Rai",18554,"ENG","356","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Darius Van Driel",13374,"NED","372","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Adrien Saddier",14792,"FRA","377","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Mark F Haastrup",7952,"DEN","390","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jens Dantorp",14018,"SWE","411","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Oscar Lengden",20410,"SWE","424","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Sebastian Soderberg",18517,"SWE","430","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Gary Boyd",12795,"ENG","434","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Danie van Tonder",15193,"RSA","451","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Max Orrin",17903,"ENG","452","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Oscar Stark",18131,"SWE","453","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Christofer Blomstrand",20167,"SWE","454","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ryan Evans",19030,"ENG","464","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Mark Williams",4872,"ZIM","470","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Julien Guerrier",10201,"FRA","475","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Oliver Lindell",20085,"FIN","479","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ruan de Smidt",15864,"RSA","481","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Simon Forsstrom",19806,"SWE","485","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Robert Dinwiddie",11894,"ENG","486","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ross McGowan",11981,"ENG","518","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Garrick Porteous",16400,"ENG","529","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Joachim B Hansen",14284,"DEN","530","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Borja Virto Astudillo",17313,"ESP","542","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Dominic Foos",17022,"GER","546","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Antoine Schwartz",15512,"FRA","553","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Craig Lee",4398,"SCO","562","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Mathieu Fenasse",17831,"FRA","563","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ben Evans",10151,"ENG","575","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Daan Huizing",12650,"NED","576","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jurrian Van der Vaart",13489,"NED","581","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Chris Lloyd",15201,"ENG","583","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Louis de Jager",12821,"RSA","592","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Federico Maccario",17655,"ITA","594","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Michael Hoey",7303,"NIR","599","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Alvaro Velasco",9603,"ESP","608","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Oliver Farr",13318,"WAL","609","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Sebastian Heisele",16499,"GER","610","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Marcus Kinhult",18514,"SWE","615","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Tom Shadbolt",15190,"ENG","618","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Mikael Lundberg",4718,"SWE","619","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Niklas Lindstrom",20222,"SWE","623","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Enrico Di Nitto",17652,"ITA","632","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ashley Chesters",18735,"ENG","643","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Alex Wennstam",19933,"SWE","645","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Mark Laskey",11112,"WAL","649","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jack Senior",15115,"ENG","652","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Moritz Lampert",13438,"GER","658","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Christopher Mivis",11198,"BEL","666","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Tom Murray",17077,"ENG","668","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Clement Berardo",14970,"FRA","670","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Austin Connelly",19704,"CAN","670","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Steven Brown",15771,"ENG","672","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Niccolo Ravano",10071,"ITA","684","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Martin Ovesen",19847,"DEN","687","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Julian Kunzenbacher",18842,"GER","688","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Matteo Delpodio",11121,"ITA","692","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Bryce Easton",15181,"RSA","692","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Curtis Griffiths",19991,"ENG","694","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Matt Ford",10139,"ENG","708","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jordi Garcia Pinto",12990,"ESP","716","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Max Kramer",9220,"GER","717","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Lorenzo Gagli",10073,"ITA","721","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Paul Maddy",17343,"ENG","724","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Richard James",17810,"WAL","729","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Madalitso Muthiya",11035,"ZAM","733","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Andrea Pavan",12177,"ITA","745","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Reinier Saxton",11564,"NED","751","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Chris Selfridge",13982,"IRL","765","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Paul Howard",19510,"ENG","778","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ross Kellett",13235,"SCO","783","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Franck Daux",20670,"FRA","785","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Nicolas Geyger",13607,"CHI","818","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Victor Perez",20730,"FRA","823","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Peter Tarver-Jones",19516,"ENG","829","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Charlie Bull",19735,"ENG","832","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Alessandro Tadini",7001,"ITA","845","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Rhys Davies",11527,"WAL","855","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Joel Sjoholm",12485,"SWE","863","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Victor Riu",12217,"FRA","864","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Steven Jeppesen",8125,"SWE","868","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"David Law",14784,"SCO","881","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Pontus Widegren",11661,"SWE","883","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ricardo Santos",8816,"POR","925","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Francesco Laporta",14987,"ITA","925","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Scott Fernandez",15616,"ESP","929","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Wil Besseling",9413,"NED","939","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Niclas Johansson",14893,"SWE","941","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Julien Brun",16363,"FRA","946","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jake Roos",9879,"RSA","948","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Charlie Ford",14400,"ENG","952","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Kalle Samooja",14120,"FIN","962","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Joel Girrbach",15592,"SUI","967","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Edouard Dubois",10624,"FRA","1000","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Edouard Espana",14787,"FRA","1110","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Julian Suri",18059,"USA","1136","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Sam Connor",18679,"ENG","1162","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Hugues Joannes",11201,"BEL","1178","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Morten Orum Madsen",13411,"DEN","1202","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Gary Hurley",18657,"IRL","1267","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Stefan Engell Andersen",13842,"KEN","1268","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Benjamin Rusch",13281,"SUI","1303","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Chris Doak",10458,"SCO","1336","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Stephen Ferreira",17409,"POR","1366","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jerome Lando-Casanova",14040,"FRA","1368","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Robin Sciot-Siegrist(Am)",20131,"FRA","1404","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Matthew Baldwin",13344,"ENG","1454","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jamie Rutherford",18555,"ENG","1559","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Adrian Meronk",14196,"POL","1574","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Oliver Wilson",8300,"ENG","1612","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ryan McCarthy",15165,"AUS","1655","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"James Allan",18778,"ENG","1663","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Filippo Bergamaschi",15266,"ITA","1673","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Maarten Lafeber",5843,"NED","1724","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Kevin Hesbois",13373,"BEL","1766","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Bradley Neil",18737,"SCO","1814","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Jacob Okello",6572,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Dismas Indiza",7160,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Kopan Timbe",8748,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"David Odhiambo",8750,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Richard Ainley",8757,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Andrew Odoh",9893,"NIG","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Riz Charania",10640,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Brian Njorge",11008,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Nicholas Rokoine(Am)",11014,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Simon Ngigi(Am)",12063,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Greg Snow",12067,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"David Wakhu",12893,"RSA","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Njuguna Ngugi",14465,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Boniface Simwa(Am)",14468,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Mathias Eggenberger",14810,"SUI","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Nelson Mudanyi",15287,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"David Opati(Am)",15289,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Joseph Waweru Karanja(Am)",16094,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Matthew Omondi",16096,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Justus Madoya(am)",17155,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Nelson Simwa(am)",17157,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"John Wangai",17158,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Tony Omuli(am)",17159,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"John Karichu(Am)",18242,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Antoine Rozner",18770,"FRA","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Ben Robinson",18914,"ENG","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Cormac Sharvin",18915,"NIR","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Harry Casey",19458,"ENG","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Alfred Nandwa(AM)",19513,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Kenneth Bollo(AM)",21369,"KEN","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Christian Braeunig",22969,"GER","1894","Barclays Kenya Open",6532,2017-03-26,"European Challenge Tour",NA,NA,2017-03-21
+"Luke Joy",19314,"ENG","752","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Billy Hemstock",14843,"ENG","754","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Andrew Marshall",7177,"ENG","792","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Johann Lopez Lazzaro",14684,"FRA","803","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Craig Hinton",15580,"ENG","817","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Rayhan Thomas(AM)",21234,"IND","827","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Henric Sturehed",20148,"SWE","905","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Antonio Costa",17305,"CHI","969","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jack Doherty",8161,"SCO","972","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Carlos Balmaseda",6543,"ESP","1022","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Ahmed Marjane",15970,"MAR","1061","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Leonardo Lilja",20686,"ESP","1093","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Aron Zemmer",15952,"ITA","1111","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Tyler Hogarty",19312,"RSA","1118","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Aaron Leitmannstetter",20374,"GER","1122","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Younes El Hassani",7297,"MAR","1193","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Lee Corfield",9390,"ENG","1199","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Zane Scotland",7265,"ENG","1206","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Adam Sagar",21633,"ENG","1352","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"David Coupland",12427,"ENG","1432","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Tim Gornik",19605,"SLO","1459","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Grant Forrest",16475,"SCO","1467","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"William Harrold",17070,"ENG","1467","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Fredrik From",21621,"SWE","1479","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jordan  Garnish ",21622,"ENG","1485","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Matias Calderon(Am)",22607,"CHI","1485","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Max Williams",13741,"ENG","1512","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Gabriel Canizares",6512,"ESP","1518","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Sixto Casabona-Navarro",18627,"ESP","1518","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Nick McCarthy",15172,"ENG","1554","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Robbie Busher",17397,"ENG","1587","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Andreas Andersson",11653,"SWE","1595","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jamie Elson",7564,"ENG","1800","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Paul Dwyer",2632,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Peter Gustafsson",6525,"SWE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Danny Poulter",7182,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Abdelhak Sabi",7871,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Faycal Serghini",9304,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mustapha El Kharraz",9674,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Nacer Makroune",9727,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Rachid El Kharraz",9737,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jonathan Fransson",11248,"SWE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Othman Al Mulla(Am)",11985,"KSA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Sergi Nogue",13884,"ESP","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Georg Schultes",13963,"GER","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mehdi Saissi",14718,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Stuart Archibald",14842,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Victor Bertran Crous",15325,"ESP","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jake Shepherd",15972,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mustapha El Maouas",16069,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jack McDonald",16372,"SCO","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Petr Dedek",16717,"CZE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Clarke Lutton",17182,"SCO","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Matt Carroll",17353,"USA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Daniel Suchan",17522,"CZE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Charles Tortuyaux",17840,"FRA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Ediz Kemaloglu",18052,"TUR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Matt Killen",18219,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Adam Ward",18231,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Matthew Williams",18578,"AUS","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Max Smith",18916,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Karim El Hali",19311,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Daniel Kay",19315,"SCO","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Anton Guedra",19606,"SWE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Thomas Bosco-Cwiok",19658,"POL","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jamie Savage",19907,"SCO","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Liam Crawford",19976,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Josh Walsh",20036,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jesper Alm",20155,"SWE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mathias Weiderman",20259,"SWE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Patrick Actis Alesina",20264,"ITA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Tom Boys",20270,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Kevin Rhoderick",20296,"USA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Christopher Van Der Meulen",20312,"RSA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Davide Albertini",20355,"SUI","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Gonzalo Escauriaza",20672,"ESP","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jose Ignacio Marin Casado",20687,"ESP","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Ronan McGuirk",20764,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Michele Ortolani",20845,"ITA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Akash Modi",21051,"IND","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jason Froneman",21195,"RSA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Karim Balouti",21261,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mohamed Belaroussia",21262,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Reda Chanane(Am)",21263,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Abdelali Channane(Am)",21264,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Nicolas Claverie(Am)",21265,"FRA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Amine El Malki(Am)",21267,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Yassine Touhami",21273,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mohamed Amine Al Moussaoui",21358,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Aymen Bourehim(Am)",21359,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Soufiane Dahmane(Am)",21438,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Ayoub Saidi(Am)",21440,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"David Anderson",21612,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"James Ashman",21613,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Rohan  Bahri(Am)",21614,"IND","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Aarkesh Bhatia(Am)",21615,"IND","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Louis  Campbell ",21616,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mark Chamberlain",21617,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Benjamin David",21618,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Kevin Esteve",21620,"AND","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jonny McAllister",21627,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mariano Ochoa",21629,"ESP","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Elliott Oxlade",21630,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Rocco Sanjust",21634,"ITA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Abdulrahman Sihag",21635,"KEN","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Galen Aldrich",21637,"USA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Billy Spooner",21787,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Darren Walkley",22362,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Craig Kieswetter(Am)",22464,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Todd Clements(Am)",22608,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Rafa Culla",22610,"ESP","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Sam Hobday(Am)",22614,"BRN","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Edward Holland",22615,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Edward Kent",22616,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Salvador Paya Vila",22620,"ESP","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Daniel Hendry",22708,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Pierre Junior Verlaar(Am)",22746,"NED","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Ben Amor",23061,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Omar Arhazraf",23062,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Taylor Carter(Am)",23063,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jan  Dalshtrom(Am)",23064,"FRA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Michael Day",23065,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Mohamed El Hali",23066,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Amine  El Kharraz(Am)",23067,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Toby Hunt",23069,"WAL","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Oliver Jacobsson(July1997)",23070,"SWE","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Charlie George",23071,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Sami Keating(Am)",23072,"OMA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Aryavir Kumar",23073,"IND","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Reed Lindsey",23075,"USA","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Jordan Loft",23076,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Semlali Mohamed(Am)",23077,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Lakshya Mudgil",23078,"IND","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Scott Newell(Am)",23079,"ENG","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
+"Othmane  Raouzi(Am)",23080,"MAR","1894","Royal Golf Mohammedia Open",6534,2017-03-26,"MENA Tour",NA,NA,2017-03-21
