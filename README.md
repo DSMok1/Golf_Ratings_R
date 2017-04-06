@@ -12,8 +12,12 @@ CSV: https://github.com/DSMok1/Golf_Ratings_R/blob/master/Output/Golf_Ratings_Cu
 
 Formatted Excel of the top 1000: https://github.com/DSMok1/Golf_Ratings_R/blob/master/Output/Golf_Ratings_Current.xlsx
 
+All of the latest output is located at: https://github.com/DSMok1/Golf_Ratings_R/blob/master/Output/
+
 Here's the top 50 currently:
+
 ![Top 50 Image](/Output/Golf_Ratings_Current_top_50.png)
 
 Here's the last tournament simulation top 25 that was done (I don't update this every week, so it could be a few weeks old):
+
 ![Tournament Sim](/Output/Current_Event_Simulation_top_25.png)
