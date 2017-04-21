@@ -10,8 +10,8 @@ Source_Regression <- function () {if (!exists("Golf_Ratings_Regression", mode = 
 ### Primary Variables to Adjust ####
 
 First_Date <-  # Sys.Date()
-  as.Date("2017-02-14")   # This regression will do the XX years prior to this date
-Last_Date <- as.Date("2017-02-21")
+  as.Date("2017-04-13")   # This regression will do the XX years prior to this date
+Last_Date <- as.Date("2017-04-21")
 
 First_Date <- First_Date + (4 - wday(First_Date))   # Wednesday of the current week
 

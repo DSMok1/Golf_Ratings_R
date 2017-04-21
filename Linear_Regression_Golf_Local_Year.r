@@ -29,9 +29,9 @@ Golf_Ratings_Regression <- function(Split_Date = Sys.Date(),Split_Type = "Before
   
 Split_Date <- as.Date(Split_Date)
 
-Rating_Date <- Split_Date + (4 - wday(Split_Date))   # Wednesday of the current week
+Rating_Date <- Split_Date + (4 - wday(Split_Date))   # Wednesday of the rated week
 
-Prev_Rating_Date <- Rating_Date -7         # Last Wednesday
+Prev_Rating_Date <- Rating_Date -7         # Wednesday prior to rated week
 
 Exponential_Decay_Constant <- 0.98
 Step_Weights <-
@@ -680,9 +680,9 @@ Target_Results_Players <-
 
 write.csv(Target_Results_Players, file = Save_Location, row.names = FALSE)
 
+Current_Rating_Date <- Sys.Date() + (4 - wday(Sys.Date()))   # Wednesday of the current week
 
-
-if (Split_Date %in% c(Sys.Date(),Sys.Date()-1)) {
+if (Rating_Date == Current_Rating_Date) {
   Save_Location_Current <-
     "Output/Golf_Ratings_Current.csv"
   

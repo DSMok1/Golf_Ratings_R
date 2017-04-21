@@ -33,7 +33,7 @@ Ratings <- read.csv("Output/Golf_Ratings_Current.csv")
 
 
 
-Trials <- 10000
+Trials <- 100000
 
 
 ### Map Data ####
