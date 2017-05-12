@@ -9,7 +9,7 @@ Source_Regression <- function () {if (!exists("Golf_Ratings_Regression", mode = 
 
 ### Primary Variables to Adjust ####
 
-First_Date <-  # Sys.Date()
+First_Date <-             # Sys.Date()
   as.Date("2017-04-13")   # This regression will do the XX years prior to this date
 Last_Date <- as.Date("2017-04-21")
 
