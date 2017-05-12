@@ -1,1 +1,483 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Dustin Johnson",12422,"USA","1","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Rory McIlroy",10091,"NIR","2","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jason Day",9771,"AUS","3","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Hideki Matsuyama",13562,"JPN","4","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jordan Spieth",14636,"USA","5","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Sergio Garcia",5689,"ESP","6","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Henrik Stenson",5994,"SWE","7","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Justin Rose",6093,"ENG","8","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Rickie Fowler",12965,"USA","9","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Justin Thomas",14139,"USA","10","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Adam Scott",6430,"AUS","11","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jon Rahm",19195,"ESP","12","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Alex Noren",10419,"SWE","13","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Paul Casey",7108,"ENG","14","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Patrick Reed",14838,"USA","15","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Tyrrell Hatton",14796,"ENG","16","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Charl Schwartzel",7398,"RSA","17","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Matt Kuchar",6169,"USA","18","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Brooks Koepka",16243,"USA","19","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Phil Mickelson",1547,"USA","20","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Danny Willett",12920,"ENG","21","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Branden Grace",11952,"RSA","22","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Kevin Chappell",13305,"USA","23","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jimmy Walker",7293,"USA","24","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Bubba Watson",7334,"USA","26","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Tommy Fleetwood",12294,"ENG","28","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Bernd Wiesberger",9531,"AUT","29","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Russell Knox",13831,"SCO","30","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ryan Moore",7489,"USA","31","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Marc Leishman",7649,"AUS","32","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Louis Oosthuizen",7672,"RSA","33","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Francesco Molinari",7655,"ITA","34","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Rafael Cabrera Bello",7457,"ESP","35","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Wesley Bryan",21236,"USA","36","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Daniel Berger",17606,"USA","37","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Matthew Fitzpatrick",17646,"ENG","38","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Emiliano Grillo",12808,"ARG","39","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Gary Woodland",12577,"USA","40","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Kevin Kisner",11328,"USA","41","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Pat Perez",6762,"USA","42","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Bill Haas",7900,"USA","43","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"J.B. Holmes",7959,"USA","44","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ross Fisher",9396,"ENG","45","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"William McGirt",12477,"USA","46","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Adam Hadwin",13965,"CAN","47","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Martin Kaymer",8117,"GER","48","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Yuta Ikeda",8236,"JPN","49","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Russell Henley",14578,"USA","50","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Lee Westwood",4052,"ENG","51","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Brian Harman",8825,"USA","52","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Charley Hoffman",5768,"USA","53","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Scott Piercy",7899,"USA","57","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Kevin Na",7452,"USA","58","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Zach Johnson",6986,"USA","59","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Brendan Steele",11019,"USA","60","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jhonattan Vegas",13508,"VEN","61","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jason Dufner",7301,"USA","63","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Tony Finau",11676,"USA","67","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Webb Simpson",11049,"USA","68","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jim Furyk",2881,"USA","69","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Shane Lowry",13900,"IRL","70","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Luke Donald",4163,"ENG","73","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Siwoo Kim",14609,"KOR","75","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Billy Horschel",11276,"USA","76","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Hudson Swafford",14706,"USA","78","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jim Herman",12846,"USA","79","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"James Hahn",11374,"USA","82","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Graeme McDowell",7548,"NIR","83","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Anirban Lahiri",12669,"IND","84","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ryan Palmer",7820,"USA","87","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Sunghoon Kang",7881,"KOR","88","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Sean O'Hair",7626,"USA","89","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Daniel Summerhays",12424,"USA","91","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Roberto Castro",12643,"USA","95","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Steve Stricker",4818,"USA","97","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Harris English",14577,"USA","99","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jamie Lovemark",11382,"USA","102","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Chris Kirk",12423,"USA","103","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Martin Laird",9586,"SCO","104","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Keegan Bradley",13872,"USA","105","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"David Lingmerth",14815,"SWE","109","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Graham Delaet",10252,"CAN","110","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Cameron Smith",15856,"AUS","114","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Billy Hurley III",11046,"USA","115","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Danny Lee",11826,"NZL","116","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Luke List",7960,"USA","117","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Mackenzie Hughes",15556,"CAN","118","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Aaron Baddeley",6252,"AUS","119","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jason Kokrak",12337,"USA","121","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Lucas Glover",7399,"USA","124","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Scott Brown",11330,"USA","125","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Harold Varner III",16602,"USA","127","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Fabian Gomez",8571,"ARG","129","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Patrick Cantlay",15466,"USA","131","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Smylie Kaufman",18631,"USA","137","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Brian Stuard",13022,"USA","140","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Chez Reavie",7961,"USA","142","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Kevin Streelman",8480,"USA","143","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Vaughn Taylor",6930,"USA","146","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Robert Streb",14852,"USA","147","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Rod Pampling",5668,"AUS","152","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Patton Kizzire",13470,"USA","153","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Patrick Rodgers",16283,"USA","164","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Grayson Murray",14655,"USA","165","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jerry Kelly",5151,"USA","170","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Kyle Stanley",12069,"USA","176","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Chad Campbell",6248,"USA","187","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Alex Cejka",4425,"GER","191","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Kyle Reifers",11329,"USA","193","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"John Huh",14606,"USA","194","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ian Poulter",1435,"ENG","197","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Seungyul Noh",11117,"KOR","197","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"D.A. Points",6761,"USA","199","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"David Hearn",7340,"CAN","203","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"K.J. Choi",1804,"KOR","207","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Derek Fathauer",12689,"USA","212","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Robert Garrigus",6789,"USA","215","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Michael Kim",17543,"USA","217","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Cody Gribble",17508,"USA","221","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Zac Blair",17639,"USA","225","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ben Martin",14007,"USA","226","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Blayne Barber",15608,"USA","231","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Bryce Molder",7292,"USA","234","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Johnson Wagner",7927,"USA","238","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Tyrone van Aswegen",9913,"RSA","248","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Troy Merritt",13367,"USA","257","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Brian Gay",5951,"USA","262","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Freddie Jacobson",3846,"SWE","266","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jonas Blixt",8182,"SWE","267","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Cameron Tringale",14013,"USA","269","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Vijay Singh",653,"FIJ","274","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Andrew Loupe",15318,"USA","283","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Greg Chalmers",5625,"AUS","291","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Spencer Levin",8199,"USA","303","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ricky Barnes",6846,"USA","310","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Brett Stegmaier",11354,"USA","350","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Jason Bohn",6462,"USA","375","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Boo Weekley",7403,"USA","384","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ernie Els",874,"RSA","412","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Shawn Stefani",14012,"USA","414","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Peter Malnati",14926,"USA","425","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ben Crane",6674,"USA","436","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"David Toms",4340,"USA","448","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Mark Hubbard",16333,"USA","542","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Bernhard Langer",290,"GER","1047","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Matt Every",10185,"USA","1165","THE PLAYERS Championship ",6576,2017-05-14,"PGA Tour",NA,NA,2017-05-11
+"Ricardo Gouveia",18722,"POR","208","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Aaron Rai",18554,"ENG","223","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Pep Angles Ros",19634,"ESP","240","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jaco Ahlers",11852,"RSA","241","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Matt Wallace",20706,"ENG","242","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Sam Walker",7157,"ENG","243","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Matthieu Pavon",19960,"FRA","245","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Christiaan Bezuidenhout",18103,"RSA","265","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Paul Lawrie",5105,"SCO","271","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Trevor Fisher-Jr",7678,"RSA","282","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Pavit Tangkamolprasert",11958,"THA","292","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Adrien Saddier",14792,"FRA","295","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Clement Sordet",17718,"FRA","304","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Robert Rock",7895,"ENG","305","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ryan Evans",19030,"ENG","311","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Marcus Armitage",17813,"ENG","320","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Joel Stalter",17722,"FRA","322","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Erik van Rooyen",17550,"RSA","329","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Nick Cullen",14247,"AUS","337","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"David Drysdale",6867,"SCO","342","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Justin Walters",8045,"RSA","343","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Florian Fritsch",9217,"GER","360","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Duncan Stewart",12472,"SCO","362","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Darius Van Driel",13374,"NED","381","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jose-Filipe Lima",7868,"POR","399","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Johan Edfors",6852,"SWE","403","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Richard Green",3877,"AUS","416","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jeff Winther",15680,"DEN","420","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Damien Perrier",12661,"FRA","422","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Julien Guerrier",10201,"FRA","423","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Zander Lombard",16897,"RSA","427","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Oliver Fisher",10863,"ENG","429","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Oscar Lengden",20410,"SWE","446","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"James Heath",9365,"ENG","451","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Eddie Pepperell",15113,"ENG","463","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Gary King",17835,"ENG","467","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jens Dantorp",14018,"SWE","473","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Max Orrin",17903,"ENG","479","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Oscar Stark",18131,"SWE","484","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Anton Karlsson",20405,"SWE","485","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Sebastian Soderberg",18517,"SWE","491","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Richard McEvoy",7389,"ENG","496","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Scott Henry",12468,"SCO","509","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Stuart Manley",8222,"WAL","525","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Simon Forsstrom",19806,"SWE","526","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Borja Virto Astudillo",17313,"ESP","529","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Marcus Kinhult",18514,"SWE","532","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ashley Chesters",18735,"ENG","556","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Robert Dinwiddie",11894,"ENG","560","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Tapio Pulkkanen",13139,"FIN","567","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Joachim B Hansen",14284,"DEN","585","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Thomas Linard",15337,"FRA","586","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ben Eccles",17163,"AUS","587","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Roope Kakko",9199,"FIN","591","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Sebastian Heisele",16499,"GER","592","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ben Evans",10151,"ENG","595","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jens Fahrbring",13445,"SWE","596","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Craig Lee",4398,"SCO","598","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Garrick Porteous",16400,"ENG","602","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Simon Khan",6686,"ENG","603","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ross McGowan",11981,"ENG","608","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Steven Tiley",9311,"ENG","610","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Federico Maccario",17655,"ITA","611","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Dominic Foos",17022,"GER","612","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Alvaro Velasco",9603,"ESP","622","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jurrian Van der Vaart",13489,"NED","627","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Martin Ovesen",19847,"DEN","631","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Tom Lewis",15164,"ENG","637","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Daan Huizing",12650,"NED","642","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Oliver Farr",13318,"WAL","644","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Pedro Figueiredo",10033,"POR","649","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Mikael Lundberg",4718,"SWE","652","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Michael Hoey",7303,"NIR","654","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Niklas Lindstrom",20222,"SWE","656","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Estanislao Goya",10877,"ARG","668","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Daniel Fox",10112,"AUS","672","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Enrico Di Nitto",17652,"ITA","677","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Nathan Kimsey",18027,"ENG","685","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Alvaro Quiros",7886,"ESP","687","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Francesco Laporta",14987,"ITA","687","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Austin Connelly",19704,"CAN","698","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Moritz Lampert",13438,"GER","700","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Matteo Delpodio",11121,"ITA","701","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Steven Brown",15771,"ENG","716","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Christopher Mivis",11198,"BEL","721","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Laurie Canter",14795,"ENG","723","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Seve Benson",11574,"ENG","724","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Clement Berardo",14970,"FRA","729","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ruaidhri McGee",17818,"IRL","734","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jack Senior",15115,"ENG","739","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jordi Garcia Pinto",12990,"ESP","742","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Mark Foster",5928,"ENG","748","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Matt Ford",10139,"ENG","773","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Matthew Nixon",15184,"ENG","773","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Alessandro Tadini",7001,"ITA","775","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Paul Maddy",17343,"ENG","783","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Wil Besseling",9413,"NED","799","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Kristian Krogh Johannessen",16421,"NOR","803","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Reinier Saxton",11564,"NED","806","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Andrea Pavan",12177,"ITA","810","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Lorenzo Gagli",10073,"ITA","818","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Pedro Oriol",10248,"ESP","825","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Chris Selfridge",13982,"IRL","827","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Rhys Davies",11527,"WAL","830","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ross Kellett",13235,"SCO","834","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Nicolas Geyger",13607,"CHI","888","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Victor Riu",12217,"FRA","917","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Pontus Widegren",11661,"SWE","944","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"David Law",14784,"SCO","944","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Robert Coles",5714,"ENG","946","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Mark Tullo",10872,"CHI","967","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Niclas Johansson",14893,"SWE","979","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Scott Fernandez",15616,"ESP","982","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Charlie Ford",14400,"ENG","987","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Steve Webster",5667,"ENG","989","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Rafael Echenique",7988,"ARG","990","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ricardo Santos",8816,"POR","1003","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Joel Girrbach",15592,"SUI","1008","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Grant Forrest",16475,"SCO","1022","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Adrian Meronk",14196,"POL","1027","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"John Parry",13764,"ENG","1086","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Scott Arnold",11810,"AUS","1101","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Edouard Dubois",10624,"FRA","1120","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Matthew Baldwin",13344,"ENG","1141","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Julian Suri",18059,"USA","1168","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Filip Mruzek",14883,"CZE","1254","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Hugues Joannes",11201,"BEL","1301","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Kevin Phelan",14702,"IRL","1306","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Gary Hurley",18657,"IRL","1311","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Craig Farrelly",12979,"ENG","1325","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Bradley Neil",18737,"SCO","1359","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Morten Orum Madsen",13411,"DEN","1363","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Robin Sciot-Siegrist",20131,"FRA","1447","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Simon Dyson",6436,"ENG","1468","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Luca Cianchetti(Am)",20843,"ITA","1504","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Borja Etchart",12155,"ESP","1618","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Oliver Wilson",8300,"ENG","1623","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jamie Rutherford",18555,"ENG","1668","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"James Allan",18778,"ENG","1689","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ryan McCarthy",15165,"AUS","1691","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Richard Finch",6636,"ENG","1695","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Filippo Bergamaschi",15266,"ITA","1717","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Tiago Cruz",8813,"POR","1776","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Maarten Lafeber",5843,"NED","1825","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Mike Weir",5513,"CAN","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Andrea Maestroni",7000,"ITA","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Hugo Santos",8814,"POR","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Joao Carlota",12079,"POR","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Tomas Silva(Am)",14688,"POR","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Jamie Abbott",14794,"ENG","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Petr Dedek",16717,"CZE","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Ewen Ferguson",21646,"SCO","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Joao Ramos",22814,"POR","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Christian Braeunig",22969,"GER","1908","Open de Portugal at Morgado Golf Resort",6577,2017-05-14,"European Challenge Tour","European Tour",NA,2017-05-11
+"Oliver Lindell",20085,"FIN","508","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jonathan Agren",20400,"SWE","638","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Daniel Lokke",14287,"DEN","784","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Alex Wrigley",18747,"ENG","792","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Nicolai Tinning",20256,"DEN","850","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Oliver Suhr",12562,"DEN","855","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Mathias Gladbjerg",20187,"DEN","882","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Mikael Lindberg",20084,"SWE","884","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Erik Myllymaki",16408,"FIN","906","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Joel Sjoholm",12485,"SWE","913","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Christopher Feldborg Nielsen",20147,"SWE","950","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Victor Gebhard Osterby",16449,"DEN","961","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Steven Jeppesen",8125,"SWE","965","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Christian Aronsen",9497,"NOR","992","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Linus Vaisanen",19959,"FIN","993","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Benjamin Henry Poke",20244,"DEN","1059","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Niclas Hellberg",20057,"FIN","1065","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Kristoffer Reitan",21407,"NOR","1071","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Patrick Winther",20127,"DEN","1077","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Oscar Bergman(1992)",20163,"SWE","1088","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Birgir Hafthorsson",6166,"ISL","1133","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Victor Theandersson",20423,"SWE","1144","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Per Langfors",20414,"SWE","1149","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Ake Nilsson",9493,"SWE","1257","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Gustaf Kocken",20070,"SWE","1303","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Antti Ahokas",11897,"FIN","1325","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Philip Ulveman Juel-Berg",20207,"DEN","1368","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Gustav Adell",12234,"SWE","1388","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Axel Boasson",20733,"ISL","1455","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jacob Glennemo",13447,"SWE","1487","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Oskar Henningsson",9399,"SWE","1491","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Christian Baech Christensen",19638,"DEN","1515","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Niklas Lemke",10418,"SWE","1539","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jan-Philip Neuendorf",20230,"GER","1542","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Sebastian Hansson(1991)",20397,"SWE","1556","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Richard Pettersson",18708,"SWE","1567","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jesper Gunder Larsen",20214,"DEN","1612","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Martin Amtkjaer",20156,"DEN","1629","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Andreas Andersson",11653,"SWE","1632","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Torbjorn Johansen",21404,"NOR","1650","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Marcus Larsson",12583,"SWE","1741","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Erik Oja",20097,"SWE","1784","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Gabriel Axell",20150,"SWE","1815","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Christian Gloet",16444,"DEN","1818","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Nicolai Kristensen(1992-05)",18857,"DEN","1827","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Knud Storgaard",6154,"DEN","1833","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Simon Willer",20126,"DEN","1842","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Magnus  Persson Atlevi",315,"SWE","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Mads Vibe-Hastrup",6899,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jesper Kennegard",11531,"SWE","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Elias Bertheussen",12488,"NOR","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Simon Gundorph",13410,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Miro Veijalainen",14121,"FIN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Niklas Norgaard Moller",15676,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Anders Ellingsberg",18840,"NOR","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Nikolai Hogh",19640,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Peter Launer Baek",19642,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jeppe Kristian Andersen",20158,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Patrick Rasmussen",20245,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Mathias Lynne Schjolberg",20248,"NOR","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Andreas Sondergaard",20252,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Joachim Szots",20255,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Allan Werner",20260,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Robert Jonasson",20477,"SWE","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Adam Andersson",20525,"SWE","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Lukas Crisp",20806,"SWE","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Sander Stavnar",21605,"NOR","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Nicolai Emil Oxenboll",21681,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jakob Hansson",21866,"SWE","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Frederik Andersen",22672,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Andri Bjornsson",22991,"ISL","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Thomas Lokke",22995,"DEN","1908","Kellers Park Masters",6581,2017-05-14,"Nordic Golf League",NA,NA,2017-05-11
+"Jazz Janewattananond",14368,"THA","220","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Danthai Boonma",16424,"THA","251","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Lionel Weber",15513,"FRA","589","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Luke Joy",19314,"ENG","780","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Itthipat Buranatanyarat",16425,"THA","792","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Craig Hinton",15580,"ENG","858","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Rayhan Thomas(AM)",21234,"IND","872","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Henric Sturehed",20148,"SWE","922","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Wolmer Murillo",14447,"VEN","956","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"James Byrne",13233,"SCO","969","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Tyler Hogarty",19312,"RSA","995","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Leonardo Lilja",20686,"ESP","1088","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Chawalit Plaphol",5745,"THA","1099","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jamie Elson",7564,"ENG","1107","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Aaron Leitmannstetter",20374,"GER","1152","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Lee Corfield",9390,"ENG","1218","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Blake Snyder",18545,"USA","1264","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Fredrik Lindblom",21609,"SWE","1264","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Zane Scotland",7265,"ENG","1280","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Daniel Owen",17121,"ENG","1362","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Adam Sagar",21633,"ENG","1388","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Fredrik From",21621,"SWE","1522","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jordan  Garnish ",21622,"ENG","1525","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Tiago Lobo(Am)",21626,"BRA","1525","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Tim Gornik",19605,"SLO","1548","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ronnachai Jamnong",8502,"THA","1693","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Paul Dwyer",2632,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Kwanchai Tannin",8512,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jonathan Fransson",11248,"SWE","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Abhishek Jha",12667,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Michael Dreyer",12851,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ganive Giddie(Am)",12899,"KEN","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Nakul Vichitryuthasastr",13252,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Rahul Bajaj",13516,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Georg Schultes",13963,"GER","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Pattaraphol Khanthacha",14130,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Karan Vasudeva",14293,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ahmed Al musharrekh",14407,"UAE","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Stuart Archibald",14842,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Napat Pattamasing",14946,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Michael Harradine(Am)",17069,"SUI","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Clarke Lutton",17182,"SCO","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ediz Kemaloglu",18052,"TUR","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Michael Pearce",18095,"AUS","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Matt Killen",18219,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Settee Prakongvech",18236,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Matthew Williams",18578,"AUS","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Worrasorn Suwanpanang",18597,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Joshua Seale",18647,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Daniel Pow",18795,"CAN","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Max Smith",18916,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ekthumrong Luanganurak",19024,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Manish Goyal",19133,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jaturon Duangphaichoom",19321,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Andi Dill",19348,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Burger Heckroodt",19424,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Cyril Suk",19717,"CZE","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Liam Crawford",19976,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Josh Walsh",20036,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Andreas Gronkvist",20054,"SWE","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jesper Alm",20155,"SWE","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Mathias Weiderman",20259,"SWE","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Tom Boys",20270,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Christopher Van Der Meulen",20312,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Davide Albertini",20355,"SUI","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Gonzalo Escauriaza",20672,"ESP","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jose Ignacio Marin Casado",20687,"ESP","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ronan McGuirk",20764,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Akash Modi",21051,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Gerrit Foster",21304,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Wayne Stroebel",21450,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"James Ashman",21613,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Rohan  Bahri",21614,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Aarkesh Bhatia(Am)",21615,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Louis  Campbell ",21616,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Mark Chamberlain",21617,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Benjamin David",21618,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Kevin Esteve",21620,"AND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ryan Hunter(Am)",21625,"NZL","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Mariano Ochoa",21629,"ESP","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Galen Aldrich",21637,"USA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Changtai  Sudsom",21721,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Robert Harrhy",21773,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Dylan O‘Leary",22041,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Scott Secord",22309,"CAN","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Sam Towler",22440,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Craig Kieswetter(Am)",22464,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Sam Hobday(Am)",22614,"BRN","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Edward Holland",22615,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Meechok Phantharak",22888,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Gun Reunphant",22892,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Sang Lee",22924,"CAN","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Ben Amor",23061,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Michael Day",23065,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Charlie George",23071,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Sami Keating(Am)",23072,"OMA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Aryavir Kumar",23073,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Reed Lindsey",23075,"USA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jordan Loft",23076,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Lakshya Mudgil",23078,"IND","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Scott Newell(Am)",23079,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Sujan Shah",23098,"KEN","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Kenny Benoit",23179,"USA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Elliot Bradley",23180,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Varuth Khachonkittisakul(Am)",23226,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Paul Colditz",23227,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jack Duthie",23229,"RSA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"George Gilliland ",23230,"ENG","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Jeremy Paulson",23232,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
+"Worathon Zeng(Am)",23235,"THA","1908","Mountain Creek Open by GOLF CITIZEN",6582,2017-05-14,"MENA TOUR 2017 REV",NA,NA,2017-05-11
