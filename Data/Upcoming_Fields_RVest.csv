@@ -1,714 +1,505 @@
 "Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
-"Dustin Johnson",12422,"USA","1","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jason Day",9771,"AUS","4","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Sergio Garcia",5689,"ESP","5","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jordan Spieth",14636,"USA","6","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Patrick Reed",14838,"USA","15","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Charl Schwartzel",7398,"RSA","17","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Louis Oosthuizen",7672,"RSA","18","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brooks Koepka",16243,"USA","19","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Matt Kuchar",6169,"USA","20","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brandt Snedeker",8820,"USA","32","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ryan Moore",7489,"USA","35","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Marc Leishman",7649,"AUS","36","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Gary Woodland",12577,"USA","42","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"J.B. Holmes",7959,"USA","44","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Russell Henley",14578,"USA","51","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Charley Hoffman",5768,"USA","54","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Byeong Hun An",14459,"KOR","58","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Scott Piercy",7899,"USA","60","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jhonattan Vegas",13508,"VEN","62","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jason Dufner",7301,"USA","63","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Tony Finau",11676,"USA","69","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Billy Horschel",11276,"USA","76","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Hudson Swafford",14706,"USA","77","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ian Poulter",1435,"ENG","80","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Fabrizio Zanotti",9842,"PAR","82","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"James Hahn",11374,"USA","83","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Sunghoon Kang",7881,"KOR","85","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Anirban Lahiri",12669,"IND","86","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ryan Palmer",7820,"USA","89","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Daniel Summerhays",12424,"USA","91","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Sean O'Hair",7626,"USA","92","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Harris English",14577,"USA","103","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ollie Schniederjans",18662,"USA","105","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jamie Lovemark",11382,"USA","107","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Keegan Bradley",13872,"USA","110","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"J.J Spaun",17536,"USA","112","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Billy Hurley III",11046,"USA","115","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Graham Delaet",10252,"CAN","117","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Smylie Kaufman",18631,"USA","122","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Danny Lee",11826,"NZL","125","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Bryson DeChambeau",19841,"USA","127","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jason Kokrak",12337,"USA","128","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Scott Brown",11330,"USA","130","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Bud Cauley",14502,"USA","133","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ryo Ishikawa",12232,"JPN","136","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Chez Reavie",7961,"USA","145","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brian Stuard",13022,"USA","145","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Rod Pampling",5668,"AUS","147","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"C.T. Pan",15475,"TPE","151","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Dominic Bozzelli",17564,"USA","153","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Robert Streb",14852,"USA","158","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Grayson Murray",14655,"USA","168","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Patrick Rodgers",16283,"USA","170","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Morgan Hoffmann",14082,"USA","172","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"JT Poston",21554,"USA","181","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Kelly Kraft",15852,"USA","185","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Seungyul Noh",11117,"KOR","187","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Chad Campbell",6248,"USA","192","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Matt Jones",8605,"AUS","193","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Alex Cejka",4425,"GER","195","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"John Huh",14606,"USA","196","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"D.A. Points",6761,"USA","202","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Geoff Ogilvy",5698,"AUS","206","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Kyle Reifers",11329,"USA","209","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Michael Thompson",12946,"USA","213","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Kevin Tway",13127,"USA","215","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Cody Gribble",17508,"USA","217","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Michael Kim",17543,"USA","221","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Robert Garrigus",6789,"USA","223","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Zac Blair",17639,"USA","229","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Nick Taylor",13126,"CAN","233","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Bryce Molder",7292,"USA","240","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Martin Flores",10535,"USA","243","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Cameron Tringale",14013,"USA","246","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Tyrone van Aswegen",9913,"RSA","251","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brandon Hagy",18695,"USA","253","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brian Gay",5951,"USA","264","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Richy Werenski",19364,"USA","265","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Freddie Jacobson",3846,"SWE","271","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Scott Stallings",12359,"USA","280","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Meenwhee Kim",11702,"KOR","282","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Andres Gonzales",11640,"USA","283","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Andrew Loupe",15318,"USA","284","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ryan Brehm",10423,"USA","290","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Greg Chalmers",5625,"AUS","295","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Sam Saunders(July1987)",11048,"USA","304","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Spencer Levin",8199,"USA","309","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ricky Barnes",6846,"USA","311","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Nick Watney",7955,"USA","317","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Chad Collins",7744,"USA","319","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Seamus Power",10104,"IRL","322","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Xander Schauffele",19895,"USA","325","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jonathan Randolph",14837,"USA","335","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Tim Wilkinson",7097,"NZL","337","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Greg Owen",5723,"ENG","339","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ryan Blaum",9643,"USA","343","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Cameron Percy",5874,"AUS","346","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brett Stegmaier",11354,"USA","350","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Mark Anderson",12131,"USA","353","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Chris Stroud",9604,"USA","354","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Boo Weekley",7403,"USA","356","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Will Wilcox",14696,"USA","358","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Trey Mullinax",18761,"USA","368","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Juan Sebastian Munoz",20770,"COL","373","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ken Duke",493,"USA","382","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Nicholas Lindheim",16713,"USA","391","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Jason Bohn",6462,"USA","392","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"J.J. Henry",6222,"USA","402","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brian Campbell",18628,"USA","407","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Julian Etulain",11911,"ARG","413","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ernie Els",874,"RSA","414","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Shawn Stefani",14012,"USA","416","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Peter Malnati",14926,"USA","427","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Y.E. Yang",6629,"KOR","434","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ben Crane",6674,"USA","439","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Stuart Appleby",5294,"AUS","447","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Rick Lamb",18869,"USA","449","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Tom Hoge",15575,"USA","463","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Will Mackenzie",7470,"USA","466","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Ryan Armour",8469,"USA","469","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brad Fritsch",7207,"CAN","472","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Steve Wheatcroft",10292,"USA","483","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Rory Sabbatini",6283,"RSA","505","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"John Peterson",15611,"USA","507","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Miguel Angel Carballo",8570,"ARG","540","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Zack Sucher",14036,"USA","548","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Mark Hubbard",16333,"USA","554","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Joel Dahmen",14509,"USA","562","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Tag Ridings",6840,"USA","566","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Max Homa",17538,"USA","588","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Gonzalo Fdez-Castano",8262,"ESP","589","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Bobby Wyatt",18660,"USA","599","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brett Drewitt",15162,"AUS","601","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Steven Alker",4871,"NZL","610","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Tyler Aldridge",11677,"USA","638","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Angel Cabrera",5717,"ARG","662","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Steven Bowditch",7053,"AUS","713","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Hunter Mahan",7636,"USA","739","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Carl Pettersson",7048,"SWE","803","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Robby Shelton IV",18635,"USA","873","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"John Merrick",9584,"USA","961","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Brendon Todd",12425,"USA","975","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Shane Bertsch",5605,"USA","1057","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Beau Hossler",15470,"USA","1075","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Matt Every",10185,"USA","1181","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Bob Estes",889,"USA","1310","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Austin Smotherman",22985,"USA","1420","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Michael Putnam",10180,"USA","1448","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Charlie Beljan",13118,"USA","1730","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Bobby Gates",13433,"USA","1907","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Alex Moon",18196,"USA","1907","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Benjamin Polland",20344,"USA","1907","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Kramer Hickok",21237,"USA","1907","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Sean Kelly",21942,"USA","1907","AT&T Byron Nelson",6583,2017-05-21,"PGA Tour",NA,NA,2017-05-17
-"Nate Lashley",10943,"USA","180","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Kyounghoon Lee",13497,"KOR","183","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Dou Ze-cheng",16757,"CHN","225","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Andrew Putnam",14704,"USA","237","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Zhang Xin-jun",13026,"CHN","252","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Augusto Nunez",16796,"ARG","276","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Sam Ryder",16715,"USA","293","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Henrik Norlander",11657,"SWE","306","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Rafael Campos",12909,"PUE","308","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Rhein Gibson",13342,"AUS","310","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Charlie Saxon",21324,"USA","312","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Matt Atkins",19360,"USA","314","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Andrew Landry",14000,"USA","332","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Kyle Thompson",7617,"USA","342","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jacques Blaauw",13681,"RSA","344","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Aaron Wise",22051,"USA","349","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Casey Wittenberg",8819,"USA","365","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jason Gore",6321,"USA","374","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Ted Potter-jr",8769,"USA","379","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jimmy Gunn",18163,"SCO","387","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Roberto Diaz",15394,"MEX","389","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Rob Oppenheim",8002,"USA","398","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Chris Baker",13971,"USA","399","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Ethan Tracy",19552,"USA","419","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Alex Kang",17531,"USA","429","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Austin Cook",18579,"USA","440","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Keith Mitchell",17365,"USA","442","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Martin Piller",13760,"USA","445","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Roger Sloan",14050,"CAN","453","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Taylor Moore",21944,"USA","454","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Guillermo Pereira",19455,"CHI","467","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Talor Gooch",18580,"USA","511","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Kent Bulle",15715,"USA","513","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"James Driscoll",6228,"USA","516","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Stephan Jaeger",16394,"GER","520","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Scott Langley",14700,"USA","523","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Denny McCarthy",19870,"USA","523","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jack Maguire",19869,"USA","532","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Corey Conners",17576,"CAN","546","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jonathan Byrd",6931,"USA","553","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Andrew Yun",15614,"USA","556","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Josh Teater",8085,"USA","558","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Alex Prugh",12339,"USA","559","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Abraham Ancer",18238,"MEX","562","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Nicholas Thompson",10889,"USA","570","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Taewoo Kim(Jan1993)",17384,"KOR","572","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Adam Schenk",19477,"USA","574","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Brandon Harkins",15427,"USA","583","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Emilio/Puma Dominguez",11900,"ARG","590","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Chesson Hadley",14967,"USA","596","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Sebastian Vazquez",15487,"MEX","622","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jason Millard",17567,"USA","623","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Carlos Ortiz",14735,"MEX","636","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Samuel Del Val",15791,"ESP","637","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Sebastian Cappelen",14776,"DEN","646","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Luke Guthrie",15610,"USA","652","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"George McNeill",6419,"USA","667","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Paul Barjon",16566,"FRA","672","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Michael Johnson",15120,"USA","675","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Brendon de Jonge",8767,"ZIM","677","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Andrew Svoboda",11274,"USA","678","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Adam Long",15473,"USA","688","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Brice Garnett",11451,"USA","698","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Seth Reeves",19643,"USA","725","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Zack Fischer",17273,"USA","728","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Steve Allan",5697,"AUS","736","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Adam Svensson",13997,"CAN","744","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Daniel Chopra",2035,"SWE","758","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Seth Fair",18377,"USA","759","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Wes Roach",15720,"USA","767","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Anders Albertson",21235,"USA","768","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Eric Axley",8024,"USA","773","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Bhavik Patel",16107,"USA","790","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Eric Steger",19479,"USA","802","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Adam Cornelson",15423,"CAN","803","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Tyler Duncan",18187,"USA","825","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Blake Adams",12088,"USA","826","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Brady Schnell",12414,"USA","832","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Scott Gutschewski",7305,"USA","836","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"John Mallinger",9027,"USA","837","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Derek Ernst",16711,"USA","839","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Bryden MacPherson",14378,"AUS","846","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Dawie van der Walt",9883,"RSA","863","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Chase Parker",22046,"USA","873","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Justin Shin",17618,"CAN","884","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Tom Whitney",20353,"USA","885","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Curtis Thompson",19395,"USA","886","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Erik Compton",6556,"USA","901","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Ryan Yip",12083,"CAN","906","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Conrad Shindler",17274,"USA","924","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"John Chin",14797,"USA","929","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Dicky Pride",5467,"USA","946","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Kurt Kitayama",21891,"USA","951","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Erik Barnes",14799,"USA","954","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Albin Choi",15606,"CAN","956","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Bryan Bigley",15329,"USA","963","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Peter Tomasulo",9910,"USA","986","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jin Park",7362,"KOR","990","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Scott Harrington",8479,"USA","1007","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Michael Schoolcraft",19766,"USA","1010","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Armando Favela",14568,"MEX","1021","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Tom Lovelady",22068,"USA","1031","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Matt Harmon",12385,"USA","1035","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Ben Kohles",16395,"USA","1049","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Carter Jenkins",15456,"USA","1054","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jim Renner",12475,"USA","1059","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Michael Hebert",18251,"USA","1075","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Dan Woltman",13288,"USA","1091","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Justin Hueber",18590,"USA","1107","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Lanto Griffin",15330,"USA","1111","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Alexandre Rocha",7441,"BRA","1115","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Michael Gellerman",19909,"USA","1125","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jeff Gove",6390,"USA","1129","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Timothy Madigan",18535,"USA","1143","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Vince India",15793,"USA","1150","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Sepp Straka",17511,"AUT","1157","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Chris Naegel",17345,"USA","1195","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Brad Elder",6204,"USA","1200","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jamie Arnold",10861,"AUS","1200","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jonathan Garrick",21885,"USA","1205","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Kyle Wilshire",19774,"USA","1219","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Ken Looper",17327,"USA","1232","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Sungjoon Park",14565,"KOR","1246","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Greg Eason",17719,"ENG","1276","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Marc Turnesa",7627,"USA","1280","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Gregory Yates",19830,"USA","1352","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"David Skinns",10873,"ENG","1354","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Wade Binfield",18435,"USA","1370","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"D.J. Trahan",7236,"USA","1390","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Matt Davidson",9872,"USA","1417","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Benjamin Silverman",17381,"CAN","1439","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Byron Smith",9687,"USA","1463","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Chris Worrell",19775,"USA","1466","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"A.J. McInerney",22915,"USA","1466","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Mathew Goggin",3756,"AUS","1494","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Tommy Gainey",12169,"USA","1498","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Daniel Miernicki",14798,"USA","1620","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Michael Letzig",7641,"USA","1628","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Alex Aragon",7623,"USA","1718","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Mark Hensby",5859,"AUS","1727","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Rick Cochran III",16305,"USA","1773","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Mark Anguiano",19029,"USA","1800","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Cameron Wilson",16248,"USA","1808","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jim Knous",16382,"USA","1866","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Vince Covello",11441,"USA","1888","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Robert Gamez",2878,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Len Mattiace",3982,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Shaun Micheel",4377,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Brett Quigley",5101,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Chris Tidland",5687,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Craig Bowden",5920,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Nick Flanagan",8357,"AUS","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Parker McLachlin",9168,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Frank Adams III",10049,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Chip Deason",11096,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Toni Hakula",13131,"FIN","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jonathan Hodge",13520,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Blake Trimble",14274,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Eric Meierdierks",14341,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Brandon Crick",14847,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Nick Rousey",14849,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Sean Dale",15118,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Christian Brand",15625,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Justin Lower",17723,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Sam Love",18632,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Benjamin Taylor",19948,"ENG","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Zach Wright",21553,"USA","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Jeremy Paul",22087,"GER","1907","BMW Charity Pro-Am presented by SYNNEX Corporation",6584,2017-05-21,"Web.com Tour",NA,NA,2017-05-17
-"Ashley Hall",7708,"AUS","296","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Dimi Papadatos",15168,"AUS","326","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Matthew Millar",7449,"AUS","357","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jarryd Felton",16835,"AUS","384","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Maxwell McCardle",13674,"AUS","552","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Matthew Giles",9783,"AUS","561","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Damien Jordan",14353,"AUS","586","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Daniel Nisbet",11823,"AUS","632","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Deyen Lawson",15885,"AUS","666","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Tim Hart",15920,"AUS","716","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jack Wilson",15946,"AUS","763","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Cory Crawford",17785,"AUS","786","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Andrew Evans",15589,"AUS","808","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Lincoln Tighe",16980,"AUS","821","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Anthony Quayle",18900,"AUS","830","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Michael Long",4865,"NZL","843","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Stephen Leaney",4889,"AUS","891","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Stephen Dartnall",11843,"AUS","907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Rory Bourke",15845,"AUS","909","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Brad Moules",17917,"AUS","916","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Anthony Houston",15924,"AUS","930","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Kristopher R Mueck",15933,"AUS","941","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Josh Younger",11828,"AUS","981","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Peter Wilson",7944,"AUS","986","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Minwoo Lee(Am)",16841,"AUS","1014","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Matthew Guyatt",11833,"AUS","1040","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Christopher Wood",16012,"AUS","1045","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jason Norris",5769,"AUS","1049","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jarrod Lyle",8392,"AUS","1106","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Adam Burdett",17161,"AUS","1117","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Dale Brandt-Richards",15160,"AUS","1138","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Aaron Wilkin",17790,"AUS","1148","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Callan O'Reilly",16968,"AUS","1172","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"James Marchesani",19258,"AUS","1217","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Darren Beck",9905,"AUS","1222","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Rick Kulacz",10839,"AUS","1261","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Chris Gaunt",6251,"AUS","1272","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Neven Basic",7700,"AUS","1337","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Daniel Valente",15943,"AUS","1354","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Brady Watt",16845,"AUS","1356","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Blake Proverbs",18157,"AUS","1383","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Anthony Murdaca",15167,"AUS","1403","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jack Munro",17601,"AUS","1419","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jin Jeong",13573,"KOR","1441","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Tom Power Horan",18096,"AUS","1462","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Ryan Lynch",12830,"AUS","1512","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Peter Cooke",8607,"AUS","1523","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Taylor MacDonald",17144,"AUS","1589","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Glenn Joyner",852,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Brendan Chant",4321,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Leigh McKechnie",7061,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Andrew Martin",9774,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Vernon Sexton-Finck",10015,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Matt Jager",11830,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Michael Choi",12345,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Matthew Stieger",14377,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Michael Gannon",15879,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Grant Thomas",15906,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Benjamin Clementson",15912,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Quinton Howe",15925,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Daniel Ong",15934,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Daniel McGraw",16025,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Matthew Dowling",16731,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"David Wilson",16750,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Darren Garrett",16836,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Daniel Hoeve",16837,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Theodore Coroneo",16956,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jordan Mullaney",16967,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jamie Hook",17143,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Blake McGrory",17218,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Alex Edge",17884,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Braden Becker",17908,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jason Chellew",17910,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Kiran Day(Am)",17945,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Troy Moses",18094,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Ben Hollis",18167,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"David Andrews",19067,"ENG","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jose De Sousa",19071,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Brody Martin",19076,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Paul Bucan",19114,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Bradley McLellan",19116,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Josh Cabban",19205,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Dale Williamson",19233,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Alexander Pitty",19289,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Nathan Miller",19392,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Christopher Akers",19408,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Campbell Rawson",19412,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Sam Daley",20551,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Ryan Bernard",20911,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Stuart Beament",21034,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jonathan Painter",21039,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Simon Liddell(Am)",21089,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Joseph Owen(Am)",21094,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Austin Bautista",21152,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Jack Williams",21250,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Travis Lord",21585,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"David Stoltze",21587,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Luke Farry",22428,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Ben Ferguson(Am)(1998)",22819,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Chris Duke",22882,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Lachlan Whiteside",22960,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Vernon Gunson",23035,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Young Hyun Kim",23044,"KOR","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Joe Darcy",23257,"AUS","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Daisuke Ito",23258,"JPN","1907","TX Civil & Logistics WA PGA Championship ",6588,2017-05-21,"PGA Tour Australasia",NA,NA,2017-05-17
-"Younghan Song",16160,"KOR","94","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sanghyun Park",10086,"KOR","142","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junggon Hwang",14936,"KOR","199","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Soomin Lee",14614,"KOR","211","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"K.J. Choi",1804,"KOR","212","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kyungnam Kang",7578,"KOR","291","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyunwoo Ryu",13928,"KOR","316","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sanghee Lee",13923,"KOR","331","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyungsung Kim",11131,"KOR","352","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jinho Choi",7024,"KOR","355","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junwon Park",10999,"KOR","363","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Heungchol Joo",15528,"KOR","369","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Changwoo Lee",15061,"KOR","381","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Donghwan Lee",8211,"KOR","388","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Seunghyuk Kim",7716,"KOR","405","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyungjoon Lee",15796,"KOR","406","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Mingyu Cho",12096,"KOR","480","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jinjae Byun",13916,"KOR","560","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Dongseop Maeng",14482,"KOR","571","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sengyong Kim",13501,"KOR","603","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jungho Yoon",12200,"KOR","612","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyowon Park",12277,"KOR","616","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Ilhwan Park",11703,"KOR","617","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Rakhyun Cho",18340,"KOR","648","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Taewoo Kim(Feb1993)",17905,"KOR","660","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Doyeob Mun",17386,"KOR","665","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jihoon Lee(Oct 1986)",17447,"KOR","685","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sangyeop Lee",15062,"KOR","705","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Inhoi Hur",9635,"KOR","714","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junsub Park",13927,"KOR","715","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junsung Kim",15343,"KOR","734","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Minkyu Han",11126,"KOR","746","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Joongkyung Mo",5940,"KOR","748","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Taehoon Kim",7589,"KOR","750","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jeonghyeob Hyun",7604,"KOR","754","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Innchoon Hwang",10078,"KOR","791","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Byungjun Kim",15532,"KOR","811","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jooneob Son",10732,"KOR","845","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jiho Jung",6645,"KOR","911","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyungseok Seo",17499,"KOR","966","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungho Lee",13924,"KOR","990","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Chang-won Han",13918,"KOR","1011","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Myung-Ho Kwon",15540,"KOR","1027","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Seungtaek Lee",16162,"KOR","1032","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaemin Hwang 859",15525,"KOR","1042","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Giwhan Kim",12993,"KOR","1044","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Gwanwoo Ma",16157,"KOR","1047","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sung Lee",7785,"KOR","1057","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Youngjea Byun",21511,"KOR","1067","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kisang Lee",14480,"KOR","1105","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Geonha Kim",17775,"KOR","1121","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hong Chang-kyu",11423,"USA","1134","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Woonchul Na",19440,"NZL","1175","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junghwan Lee",13498,"KOR","1195","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Daesub Kim",6644,"KOR","1204","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Soonsang Hong",7020,"KOR","1231","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Taehee Lee",11156,"KOR","1249","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Bio Kim",12188,"KOR","1249","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Dongmin Lee",14610,"KOR","1255","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Song-Gyu Yoo",18823,"KOR","1302","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaehun Jeong",21515,"KOR","1309","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungyoon Kim",603,"KOR","1330","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Daeeok Jeong",16762,"KOR","1370","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"S.K. Ho",7307,"KOR","1391","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Yongjin Shin",5337,"KOR","1406","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Minseok Kang",19572,"KOR","1406","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Baejong Park",17938,"KOR","1410","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Dongha Lee(1982)",6650,"KOR","1411","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Gowoong Choi",16140,"KOR","1418","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Seunghwan Jung",17460,"KOR","1434","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hanmil Jung",23123,"KOR","1434","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jooyeob Baek",14931,"KOR","1523","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kookhyan Kim",13876,"KOR","1543","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Yuncheol Jeon",11699,"KOR","1568","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Yoseop Seo",20841,"KOR","1568","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Woochan Kim",9054,"KOR","1582","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaeho Kim",16197,"KOR","1640","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junseok Lee",16006,"AUS","1657","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Taekgi Lee",20758,"KOR","1764","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungyeol Kwon",14759,"KOR","1833","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jiman Kang",7199,"KOR","1871","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Dohoon Kim(Mar1989)",11701,"KOR","1893","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyungtae Kim 404",6007,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungchul Bae",6651,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kweonil Kang",9057,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jongyul Suk",9060,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaekyung Park",9068,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungpil Park",10084,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jeoungmin Seo",11704,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaemin Hwang",11995,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Woohyun Kim",12190,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Keunho Lee",12274,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Seongho Lee(1986)",12657,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Chung Won",13004,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Taekyu Lee",13499,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaewoong Eom",13835,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jason Kang",13857,"USA","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Gyoungyoon Yu",14336,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyunbin Park",14529,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyungmin Kim",14608,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyedong Kim",14642,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Minchel Choi",15019,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hangu Lee",15317,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Doosik Jung",15340,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Taewoun Ko",15344,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Youngwoo Nam",15347,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jungho Park",15383,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Seung-Hyun Oh",15546,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Minjun Park",16159,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Yunseok Gang",16272,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Minsu921 Kim 921",16299,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Namhun Kim(Am)",17383,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Backjun An",17484,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Esak Choi",17486,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Daeho Kim",17489,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Insung Ko",17490,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungjun Park",17876,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyeonyong Yang",17877,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hongtaek Kim",17973,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sangyoon Kang",18313,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Heeryun Lee",18318,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungwon Park",18327,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Younggyu Park",18328,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hyuk Joo(am)",18402,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kim Seong-keun",18686,"USA","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jangho Park",18689,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungbin Park",18835,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junhyung You",18837,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jeonggun An",19559,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Yoon Chung",19561,"USA","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kyungseok Chun",19625,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Sungmin Cho",19817,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Junhyeok Park",19827,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaeho Choi(Oct1992)",19876,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Dongmin Kim",20927,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Galam Jeon",21513,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Seonghyeon Jeon",21514,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Yijun Jung",21518,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaehoon Lee(1984)",21521,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaejin Lee",21522,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kyeongjun Lee",21524,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaechang Jeong(Am)",21687,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Hogeon Lee",21689,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kyungsik Kim",21735,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Seunghyun Kim(1990)",21736,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jeongmin Park",21740,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Keunchan Eom",21924,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Kyungjun Hwang",23122,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jongyup Kim",23125,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Dooyeol Lee",23127,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jimin Park(June1997)",23131,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Jaehun Choi(Am)",23247,"KOR","1907","SK telecom Open",6591,2017-05-21,"Korean Golf Tour",NA,NA,2017-05-17
-"Mikael Lindberg",20084,"SWE","782","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Ake Nilsson",9493,"SWE","797","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Daniel Lokke",14287,"DEN","800","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Aksel Kristoffer Olsen",17749,"NOR","815","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Christopher Feldborg Nielsen",20147,"SWE","833","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Nicolai Tinning",20256,"DEN","860","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Mathias Gladbjerg",20187,"DEN","888","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Erik Myllymaki",16408,"FIN","912","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jarand Ekeland Arnoy",20463,"NOR","996","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Axel Boasson",20733,"ISL","1011","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Patrick Winther",20127,"DEN","1089","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Victor Theandersson",20423,"SWE","1150","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Per Langfors",20414,"SWE","1155","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Gustaf Kocken",20070,"SWE","1303","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Victor Almstrom",14675,"SWE","1314","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Antti Ahokas",11897,"FIN","1326","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Tuomas Salminen",18865,"FIN","1346","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Philip Ulveman Juel-Berg",20207,"DEN","1370","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Gustav Adell",12234,"SWE","1395","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Oliver Gillberg",21652,"SWE","1414","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Ludwig Nordeklint",8181,"SWE","1437","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Haraldur Magnus",22994,"ISL","1451","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"David Palm",10420,"SWE","1501","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Christian Baech Christensen",19638,"DEN","1522","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Eric Blom",16443,"SWE","1529","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Sebastian Hansson(1991)",20397,"SWE","1563","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Richard Pettersson",18708,"SWE","1586","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Martin Eriksson",22091,"SWE","1589","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Anton Wejshag",20149,"SWE","1592","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jesper Gunder Larsen",20214,"DEN","1612","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Martin Amtkjaer",20156,"DEN","1628","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Andreas Andersson",11653,"SWE","1636","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Fredrik Gustavsson",18513,"SWE","1643","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Torbjorn Johansen",21404,"NOR","1655","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Marcus Larsson",12583,"SWE","1747","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Erik Oja",20097,"SWE","1787","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Gabriel Axell",20150,"SWE","1819","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Patrick O'Neill",16447,"DEN","1822","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Christian Gloet",16444,"DEN","1829","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Robin Askstrand",11532,"SWE","1830","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Nicolai Kristensen(1992-05)",18857,"DEN","1832","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Joakim Rask",5922,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Nils Bjorling",10495,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jesper Kennegard",11531,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Elias Bertheussen",12488,"NOR","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Victor Flatau",12581,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Simon Gundorph",13410,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Magnus Bruhn",14058,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Miro Veijalainen",14121,"FIN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Pontus Ellerstrom",14714,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Fredric Sundberg",14783,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Victor Tarnstrom",14816,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Olafur Loftsson",15659,"ISL","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Miki Kuronen",17725,"FIN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Mark Suursalu",18766,"EST","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Anders Ellingsberg",18840,"NOR","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Anton Guedra",19606,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Nikolai Hogh",19640,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Oscar Bergqvist",19805,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Simo Haavisto",20055,"FIN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Mikko Lehtovuori",20082,"FIN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Ville Nykanen(Am)",20095,"FIN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Anton Wilbertsson",20125,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Christian Larsson",20153,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Filip Brattse",20169,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jonas Carlson",20173,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"William Cederlund(Am)",20174,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Fredrik Duarte",20180,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Oskar Franck",20184,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Eric Isacsson",20198,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Andreas Johansson(July1992)",20205,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jakob Kollerup",20210,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Tobias Larsen",20215,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Marcus Lindstrom(1992)",20221,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Hampus Nilsson",20234,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jesper Olsson",20238,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Mattias Olsson",20239,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Patrick Rasmussen",20245,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Victor Roupe",20247,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Mathias Lynne Schjolberg",20248,"NOR","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Kasper Sorensen",20253,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Filip Tragardh",20257,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Allan Werner",20260,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Anton Hansson",20396,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Max Helgesson",20399,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Hampus Larsson",20408,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Charlie Lindh",20413,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"William Nygard",20418,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jesper Sandborg",20454,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Robert Jonasson",20477,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Adam Andersson",20525,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Johan Hellberg",20560,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Markus Sayra",20625,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Lukas Crisp",20806,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Aron Bergsson(Am)",21333,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Martin Granstad",21336,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jesper Johansson",21338,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Christopher Sahlstrom",21343,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Christoffer Skarbring",21344,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Emil Liljeroth",21406,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Sander Stavnar",21605,"NOR","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Philip Jensen",21731,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Wiktor Friberg(Am)",21801,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jesper Hagborg Asp",21802,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Claes Isaksson",21804,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Tomas Jarund",21805,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Joacim Neuman",21807,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Daniel Palmquist",21809,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jack Alexandersson(Am)",21862,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Sebastian Brzezinski",21864,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Jesper Jurell",21867,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Christoffer Palsson",21870,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Rickard Wallin(Am)",21873,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Oscar Wenner",21874,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Sebastian Petersen(Am)",21990,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Victor Bengtsson(Am)",22016,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Niklas Hansen(Am)",22018,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Martin Ulseth",22106,"NOR","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Oscar Spolander",22363,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Philip Larsson",22444,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Anton Mostrom",22445,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Markus Braadlie",22472,"NOR","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Rex Harly Turander",22538,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Frederik Andersen",22672,"DEN","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Gustav Akesson",22698,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Anton Haagen(Am)",22699,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Oliver Jacobsson(Am)(Apr1991)",22700,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Oscar Karlsson",22701,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Sander Aadusaar",22989,"EST","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Andri Bjornsson",22991,"ISL","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Gudmundur Kristjansson",22996,"ISL","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Rasmus Holmberg",23027,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Robin Petersson",23029,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
-"Fabian Henriksson",23245,"SWE","1907","Stora Hotellet Bryggan Fjallbacka Open",6594,2017-05-21,"Nordic Golf League",NA,NA,2017-05-17
+"Sergio Garcia",5689,"ESP","6","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jordan Spieth",14636,"USA","7","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jon Rahm",19195,"ESP","12","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Paul Casey",7108,"ENG","14","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Matt Kuchar",6169,"USA","18","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Phil Mickelson",1547,"USA","21","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Siwoo Kim",14609,"KOR","29","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Brandt Snedeker",8820,"USA","32","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Ryan Moore",7489,"USA","35","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Marc Leishman",7649,"AUS","36","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Emiliano Grillo",12808,"ARG","37","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Wesley Bryan",21236,"USA","38","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Pat Perez",6762,"USA","40","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Bill Haas",7900,"USA","43","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Billy Horschel",11276,"USA","44","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Kevin Kisner",11328,"USA","45","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"William McGirt",12477,"USA","48","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Adam Hadwin",13965,"CAN","49","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Yuta Ikeda",8236,"JPN","52","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Charley Hoffman",5768,"USA","53","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Brian Harman",8825,"USA","54","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Scott Piercy",7899,"USA","60","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Zach Johnson",6986,"USA","62","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jhonattan Vegas",13508,"VEN","63","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jason Dufner",7301,"USA","64","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Webb Simpson",11049,"USA","65","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Tony Finau",11676,"USA","67","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"James Hahn",11374,"USA","71","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Sean O'Hair",7626,"USA","82","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Sunghoon Kang",7881,"KOR","84","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Graeme McDowell",7548,"NIR","87","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Anirban Lahiri",12669,"IND","88","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Ryan Palmer",7820,"USA","89","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Daniel Summerhays",12424,"USA","92","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Chris Kirk",12423,"USA","94","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jason Kokrak",12337,"USA","95","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Lucas Glover",7399,"USA","96","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Steve Stricker",4818,"USA","98","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Bud Cauley",14502,"USA","103","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Mackenzie Hughes",15556,"CAN","106","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Harris English",14577,"USA","107","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Martin Laird",9586,"SCO","108","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Kyle Stanley",12069,"USA","110","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Ollie Schniederjans",18662,"USA","111","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Billy Hurley III",11046,"USA","114","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Danny Lee",11826,"NZL","115","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"J.J Spaun",17536,"USA","116","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Aaron Baddeley",6252,"AUS","121","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"David Lingmerth",14815,"SWE","123","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Luke List",7960,"USA","126","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Graham Delaet",10252,"CAN","127","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Cameron Smith",15856,"AUS","129","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Scott Brown",11330,"USA","130","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Harold Varner III",16602,"USA","132","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Bryson DeChambeau",19841,"USA","134","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Fabian Gomez",8571,"ARG","141","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Brian Stuard",13022,"USA","148","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Dominic Bozzelli",17564,"USA","149","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Chez Reavie",7961,"USA","150","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Rod Pampling",5668,"AUS","151","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Kevin Streelman",8480,"USA","155","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"C.T. Pan",15475,"TPE","156","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Vaughn Taylor",6930,"USA","157","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Patrick Rodgers",16283,"USA","162","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Patton Kizzire",13470,"USA","163","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Morgan Hoffmann",14082,"USA","165","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Robert Streb",14852,"USA","173","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Chad Campbell",6248,"USA","178","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"JT Poston",21554,"USA","185","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Kelly Kraft",15852,"USA","186","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Seungyul Noh",11117,"KOR","189","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"John Huh",14606,"USA","195","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Nick Taylor",13126,"CAN","197","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Kyle Reifers",11329,"USA","198","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Kevin Tway",13127,"USA","200","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Matt Jones",8605,"AUS","203","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Blayne Barber",15608,"USA","206","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Stewart Cink",5665,"USA","208","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Geoff Ogilvy",5698,"AUS","214","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Cameron Tringale",14013,"USA","214","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Michael Kim",17543,"USA","217","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jazz Janewattananond",14368,"THA","218","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"David Hearn",7340,"CAN","221","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Michael Thompson",12946,"USA","223","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Ben Martin",14007,"USA","225","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Cody Gribble",17508,"USA","226","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Derek Fathauer",12689,"USA","229","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Zac Blair",17639,"USA","232","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Bryce Molder",7292,"USA","246","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Martin Flores",10535,"USA","248","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Johnson Wagner",7927,"USA","249","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Brian Gay",5951,"USA","253","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Tyrone van Aswegen",9913,"RSA","261","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Scott Stallings",12359,"USA","265","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Brandon Hagy",18695,"USA","268","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jonas Blixt",8182,"SWE","279","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Meenwhee Kim",11702,"KOR","289","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Greg Chalmers",5625,"AUS","304","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Nick Watney",7955,"USA","305","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Camilo Villegas",9171,"COL","316","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Sam Saunders(July1987)",11048,"USA","317","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Ricky Barnes",6846,"USA","330","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Xander Schauffele",19895,"USA","339","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Ryan Blaum",9643,"USA","352","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Boo Weekley",7403,"USA","354","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Cameron Percy",5874,"AUS","359","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Chris Stroud",9604,"USA","369","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"J.J. Henry",6222,"USA","375","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jason Bohn",6462,"USA","389","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Curtis Luck(Am)",16842,"AUS","416","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Martin Piller",13760,"USA","457","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Rory Sabbatini",6283,"RSA","522","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Davis Love III",3464,"USA","556","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Tim Herron",5621,"USA","607","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Angel Cabrera",5717,"ARG","674","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Steven Bowditch",7053,"AUS","736","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Hunter Mahan",7636,"USA","764","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Beau Hossler",15470,"USA","1083","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Matt Every",10185,"USA","1218","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Keith Clearwater",589,"USA","1917","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Jamie Sadlowski",15750,"CAN","1917","DEAN & DELUCA Invitational ",6596,2017-05-28,"PGA Tour",NA,NA,2017-05-24
+"Henrik Stenson",5994,"SWE","5","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Justin Rose",6093,"ENG","9","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Alex Noren",10419,"SWE","13","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Tyrrell Hatton",14796,"ENG","16","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Danny Willett",12920,"ENG","22","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Thomas Pieters",13944,"BEL","24","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Branden Grace",11952,"RSA","26","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Tommy Fleetwood",12294,"ENG","28","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Bernd Wiesberger",9531,"AUT","30","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Francesco Molinari",7655,"ITA","31","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Russell Knox",13831,"SCO","34","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Matthew Fitzpatrick",17646,"ENG","41","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Ross Fisher",9396,"ENG","47","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Martin Kaymer",8117,"GER","50","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Byeong Hun An",14459,"KOR","56","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Lee Westwood",4052,"ENG","57","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Hideto Tanihara",7046,"JPN","58","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Jeunghun Wang",15366,"KOR","59","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Chris Wood",12451,"ENG","66","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Andy Sullivan",15326,"ENG","69","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Soren Kjeldsen",6149,"DEN","70","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Joost Luiten",10158,"NED","72","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Alexander Levy",14973,"FRA","74","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Thongchai Jaidee",5973,"THA","75","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Shane Lowry",13900,"IRL","76","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Luke Donald",4163,"ENG","77","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Ian Poulter",1435,"ENG","81","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Brandon Stone",15229,"RSA","83","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Fabrizio Zanotti",9842,"PAR","85","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Scott Hend",1888,"AUS","86","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Thorbjorn Olesen",13412,"DEN","91","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Pablo Larrazabal",9133,"ESP","93","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Kiradech Aphibarnrat",12321,"THA","97","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Dylan Frittelli",11955,"RSA","99","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Richard Sterne",7049,"RSA","101","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"David Lipsky",15980,"USA","104","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Jordan L Smith",18586,"ENG","109","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Dean Burmester",14424,"RSA","112","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Victor Dubuisson",10198,"FRA","118","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Andrew Johnston",14666,"ENG","119","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Jaco Van Zyl",7105,"RSA","124","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Bradley Dredge",6150,"WAL","125","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Li Haotong",15310,"CHN","128","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"David Horsey",11230,"ENG","136","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Jorge Campillo",14016,"ESP","137","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"George Coetzee",10884,"RSA","139","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Matt Wallace",20706,"ENG","140","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Sam Brazel",8390,"AUS","142","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Brett Rumford",6255,"AUS","146","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Rikard Karlberg",9398,"SWE","147","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Phachara Khongwatmai",18149,"THA","153","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Joakim Lagergren",14780,"SWE","154","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Gregory Bourdy",7932,"FRA","160","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Marcus Fraser",7070,"AUS","161","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Nacho Elvira",12988,"ESP","164","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Peter Uihlein",11357,"USA","167","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Nicolas Colsaerts",6893,"BEL","168","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Paul Dunne",18736,"IRL","169","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Richard Bland",6516,"ENG","170","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Padraig Harrington",5716,"IRL","171","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Graeme Storm",3323,"ENG","172","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Ryan Fox",11889,"NZL","174","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"James Morrison",11061,"ENG","175","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Thomas Aiken",7679,"RSA","176","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Alexander Bjork",14775,"SWE","177","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"S.S.P. Chawrasia",7040,"IND","179","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Bernd Ritthammer",12521,"GER","180","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Alexander Knappe",12318,"GER","181","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Carlos Pigem",13885,"ESP","190","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Alejandro Canizares",11509,"ESP","193","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Pep Angles Ros",19634,"ESP","194","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Mike Lorenzo-Vera",9675,"FRA","196","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Darren Fichardt",5754,"RSA","201","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Jason Scrivener",12734,"AUS","207","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Matthieu Pavon",19960,"FRA","210","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Soomin Lee",14614,"KOR","212","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Peter Hanson",6850,"SWE","216","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Lasse Jensen",10170,"DEN","219","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Mikko Korhonen",9252,"FIN","220","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Ricardo Gouveia",18722,"POR","227","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Anthony Wall",5931,"ENG","228","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Sam Walker",7157,"ENG","230","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Julien Quesne",9131,"FRA","233","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Alvaro Quiros",7886,"ESP","237","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Benjamin Hebert",12213,"FRA","240","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Edoardo Molinari",7033,"ITA","243","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Jamie Donaldson",7084,"WAL","244","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Andrew Dodt",8364,"AUS","251","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Matthew Southgate",15191,"ENG","252","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Raphael Jacquelin",5784,"FRA","254","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Zander Lombard",16897,"RSA","269","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Renato Paratore",16549,"ITA","270","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Lucas Bjerregaard",11619,"DEN","271","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Chris Paisley",14844,"ENG","272","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Paul Peterson",16341,"USA","275","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Mikko Ilonen",6929,"FIN","276","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Paul Waring",12426,"ENG","277","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Paul Lawrie",5105,"SCO","283","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Matteo Manassero",11460,"ITA","287","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Robert Rock",7895,"ENG","298","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Lee Slattery",6866,"ENG","312","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Chris Hanson",12295,"ENG","315","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Maximilian Kieffer",12317,"GER","320","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Scott Jamieson",11397,"SCO","327","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Marc Warren",7567,"SCO","332","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Romain Wattel",13165,"FRA","333","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Richie Ramsay",11396,"SCO","335","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Stephen Gallacher",5647,"SCO","341","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Kristoffer Broberg",15603,"SWE","347","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Justin Walters",8045,"RSA","355","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"David Drysdale",6867,"SCO","358","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Robert Karlsson",4331,"SWE","364","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Callum Shinkwin",18244,"ENG","366","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Magnus A Carlsson",7823,"SWE","368","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Oliver Fisher",10863,"ENG","373","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Felipe Aguilar",8135,"CHI","380","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Adrian Otaegui",14975,"ESP","381","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Johan Carlsson",11658,"SWE","386","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Florian Fritsch",9217,"GER","387","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Haydn Porteous",15866,"RSA","400","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Ernie Els",874,"RSA","404","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"David Howell",5718,"ENG","407","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Eduardo De la Riva",6637,"ESP","414","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Gregory Havret",6239,"FRA","419","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Marcel Siem",6950,"GER","427","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Wade Ormsby",7532,"AUS","429","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Pelle Edberg",8574,"SWE","455","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Daniel Brooks",12897,"ENG","471","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Nino Bertasio",13013,"ITA","476","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Nathan Holman",15923,"AUS","478","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Daniel Im",12971,"USA","493","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Thomas Bjorn",5725,"DEN","559","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Sebastien Gros",16650,"FRA","639","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Matthew Cort",7313,"ENG","701","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Gary Stal",13262,"FRA","819","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Hennie Otto",5942,"RSA","829","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Darren Clarke",3523,"NIR","907","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Robert Coles",5714,"ENG","980","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Niclas Fasth",3832,"SWE","985","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Chris Gane",6570,"ENG","1130","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Damien McGrane",6039,"IRL","1317","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Simon Dyson",6436,"ENG","1495","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Phillip Archer",849,"ENG","1917","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Greig Hutcheon",4882,"SCO","1917","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Paul McGinley",5222,"IRL","1917","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Trevor Immelman",5935,"RSA","1917","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Graham Fox",7593,"SCO","1917","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Paul Hendriksen",12214,"ENG","1917","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Neil O'Briain",17820,"IRL","1917","BMW PGA Championship",6597,2017-05-28,"European Tour",NA,NA,2017-05-24
+"Aaron Rai",18554,"ENG","158","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Christiaan Bezuidenhout",18103,"RSA","281","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ryan Evans",19030,"ENG","308","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Clement Sordet",17718,"FRA","340","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Nick Cullen",14247,"AUS","351","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Julien Guerrier",10201,"FRA","372","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Darius Van Driel",13374,"NED","400","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Oscar Lengden",20410,"SWE","453","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Oliver Lindell",20085,"FIN","470","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Marcus Kinhult",18514,"SWE","472","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Julian Suri",18059,"USA","483","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Sebastian Heisele",16499,"GER","484","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Tapio Pulkkanen",13139,"FIN","486","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Gavin Moynihan",17585,"IRL","490","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Christofer Blomstrand",20167,"SWE","512","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jordan Zunic",15170,"AUS","549","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Mathieu Fenasse",17831,"FRA","551","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Borja Virto Astudillo",17313,"ESP","555","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Thomas Linard",15337,"FRA","562","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ben Eccles",17163,"AUS","569","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Garrick Porteous",16400,"ENG","585","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Michael Hoey",7303,"NIR","587","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Joachim B Hansen",14284,"DEN","593","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Bjorn Hellgren",16231,"SWE","598","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Antoine Schwartz",15512,"FRA","610","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Estanislao Goya",10877,"ARG","620","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Federico Maccario",17655,"ITA","621","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Alvaro Velasco",9603,"ESP","626","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Tom Murray",17077,"ENG","635","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ross McGowan",11981,"ENG","641","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Dominic Foos",17022,"GER","643","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Charlie Ford",14400,"ENG","647","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Julian Kunzenbacher",18842,"GER","654","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Martin Ovesen",19847,"DEN","658","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Niklas Lindstrom",20222,"SWE","662","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Mikael Lundberg",4718,"SWE","663","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Tom Shadbolt",15190,"ENG","667","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Oliver Farr",13318,"WAL","669","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Enrico Di Nitto",17652,"ITA","689","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Alex Wennstam",19933,"SWE","703","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Mark Laskey",11112,"WAL","722","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Moritz Lampert",13438,"GER","725","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Steven Brown",15771,"ENG","739","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Niccolo Ravano",10071,"ITA","743","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Curtis Griffiths",19991,"ENG","745","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Victor Perez",20730,"FRA","749","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Paul Howard",19510,"ENG","750","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Seve Benson",11574,"ENG","751","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Clement Berardo",14970,"FRA","753","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Christopher Mivis",11198,"BEL","754","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jordi Garcia Pinto",12990,"ESP","756","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Rasmus Hjelm Nielsen",11622,"DEN","765","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jack Senior",15115,"ENG","771","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Thriston Lawrence",18105,"RSA","783","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Max Kramer",9220,"GER","787","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Paul Maddy",17343,"ENG","799","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Matt Ford",10139,"ENG","808","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Manuel Trappel",14681,"AUT","818","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Reinier Saxton",11564,"NED","821","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Kristian Krogh Johannessen",16421,"NOR","825","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Andrea Pavan",12177,"ITA","826","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ross Kellett",13235,"SCO","847","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Oliver Suhr",12562,"DEN","859","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Bjorn Akesson",11530,"SWE","870","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Rhys Davies",11527,"WAL","871","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Franck Daux",20670,"FRA","875","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Peter Tarver-Jones",19516,"ENG","878","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Daniel Gaunt",6132,"AUS","881","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Joseph Dean",16497,"ENG","884","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Matthew Baldwin",13344,"ENG","891","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Nicolas Geyger",13607,"CHI","910","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Charlie Bull",19735,"ENG","911","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Victor Riu",12217,"FRA","942","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Oliv Rozner",15511,"FRA","946","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jon Thomson",22210,"ENG","978","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Scott Fernandez",15616,"ESP","995","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Stiggy Hodgson",16398,"ENG","995","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Steven Jeppesen",8125,"SWE","997","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Niclas Johansson",14893,"SWE","1004","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Rafael Echenique",7988,"ARG","1011","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Linus Vaisanen",19959,"FIN","1012","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Joel Girrbach",15592,"SUI","1030","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Grant Forrest",16475,"SCO","1034","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ricardo Santos",8816,"POR","1036","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Adrian Meronk",14196,"POL","1038","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Eirik Tage Johansen",11317,"NOR","1040","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Philipp Mejow",19897,"GER","1047","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Marcel Schneider",12522,"GER","1053","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jack Doherty",8161,"SCO","1054","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Carlos del Moral",10222,"ESP","1077","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jamie McLeary",9240,"SCO","1079","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Rhys Enoch",12287,"WAL","1086","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Gary Hurley",18657,"IRL","1096","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Juan Francisco Sarasti",13886,"ESP","1154","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Aron Zemmer",15952,"ITA","1185","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jacopo Vecchi Fossa",17362,"ITA","1192","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"David Dixon",7311,"ENG","1199","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Benjamin Rusch",13281,"SUI","1200","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jerome Lando-Casanova",14040,"FRA","1225","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Peter Whiteford",7822,"SCO","1253","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ashton Turner",22170,"ENG","1253","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Sam Connor",18679,"ENG","1274","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Filip Mruzek",14883,"CZE","1277","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Luca Galliano",15566,"SUI","1303","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Kevin Phelan",14702,"IRL","1348","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Krister Eriksson",13346,"SWE","1363","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Bradley Neil",18737,"SCO","1376","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jason Barnes",15186,"ENG","1420","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Morten Orum Madsen",13411,"DEN","1425","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ales Korinek",17865,"CZE","1468","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Sam Hutsby",11104,"ENG","1483","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Chase Koepka",21997,"USA","1516","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Chris Doak",10458,"SCO","1579","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Oliver Wilson",8300,"ENG","1650","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Stephen Grant(Apr1977)",13061,"IRL","1658","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"James Allan",18778,"ENG","1715","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ryan McCarthy",15165,"AUS","1721","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Filippo Bergamaschi",15266,"ITA","1739","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Florian Praegant",9880,"AUT","1848","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Sandro Piaget",11351,"MON","1869","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Maarten Lafeber",5843,"NED","1873","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Joao Carlota",12079,"POR","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Guillaume Watremez",12230,"BEL","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Rene Gruber",13298,"AUT","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ondrej Lieser",13390,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Lukas Tintera",14091,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Tomas Silva(Am)",14688,"POR","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Petr Gal-jr",14882,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Marcos Pastor",15370,"ESP","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Simon Zach(Am)",15671,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jack McDonald",16372,"SCO","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Petr Dedek",16717,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Guido Migliozzi(Am)",17357,"ITA","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Daniel Suchan",17522,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ali Altuntas(Am)",18051,"TUR","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ediz Kemaloglu",18052,"TUR","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Craig Lawrie",18680,"SCO","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Michal Brezovsky(AM)",18720,"SVK","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jan Friesz",18721,"SVK","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Nicolas Schellong(AM)",18726,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Petr Valasek",18727,"SVK","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Cormac Sharvin",18915,"NIR","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Harry Casey",19458,"ENG","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Mario Galiano Aguilar",19557,"ESP","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Ivan Cantero Gutierrez",19635,"ESP","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jan  Cafourek",19851,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Liam Robinson",20026,"ENG","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Leonardo Sbarigia",20299,"ITA","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Juan Carlos Osorio Valencia",20580,"ESP","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jordan Wrisdale",21508,"ENG","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jiri Zuska(AM)",21598,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Matyas Zapletal(Am)",21855,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Philip Eriksson",21938,"SWE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Jamie Bower",22498,"ENG","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Christian Braeunig",22969,"GER","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Roman Kumpost(Am)",23213,"CZE","1917","D+D REAL Czech Challenge",6598,2017-05-28,"European Challenge Tour",NA,NA,2017-05-24
+"Malcolm Kokocinski",17110,"SWE","686","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Aksel Kristoffer Olsen",17749,"NOR","738","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Alex Wrigley",18747,"ENG","795","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Mikael Lindberg",20084,"SWE","796","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Ake Nilsson",9493,"SWE","799","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Daniel Lokke",14287,"DEN","811","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Christopher Feldborg Nielsen",20147,"SWE","837","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Ola Johansson",20403,"SWE","861","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Nicolai Tinning",20256,"DEN","867","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Mathias Gladbjerg",20187,"DEN","895","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Erik Myllymaki",16408,"FIN","920","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Joel Sjoholm",12485,"SWE","927","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Henric Sturehed",20148,"SWE","932","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Elias Bertheussen",12488,"NOR","965","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jarand Ekeland Arnoy",20463,"NOR","1004","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Christian Aronsen",9497,"NOR","1014","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Haraldur Magnus",22994,"ISL","1057","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Benjamin Henry Poke",20244,"DEN","1075","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Niclas Hellberg",20057,"FIN","1096","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Oscar Bergman(Jul1992)",20163,"SWE","1108","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Victor Theandersson",20423,"SWE","1167","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Niklas Lemke",10418,"SWE","1173","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Per Langfors",20414,"SWE","1179","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Gustaf Kocken",20070,"SWE","1325","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Victor Almstrom",14675,"SWE","1336","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Antti Ahokas",11897,"FIN","1345","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Tuomas Salminen",18865,"FIN","1364","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Philip Ulveman Juel-Berg",20207,"DEN","1392","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Gustav Adell",12234,"SWE","1412","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Ludwig Nordeklint",8181,"SWE","1463","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Mads Vibe-Hastrup",6899,"DEN","1468","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Niklas Norgaard Moller",15676,"DEN","1468","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Martin Leth Simonsen",16448,"DEN","1502","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jacob Glennemo",13447,"SWE","1522","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Christian Baech Christensen",19638,"DEN","1543","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Eric Blom",16443,"SWE","1575","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Sebastian Hansson(Nov1991)",20397,"SWE","1589","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Anton Wejshag",20149,"SWE","1631","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jesper Gunder Larsen",20214,"DEN","1633","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Martin Amtkjaer",20156,"DEN","1650","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Andreas Andersson",11653,"SWE","1657","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Fredrik Gustavsson",18513,"SWE","1661","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Marcus Larsson",12583,"SWE","1770","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jesper Billing",13443,"SWE","1795","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Erik Oja",20097,"SWE","1803","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Gabriel Axell",20150,"SWE","1838","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Christian Gloet",16444,"DEN","1852","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Nicolai Kristensen(May1992)",18857,"DEN","1852","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Knud Storgaard",6154,"DEN","1858","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Simon Willer",20126,"DEN","1865","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Joakim Rask",5922,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Bjorn Pettersson",6518,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Nils Bjorling",10495,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jesper Kennegard",11531,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Pontus Ellerstrom",14714,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Alex Jacobsson",14778,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Fredric Sundberg",14783,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Lauri Ruuska",16409,"FIN","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Hampus Bergman(Am)",17470,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Anders Ellingsberg",18840,"NOR","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Oscar Bergqvist",19805,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jeppe Kristian Andersen",20158,"DEN","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jacob Pingel Lauridsen",20218,"DEN","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Hampus Nilsson",20234,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jesper Olsson",20238,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Andreas Sondergaard",20252,"DEN","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"William Nygard",20418,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Robert Jonasson",20477,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Adam Andersson",20525,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Lukas Crisp",20806,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Martin Granstad",21336,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Christopher Sahlstrom",21343,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Sander Stavnar",21605,"NOR","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Marcus Svensson",21811,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Jakob Hansson",21866,"SWE","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Frederik Andersen",22672,"DEN","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Sander Aadusaar",22989,"EST","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
+"Andri Bjornsson",22991,"ISL","1917","Star for Life PGA Championship",6603,2017-05-28,"Nordic Golf League",NA,NA,2017-05-24
