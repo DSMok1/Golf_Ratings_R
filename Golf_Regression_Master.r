@@ -66,9 +66,9 @@ str(Date_List)
 ### Non parallel version ####
 
 #  Add function
-Source_Regression()
-
-lapply(Date_List, Golf_Ratings_Regression)
+# Source_Regression()
+# 
+# lapply(Date_List, Golf_Ratings_Regression)
 
 
 
