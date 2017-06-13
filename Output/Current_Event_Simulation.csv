@@ -1,93 +1,151 @@
-"Event_ID","Event_Name","Event_Tour_1","Rank","OWGR_Rank","Player_Name","Player_ID","Projected_Rating","Projected_Stdev","Win_Rank","Win","Top_5","Top_10","Country","Rounds_Last_Year","Recent_Tour"
-6539,"Masters Tournament","Major Championship",1,2,"Rory McIlroy",10091,-2.50242585377813,2.33671102053968,1,0.0998,0.32336,0.48983,"NIR",68,"PGA Tour"
-6539,"Masters Tournament","Major Championship",2,1,"Dustin Johnson",12422,-2.42683223705711,2.38919798371766,2,0.09337,0.30322,0.46251,"USA",84,"PGA Tour"
-6539,"Masters Tournament","Major Championship",3,5,"Henrik Stenson",5994,-2.22030021520001,2.37830066927127,3,0.06623,0.24243,0.39325,"SWE",68,"PGA Tour"
-6539,"Masters Tournament","Major Championship",4,6,"Jordan Spieth",14636,-2.20227863104153,2.28664968223116,4,0.05751,0.2303,0.38329,"USA",84,"PGA Tour"
-6539,"Masters Tournament","Major Championship",5,3,"Jason Day",9771,-2.12550036070306,2.35139197680965,5,0.05529,0.21481,0.36158,"AUS",65,"PGA Tour"
-6539,"Masters Tournament","Major Championship",6,4,"Hideki Matsuyama",13562,-1.94097663479695,2.37920481240327,6,0.0411,0.17612,0.30532,"JPN",90,"PGA Tour"
-6539,"Masters Tournament","Major Championship",8,8,"Rickie Fowler",12965,-1.87708386201095,2.34780589900018,7,0.03654,0.15883,0.2856,"USA",85,"PGA Tour"
-6539,"Masters Tournament","Major Championship",7,12,"Jon Rahm",19195,-1.8790964312178,2.24123408208326,8,0.03077,0.14852,0.2763,"ESP",62,"PGA Tour"
-6539,"Masters Tournament","Major Championship",9,14,"Justin Rose",6093,-1.83123382653968,2.27318612317908,9,0.02904,0.14041,0.26455,"ENG",76,"PGA Tour"
-6539,"Masters Tournament","Major Championship",10,11,"Sergio Garcia",5689,-1.81728729943876,2.26391406092083,10,0.02816,0.1382,0.26057,"ESP",74,"PGA Tour"
-6539,"Masters Tournament","Major Championship",11,9,"Adam Scott",6430,-1.65264589934683,2.3714165391128,11,0.02531,0.11866,0.2261,"AUS",84,"PGA Tour"
-6539,"Masters Tournament","Major Championship",12,16,"Paul Casey",7108,-1.63024965624062,2.29279933528174,12,0.02059,0.11076,0.21601,"ENG",86,"PGA Tour"
-6539,"Masters Tournament","Major Championship",13,18,"Phil Mickelson",1547,-1.58699155737693,2.29270904321333,13,0.01949,0.10349,0.20352,"USA",82,"PGA Tour"
-6539,"Masters Tournament","Major Championship",16,7,"Justin Thomas",14139,-1.48088950438469,2.41288179255749,14,0.01936,0.09648,0.18871,"USA",94,"PGA Tour"
-6539,"Masters Tournament","Major Championship",14,21,"Matt Kuchar",6169,-1.5185059172133,2.25121147001085,15,0.01522,0.0887,0.1836,"USA",103,"PGA Tour"
-6539,"Masters Tournament","Major Championship",15,30,"Francesco Molinari",7655,-1.50006341888157,2.27380687878423,16,0.01484,0.08683,0.17948,"ITA",86,"PGA Tour"
-6539,"Masters Tournament","Major Championship",18,22,"Brandt Snedeker",8820,-1.38008669799084,2.30331262763819,17,0.01308,0.07446,0.15575,"USA",96,"PGA Tour"
-6539,"Masters Tournament","Major Championship",17,15,"Tyrrell Hatton",14796,-1.43380879110964,2.27044759141735,18,0.01307,0.07845,0.1636,"ENG",94,"PGA Tour"
-6539,"Masters Tournament","Major Championship",28,46,"Adam Hadwin",13965,-1.19887102328287,2.41491736865628,19,0.01061,0.06274,0.13217,"CAN",93,"PGA Tour"
-6539,"Masters Tournament","Major Championship",20,10,"Alex Noren",10419,-1.29700063176001,2.28067072260582,20,0.01001,0.06382,0.13916,"SWE",84,"European Tour"
-6539,"Masters Tournament","Major Championship",24,36,"Gary Woodland",12577,-1.26054135092625,2.26814809368687,21,0.00997,0.05957,0.1286,"USA",91,"PGA Tour"
-6539,"Masters Tournament","Major Championship",21,44,"Martin Kaymer",8117,-1.27268405303913,2.32333031607297,22,0.00989,0.06247,0.13555,"GER",99,"European Tour"
-6539,"Masters Tournament","Major Championship",35,25,"Brooks Koepka",16243,-1.13426294245538,2.40399697160474,23,0.00973,0.05616,0.12194,"USA",74,"PGA Tour"
-6539,"Masters Tournament","Major Championship",25,34,"Daniel Berger",17606,-1.25222031994662,2.293106026865,24,0.00955,0.0582,0.12855,"USA",85,"PGA Tour"
-6539,"Masters Tournament","Major Championship",26,27,"Marc Leishman",7649,-1.2124609720405,2.33887763463761,25,0.00928,0.05781,0.12629,"AUS",91,"PGA Tour"
-6539,"Masters Tournament","Major Championship",37,37,"Kevin Kisner",11328,-1.12970003888824,2.39140110679554,26,0.00902,0.05431,0.11871,"USA",92,"PGA Tour"
-6539,"Masters Tournament","Major Championship",19,39,"Bill Haas",7900,-1.35152100888815,2.1978863148321,27,0.00896,0.0619,0.13826,"USA",86,"PGA Tour"
-6539,"Masters Tournament","Major Championship",31,29,"Charl Schwartzel",7398,-1.17928483702433,2.34330603180995,28,0.00891,0.05734,0.12284,"RSA",82,"PGA Tour"
-6539,"Masters Tournament","Major Championship",30,13,"Patrick Reed",14838,-1.18127893820645,2.32422774292771,29,0.00883,0.05501,0.12084,"USA",118,"PGA Tour"
-6539,"Masters Tournament","Major Championship",29,28,"Louis Oosthuizen",7672,-1.19209465924409,2.31611916147502,30,0.0088,0.05517,0.12172,"RSA",82,"PGA Tour"
-6539,"Masters Tournament","Major Championship",33,56,"Brendan Steele",11019,-1.16983304089791,2.33777417529508,31,0.00867,0.05462,0.12043,"USA",86,"PGA Tour"
-6539,"Masters Tournament","Major Championship",23,19,"Bubba Watson",7334,-1.26738623094374,2.26956822165332,32,0.00853,0.05911,0.13176,"USA",78,"PGA Tour"
-6539,"Masters Tournament","Major Championship",27,38,"Ryan Moore",7489,-1.2077649196691,2.27679511079151,33,0.00787,0.05303,0.11909,"USA",84,"PGA Tour"
-6539,"Masters Tournament","Major Championship",22,41,"Bernd Wiesberger",9531,-1.26915291418678,2.20308903832753,34,0.00768,0.05449,0.12468,"AUT",97,"European Tour"
-6539,"Masters Tournament","Major Championship",34,61,"Russell Henley",14578,-1.14405386561148,2.31943177293898,35,0.00761,0.0504,0.11193,"USA",84,"PGA Tour"
-6539,"Masters Tournament","Major Championship",39,33,"Emiliano Grillo",12808,-1.12477568333381,2.32294029687519,36,0.00756,0.04918,0.1116,"ARG",109,"PGA Tour"
-6539,"Masters Tournament","Major Championship",40,59,"Jim Furyk",2881,-1.12262168065191,2.31430609493499,37,0.00751,0.04978,0.11134,"USA",73,"PGA Tour"
-6539,"Masters Tournament","Major Championship",36,40,"J.B. Holmes",7959,-1.13224832619266,2.33246102764383,38,0.00749,0.05119,0.11331,"USA",82,"PGA Tour"
-6539,"Masters Tournament","Major Championship",32,66,"Jason Dufner",7301,-1.17202326059551,2.25765229379226,39,0.00735,0.04895,0.11339,"USA",84,"PGA Tour"
-6539,"Masters Tournament","Major Championship",44,23,"Russell Knox",13831,-1.02825993195557,2.38023707668031,40,0.00719,0.04516,0.10089,"SCO",94,"PGA Tour"
-6539,"Masters Tournament","Major Championship",48,64,"Pat Perez",6762,-0.984781775683597,2.38614144819038,41,0.00624,0.04204,0.09547,"USA",40,"PGA Tour"
-6539,"Masters Tournament","Major Championship",50,65,"Shane Lowry",13900,-0.960039156252637,2.36453832267305,42,0.0061,0.04055,0.09213,"IRL",68,"PGA Tour"
-6539,"Masters Tournament","Major Championship",41,49,"Zach Johnson",6986,-1.10944596901995,2.26120820391913,43,0.00599,0.04361,0.10187,"USA",87,"PGA Tour"
-6539,"Masters Tournament","Major Championship",38,26,"Rafael Cabrera Bello",7457,-1.12507002942321,2.23851961219894,44,0.00586,0.04325,0.10377,"ESP",108,"European Tour"
-6539,"Masters Tournament","Major Championship",67,24,"Jimmy Walker",7293,-0.775335468199799,2.52643904735452,45,0.00563,0.03555,0.08053,"USA",85,"PGA Tour"
-6539,"Masters Tournament","Major Championship",63,45,"Ross Fisher",9396,-0.792472363101732,2.46131203350001,46,0.00531,0.03482,0.07827,"ENG",85,"European Tour"
-6539,"Masters Tournament","Major Championship",46,51,"Kevin Na",7452,-1.01226368925661,2.29732220656122,47,0.00518,0.0387,0.09025,"USA",90,"PGA Tour"
-6539,"Masters Tournament","Major Championship",69,54,"Lee Westwood",4052,-0.761603181041764,2.47562542596589,48,0.00515,0.03261,0.07507,"ENG",83,"European Tour"
-6539,"Masters Tournament","Major Championship",57,31,"Matthew Fitzpatrick",17646,-0.844835673835374,2.40689675328322,49,0.00514,0.03431,0.08034,"ENG",85,"PGA Tour"
-6539,"Masters Tournament","Major Championship",43,20,"Branden Grace",11952,-1.03634618766215,2.24993307926745,50,0.00495,0.03739,0.09024,"RSA",95,"PGA Tour"
-6539,"Masters Tournament","Major Championship",59,52,"Charley Hoffman",5768,-0.82600028353352,2.37064238302059,51,0.00473,0.03155,0.07425,"USA",95,"PGA Tour"
-6539,"Masters Tournament","Major Championship",72,50,"Scott Piercy",7899,-0.752960725492066,2.43825705583975,52,0.00447,0.03045,0.07077,"USA",90,"PGA Tour"
-6539,"Masters Tournament","Major Championship",52,67,"Webb Simpson",11049,-0.918426482287247,2.27826059065514,53,0.00445,0.03245,0.07806,"USA",85,"PGA Tour"
-6539,"Masters Tournament","Major Championship",60,32,"Tommy Fleetwood",12294,-0.814048500804996,2.35925392790466,54,0.00424,0.03,0.07127,"ENG",93,"European Tour"
-6539,"Masters Tournament","Major Championship",79,58,"Andy Sullivan",15326,-0.708971545175412,2.43695963039694,55,0.00418,0.02759,0.06696,"ENG",88,"European Tour"
-6539,"Masters Tournament","Major Championship",77,35,"Thomas Pieters",13944,-0.714379091630795,2.4479000677238,56,0.00417,0.02921,0.06789,"BEL",79,"PGA Tour"
-6539,"Masters Tournament","Major Championship",84,43,"Kevin Chappell",13305,-0.658261610368712,2.47696443055951,57,0.00397,0.02715,0.06437,"USA",90,"PGA Tour"
-6539,"Masters Tournament","Major Championship",71,57,"Jhonattan Vegas",13508,-0.75296931677349,2.41374404980094,58,0.00396,0.02882,0.06942,"VEN",103,"PGA Tour"
-6539,"Masters Tournament","Major Championship",51,115,"Steve Stricker",4818,-0.925571483214589,2.24243174234146,59,0.00391,0.02961,0.075,"USA",45,"PGA Tour"
-6539,"Masters Tournament","Major Championship",86,17,"Danny Willett",12920,-0.626809721197336,2.47633255331084,60,0.00388,0.02574,0.06057,"ENG",81,"European Tour"
-6539,"Masters Tournament","Major Championship",68,75,"Hudson Swafford",14706,-0.764855606204878,2.37260406725277,61,0.00386,0.02768,0.06733,"USA",100,"PGA Tour"
-6539,"Masters Tournament","Major Championship",54,55,"Byeong Hun An",14459,-0.886212841941499,2.28535047207874,62,0.00364,0.0297,0.07453,"KOR",91,"PGA Tour"
-6539,"Masters Tournament","Major Championship",62,60,"Chris Wood",12451,-0.793113451842915,2.29949643115617,63,0.00331,0.02518,0.06447,"ENG",76,"European Tour"
-6539,"Masters Tournament","Major Championship",61,53,"William McGirt",12477,-0.801719206943494,2.28814175011303,64,0.00322,0.02544,0.06329,"USA",88,"PGA Tour"
-6539,"Masters Tournament","Major Championship",75,62,"Soren Kjeldsen",6149,-0.729099522823598,2.263720065112,65,0.00255,0.02132,0.05503,"DEN",97,"PGA Tour"
-6539,"Masters Tournament","Major Championship",90,48,"Hideto Tanihara",7046,-0.599755450085004,2.2913563961732,66,0.00225,0.01612,0.04491,"JPN",101,"Japan Golf Tour"
-6539,"Masters Tournament","Major Championship",138,47,"Jeunghun Wang",15366,-0.234017613503738,2.55368100286034,67,0.00202,0.01406,0.03635,"KOR",88,"European Tour"
-6539,"Masters Tournament","Major Championship",106,42,"Yuta Ikeda",8236,-0.435828398556985,2.36254608615291,68,0.00187,0.01408,0.03776,"JPN",111,"Japan Golf Tour"
-6539,"Masters Tournament","Major Championship",99,85,"Sean O'Hair",7626,-0.508800866386055,2.34594270473674,69,0.00186,0.01556,0.04118,"USA",92,"PGA Tour"
-6539,"Masters Tournament","Major Championship",96,80,"James Hahn",11374,-0.522012224053011,2.32268296695482,70,0.00175,0.01588,0.04175,"USA",92,"PGA Tour"
-6539,"Masters Tournament","Major Championship",91,86,"Roberto Castro",12643,-0.592280622008137,2.2544393874432,71,0.00163,0.0151,0.04167,"USA",87,"PGA Tour"
-6539,"Masters Tournament","Major Championship",107,88,"Daniel Summerhays",12424,-0.43514795676827,2.32096109005219,72,0.00133,0.01158,0.03415,"USA",92,"PGA Tour"
-6539,"Masters Tournament","Major Championship",178,69,"Siwoo Kim",14609,-0.0885491326627056,2.49190685711143,73,0.00104,0.00931,0.02471,"KOR",92,"PGA Tour"
-6539,"Masters Tournament","Major Championship",159,145,"Brian Stuard",13022,-0.165261233180514,2.26314763608105,74,5e-04,0.00578,0.01834,"USA",102,"PGA Tour"
-6539,"Masters Tournament","Major Championship",133,137,"Billy Hurley III",11046,-0.265040118160929,2.16344231779094,75,0.00049,0.00544,0.0184,"USA",86,"PGA Tour"
-6539,"Masters Tournament","Major Championship",205,142,"Rod Pampling",5668,0.00926224972393146,2.31626994728651,76,0.00044,0.00496,0.01424,"AUS",85,"PGA Tour"
-6539,"Masters Tournament","Major Championship",215,247,"Vijay Singh",653,0.0640257672169673,2.34811222032495,77,0.00041,0.00436,0.01295,"FIJ",68,"PGA Tour"
-6539,"Masters Tournament","Major Championship",202,116,"Mackenzie Hughes",15556,0.00586436975334704,2.27670518057613,78,0.00022,0.00349,0.01244,"CAN",117,"PGA Tour"
-6539,"Masters Tournament","Major Championship",250,410,"Ernie Els",874,0.172522700203722,2.25171859318791,79,0.00016,0.00234,0.00787,"RSA",74,"PGA Tour"
-6539,"Masters Tournament","Major Championship",372,440,"Curtis Luck(Am)",16842,0.54690195023028,2.43432946094116,80,8e-05,0.00154,0.00531,"AUS",26,"European Tour"
-6539,"Masters Tournament","Major Championship",414,625,"Angel Cabrera",5717,0.664653693930573,2.40388040028366,81,6e-05,0.00118,0.00376,"ARG",55,"PGA Tour"
-6539,"Masters Tournament","Major Championship",795,1893,"Trevor Immelman",5935,1.4959238478639,2.33780801679231,82,1e-05,6e-05,0.00039,"RSA",37,"Sunshine Tour"
-6539,"Masters Tournament","Major Championship",1422,1893,"Jose M Olazabal",3485,2.53112006509721,2.5131423388926,83,0,0,1e-05,"ESP",8,NA
-6539,"Masters Tournament","Major Championship",1649,1893,"Mike Weir",5513,2.86352058016992,2.39934166692644,83,0,0,0,"CAN",13,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Fred Couples",44,3,2.5,83,0,0,1e-05,NA,NA,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Larry Mize",139,3,2.5,83,0,0,1e-05,NA,NA,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Mark O'Meara",154,3,2.5,83,0,0,0,NA,NA,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Bernhard Langer",290,3,2.5,83,0,0,1e-05,NA,NA,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Sandy Lyle",294,3,2.5,83,0,0,1e-05,NA,NA,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Ian Woosnam",334,3,2.5,83,0,0,0,NA,NA,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Brad Dalke",21501,3,2.5,83,0,0,0,NA,NA,NA
-6539,"Masters Tournament","Major Championship",NA,NA,"Scott Gregory(Am)",22253,3,2.5,83,0,0,0,NA,NA,NA
+Event_ID,Event_Name,Event_Tour_1,Rank,OWGR_Rank,Player_Name,Player_ID,Projected_Rating,Projected_Stdev,Win_Rank,Win,Top_5,Top_10,Country,Rounds_Last_Year,Recent_Tour
+6629,U.S. Open,Major Championship,1,2,Rory McIlroy,10091,-2.438278529,2.323190618,1,0.08179,0.27608,0.42716,NIR,56,PGA Tour
+6629,U.S. Open,Major Championship,2,1,Dustin Johnson,12422,-2.304890254,2.430881793,2,0.07496,0.24996,0.38873,USA,78,PGA Tour
+6629,U.S. Open,Major Championship,3,5,Jordan Spieth,14636,-2.193857512,2.350294439,3,0.05494,0.21155,0.3489,USA,82,PGA Tour
+6629,U.S. Open,Major Championship,4,3,Jason Day,9771,-2.129982215,2.376114946,4,0.05187,0.1994,0.33035,AUS,62,PGA Tour
+6629,U.S. Open,Major Championship,5,6,Henrik Stenson,5994,-2.083133585,2.349110465,5,0.04616,0.18578,0.31344,SWE,70,European Tour
+6629,U.S. Open,Major Championship,7,4,Hideki Matsuyama,13562,-1.919213573,2.416719499,6,0.03909,0.15586,0.26891,JPN,88,PGA Tour
+6629,U.S. Open,Major Championship,6,7,Sergio Garcia,5689,-1.934220853,2.35829427,7,0.03554,0.15367,0.26976,ESP,74,PGA Tour
+6629,U.S. Open,Major Championship,9,9,Rickie Fowler,12965,-1.840202737,2.431661181,8,0.03326,0.1424,0.24887,USA,86,PGA Tour
+6629,U.S. Open,Major Championship,8,11,Justin Rose,6093,-1.855188826,2.32787922,9,0.03095,0.1365,0.24575,ENG,74,PGA Tour
+6629,U.S. Open,Major Championship,10,10,Jon Rahm,19195,-1.813297198,2.351753472,10,0.02936,0.13077,0.23552,ESP,79,PGA Tour
+6629,U.S. Open,Major Championship,11,12,Adam Scott,6430,-1.77074711,2.366819303,11,0.027,0.12536,0.22847,AUS,88,PGA Tour
+6629,U.S. Open,Major Championship,12,14,Paul Casey,7108,-1.767610362,2.320319537,12,0.02571,0.12,0.2214,ENG,86,PGA Tour
+6629,U.S. Open,Major Championship,14,15,Matt Kuchar,6169,-1.65337604,2.298288813,13,0.01942,0.09738,0.19136,USA,102,PGA Tour
+6629,U.S. Open,Major Championship,16,13,Justin Thomas,14139,-1.524439688,2.42039678,14,0.01916,0.09302,0.17682,USA,89,PGA Tour
+6629,U.S. Open,Major Championship,15,17,Francesco Molinari,7655,-1.64242873,2.279726401,15,0.01809,0.09521,0.18622,ITA,84,PGA Tour
+6629,U.S. Open,Major Championship,13,23,Phil Mickelson,1547,-1.658052344,2.244922403,16,0.01711,0.09297,0.18621,USA,88,PGA Tour
+6629,U.S. Open,Major Championship,17,8,Alex Noren,10419,-1.451962751,2.36365251,17,0.01393,0.07726,0.15461,SWE,84,European Tour
+6629,U.S. Open,Major Championship,18,22,Brooks Koepka,16243,-1.364303418,2.404303549,18,0.01376,0.07228,0.14292,USA,80,PGA Tour
+6629,U.S. Open,Major Championship,19,27,Jason Dufner,7301,-1.343923905,2.422462536,19,0.01336,0.06991,0.14008,USA,84,PGA Tour
+6629,U.S. Open,Major Championship,25,20,Kevin Kisner,11328,-1.304620464,2.397758188,20,0.0123,0.06451,0.13103,USA,96,PGA Tour
+6629,U.S. Open,Major Championship,24,16,Charl Schwartzel,7398,-1.30605356,2.387092722,21,0.01151,0.06317,0.12968,RSA,82,PGA Tour
+6629,U.S. Open,Major Championship,22,21,Louis Oosthuizen,7672,-1.315133756,2.346017462,22,0.01064,0.06087,0.12662,RSA,82,PGA Tour
+6629,U.S. Open,Major Championship,35,42,Pat Perez,6762,-1.159632774,2.472136982,23,0.01021,0.05588,0.11373,USA,62,PGA Tour
+6629,U.S. Open,Major Championship,23,38,Brandt Snedeker,8820,-1.309643222,2.285160441,24,0.00915,0.05551,0.11934,USA,92,PGA Tour
+6629,U.S. Open,Major Championship,27,18,Tyrrell Hatton,14796,-1.268505392,2.319868717,25,0.00903,0.05469,0.11641,ENG,88,PGA Tour
+6629,U.S. Open,Major Championship,26,24,Daniel Berger,17606,-1.291441827,2.298002839,26,0.00872,0.0544,0.11698,USA,78,PGA Tour
+6629,U.S. Open,Major Championship,39,40,Emiliano Grillo,12808,-1.139455736,2.399162121,27,0.00867,0.04903,0.10392,ARG,111,PGA Tour
+6629,U.S. Open,Major Championship,28,35,Marc Leishman,7649,-1.228397358,2.314860603,28,0.0085,0.0501,0.10717,AUS,90,PGA Tour
+6629,U.S. Open,Major Championship,30,37,Bubba Watson,7334,-1.21701272,2.323612023,29,0.00846,0.05091,0.10919,USA,74,PGA Tour
+6629,U.S. Open,Major Championship,21,30,Bernd Wiesberger,9531,-1.315394941,2.240667336,30,0.00819,0.05267,0.117,AUT,97,European Tour
+6629,U.S. Open,Major Championship,36,58,Martin Kaymer,8117,-1.157635079,2.372030285,31,0.00808,0.04757,0.10359,GER,89,PGA Tour
+6629,U.S. Open,Major Championship,33,53,Brendan Steele,11019,-1.16936856,2.344853897,32,0.00771,0.04595,0.102,USA,84,PGA Tour
+6629,U.S. Open,Major Championship,29,85,Steve Stricker,4818,-1.221123936,2.281899033,33,0.00744,0.04694,0.10247,USA,50,PGA Tour
+6629,U.S. Open,Major Championship,34,19,Patrick Reed,14838,-1.16455257,2.333732728,34,0.00727,0.04645,0.10042,USA,116,PGA Tour
+6629,U.S. Open,Major Championship,45,49,Adam Hadwin,13965,-1.03721565,2.421581608,35,0.00703,0.04308,0.09163,CAN,88,PGA Tour
+6629,U.S. Open,Major Championship,49,26,Kevin Chappell,13305,-1.010725183,2.453242011,36,0.007,0.0417,0.08979,USA,88,PGA Tour
+6629,U.S. Open,Major Championship,51,44,Ross Fisher,9396,-0.972336713,2.419467044,37,0.0065,0.03811,0.08256,ENG,85,European Tour
+6629,U.S. Open,Major Championship,31,46,Bill Haas,7900,-1.208529678,2.230799548,38,0.00647,0.04314,0.09711,USA,84,PGA Tour
+6629,U.S. Open,Major Championship,32,29,Branden Grace,11952,-1.199815826,2.240781936,38,0.00647,0.04248,0.0976,RSA,101,PGA Tour
+6629,U.S. Open,Major Championship,44,69,Shane Lowry,13900,-1.049607598,2.375307632,40,0.00637,0.04067,0.0899,IRL,72,PGA Tour
+6629,U.S. Open,Major Championship,56,52,J.B. Holmes,7959,-0.891264175,2.507579184,41,0.00627,0.03617,0.08018,USA,84,PGA Tour
+6629,U.S. Open,Major Championship,37,28,Rafael Cabrera Bello,7457,-1.14258453,2.284162728,42,0.00621,0.04031,0.09401,ESP,104,PGA Tour
+6629,U.S. Open,Major Championship,63,25,Thomas Pieters,13944,-0.846229371,2.512480108,43,0.00596,0.03455,0.0756,BEL,77,European Tour
+6629,U.S. Open,Major Championship,59,34,Jimmy Walker,7293,-0.883062871,2.491582014,44,0.00582,0.03552,0.07859,USA,81,PGA Tour
+6629,U.S. Open,Major Championship,43,57,Russell Henley,14578,-1.050300091,2.380315163,45,0.00578,0.0398,0.08871,USA,79,PGA Tour
+6629,U.S. Open,Major Championship,42,56,Byeong Hun An,14459,-1.064148594,2.271279815,46,0.00528,0.03489,0.08197,KOR,98,PGA Tour
+6629,U.S. Open,Major Championship,55,47,Billy Horschel,11276,-0.89498521,2.413077818,47,0.00523,0.03259,0.07391,USA,82,PGA Tour
+6629,U.S. Open,Major Championship,40,45,Gary Woodland,12577,-1.09365383,2.276636297,48,0.00509,0.03757,0.08445,USA,83,PGA Tour
+6629,U.S. Open,Major Championship,54,55,Charley Hoffman,5768,-0.901084617,2.392327064,49,0.00486,0.03149,0.07182,USA,96,PGA Tour
+6629,U.S. Open,Major Championship,50,63,Webb Simpson,11049,-1.002627357,2.316712748,50,0.00485,0.03257,0.07549,USA,87,PGA Tour
+6629,U.S. Open,Major Championship,53,39,Russell Knox,13831,-0.915784954,2.382721752,51,0.0047,0.03164,0.07259,SCO,92,PGA Tour
+6629,U.S. Open,Major Championship,66,54,Lee Westwood,4052,-0.818843169,2.454617409,52,0.00453,0.02938,0.06641,ENG,83,European Tour
+6629,U.S. Open,Major Championship,48,70,Zach Johnson,6986,-1.011326574,2.264414007,53,0.00447,0.03177,0.07484,USA,85,PGA Tour
+6629,U.S. Open,Major Championship,58,50,Brian Harman,8825,-0.887481869,2.376271209,54,0.00443,0.0301,0.06848,USA,94,PGA Tour
+6629,U.S. Open,Major Championship,52,100,Lucas Glover,7399,-0.953797742,2.342463056,55,0.00429,0.03134,0.07215,USA,72,PGA Tour
+6629,U.S. Open,Major Championship,85,67,Jhonattan Vegas,13508,-0.631723953,2.540780284,56,0.00427,0.02458,0.05524,VEN,96,PGA Tour
+6629,U.S. Open,Major Championship,61,36,Matthew Fitzpatrick,17646,-0.866931735,2.396169567,57,0.00422,0.02955,0.06763,ENG,83,European Tour
+6629,U.S. Open,Major Championship,47,158,Stewart Cink,5665,-1.022230236,2.240049289,58,0.0042,0.03056,0.07279,USA,83,PGA Tour
+6629,U.S. Open,Major Championship,64,122,Keegan Bradley,13872,-0.834406469,2.396991121,59,0.00415,0.02837,0.06443,USA,92,PGA Tour
+6629,U.S. Open,Major Championship,65,89,Graeme McDowell,7548,-0.826757092,2.341623751,60,0.00368,0.02407,0.05795,NIR,94,PGA Tour
+6629,U.S. Open,Major Championship,76,41,Wesley Bryan,21236,-0.708706009,2.427817565,60,0.00368,0.0234,0.05455,USA,85,PGA Tour
+6629,U.S. Open,Major Championship,57,68,Kevin Na,7452,-0.891028405,2.284137611,62,0.00363,0.02503,0.06043,USA,84,PGA Tour
+6629,U.S. Open,Major Championship,71,51,William McGirt,12477,-0.770837402,2.383264347,63,0.00358,0.02354,0.05668,USA,88,PGA Tour
+6629,U.S. Open,Major Championship,62,60,Chris Wood,12451,-0.855905931,2.291688868,64,0.0034,0.02369,0.05793,ENG,70,European Tour
+6629,U.S. Open,Major Championship,78,96,Jamie Lovemark,11382,-0.699527679,2.403236672,65,0.00339,0.0219,0.0524,USA,91,PGA Tour
+6629,U.S. Open,Major Championship,70,98,Bud Cauley,14502,-0.772481129,2.355099342,66,0.00333,0.02355,0.05441,USA,80,PGA Tour
+6629,U.S. Open,Major Championship,74,140,Chez Reavie,7961,-0.750569109,2.366059155,67,0.00332,0.02319,0.05502,USA,79,PGA Tour
+6629,U.S. Open,Major Championship,67,81,Jim Furyk,2881,-0.808507275,2.315813636,68,0.00319,0.02297,0.05518,USA,73,PGA Tour
+6629,U.S. Open,Major Championship,69,101,Ryan Palmer,7820,-0.779345985,2.347300525,69,0.00316,0.02337,0.05601,USA,67,PGA Tour
+6629,U.S. Open,Major Championship,91,99,Jason Kokrak,12337,-0.568197592,2.482358449,70,0.0031,0.01963,0.04559,USA,93,PGA Tour
+6629,U.S. Open,Major Championship,77,33,Tommy Fleetwood,12294,-0.708125961,2.4068009,71,0.00306,0.02178,0.05237,ENG,91,European Tour
+6629,U.S. Open,Major Championship,95,62,Scott Piercy,7899,-0.534463359,2.560446055,72,0.00304,0.02155,0.04771,USA,90,PGA Tour
+6629,U.S. Open,Major Championship,86,110,David Lingmerth,14815,-0.612199588,2.487655801,73,0.00285,0.02103,0.04976,SWE,85,PGA Tour
+6629,U.S. Open,Major Championship,73,114,Martin Laird,9586,-0.76751445,2.322891325,74,0.00264,0.02135,0.05213,SCO,82,PGA Tour
+6629,U.S. Open,Major Championship,81,48,Hideto Tanihara,7046,-0.673562186,2.357345523,75,0.00244,0.0186,0.04684,JPN,99,Japan Golf Tour
+6629,U.S. Open,Major Championship,84,71,Sean O'Hair,7626,-0.653759531,2.366771425,76,0.00233,0.01843,0.04488,USA,86,PGA Tour
+6629,U.S. Open,Major Championship,104,75,Alexander Levy,14973,-0.456915298,2.447426814,77,0.00218,0.01492,0.03687,FRA,80,European Tour
+6629,U.S. Open,Major Championship,94,106,Harris English,14577,-0.54599938,2.401137503,78,0.00205,0.01623,0.03966,USA,86,PGA Tour
+6629,U.S. Open,Major Championship,109,153,Peter Uihlein,11357,-0.436074729,2.455974509,79,0.00188,0.01435,0.03547,USA,61,PGA Tour
+6629,U.S. Open,Major Championship,115,31,Danny Willett,12920,-0.384558119,2.49223085,80,0.00177,0.01384,0.03428,ENG,75,European Tour
+6629,U.S. Open,Major Championship,89,264,Ted Potter-jr,8769,-0.597736842,2.318784182,81,0.00174,0.01504,0.03818,USA,77,Web.com Tour
+6629,U.S. Open,Major Championship,124,127,George Coetzee,10884,-0.324509824,2.461584982,82,0.00165,0.01202,0.0299,RSA,101,European Tour
+6629,U.S. Open,Major Championship,129,32,Siwoo Kim,14609,-0.280783302,2.529522904,83,0.00158,0.01245,0.03033,KOR,81,PGA Tour
+6629,U.S. Open,Major Championship,108,181,JT Poston,21554,-0.436984699,2.372279398,84,0.00156,0.01242,0.03077,USA,109,PGA Tour
+6629,U.S. Open,Major Championship,106,90,Daniel Summerhays,12424,-0.447752968,2.355431226,85,0.00131,0.01234,0.03156,USA,96,PGA Tour
+6629,U.S. Open,Major Championship,128,172,Meenwhee Kim,11702,-0.283080777,2.35964645,86,0.00116,0.00881,0.0232,KOR,80,PGA Tour
+6629,U.S. Open,Major Championship,179,61,Jeunghun Wang,15366,-0.079402335,2.54928992,87,0.00114,0.0088,0.02233,KOR,82,European Tour
+6629,U.S. Open,Major Championship,122,59,Yuta Ikeda,8236,-0.333700584,2.344908587,88,0.00106,0.00893,0.02446,JPN,111,PGA Tour
+6629,U.S. Open,Major Championship,123,120,Bradley Dredge,6150,-0.331786145,2.348988253,89,0.00095,0.00935,0.02451,WAL,75,European Tour
+6629,U.S. Open,Major Championship,140,116,Andrew Johnston,14666,-0.218221631,2.379110789,90,8.00E-04,0.00735,0.02007,ENG,86,PGA Tour
+6629,U.S. Open,Major Championship,127,109,Roberto Castro,12643,-0.287293244,2.278955109,91,0.00063,0.00667,0.01968,USA,84,PGA Tour
+6629,U.S. Open,Major Championship,136,163,Gregory Bourdy,7932,-0.238946432,2.308459463,91,0.00063,0.00667,0.0186,FRA,88,European Tour
+6629,U.S. Open,Major Championship,185,171,Paul Dunne,18736,-0.059271531,2.375139436,91,0.00063,0.00502,0.01497,IRL,80,European Tour
+6629,U.S. Open,Major Championship,197,128,Li Haotong,15310,-0.024834035,2.397188781,94,0.00059,0.00527,0.01453,CHN,77,European Tour
+6629,U.S. Open,Major Championship,152,159,C.T. Pan,15475,-0.164562443,2.280450463,95,0.00057,0.00529,0.01533,TPE,102,PGA Tour
+6629,U.S. Open,Major Championship,153,150,Brian Stuard,13022,-0.163029761,2.282886985,96,0.00051,0.00521,0.01476,USA,107,PGA Tour
+6629,U.S. Open,Major Championship,252,355,Jonathan Randolph,14837,0.190530637,2.47980845,96,0.00051,0.00399,0.01123,USA,77,PGA Tour
+6629,U.S. Open,Major Championship,161,183,Thomas Aiken,7679,-0.121258552,2.283113216,98,0.00047,0.00487,0.01424,RSA,89,Web.com Tour
+6629,U.S. Open,Major Championship,223,373,Trey Mullinax,18761,0.09550875,2.446522597,99,4.00E-04,0.00434,0.0129,USA,92,PGA Tour
+6629,U.S. Open,Major Championship,216,117,Satoshi Kodaira,13531,0.079316839,2.415892577,100,0.00038,0.00403,0.01202,JPN,105,Japan Golf Tour
+6629,U.S. Open,Major Championship,217,306,Ryan Brehm,10423,0.07996219,2.361742856,100,0.00038,0.00378,0.01094,USA,99,PGA Tour
+6629,U.S. Open,Major Championship,195,148,Shugo Imahira,13485,-0.027611932,2.320113087,102,0.00034,0.00355,0.01233,JPN,101,Japan Golf Tour
+6629,U.S. Open,Major Championship,174,352,Xander Schauffele,19895,-0.081021299,2.318012244,103,0.00032,0.00451,0.01386,USA,98,PGA Tour
+6629,U.S. Open,Major Championship,295,91,Brandon Stone,15229,0.342209876,2.434449433,103,0.00032,0.00251,0.0073,RSA,83,European Tour
+6629,U.S. Open,Major Championship,268,300,Troy Merritt,13367,0.273607768,2.435450967,105,0.00029,0.00288,0.00832,USA,83,PGA Tour
+6629,U.S. Open,Major Championship,278,292,Sam Ryder,16715,0.29960034,2.441119334,105,0.00029,0.00256,0.00812,USA,73,Web.com Tour
+6629,U.S. Open,Major Championship,210,309,Richie Ramsay,11396,0.052854122,2.246512476,107,0.00026,0.00269,0.0087,SCO,81,European Tour
+6629,U.S. Open,Major Championship,320,174,Stephan Jaeger,16394,0.421102805,2.575445457,108,0.00024,0.00272,0.00792,GER,75,Web.com Tour
+6629,U.S. Open,Major Championship,234,357,Kyle Thompson,7617,0.131297005,2.37835248,109,0.00023,0.00299,0.01012,USA,67,Web.com Tour
+6629,U.S. Open,Major Championship,204,151,Bryson DeChambeau,19841,-0.006139887,2.297601212,110,0.00022,0.00317,0.01039,USA,74,PGA Tour
+6629,U.S. Open,Major Championship,310,1021,Michael Putnam,10180,0.3919125,2.344452,111,0.00015,0.00149,0.00485,USA,55,Web.com Tour
+6629,U.S. Open,Major Championship,263,401,Ernie Els,874,0.234854315,2.314057885,112,0.00014,0.00192,0.00635,RSA,72,PGA Tour
+6629,U.S. Open,Major Championship,289,121,Yusaku Miyazato,7031,0.329276062,2.311483117,113,0.00012,0.00142,0.00547,JPN,105,Japan Golf Tour
+6629,U.S. Open,Major Championship,335,141,Matt Wallace,20706,0.469654949,2.395007203,114,0.00011,0.00146,0.00482,ENG,53,European Tour
+6629,U.S. Open,Major Championship,386,583,Corey Conners,17576,0.593307357,2.335668805,115,1.00E-04,0.00083,0.00276,CAN,92,Web.com Tour
+6629,U.S. Open,Major Championship,452,458,Eddie Pepperell,15113,0.818271495,2.559880882,115,1.00E-04,0.0012,0.00336,ENG,62,European Tour
+6629,U.S. Open,Major Championship,306,705,Brice Garnett,11451,0.376812391,2.34580047,117,9.00E-05,0.00144,0.00498,USA,59,Web.com Tour
+6629,U.S. Open,Major Championship,385,544,Talor Gooch,18580,0.592544811,2.372733072,117,9.00E-05,0.00106,0.00366,USA,65,Web.com Tour
+6629,U.S. Open,Major Championship,527,569,Jack Maguire,19869,0.96357658,2.63893776,119,7.00E-05,0.00101,0.00324,USA,71,Web.com Tour
+6629,U.S. Open,Major Championship,401,452,Wade Ormsby,7532,0.644861842,2.324906614,120,6.00E-05,0.00083,0.00241,AUS,44,European Tour
+6629,U.S. Open,Major Championship,316,168,Aaron Rai,18554,0.407943726,2.281440006,121,5.00E-05,0.00095,0.00377,ENG,89,European Challenge Tour
+6629,U.S. Open,Major Championship,649,229,Oliver Bekker,12819,1.245600155,2.635922601,121,5.00E-05,0.00055,0.00173,RSA,66,Sunshine Tour
+6629,U.S. Open,Major Championship,413,620,Angel Cabrera,5717,0.690305967,2.384300396,123,4.00E-05,0.00072,0.00252,ARG,50,PGA Tour
+6629,U.S. Open,Major Championship,455,266,Chan Kim,15004,0.829535146,2.429969434,123,4.00E-05,0.00067,0.00215,USA,69,Japan Golf Tour
+6629,U.S. Open,Major Championship,492,798,Andres Romero,7751,0.885031788,2.389835162,125,3.00E-05,0.00037,0.00147,ARG,37,PGA Tour
+6629,U.S. Open,Major Championship,508,970,Jordan Niebrugge,18284,0.919444708,2.446235586,125,3.00E-05,0.00059,0.00216,USA,28,PGA Tour Canada
+6629,U.S. Open,Major Championship,463,350,Joel Stalter,17722,0.843085581,2.369433058,127,2.00E-05,0.00032,0.00162,FRA,84,European Tour
+6629,U.S. Open,Major Championship,588,1428,Andy Pope,14127,1.109068252,2.398991234,127,2.00E-05,0.00029,0.00097,USA,8,NA
+6629,U.S. Open,Major Championship,611,1129,Ben Kohles,16395,1.154382629,2.331613842,127,2.00E-05,0.00016,5.00E-04,USA,53,Web.com Tour
+6629,U.S. Open,Major Championship,888,812,Daniel Chopra,2035,1.690600047,2.468133208,130,1.00E-05,7.00E-05,0.00038,SWE,53,Web.com Tour
+6629,U.S. Open,Major Championship,1122,1927,Nick Flanagan,8357,2.054287835,2.508140615,130,1.00E-05,4.00E-05,0.00011,AUS,3,NA
+6629,U.S. Open,Major Championship,1184,1729,Daniel Miernicki,14798,2.166059865,2.449517919,132,0,1.00E-05,5.00E-05,USA,31,Web.com Tour
+6629,U.S. Open,Major Championship,NA,NA,Garrett Osborn,12848,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Tyson Alexander,14002,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,John Oda,15953,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Derek Barron,16695,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Joaquin Niemann(Am),18079,3,2.5,132,0,0,1.00E-05,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Scottie Scheffler(Am),18417,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Maverick McNealy,18634,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Scott Harvey,19508,3,2.5,132,0,1.00E-05,2.00E-05,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Kevin Dougherty,19738,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Tyler Light,19747,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Davis Love IV,21135,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Brad Dalke,21501,3,2.5,132,0,0,1.00E-05,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Roman Robledo,21900,3,2.5,132,0,0,1.00E-05,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Christopher Crawford,22043,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Scott Gregory(Am),22253,3,2.5,132,0,0,1.00E-05,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Sahith Theegala,23014,3,2.5,132,0,0,1.00E-05,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Stewart Hagestad(Am),23113,3,2.5,132,0,0,0,NA,NA,NA
+6629,U.S. Open,Major Championship,NA,NA,Max Greyserman,23465,3,2.5,132,0,0,0,NA,NA,NA
