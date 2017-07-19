@@ -1,1 +1,297 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Dustin Johnson",12422,"USA","1","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Hideki Matsuyama",13562,"JPN","2","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jordan Spieth",14636,"USA","3","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Rory McIlroy",10091,"NIR","4","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Sergio Garcia",5689,"ESP","5","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jason Day",9771,"AUS","6","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jon Rahm",19195,"ESP","7","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Henrik Stenson",5994,"SWE","8","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Alex Noren",10419,"SWE","9","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Rickie Fowler",12965,"USA","10","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Brooks Koepka",16243,"USA","11","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Justin Rose",6093,"ENG","12","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Justin Thomas",14139,"USA","13","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Tommy Fleetwood",12294,"ENG","14","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Adam Scott",6430,"AUS","15","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Paul Casey",7108,"ENG","16","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Rafael Cabrera Bello",7457,"ESP","17","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Matt Kuchar",6169,"USA","18","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Francesco Molinari",7655,"ITA","19","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Daniel Berger",17606,"USA","20","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Charl Schwartzel",7398,"RSA","21","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Patrick Reed",14838,"USA","22","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Louis Oosthuizen",7672,"RSA","23","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Tyrrell Hatton",14796,"ENG","24","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Kevin Kisner",11328,"USA","25","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Phil Mickelson",1547,"USA","26","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Brian Harman",8825,"USA","27","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Kevin Chappell",13305,"USA","28","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Bernd Wiesberger",9531,"AUT","29","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Thomas Pieters",13944,"BEL","30","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jason Dufner",7301,"USA","31","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Siwoo Kim",14609,"KOR","32","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Brandt Snedeker",8820,"USA","33","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Marc Leishman",7649,"AUS","34","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Branden Grace",11952,"RSA","35","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Wesley Bryan",21236,"USA","36","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Bill Haas",7900,"USA","37","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jimmy Walker",7293,"USA","38","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Charley Hoffman",5768,"USA","39","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Matthew Fitzpatrick",17646,"ENG","40","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Danny Willett",12920,"ENG","41","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Pat Perez",6762,"USA","42","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Ross Fisher",9396,"ENG","43","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Ryan Moore",7489,"USA","44","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Billy Horschel",11276,"USA","45","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Emiliano Grillo",12808,"ARG","46","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Russell Knox",13831,"SCO","47","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Gary Woodland",12577,"USA","48","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Bubba Watson",7334,"USA","49","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Hideto Tanihara",7046,"JPN","50","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Brendan Steele",11019,"USA","51","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"J.B. Holmes",7959,"USA","52","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Russell Henley",14578,"USA","53","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Adam Hadwin",13965,"CAN","54","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Charles Howell III",6892,"USA","55","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"William McGirt",12477,"USA","56","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Lee Westwood",4052,"ENG","57","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Kyle Stanley",12069,"USA","58","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Webb Simpson",11049,"USA","59","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Byeong Hun An",14459,"KOR","60","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Martin Kaymer",8117,"GER","61","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Yuta Ikeda",8236,"JPN","62","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Chris Wood",12451,"ENG","63","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Tony Finau",11676,"USA","64","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jeunghun Wang",15366,"KOR","65","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Andy Sullivan",15326,"ENG","66","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Anirban Lahiri",12669,"IND","67","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Kevin Na",7452,"USA","70","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Zach Johnson",6986,"USA","71","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Shane Lowry",13900,"IRL","72","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jhonattan Vegas",13508,"VEN","73","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Sean O'Hair",7626,"USA","74","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Steve Stricker",4818,"USA","75","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Soren Kjeldsen",6149,"DEN","76","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Ian Poulter",1435,"ENG","78","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Alexander Levy",14973,"FRA","79","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Joost Luiten",10158,"NED","80","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Bryson DeChambeau",19841,"USA","81","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Dylan Frittelli",11955,"RSA","82","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Thorbjorn Olesen",13412,"DEN","83","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Xander Schauffele",19895,"USA","84","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jamie Lovemark",11382,"USA","85","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Sunghoon Kang",7881,"KOR","87","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Peter Uihlein",11357,"USA","88","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Martin Laird",9586,"SCO","89","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Brandon Stone",15229,"RSA","94","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Ryan Fox",11889,"NZL","95","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Fabrizio Zanotti",9842,"PAR","97","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Thongchai Jaidee",5973,"THA","100","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Pablo Larrazabal",9133,"ESP","102","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"K.T. Kim",7880,"KOR","103","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Scott Hend",1888,"AUS","106","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Li Haotong",15310,"CHN","107","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Michael Hendry",11885,"NZL","110","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Andrew Johnston",14666,"ENG","112","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Younghan Song",16160,"KOR","115","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Alexander Bjork",14775,"SWE","116","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"David Lipsky",15980,"USA","119","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"David Horsey",11230,"ENG","124","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Yusaku Miyazato",7031,"JPN","126","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Roberto Castro",12643,"USA","130","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Matthieu Pavon",19960,"FRA","133","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Padraig Harrington",5716,"IRL","134","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Robert Streb",14852,"USA","139","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Richard Bland",6516,"ENG","145","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Mike Lorenzo-Vera",9675,"FRA","150","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Aaron Baddeley",6252,"AUS","152","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Andrew Dodt",8364,"AUS","154","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Callum Shinkwin",18244,"ENG","158","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Cameron Smith",15856,"AUS","161","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Richie Ramsay",11396,"SCO","169","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Chan Kim",15004,"USA","170","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Stewart Cink",5665,"USA","171","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Matthew Southgate",15191,"ENG","172","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Phachara Khongwatmai",18149,"THA","196","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Jbe' Kruger",11978,"RSA","207","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Prayad Marksaeng",3990,"THA","216","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Julian Suri",18059,"USA","218","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Darren Fichardt",5754,"RSA","234","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Paul Waring",12426,"ENG","246","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"David Drysdale",6867,"SCO","263","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Juan Sebastian Munoz",20770,"COL","274","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Shaun Norris",7677,"RSA","277","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Adam Bland",10829,"AUS","279","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Shiv Kapur",9553,"IND","300","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Paul Lawrie",5105,"SCO","350","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Yikeun Chang",18338,"KOR","364","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Ashley Hall",7708,"AUS","373","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Ernie Els",874,"RSA","417","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Matthew Griffin",9780,"AUS","464","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Stuart Manley",8222,"WAL","520","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Austin Connelly",19704,"CAN","524","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Mark Foster",5928,"ENG","560","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Giwhan Kim",12993,"KOR","561","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Toby Tree",19357,"ENG","627","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Kent Bulle",15715,"USA","632","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Robert Dinwiddie",11894,"ENG","752","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Laurie Canter",14795,"ENG","852","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Joseph Dean",16497,"ENG","958","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Nick McCarthy",15172,"ENG","1022","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Darren Clarke",3523,"NIR","1025","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Haydn McCullen",19121,"ENG","1241","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Adam Hodkinson",22134,"ENG","1273","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Ryan McCarthy",15165,"AUS","1357","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Mark O'Meara",154,"USA","1627","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Luca Cianchetti(Am)",20843,"ITA","1739","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Maverick McNealy",18634,"USA","1751","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"John Daly",863,"USA","1837","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"David Duval",4761,"USA","1951","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Sandy Lyle",294,"SCO","1957","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Tom Lehman",757,"USA","1957","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Todd Hamilton",915,"USA","1957","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Connor Syme(Am)",22089,"SCO","1957","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Alfie Plant(Am)",22499,"ENG","1957","146th OPEN CHAMPIONSHIP",6683,2017-07-23,"Major Championship",NA,NA,2017-07-19
+"Thomas Aiken",7679,"RSA","183","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Stephan Jaeger",16394,"GER","190","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Nate Lashley",10943,"USA","203","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Andrew Putnam",14704,"USA","220","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Kyounghoon Lee",13497,"KOR","231","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Adam Schenk",19477,"USA","248","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Andrew Landry",14000,"USA","253","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Zhang Xin-jun",13026,"CHN","254","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Sam Ryder",16715,"USA","290","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Kyle Thompson",7617,"USA","307","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Dou Ze-cheng",16757,"CHN","316","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Rafael Campos",12909,"PUE","319","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Matt Atkins",19360,"USA","325","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Andrew Yun",15614,"USA","346","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Abraham Ancer",18238,"MEX","349","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Henrik Norlander",11657,"SWE","351","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Guillermo Pereira",19455,"CHI","355","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Austin Cook",18579,"USA","356","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Rob Oppenheim",8002,"USA","361","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Charlie Saxon",21324,"USA","362","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Brice Garnett",11451,"USA","365","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Daniel McCarthy",11594,"USA","367","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jacques Blaauw",13681,"RSA","369","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Rhein Gibson",13342,"AUS","374","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Beau Hossler",15470,"USA","379","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Conrad Shindler",17274,"USA","384","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Donghwan Lee",8211,"KOR","387","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Taylor Moore",21944,"USA","401","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Casey Wittenberg",8819,"USA","420","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Roberto Diaz",15394,"MEX","424","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Keith Mitchell",17365,"USA","428","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Ethan Tracy",19552,"USA","437","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Lanto Griffin",15330,"USA","438","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jimmy Gunn",18163,"SCO","449","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Josh Teater",8085,"USA","466","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Alex Prugh",12339,"USA","475","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Alex Kang",17531,"USA","490","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jack Maguire",19869,"USA","496","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Denny McCarthy",19870,"USA","505","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Roger Sloan",14050,"CAN","517","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Talor Gooch",18580,"USA","529","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Justin Hicks",9166,"USA","546","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Adam Long",15473,"USA","549","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Eric Axley",8024,"USA","577","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Scott Langley",14700,"USA","582","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Corey Conners",17576,"CAN","588","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"James Driscoll",6228,"USA","591","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Anders Albertson",21235,"USA","601","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Martin Piller",13760,"USA","609","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Tyler Duncan",18187,"USA","610","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Sebastian Cappelen",14776,"DEN","641","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Brandon Harkins",15427,"USA","649","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Seth Reeves",19643,"USA","650","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Blake Adams",12088,"USA","657","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Nicholas Thompson",10889,"USA","658","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Taewoo Kim(Jan1993)",17384,"KOR","665","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Carlos Ortiz",14735,"MEX","667","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Tom Whitney",20353,"USA","670","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jin Park",7362,"KOR","673","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jamie Arnold",10861,"AUS","675","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Andrew Svoboda",11274,"USA","677","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Bronson Burgoon",11082,"USA","684","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Michael Johnson",15120,"USA","689","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Sepp Straka",17511,"AUT","693","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Brandon Matthews",22981,"USA","696","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Wes Roach",15720,"USA","708","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Emilio/Puma Dominguez",11900,"ARG","728","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jeff Gove",6390,"USA","746","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Paul Barjon",16566,"FRA","760","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"William Kropp",18193,"USA","761","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Samuel Del Val",15791,"ESP","779","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Armando Favela",14568,"MEX","785","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Adam Svensson",13997,"CAN","792","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"John Chin",14797,"USA","798","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jarin Todd",14821,"USA","804","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Sebastian Vazquez",15487,"MEX","815","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Scott Gutschewski",7305,"USA","816","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Scott Harrington",8479,"USA","817","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Luke Guthrie",15610,"USA","818","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Tom Lovelady",22068,"USA","826","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Michael Gligic",13404,"CAN","838","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Brady Schnell",12414,"USA","843","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Derek Ernst",16711,"USA","872","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Albin Choi",15606,"CAN","884","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Zack Fischer",17273,"USA","887","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Daniel Chopra",2035,"SWE","890","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Steve Allan",5697,"AUS","900","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Eric Steger",19479,"USA","904","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Curtis Thompson",19395,"USA","912","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Alexandre Rocha",7441,"BRA","926","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Chris Wilson",7432,"USA","931","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Erik Barnes",14799,"USA","933","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Erik Compton",6556,"USA","934","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Matt Harmon",12385,"USA","938","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Chase Parker",22046,"USA","942","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Ben Kohles",16395,"USA","1009","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Justin Shin",17618,"CAN","1012","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Michael Gellerman",19909,"USA","1018","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Kurt Kitayama",21891,"USA","1019","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Christian Brand",15625,"USA","1028","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"John Young Kim",17232,"USA","1039","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Billy Kennerly",15658,"USA","1041","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Michael Letzig",7641,"USA","1055","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Vince India",15793,"USA","1059","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Ryan Yip",12083,"CAN","1063","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Timothy Madigan",18535,"USA","1083","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Bryan Bigley",15329,"USA","1089","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Peter Tomasulo",9910,"USA","1108","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Carter Jenkins",15456,"USA","1165","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Michael Hebert",18251,"USA","1179","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jonathan Hodge",13520,"USA","1184","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Dawie van der Walt",9883,"RSA","1231","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Bo Hoag",14081,"USA","1246","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Dan Woltman",13288,"USA","1252","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Chris Naegel",17345,"USA","1297","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Drew Weaver",12416,"USA","1299","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Kyle Wilshire",19774,"USA","1313","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Brad Elder",6204,"USA","1373","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Ken Looper",17327,"USA","1401","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Greg Eason",17719,"ENG","1406","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Mark Anguiano",19029,"USA","1414","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Nick Rousey",14849,"USA","1461","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Blake Trimble",14274,"USA","1529","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Chris Worrell",19775,"USA","1587","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"A.J. McInerney",22915,"USA","1587","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Gregory Yates",19830,"USA","1597","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Byron Smith",9687,"USA","1600","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Matt Davidson",9872,"USA","1664","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Alex Aragon",7623,"USA","1898","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Cameron Wilson",16248,"USA","1910","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Chris Tidland",5687,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Parker McLachlin",9168,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Vince Covello",11441,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Bobby Gates",13433,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Michael Arnaud",13815,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Eric Meierdierks",14341,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Brandon Crick",14847,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jim Knous",16382,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Justin Lower",17723,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Benjamin Taylor",19948,"ENG","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Jeremy Paul",22087,"GER","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
+"Max Marsico",22204,"USA","1957","Pinnacle Bank Championship presented by Heartland Chevy Dealers",6684,2017-07-23,"Web.com Tour",NA,NA,2017-07-19
