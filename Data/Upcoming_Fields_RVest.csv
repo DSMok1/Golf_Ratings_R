@@ -1,1 +1,750 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Dustin Johnson",12422,"USA","1","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Jordan Spieth",14636,"USA","2","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Hideki Matsuyama",13562,"JPN","3","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Rory McIlroy",10091,"NIR","4","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Sergio Garcia",5689,"ESP","5","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Jon Rahm",19195,"ESP","6","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Jason Day",9771,"AUS","7","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Henrik Stenson",5994,"SWE","8","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Alex Noren",10419,"SWE","9","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Brooks Koepka",16243,"USA","10","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Rickie Fowler",12965,"USA","11","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Matt Kuchar",6169,"USA","12","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Justin Rose",6093,"ENG","13","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Justin Thomas",14139,"USA","14","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Tommy Fleetwood",12294,"ENG","15","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Rafael Cabrera Bello",7457,"ESP","16","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Adam Scott",6430,"AUS","17","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Paul Casey",7108,"ENG","18","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Daniel Berger",17606,"USA","19","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Francesco Molinari",7655,"ITA","20","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Charl Schwartzel",7398,"RSA","21","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Tyrrell Hatton",14796,"ENG","22","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Louis Oosthuizen",7672,"RSA","23","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Kevin Kisner",11328,"USA","24","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Patrick Reed",14838,"USA","25","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Brian Harman",8825,"USA","26","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Phil Mickelson",1547,"USA","27","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Marc Leishman",7649,"AUS","28","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Kevin Chappell",13305,"USA","29","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Jason Dufner",7301,"USA","30","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Charley Hoffman",5768,"USA","31","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Branden Grace",11952,"RSA","32","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Bernd Wiesberger",9531,"AUT","33","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Thomas Pieters",13944,"BEL","34","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Siwoo Kim",14609,"KOR","35","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Wesley Bryan",21236,"USA","37","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Bill Haas",7900,"USA","38","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Jimmy Walker",7293,"USA","39","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Ross Fisher",9396,"ENG","40","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Matthew Fitzpatrick",17646,"ENG","41","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Gary Woodland",12577,"USA","42","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Pat Perez",6762,"USA","43","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Danny Willett",12920,"ENG","44","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Billy Horschel",11276,"USA","45","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Ryan Moore",7489,"USA","46","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Bubba Watson",7334,"USA","47","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Jhonattan Vegas",13508,"VEN","48","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Emiliano Grillo",12808,"ARG","49","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Russell Knox",13831,"SCO","50","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"J.B. Holmes",7959,"USA","51","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Hideto Tanihara",7046,"JPN","52","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Russell Henley",14578,"USA","53","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Brendan Steele",11019,"USA","54","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Lee Westwood",4052,"ENG","55","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Adam Hadwin",13965,"CAN","56","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Kyle Stanley",12069,"USA","61","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Chris Wood",12451,"ENG","64","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Andy Sullivan",15326,"ENG","70","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Zach Johnson",6986,"USA","71","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Jeunghun Wang",15366,"KOR","72","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Xander Schauffele",19895,"USA","78","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Thorbjorn Olesen",13412,"DEN","86","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Bryson DeChambeau",19841,"USA","87","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Hudson Swafford",14706,"USA","95","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Thongchai Jaidee",5973,"THA","99","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Fabrizio Zanotti",9842,"PAR","105","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Scott Hend",1888,"AUS","107","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Mackenzie Hughes",15556,"CAN","112","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Renato Paratore",16549,"ITA","119","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Satoshi Kodaira",13531,"JPN","121","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Harold Varner III",16602,"USA","152","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Andres Romero",7751,"ARG","174","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Sam Brazel",8390,"AUS","188","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Rod Pampling",5668,"AUS","192","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Shaun Norris",7677,"RSA","278","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Paul Lawrie",5105,"SCO","364","WGC - Bridgestone Invitational",6700,2017-08-06,"WGC",NA,NA,2017-08-01
+"Daniel Summerhays",12424,"USA","97","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Harris English",14577,"USA","118","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ryan Palmer",7820,"USA","123","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Chez Reavie",7961,"USA","131","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Chris Kirk",12423,"USA","135","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Padraig Harrington",5716,"IRL","142","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ollie Schniederjans",18662,"USA","144","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Aaron Baddeley",6252,"AUS","145","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Smylie Kaufman",18631,"USA","146","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Luke List",7960,"USA","148","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"J.J Spaun",17536,"USA","150","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Dominic Bozzelli",17564,"USA","172","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brian Stuard",13022,"USA","175","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Kevin Tway",13127,"USA","177","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Vaughn Taylor",6930,"USA","182","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ben Martin",14007,"USA","194","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"David Hearn",7340,"CAN","200","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brian Gay",5951,"USA","201","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Robert Garrigus",6789,"USA","202","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Seungyul Noh",11117,"KOR","203","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"JT Poston",21554,"USA","215","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Scott Stallings",12359,"USA","217","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Alex Cejka",4425,"GER","223","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brandon Hagy",18695,"USA","231","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Patton Kizzire",13470,"USA","233","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Cameron Tringale",14013,"USA","235","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Blayne Barber",15608,"USA","238","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Geoff Ogilvy",5698,"AUS","241","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Kyle Reifers",11329,"USA","245","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Trey Mullinax",18761,"USA","246","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"John Huh",14606,"USA","251","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Chad Collins",7744,"USA","260","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Retief Goosen",4884,"RSA","262","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Johnson Wagner",7927,"USA","265","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ricky Barnes",6846,"USA","268","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Derek Fathauer",12689,"USA","272","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Matt Jones",8605,"AUS","273","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Chesson Hadley",14967,"USA","274","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Juan Sebastian Munoz",20770,"COL","285","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Martin Flores",10535,"USA","287","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Seamus Power",10104,"IRL","291","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Rick Lamb",18869,"USA","292","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Nick Watney",7955,"USA","293","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Andres Gonzales",11640,"USA","295","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tyrone van Aswegen",9913,"RSA","297","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Richy Werenski",19364,"USA","298","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Curtis Luck",16842,"AUS","304","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Spencer Levin",8199,"USA","314","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"K.J. Choi",1804,"KOR","315","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Zac Blair",17639,"USA","320","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Sam Saunders(July1987)",11048,"USA","321","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ryan Brehm",10423,"USA","322","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Jonathan Randolph",14837,"USA","323","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Bryce Molder",7292,"USA","327","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Troy Merritt",13367,"USA","328","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Cameron Percy",5874,"AUS","332","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Greg Chalmers",5625,"AUS","346","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tim Wilkinson",7097,"NZL","396","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Chris Stroud",9604,"USA","413","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brian Campbell",18628,"USA","416","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ben Crane",6674,"USA","420","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"J.J. Henry",6222,"USA","431","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Joel Dahmen",14509,"USA","435","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Shawn Stefani",14012,"USA","437","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Mark Anderson",12131,"USA","438","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Julian Etulain",11911,"ARG","441","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tag Ridings",6840,"USA","451","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Greg Owen",5723,"ENG","458","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Steve Wheatcroft",10292,"USA","461","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Rory Sabbatini",6283,"RSA","473","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ken Duke",493,"USA","478","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Will Wilcox",14696,"USA","480","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brett Stegmaier",11354,"USA","491","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Jonathan Byrd",6931,"USA","492","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Nicholas Lindheim",16713,"USA","500","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ryan Armour",8469,"USA","518","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Y.E. Yang",6629,"KOR","523","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tom Hoge",15575,"USA","533","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Bill Lunde",7962,"USA","536","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brad Fritsch",7207,"CAN","553","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Stuart Appleby",5294,"AUS","560","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Eric Axley",8024,"USA","586","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Jason Bohn",6462,"USA","592","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Peter Malnati",14926,"USA","631","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Miguel Angel Carballo",8570,"ARG","640","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brett Drewitt",15162,"AUS","657","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Mark Hubbard",16333,"USA","671","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Gonzalo Fdez-Castano",8262,"ESP","690","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Angel Cabrera",5717,"ARG","708","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Max Homa",17538,"USA","717","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Bobby Wyatt",18660,"USA","727","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Matt Every",10185,"USA","740","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Steven Alker",4871,"NZL","744","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tim Herron",5621,"USA","763","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Hunter Mahan",7636,"USA","772","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Davis Love III",3464,"USA","775","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Mark Wilson",4107,"USA","796","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Robert Allenby",4949,"AUS","812","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tyler Aldridge",11677,"USA","844","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brendon de Jonge",8767,"ZIM","885","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Cody Blick",21876,"USA","928","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"John Merrick",9584,"USA","969","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Arjun Atwal",5701,"IND","1053","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Steven Bowditch",7053,"AUS","1085","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Dicky Pride",5467,"USA","1096","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Carl Pettersson",7048,"SWE","1113","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Craig Barlow",6138,"USA","1295","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Sungjoon Park",14565,"KOR","1333","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Charlie Danielson",21310,"USA","1405","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Charlie Wi",5905,"KOR","1432","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Shane Bertsch",5605,"USA","1523","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Brendon Todd",12425,"USA","1633","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Ted Purdy",5906,"USA","1718","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Maverick McNealy",18634,"USA","1777","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tommy Gainey",12169,"USA","1828","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Cameron Beckman",3869,"USA","1863","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Tim Petrovic",2701,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"John Rollins",6300,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Troy Matteson",7954,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Troy Kelly",10181,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Jay McLuen",11793,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Hugo Leon",13619,"CHI","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Jake Sarnoff",16410,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Rich Berberian, Jr.",19863,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Sam Horsfield",19866,"ENG","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Davis Love IV",21135,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Wyndham Clark",23604,"USA","1967","Barracuda Championship",6701,2017-08-06,"PGA Tour",NA,NA,2017-08-01
+"Thomas Aiken",7679,"RSA","183","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Sam Ryder",16715,"USA","185","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Stephan Jaeger",16394,"GER","199","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Nate Lashley",10943,"USA","209","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Marty Dou Ze-cheng",16757,"CHN","214","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Aaron Wise",22051,"USA","219","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Andrew Putnam",14704,"USA","229","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Ted Potter-jr",8769,"USA","240","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Kyounghoon Lee",13497,"KOR","247","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Zhang Xin-jun",13026,"CHN","263","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Adam Schenk",19477,"USA","264","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Matt Atkins",19360,"USA","317","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Abraham Ancer",18238,"MEX","331","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Austin Cook",18579,"USA","339","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Rob Oppenheim",8002,"USA","352","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Andrew Yun",15614,"USA","359","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Taylor Moore",21944,"USA","365","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Charlie Saxon",21324,"USA","367","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Beau Hossler",15470,"USA","370","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jason Gore",6321,"USA","372","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Daniel McCarthy",11594,"USA","373","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Rhein Gibson",13342,"AUS","376","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Conrad Shindler",17274,"USA","381","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Henrik Norlander",11657,"SWE","383","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Donghwan Lee",8211,"KOR","395","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Lanto Griffin",15330,"USA","419","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Casey Wittenberg",8819,"USA","429","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Roberto Diaz",15394,"MEX","440","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Ethan Tracy",19552,"USA","444","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Keith Mitchell",17365,"USA","452","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Chris Baker(Mar1986)",13971,"USA","454","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jimmy Gunn",18163,"SCO","476","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Alex Prugh",12339,"USA","488","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Alex Kang",17531,"USA","507","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jack Maguire",19869,"USA","511","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Denny McCarthy",19870,"USA","514","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Tom Lovelady",22068,"USA","557","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Scott Langley",14700,"USA","595","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Scott Harrington",8479,"USA","598","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Corey Conners",17576,"CAN","600","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Kent Bulle",15715,"USA","621","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Tyler Duncan",18187,"USA","628","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Martin Piller",13760,"USA","650","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Samuel Del Val",15791,"ESP","653","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Seth Reeves",19643,"USA","661","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Brandon Harkins",15427,"USA","669","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Nicholas Thompson",10889,"USA","677","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Taewoo Kim(Jan1993)",17384,"KOR","689","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Carlos Ortiz",14735,"MEX","695","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jin Park",7362,"KOR","700","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Blake Adams",12088,"USA","701","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Andrew Svoboda",11274,"USA","704","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Sepp Straka",17511,"AUT","709","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Justin Hueber",18590,"USA","741","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jeff Gove",6390,"USA","748","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Emilio/Puma Dominguez",11900,"ARG","756","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"William Kropp",18193,"USA","758","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Martin Trainer",15634,"USA","764","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Paul Barjon",16566,"FRA","776","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Armando Favela",14568,"MEX","785","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Christian Brand",15625,"USA","794","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"John Chin",14797,"USA","807","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jarin Todd",14821,"USA","822","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Michael Gligic",13404,"CAN","850","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Sebastian Vazquez",15487,"MEX","866","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Brady Schnell",12414,"USA","868","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Seth Fair",18377,"USA","880","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Derek Ernst",16711,"USA","890","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Albin Choi",15606,"CAN","898","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Daniel Chopra",2035,"SWE","915","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Zack Fischer",17273,"USA","918","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Eric Steger",19479,"USA","920","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Steve Allan",5697,"AUS","931","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Chris Wilson",7432,"USA","936","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Curtis Thompson",19395,"USA","937","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Matt Harmon",12385,"USA","947","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"John Mallinger",9027,"USA","956","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Alexandre Rocha",7441,"BRA","957","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Erik Compton",6556,"USA","960","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Richard H. Lee",15233,"USA","981","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Justin Shin",17618,"CAN","1025","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Michael Gellerman",19909,"USA","1030","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Kurt Kitayama",21891,"USA","1037","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Ben Kohles",16395,"USA","1040","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Michael Sim",7681,"AUS","1044","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Michael Letzig",7641,"USA","1068","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"David Skinns",10873,"ENG","1074","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"John Young Kim",17232,"USA","1076","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Vince India",15793,"USA","1083","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Ryan Yip",12083,"CAN","1099","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Drew Weaver",12416,"USA","1108","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Timothy Madigan",18535,"USA","1116","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Peter Tomasulo",9910,"USA","1127","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Matt Davidson",9872,"USA","1144","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Bryan Bigley",15329,"USA","1148","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"A.J. McInerney",22915,"USA","1175","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Carter Jenkins",15456,"USA","1190","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jonathan Hodge",13520,"USA","1192","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Michael Hebert",18251,"USA","1209","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Bo Hoag",14081,"USA","1252","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Dawie van der Walt",9883,"RSA","1273","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Dan Woltman",13288,"USA","1274","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Oliver Goss",16813,"AUS","1302","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Chris Naegel",17345,"USA","1324","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Joshua Creel",17570,"USA","1325","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Kyle Wilshire",19774,"USA","1336","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Tain Lee",16598,"USA","1349","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Vince Covello",11441,"USA","1358","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Frederick Wedel",22987,"USA","1376","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Brad Elder",6204,"USA","1419","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Mark Anguiano",19029,"USA","1424","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Marc Turnesa",7627,"USA","1432","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Ken Looper",17327,"USA","1449","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Greg Eason",17719,"ENG","1454","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Nick Rousey",14849,"USA","1472","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Mark Hensby",5859,"AUS","1542","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Blake Trimble",14274,"USA","1542","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Chris Worrell",19775,"USA","1609","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Byron Smith",9687,"USA","1626","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Gregory Yates",19830,"USA","1627","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"D.J. Trahan",7236,"USA","1664","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Andy Winings",14807,"USA","1759","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Frank Lickliter-II",5708,"USA","1796","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Chris Smith",2079,"USA","1904","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Daniel Miernicki",14798,"USA","1933","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Cameron Wilson",16248,"USA","1936","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Chris Tidland",5687,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Stephen Gangluff",6642,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"David Mathis",7149,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Nick Flanagan",8357,"AUS","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Parker McLachlin",9168,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Frank Adams III",10049,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Bobby Gates",13433,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Eric Meierdierks",14341,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jim Knous",16382,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Justin Lower",17723,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Lucas Kim",17855,"CAN","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Sam Love",18632,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Benjamin Taylor",19948,"ENG","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Zach Wright",21553,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Jeremy Paul",22087,"GER","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Max Marsico",22204,"USA","1967","Ellie Mae Classic at TPC Stonebrae ",6702,2017-08-06,"Web.com Tour",NA,NA,2017-08-01
+"Scott Vincent",14559,"ZIM","475","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Lee McCoy",19871,"USA","495","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Hank Lebioda",21943,"USA","497","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Max Rottluff",19899,"GER","555","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Kramer Hickok",21237,"USA","559","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jordan Niebrugge",18284,"USA","602","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Patrick Newcomb",16311,"USA","673","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jonathan Ruiz",19763,"USA","675","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"T.J. Vogel",17280,"USA","856","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jhared Hack",14457,"USA","904","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Cao Yi",15067,"CHN","935","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jonathan Garrick",21885,"USA","945","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"David Pastore",19593,"USA","1014","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Rico Hoey",23504,"USA","1020","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jared DuToit",22086,"CAN","1066","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Hunter Stewart",18294,"USA","1073","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ryan Williams",13191,"CAN","1091","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Vaita Guillaume",16432,"PYF","1111","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Michael Schoolcraft",19766,"USA","1132","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Brett Lederer",13378,"USA","1184","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Mark Baldwin",11569,"USA","1194","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Adam Webb",18373,"USA","1194","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Chad Ramey",19840,"USA","1194","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jae Yong Kim",21890,"KOR","1194","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Max McGreevy",23505,"USA","1194","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Wade Binfield",18435,"USA","1237","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ben Geyer",19361,"USA","1258","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Damian Telles",16812,"USA","1315","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Matthew Picanso",23479,"USA","1315","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Caleb Sturgeon",21904,"USA","1334","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Todd Baek",12745,"KOR","1342","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Cameron Davis",17786,"AUS","1362","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Taylor Pendrith",17780,"CAN","1393","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Paul Imondi",15956,"USA","1417","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"William Starke",20879,"USA","1417","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Chase Marinell",19750,"USA","1439","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Federico Zucchetti",18930,"ITA","1444","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Trevor Cone",21880,"USA","1444","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Scott Wolfes",20549,"USA","1465","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Daniel Cho",23459,"USA","1480","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Greyson Sigg",23482,"USA","1480","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Daniel Stringfellow",23484,"USA","1480","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"James Love",8130,"CAN","1514","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Russell Surber",9200,"USA","1578","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Dillon Rust",18771,"USA","1578","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jeff Rein",17298,"USA","1583","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Austin Quick",19474,"USA","1593","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Michael Miller(1992)",17902,"USA","1617","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Sean Harlingten",8202,"USA","1629","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Zachary Edmondson",19739,"USA","1647","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Wesley McClain",21318,"USA","1656","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Riley Wheeldon",15447,"CAN","1673","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Manav Shah",21901,"USA","1685","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Max Gilbert",17684,"CAN","1702","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Joseph Harrison",19744,"USA","1726","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Wilson Bateman",15499,"CAN","1742","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jay Woodson",9082,"USA","1772","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Riley Fleming",17577,"CAN","1811","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Brad Clapp",17527,"CAN","1824","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Matt Hill",14029,"CAN","1834","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Danny Sahl",9352,"CAN","1942","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Chase Wright",16807,"USA","1942","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Chris Williams",15481,"USA","1961","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jonathan Khan",19833,"USA","1961","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jesse Smith",10309,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Grant Fuhr",10414,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"John M. Kelly",12084,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Mark Blakefield",13104,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Erick Justesen",13174,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Horacio Leon",13621,"CHI","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Lorens Chan",13740,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Brian Dwyer",14262,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Chris Killmer",15432,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Eric Onesi",15457,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Aaron Cockerill",15596,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"James White",15613,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Brett Cairns",15697,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Sebastian Szirmak",15710,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jamie Sadlowski",15750,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Robby Ormand",16137,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ryan Linton",16309,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Steven Lecuyer",16336,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jamie Marshall",16383,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Olin Browne-Jr",16488,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Eric Hawerchuck",16526,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Derek Barron",16695,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Juan Carlos Serrano",17245,"MEX","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Chris Gilman",17260,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Beonyeong Lee",17515,"KOR","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Nicholas Delio",17544,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Eric Banks",17704,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Will McCurdy",17758,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Andrew Ledger",17778,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jared Sawada",18133,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Charlie Harrison",18189,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Brian Hughes",18436,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Kazuo Hoffman",18533,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Brant Peaper",18540,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Stuart MacDonald",18571,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Blake Sattler",18592,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Brandon McIver",18633,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Kevin Aylwin",18700,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jake Johnson",18712,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Kevin Lucas",18713,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ryan Heisey",19469,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Maxwell Buckley",19734,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Matt F Hansen",19743,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Corey Pereira",19955,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Blair Hamilton",20043,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Raoul Menard",20772,"CAN","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ryan Burgess",21878,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Mathias Dahl",21881,"SWE","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Taylor R. Hancock",21887,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Craig McCoy",21893,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"John Tomlinson",21906,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Sean Kelly",21942,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Preston Valder",21947,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Matt Gilchrest",22261,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Chris S Baker(Aug1998)",23453,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Evan Bowser",23454,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Grady Brame Jr.",23455,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Andrew Buchanan",23456,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Daniel Chian",23458,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Joe Cooper",23460,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Matt Cote",23461,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Skyler Finnell",23463,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Zach Foushee",23464,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Mason Jacobs",23467,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Jake Kevorkian",23470,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Nahum Mendoza III",23473,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"AJ Morris",23474,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Andrew Novak",23475,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Carter Page",23476,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Blake Palmer",23477,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Joseph Petronio",23478,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Evan Russell",23480,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ryan Snouffer",23483,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Sean Walsh",23485,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"John Jonas",23536,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ryan Books",23572,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Eric Dietrich",23574,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Blake Carter",23659,"USA","1967","Syncrude Oil Country Championship presented by AECON ",6703,2017-08-06,"PGA Tour Canada",NA,NA,2017-08-01
+"Ryan Evans",19030,"ENG","301","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Erik van Rooyen",17550,"RSA","305","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"James Heath",9365,"ENG","351","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Nick Cullen",14247,"AUS","356","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Garrick Porteous",16400,"ENG","358","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Tapio Pulkkanen",13139,"FIN","362","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Pedro Oriol",10248,"ESP","374","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Mark F Haastrup",7952,"DEN","412","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Joel Girrbach",15592,"SUI","427","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Martin Wiegele",7869,"AUT","453","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Clement Sordet",17718,"FRA","462","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Oliver Lindell",20085,"FIN","463","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Sihwan Kim",13307,"USA","466","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Oscar Lengden",20410,"SWE","469","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Steven Brown",15771,"ENG","485","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Mathieu Fenasse",17831,"FRA","490","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Max Orrin",17903,"ENG","493","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Chase Koepka",21997,"USA","506","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jeff Winther",15680,"DEN","521","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Oliver Farr",13318,"WAL","525","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Christofer Blomstrand",20167,"SWE","527","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Darius Van Driel",13374,"NED","529","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Michael Hoey",7303,"NIR","533","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jack Senior",15115,"ENG","539","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Scott Henry",12468,"SCO","548","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jens Dantorp",14018,"SWE","561","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Lorenzo Gagli",10073,"ITA","564","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Victor Perez",20730,"FRA","568","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Dominic Foos",17022,"GER","569","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Christopher Feldborg Nielsen",20147,"SWE","575","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Toby Tree",19357,"ENG","579","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Simon Forsstrom",19806,"SWE","585","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Ben Evans",10151,"ENG","603","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Borja Virto Astudillo",17313,"ESP","604","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Joachim B Hansen",14284,"DEN","618","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Alvaro Velasco",9603,"ESP","620","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Francesco Laporta",14987,"ITA","637","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Martin Ovesen",19847,"DEN","646","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Scott Fernandez",15616,"ESP","649","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Federico Maccario",17655,"ITA","655","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jurrian Van der Vaart",13489,"NED","659","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Ben Eccles",17163,"AUS","687","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Charlie Ford",14400,"ENG","727","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Reinier Saxton",11564,"NED","734","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Gary Boyd",12795,"ENG","737","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Bjorn Hellgren",16231,"SWE","745","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Steven Tiley",9311,"ENG","751","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Paul Maddy",17343,"ENG","753","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Julian Kunzenbacher",18842,"GER","761","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Kalle Samooja",14120,"FIN","768","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Niklas Lindstrom",20222,"SWE","769","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Paul Howard",19510,"ENG","782","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Morten Orum Madsen",13411,"DEN","789","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Eirik Tage Johansen",11317,"NOR","791","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Alessandro Tadini",7001,"ITA","793","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Antoine Schwartz",15512,"FRA","798","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Manuel Trappel",14681,"AUT","800","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Tom Shadbolt",15190,"ENG","801","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Enrico Di Nitto",17652,"ITA","809","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Roope Kakko",9199,"FIN","817","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Alex Wennstam",19933,"SWE","818","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Grant Forrest",16475,"SCO","846","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Robin Sciot-Siegrist",20131,"FRA","853","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Niccolo Ravano",10071,"ITA","854","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Moritz Lampert",13438,"GER","860","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Antti Ahokas",11897,"FIN","862","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jordi Garcia Pinto",12990,"ESP","867","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Mark Laskey",11112,"WAL","878","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Matteo Delpodio",11121,"ITA","884","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Matthew Baldwin",13344,"ENG","888","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Richard James",17810,"WAL","896","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Thriston Lawrence",18105,"RSA","900","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jarand Ekeland Arnoy",20463,"NOR","901","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Bryce Easton",15181,"RSA","910","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Seve Benson",11574,"ENG","922","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Max Kramer",9220,"GER","924","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Matthew Nixon",15184,"ENG","944","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Rasmus Hjelm Nielsen",11622,"DEN","946","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Peter Tarver-Jones",19516,"ENG","962","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jerome Lando-Casanova",14040,"FRA","967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jamie McLeary",9240,"SCO","974","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Chris Selfridge",13982,"IRL","979","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Andrea Pavan",12177,"ITA","982","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Janne Kaske",14117,"FIN","1012","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Marcel Schneider",12522,"GER","1014","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Kristoffer Reitan(Am)",21407,"NOR","1017","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Nicolas Geyger",13607,"CHI","1031","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Franck Daux",20670,"FRA","1034","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Erik Myllymaki",16408,"FIN","1037","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Kristian Krogh Johannessen",16421,"NOR","1043","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Oliver Suhr",12562,"DEN","1057","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Maarten Lafeber",5843,"NED","1078","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Victor Riu",12217,"FRA","1086","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Martin Leth Simonsen",16448,"DEN","1098","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Ryan McCarthy",15165,"AUS","1123","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Linus Vaisanen",19959,"FIN","1124","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Niklas Norgaard Moller",15676,"DEN","1125","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Matthias Schwab",15016,"AUT","1128","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"David Law",14784,"SCO","1149","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Ricardo Gonzalez",5054,"ARG","1151","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Niclas Johansson",14893,"SWE","1160","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jack McDonald",16372,"SCO","1184","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Steven Jeppesen",8125,"SWE","1187","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Christian Aronsen",9497,"NOR","1204","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Rhys Enoch",12287,"WAL","1226","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Niclas Hellberg",20057,"FIN","1281","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Mathew Perry",15894,"NZL","1306","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Martin Rohwer",22169,"RSA","1312","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Cyril Bouniol",18240,"FRA","1317","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Mikael Salminen",13141,"FIN","1321","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Filippo Bergamaschi",15266,"ITA","1344","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Ashton Turner",22170,"ENG","1355","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Harry Casey",19458,"ENG","1358","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Luca Galliano",15566,"SUI","1424","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"John Parry",13764,"ENG","1426","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Oscar Floren",9397,"SWE","1439","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Hannes Ronneblad(Am)",21939,"SWE","1439","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Tuomas Salminen",18865,"FIN","1444","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Kevin Hesbois",13373,"BEL","1460","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Mario Galiano Aguilar",19557,"ESP","1469","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Krister Eriksson",13346,"SWE","1532","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Kevin Phelan",14702,"IRL","1534","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Petr Valasek",18727,"SVK","1542","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jose Ignacio Marin Casado",20687,"ESP","1542","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jaakko Makitalo",9261,"FIN","1619","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Sam Hutsby",11104,"ENG","1673","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Mads Sogaard",15678,"DEN","1688","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Edouard Espana",14787,"FRA","1713","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Oliver Wilson",8300,"ENG","1732","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Adrien Bernadet",10202,"FRA","1744","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"James Allan",18778,"ENG","1803","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Toni Ferrer",20674,"ESP","1890","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Kristian Kulokorpi",18863,"FIN","1920","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Teemu Bakker",13372,"FIN","1952","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Sandro Piaget",11351,"MON","1965","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Peter Erofejeff",9265,"FIN","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Riz Charania",10640,"KEN","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Patrik Roos",13140,"FIN","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Petr Gal-jr",14882,"CZE","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Guillaume Cambis",15334,"FRA","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jacobo Pastor Lopez",15806,"ESP","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Lauri Ruuska",16409,"FIN","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Daniel Suchan",17522,"CZE","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Ali Altuntas(Am)",18051,"TUR","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Serkan Akarsu(Am)",18425,"TUR","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Hakan Yamac",18433,"TUR","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Gunn Yang",19048,"KOR","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jan  Cafourek",19851,"CZE","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Michele Ortolani",20845,"ITA","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Juha Ruponen",22450,"FIN","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Jamie Bower",22498,"ENG","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Matias Honkala(Am)",22571,"FIN","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Christian Braeunig",22969,"GER","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Robert McIntyre(Am)",23323,"SCO","1967","Vierumäki Finnish Challenge",6704,2017-08-06,"European Challenge Tour",NA,NA,2017-08-01
+"Dean Burmester",14424,"RSA","127","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jbe' Kruger",11978,"RSA","213","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Oliver Bekker",12819,"RSA","236","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jacques Kruyswijk",16896,"RSA","282","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Zander Lombard",16897,"RSA","286","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Peter Karmis",8427,"RSA","307","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Ockie Strydom",13731,"RSA","360","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Adilson da Silva",5239,"BRA","407","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Riekus Nortje",15179,"RSA","434","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Haydn Porteous",15866,"RSA","436","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Danie van Tonder",15193,"RSA","468","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jared Harvey",15865,"RSA","470","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"JC Ritchie",18174,"RSA","471","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Lyle Rowe",11956,"RSA","483","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Keith Horne",6165,"RSA","497","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Ruan de Smidt",15864,"RSA","519","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jean Hugo",6304,"RSA","535","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Vaughn Groenewald",1331,"RSA","597","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Chris Swanepoel",9810,"RSA","610","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Justin Harding",10886,"RSA","612","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Doug McGuigan",4497,"SCO","634","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Hennie Otto",5942,"RSA","642","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Mark Williams",4872,"ZIM","648","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jaco Prinsloo",18204,"RSA","656","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Louis de Jager",12821,"RSA","660","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Alex Haindl",10792,"RSA","674","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Zack Byrd",15465,"USA","699","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Christiaan Basson",11953,"RSA","710","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"JJ Senekal",15185,"RSA","727","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Hennie Du Plessis",19421,"RSA","732","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Neil Schietekat",11980,"RSA","767","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Anthony Michael",14397,"RSA","778","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Keenan Davidse",13725,"RSA","784","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Wallie Coetsee",5936,"RSA","798","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Titch Moore",6312,"RSA","809","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Makgetha Mazibuko",16823,"RSA","819","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Rourke Van der Spuy",18827,"RSA","823","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Merrick Bremner",10811,"RSA","828","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Herman Loubser",21197,"RSA","864","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Breyten Meyer",19532,"RSA","885","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jean-Paul Strydom",17138,"RSA","894","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Madalitso Muthiya",11035,"ZAM","905","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Tyrone Ferreira",12823,"RSA","940","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jake Roos",9879,"RSA","1019","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Andrew Curlewis",9899,"RSA","1034","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Ulrich Van Den Berg",6155,"RSA","1065","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Antonio Costa",17305,"CHI","1138","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Scott Campbell",17814,"ENG","1144","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Matias Calderon",22607,"CHI","1182","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"MJ Viljoen",19537,"RSA","1211","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Omar Sandys",2371,"RSA","1215","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Combrinck Smit",23148,"RSA","1218","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jacobus Mouton",18106,"RSA","1271","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Matthew Carvell",14399,"RSA","1285","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"James Kamte",8271,"RSA","1289","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Mark Murless",5730,"RSA","1293","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Rhys West",10989,"RSA","1301","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Theunis Spangenberg",10818,"RSA","1341","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Luke Jerling",22039,"RSA","1358","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Aubrey Beckley",23141,"RSA","1399","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jake Redman",13705,"RSA","1402","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Teaghan Gauche",21196,"RSA","1415","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Kyle Pilgrim",21898,"USA","1419","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jason Viljoen",21206,"RSA","1421","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Stefan Engell Andersen",13842,"KEN","1422","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Toto Thimba(Jnr)",11864,"RSA","1436","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Michael Palmer",21201,"RSA","1454","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Desne van den Bergh",17203,"RSA","1494","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Sipho Bujela",15948,"RSA","1514","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Francois Coetzee",15989,"RSA","1542","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jacquin Hess",17784,"RSA","1542","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Danie Van Niekerk",23151,"RSA","1542","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Stephen Ferreira",17409,"POR","1588","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Charl Coetzee",9958,"RSA","1599","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Callum Mowat",18153,"RSA","1677","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Colin Nel",9882,"RSA","1688","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"N.J. Arnoldi",18102,"RSA","1726","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Michael Hollick",15993,"RSA","1739","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Heinrich Bruiners",11976,"RSA","1747","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Steven Ferreira",14432,"RSA","1808","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Tyrone Ryan",15217,"RSA","1916","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Desvonde Botes",3793,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Bradford Vaughan",5692,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Marc Cayeux",5904,"ZIM","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Irvin Mazibuko",8280,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Ryan Tipping",8425,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Antonio Rosado",10035,"POR","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Ryan Cairns",10634,"ZIM","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"PH McIntyre",12839,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Wynand Dingle",12863,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Musiwalo Nethunzwi",13730,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Allan Versfeld",15194,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Dayne Moore",15824,"ZAM","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Allister de Kock",16037,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Coert Groenewald",16895,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Gert Myburgh",16898,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Matthew Spacey",19351,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Dwayne Basson",19419,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Dongkwan Kim",19528,"KOR","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Altaaf Bux",19600,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Cody Martin",19752,"USA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jason Froneman",21195,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Andre Nel",21200,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Jason Diab",21296,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Gerard Du Plooy",22036,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Sean Bradley",22874,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Damon Stephenson",23149,"AUS","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
+"Andrew Van der Knaap",23150,"RSA","1967","Sun City Challenge",6705,2017-08-06,"Sunshine Tour",NA,NA,2017-08-01
