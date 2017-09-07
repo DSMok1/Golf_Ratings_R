@@ -1,1 +1,791 @@
-""
+"Player_Name","Player_ID","Country","WGR_Rank","Event_Name","Event_ID","Event_Date","Event_Tour_1","Event_Tour_2","Event_Tour_3","Scrape_Date"
+"Patrick Newcomb",16311,"USA","376","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Kramer Hickok",21237,"USA","411","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Robby Shelton IV",18635,"USA","417","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Max Rottluff",19899,"GER","496","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Lee McCoy",19871,"USA","507","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Brad Fritsch",7207,"CAN","603","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jonathan Ruiz",19763,"USA","607","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jordan Niebrugge",18284,"USA","616","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Tyler McCumber",17584,"USA","693","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Paul Barjon",16566,"FRA","713","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Michael Gligic",13404,"CAN","782","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jhared Hack",14457,"USA","828","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Mark Blakefield",13104,"USA","841","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chase Wright",16807,"USA","841","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"T.J. Vogel",17280,"USA","890","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Hunter Stewart",18294,"USA","933","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"William Starke",20879,"USA","937","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chad Ramey",19840,"USA","951","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Cody Blick",21876,"USA","951","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Todd Baek",12745,"KOR","970","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Charlie Bull",19735,"ENG","983","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jonathan Garrick",21885,"USA","990","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Max McGreevy",23505,"USA","995","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Matt Davidson",9872,"USA","1006","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Wade Binfield",18435,"USA","1011","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Rico Hoey",23504,"USA","1037","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Richard H. Lee",15233,"USA","1057","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"David Pastore",19593,"USA","1077","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Charlie Danielson",21310,"USA","1083","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jared DuToit",22086,"CAN","1122","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Ryan Williams",13191,"CAN","1162","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Ryan Yip",12083,"CAN","1165","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Vaita Guillaume",16432,"PYF","1168","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Brett Lederer",13378,"USA","1200","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Adam Webb",18373,"USA","1208","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jae Yong Kim",21890,"KOR","1208","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Greyson Sigg",23482,"USA","1225","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Mark Baldwin",11569,"USA","1261","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Carter Jenkins",15456,"USA","1267","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Matt Fast",14561,"USA","1270","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Cameron Peck",13352,"USA","1298","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Ben Geyer",19361,"USA","1320","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Damian Telles",16812,"USA","1345","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Sean Kelly",21942,"USA","1345","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Matthew Picanso",23479,"USA","1345","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Oliver Goss",16813,"AUS","1366","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Caleb Sturgeon",21904,"USA","1403","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Cameron Davis",17786,"AUS","1410","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Tain Lee",16598,"USA","1411","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Steve LeBrun",7099,"USA","1450","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Federico Zucchetti",18930,"ITA","1463","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Trevor Cone",21880,"USA","1463","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Kyle Peterman",14009,"USA","1493","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chase Marinell",19750,"USA","1493","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Daniel Cho",23459,"USA","1493","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Daniel Stringfellow",23484,"USA","1493","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Paul Imondi",15956,"USA","1504","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Brian Dwyer",14262,"USA","1512","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Scott Wolfes",20549,"USA","1528","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Josh Hart",13544,"USA","1542","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Lorens Chan",13740,"USA","1542","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Zach Foushee",23464,"USA","1542","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"James Love",8130,"CAN","1606","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Dillon Rust",18771,"USA","1615","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Russell Surber",9200,"USA","1617","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jeff Rein",17298,"USA","1621","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Taylor Pendrith",17780,"CAN","1630","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Michael Miller(1992)",17902,"USA","1667","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Sean Harlingten",8202,"USA","1687","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Zachary Edmondson",19739,"USA","1692","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Manav Shah",21901,"USA","1716","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Riley Wheeldon",15447,"CAN","1738","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Max Gilbert",17684,"CAN","1738","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Joseph Harrison",19744,"USA","1759","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Wilson Bateman",15499,"CAN","1838","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Matt Hill",14029,"CAN","1901","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jesse Smith",10309,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Mandeo Pathania",12883,"IND","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Andrew Jensen",13171,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Horacio Leon",13621,"CHI","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Robbie Greenwell",14102,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Daniel Miernicki",14798,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chris Killmer",15432,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Eric Onesi",15457,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chris Williams",15481,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Aaron Cockerill",15596,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"James White",15613,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Brett Cairns",15697,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Sebastian Szirmak",15710,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jamie Sadlowski",15750,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Robby Ormand",16137,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Ryan Linton",16309,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Olin Browne-Jr",16488,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Drew Nesbitt(Am)",16492,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Eric Hawerchuck",16526,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Derek Barron",16695,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Juan Carlos Serrano",17245,"MEX","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chris Gilman",17260,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Cristobal Del Solar",17422,"CHI","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Will McCurdy",17758,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Lucas Kim",17855,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Kazuo Hoffman",18533,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Stuart MacDonald",18571,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Blake Sattler",18592,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Brandon McIver",18633,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Kevin Aylwin",18700,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jake Johnson",18712,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Kevin Lucas",18713,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Austin James",18873,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Ryan Heisey",19469,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jon Trasamar",19480,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Maxwell Buckley",19734,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Matt F Hansen",19743,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Paul McConnell",19753,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jonathan Khan",19833,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Corey Pereira",19955,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Blair Hamilton",20043,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"John Tomlinson",21906,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Preston Valder",21947,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Jeremy Paul",22087,"GER","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Matt Gilchrest",22261,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Hugo Bernard",22275,"CAN","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chris S Baker(Aug1998)",23453,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Evan Bowser",23454,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Andrew Buchanan",23456,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Joe Cooper",23460,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Nathaniel James",23468,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Nahum Mendoza III",23473,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"AJ Morris",23474,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Andrew Novak",23475,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Evan Russell",23480,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Sean Walsh",23485,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Chad McCann",23537,"USA","1949","Ontario Championship hosted by National Pines Golf Club",6752,2017-09-10,"PGA Tour Canada",NA,NA,2017-09-06
+"Charlie Saxon",21324,"USA","401","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Jose de Jesus Rodriguez",12855,"MEX","413","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Ryan Ruffels",17169,"AUS","451","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Kelvin Day",15281,"ENG","515","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Hank Lebioda",21943,"USA","525","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Jared Wolfe",18164,"USA","615","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Jose Toledo",8670,"GUA","637","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Samuel Del Val",15791,"ESP","678","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Nelson Ledesma",15239,"ARG","727","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Timothy Kelly",22979,"USA","743","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Brandon Matthews",22981,"USA","758","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Michael Buttacavoli",15395,"USA","801","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Andres Echavarria",15238,"COL","816","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Rodolfo Cazaubon Jnr",18185,"MEX","835","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Brad Brunner",21502,"USA","846","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Eric Steger",19479,"USA","847","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Curtis Yonke",18264,"USA","851","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Emilio/Puma Dominguez",11900,"ARG","870","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Sebastian Vazquez",15487,"MEX","873","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Jorge Fernandez-Valdes",16786,"ARG","888","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Brian Richey",16138,"USA","904","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Matias Simasky",18128,"ARG","984","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Joel Lynn",17464,"USA","1048","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"James Beck III",21427,"USA","1061","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Michael Davan",17378,"USA","1067","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Sam Fidone",19618,"USA","1124","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Tommy Cocha",12805,"ARG","1128","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Paul Apyan",14294,"USA","1141","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Gerardo Ruiz",19079,"MEX","1153","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Echavarria Nicolas",22833,"COL","1158","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Colin Featherstone",18257,"USA","1177","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Michael Weaver",16110,"USA","1198","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Anthony Paolucci",15207,"USA","1203","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Hunter Hamrick",16242,"USA","1226","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Nicholas Case Cochran",18434,"USA","1230","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Tim O'Neal",9890,"USA","1233","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Maximiliano Godoy",12774,"ARG","1244","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Tyson Alexander",14002,"USA","1247","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Brad Gehl",18791,"USA","1257","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Brad Hopfinger",18190,"USA","1270","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Will Collins",16145,"USA","1291","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Matt Schall",18871,"USA","1302","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Peter Campbell",12842,"CAN","1308","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Derek Gillespie",6883,"CAN","1312","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Robert Rohanna",14968,"USA","1315","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Ricardo Celia",19000,"COL","1317","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Derek Rende",17380,"USA","1342","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Sebastian MacLean",16584,"BOL","1362","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Clodomiro Carranza",7773,"ARG","1382","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Carlos Sainz Jr",14519,"USA","1386","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Michael McGowan",19472,"USA","1391","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Frederick Wedel",22987,"USA","1391","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Leandro Marelli",15240,"ARG","1401","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Andreas Halvorsen",17747,"NOR","1413","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"George Bryan IV",23054,"USA","1416","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Daniel Mazziotta",18195,"USA","1457","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Conner Godsey",19742,"USA","1470","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Nick Palladino",22773,"USA","1470","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Santiago Gomez",22832,"COL","1479","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Matt Ryan",18261,"USA","1493","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Henry Todd",22146,"USA","1542","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Bruce Woodall",18551,"USA","1567","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"D.J. Brigman",7543,"USA","1571","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Rafael Becker",17275,"BRA","1597","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Alberto Sanchez",16246,"USA","1599","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Austin Smotherman",22985,"USA","1604","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Mark Silvers",14705,"USA","1626","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Austin Quick",19474,"USA","1642","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Brady Watt",16845,"AUS","1662","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"David S Bradshaw",11600,"USA","1698","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Felipe Velazquez",16571,"VEN","1720","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Juan Alvarez",16775,"URU","1810","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Benjamin Alvarado",12547,"CHI","1819","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"James Vargas",11798,"USA","1835","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Sebastian Saavedra",11922,"ARG","1885","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Bryan Martin",17199,"USA","1888","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Jonathan Page",19473,"USA","1907","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Ian Davis",18589,"USA","1916","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Bryce Ledford",8964,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Alan Wagner",10871,"ARG","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Alfredo Adrian",12947,"VEN","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Clayton Rask",13186,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Cristian Espinoza",13600,"CHI","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Devin Carrey",14507,"CAN","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Daniel Miernicki",14798,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Ty Capps",15835,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Marcelo Rozo",16591,"COL","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Rafael Guerrero",16788,"VEN","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Santiago Bauni",17025,"ARG","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Rodrigo Lee",17237,"BRA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Thomas Baik",18112,"ARG","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Steve Carney",18532,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Russell Budd",18874,"CAN","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Dalan Refioglu",19475,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Hyunick James Back",19648,"KOR","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Blake Olson",19758,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Tom E Moore",19768,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Mikel Martinson",19829,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"John Wise",19835,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Ally Tidcombe",20774,"CAN","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Nicolas Maruri",20975,"MEX","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Asaf Cohen",21021,"ISR","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Joseph Winslow",21642,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Ryan Burgess",21878,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Spencer Fletcher",21941,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Tyler Raber",22047,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Adam Ball",22975,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"JD Dornes",22977,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Jonathan Sanders",22984,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Shad Tuten",22986,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Zach Zaback",22988,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Sean Bosdosh",23049,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Scott Smyers",23106,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Victor Wiggins",23436,"USA","1949","San Luis Championship",6753,2017-09-10,"PGA Tour Latinoamerica",NA,NA,2017-09-06
+"Alex Noren",10419,"SWE","12","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Tommy Fleetwood",12294,"ENG","16","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Tyrrell Hatton",14796,"ENG","30","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Bernd Wiesberger",9531,"AUT","33","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Ross Fisher",9396,"ENG","47","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Matthew Fitzpatrick",17646,"ENG","48","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Danny Willett",12920,"ENG","56","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Lee Westwood",4052,"ENG","60","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jordan L Smith",18586,"ENG","69","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Chris Wood",12451,"ENG","70","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Alexander Levy",14973,"FRA","73","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Dylan Frittelli",11955,"RSA","86","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Joost Luiten",10158,"NED","91","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"David Horsey",11230,"ENG","97","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Scott Hend",1888,"AUS","98","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Luke Donald",4163,"ENG","103","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Ryan Fox",11889,"NZL","106","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Julian Suri",18059,"USA","109","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Brandon Stone",15229,"RSA","111","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Pablo Larrazabal",9133,"ESP","113","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Richard Sterne",7049,"RSA","114","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Fabrizio Zanotti",9842,"PAR","116","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Thongchai Jaidee",5973,"THA","118","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Renato Paratore",16549,"ITA","122","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Alexander Bjork",14775,"SWE","127","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Dean Burmester",14424,"RSA","131","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"David Lipsky",15980,"USA","135","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Richie Ramsay",11396,"SCO","137","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Bradley Dredge",6150,"WAL","138","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Callum Shinkwin",18244,"ENG","141","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Adrian Otaegui",14975,"ESP","142","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Richard Bland",6516,"ENG","143","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Thomas Detry",14181,"BEL","145","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Mike Lorenzo-Vera",9675,"FRA","149","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Andrew Dodt",8364,"AUS","150","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"George Coetzee",10884,"RSA","151","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Matt Wallace",20706,"ENG","152","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Matthieu Pavon",19960,"FRA","153","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Kiradech Aphibarnrat",12321,"THA","160","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jorge Campillo",14016,"ESP","167","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jazz Janewattananond",14368,"THA","170","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Graeme Storm",3323,"ENG","173","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Rikard Karlberg",9398,"SWE","174","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Anthony Wall",5931,"ENG","176","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Andres Romero",7751,"ARG","178","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Victor Dubuisson",10198,"FRA","179","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Paul Dunne",18736,"IRL","181","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Nacho Elvira",12988,"ESP","183","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Haydn Porteous",15866,"RSA","190","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Bernd Ritthammer",12521,"GER","199","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Sam Brazel",8390,"AUS","200","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Alexander Knappe",12318,"GER","201","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jbe' Kruger",11978,"RSA","208","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Joakim Lagergren",14780,"SWE","209","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Gregory Bourdy",7932,"FRA","211","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Benjamin Hebert",12213,"FRA","214","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"James Morrison",11061,"ENG","218","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Phachara Khongwatmai",18149,"THA","225","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Marcus Fraser",7070,"AUS","227","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jason Scrivener",12734,"AUS","229","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"S.S.P. Chawrasia",7040,"IND","230","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Peter Hanson",6850,"SWE","233","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Brett Rumford",6255,"AUS","238","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Lee Slattery",6866,"ENG","239","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Chris Paisley",14844,"ENG","242","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Marcel Siem",6950,"GER","245","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jamie Donaldson",7084,"WAL","248","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Poom Saksansin",14951,"THA","253","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Robert Rock",7895,"ENG","255","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"David Drysdale",6867,"SCO","257","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Carlos Pigem",13885,"ESP","263","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Nicholas Fung",12889,"MAS","267","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Darren Fichardt",5754,"RSA","269","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Johan Carlsson",11658,"SWE","277","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Rattanon Wannasrichan",14953,"THA","279","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Lasse Jensen",10170,"DEN","285","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Alvaro Quiros",7886,"ESP","286","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Sam Walker",7157,"ENG","288","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Edoardo Molinari",7033,"ITA","289","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Romain Langasque",16652,"FRA","291","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Julien Quesne",9131,"FRA","292","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Miguel Tabuena",15274,"PHI","293","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Danthai Boonma",16424,"THA","297","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Scott Jamieson",11397,"SCO","300","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Matteo Manassero",11460,"ITA","315","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Paul Peterson",16341,"USA","317","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Maximilian Kieffer",12317,"GER","321","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Shiv Kapur",9553,"IND","324","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Wu Ashun",11763,"CHN","325","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Siddikur Rahman",13766,"BAN","327","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Stephen Gallacher",5647,"SCO","329","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Soomin Lee",14614,"KOR","331","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Mikko Ilonen",6929,"FIN","333","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Chris Hanson",12295,"ENG","336","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Ricardo Gouveia",18722,"POR","343","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Panuphol Pittayarat",14133,"THA","345","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Wade Ormsby",7532,"AUS","349","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Tom Lewis",15164,"ENG","360","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Raphael Jacquelin",5784,"FRA","368","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Oliver Fisher",10863,"ENG","377","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Chan Shih-chang",9698,"TPE","385","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Nino Bertasio",13013,"ITA","386","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Todd Sinnott",16918,"AUS","393","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Florian Fritsch",9217,"GER","397","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Marcus Armitage",17813,"ENG","404","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Pavit Tangkamolprasert",11958,"THA","407","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Daniel Im",12971,"USA","407","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Lucas Bjerregaard",11619,"DEN","414","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Felipe Aguilar",8135,"CHI","419","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Adilson da Silva",5239,"BRA","425","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jason Norris",5769,"AUS","426","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Danny Chia",6386,"MAS","428","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Romain Wattel",13165,"FRA","443","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Duncan Stewart",12472,"SCO","447","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Justin Walters",8045,"RSA","461","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Marc Warren",7567,"SCO","469","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Gregory Havret",6239,"FRA","473","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Rashid Khan",12668,"IND","475","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Magnus A Carlsson",7823,"SWE","478","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Scott Vincent",14559,"ZIM","494","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jose-Filipe Lima",7868,"POR","495","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Eduardo De la Riva",6637,"ESP","508","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Masahiro Kawamura",13530,"JPN","516","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Pontus Widegren",11661,"SWE","518","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Scott Henry",12468,"SCO","529","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Lu Wei-chih",8170,"TPE","532","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Chikkarangappa S",15817,"IND","541","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Thomas Bjorn",5725,"DEN","573","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Damien Perrier",12661,"FRA","608","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Daniel Brooks",12897,"ENG","612","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Rahil Gangjee",7038,"IND","642","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Miguel A Jimenez",3596,"ESP","665","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Thitiphun Chuayprakong",14129,"THA","708","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Natipong Srithong",8531,"THA","720","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Thaworn Wiratchant",3602,"THA","730","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Nathan Holman",15923,"AUS","759","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Niclas Fasth",3832,"SWE","767","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Ricardo Gonzalez",5054,"ARG","787","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Gary Stal",13262,"FRA","839","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Sebastien Gros",16650,"FRA","924","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Piya Swangarunporn",8443,"THA","935","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Benjamin Rusch",13281,"SUI","997","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Luca Cianchetti(Am)",20843,"ITA","1040","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Adrien Bernadet",10202,"FRA","1348","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Luca Galliano",15566,"SUI","1509","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Simon Dyson",6436,"ENG","1664","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Raphael De Sousa",8040,"SUI","1856","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Mathias Gronberg",4388,"SWE","1949","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jean-Luc Burnier",11347,"SUI","1949","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Javier Ballesteros",17325,"ESP","1949","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Jeremy Freiburghaus(AM)",19811,"SUI","1949","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Luca Denk(Am)",21657,"AUT","1949","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Giacomo Fortini(Am)",22177,"ITA","1949","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Sean Crocker(Am)",23610,"USA","1949","Omega European Masters",6754,2017-09-10,"Asian Tour","European Tour",NA,2017-09-06
+"Hideto Tanihara",7046,"JPN","55","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yuta Ikeda",8236,"JPN","63","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Satoshi Kodaira",13531,"JPN","99","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Chan Kim",15004,"USA","115","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"K.T. Kim",7880,"KOR","121","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Younghan Song",16160,"KOR","128","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yusaku Miyazato",7031,"JPN","129","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Michael Hendry",11885,"NZL","134","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shugo Imahira",13485,"JPN","140","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Brad Kennedy",6287,"AUS","156","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Sanghyun Park",10086,"KOR","163","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Junggon Hwang",14936,"KOR","165","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Sungjae Im",17488,"KOR","177","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yoshinori Fujimoto",11773,"JPN","185","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Daisuke Kataoka",11195,"JPN","186","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Seungsu Han",8046,"USA","189","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Katsumasa Miyamoto",5791,"JPN","196","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Hyunwoo Ryu",13928,"KOR","241","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shingo Katayama",3770,"JPN","261","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Juvic Pagunsan",8615,"PHI","301","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Seunghyuk Kim",7716,"KOR","303","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Liang Wen-chong",6470,"CHN","309","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Sanghee Lee",13923,"KOR","310","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shaun Norris",7677,"RSA","311","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Toshinori Muto",7936,"JPN","348","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Koumei Oda",7940,"JPN","353","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Tadahiro Takayama",6835,"JPN","380","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Hiroyuki Fujita",5599,"JPN","389","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yujiro Ohori",17802,"JPN","397","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yuki Inamori",16165,"JPN","405","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Junwon Park",10999,"KOR","431","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Angelo Que",7438,"PHI","433","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Ryutaro Nagano",10523,"JPN","434","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Toru Taniguchi",3750,"JPN","440","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Won Joon Lee",10713,"AUS","481","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shunsuke Sonoda",12250,"JPN","485","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"David Oh",8547,"USA","492","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Hyungsung Kim",11131,"KOR","499","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Ryuko Tokimatsu",16648,"JPN","500","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Matthew Griffin",9780,"AUS","508","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Thanyakorn Khrongpha",13684,"THA","512","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Tomohiro Kondo",6625,"JPN","521","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kenichi Kuboya",5790,"JPN","524","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Byungmin Cho",11696,"KOR","538","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kunihiro Kamii",8911,"JPN","547","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Atomu Shigenaga",10719,"JPN","549","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Ryuji Masaoka",8394,"JPN","552","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Hiroshi Iwata",9099,"JPN","558","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Hosung Choi",9041,"KOR","565","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kurt Barnes",7701,"AUS","586","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Mingyu Cho",12096,"KOR","592","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kyongjun Moon",13836,"KOR","594","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Ippei Koike",12739,"JPN","610","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"David Bransdon",5624,"AUS","612","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Michio Matsumura",12419,"JPN","629","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shintaro Kobayashi",10560,"JPN","634","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Jinichiro Kozuma",14209,"JPN","646","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kodai Ichihara",12140,"JPN","652","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Daisuke Maruyama",6018,"JPN","654","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Takashi Iwamoto",7174,"JPN","657","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Taichi Teshima",5820,"JPN","661","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Chapchai Nirat",9985,"THA","680","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kazuhiro Yamashita",6833,"JPN","683","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Mikumu Horikawa",15056,"JPN","732","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Rikuya Hoshino",19190,"JPN","741","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yosuke Tsukada",14567,"JPN","746","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Ikjae Jang",6658,"KOR","771","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Daijiro Izumida",14729,"JPN","834","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yoshitaka Takeya",12208,"JPN","923","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Akio Sadakata",7416,"JPN","949","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shota Akiyoshi",13528,"JPN","950","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Ryuichi Oda",7132,"JPN","964","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Hidemasa Hoshino",6001,"JPN","972","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Koki Shiomi",17337,"JPN","1002","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Tatsuya Kodai",11197,"JPN","1008","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Jaebum Park",11159,"KOR","1012","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Han Lee",7180,"USA","1025","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Nobuhiro Masuda",7476,"JPN","1075","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Ryosuke Kinoshita",14904,"JPN","1172","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Koki Furuta",13333,"JPN","1174","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Fumihiro Ebine",9000,"JPN","1184","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Masamichi Uehira",7420,"JPN","1226","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Tatsunori Nukaga",9591,"JPN","1236","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yuta Kinoshita",10189,"JPN","1277","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yosuke Asaji",12637,"JPN","1334","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Makoto Inoue",6992,"JPN","1338","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Naomi Ohta",7856,"JPN","1353","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Tetsuji Hiratsuka",6247,"JPN","1365","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kaname Yokoo",5680,"JPN","1432","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Hirofumi Miyase",3808,"JPN","1434","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"David Smail",4986,"NZL","1455","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shinji Tomimura",14310,"JPN","1489","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Naoto Takayanagi",15100,"JPN","1491","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yoshinobu Tsukada",7296,"JPN","1532","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Masanori Kobayashi",1599,"JPN","1591","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Satoshi Tomiyama",8610,"JPN","1636","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Katsunori Kuwabara",5629,"JPN","1681","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shintaro Kai",8245,"JPN","1748","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Shinichi Yokota",5070,"JPN","1754","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Kiyoshi Miyazato",7168,"JPN","1780","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"S.K. Ho",7307,"KOR","1788","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Keiichiro Fukabori",3976,"JPN","1860","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Yu Morimoto",12674,"JPN","1949","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Daisuke Matsubara",14958,"JPN","1949","ISPS Handa Match Play",6756,2017-09-10,"Japan Golf Tour",NA,NA,2017-09-06
+"Oliver Bekker",12819,"RSA","235","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Riekus Nortje",15179,"RSA","422","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jared Harvey",15865,"RSA","424","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Christiaan Bezuidenhout",18103,"RSA","445","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"JC Ritchie",18174,"RSA","519","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Lyle Rowe",11956,"RSA","536","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Ruan de Smidt",15864,"RSA","578","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Justin Harding",10886,"RSA","676","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Doug McGuigan",4497,"SCO","678","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Vaughn Groenewald",1331,"RSA","684","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"JJ Senekal",15185,"RSA","691","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Chris Swanepoel",9810,"RSA","699","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jonathan Agren",20400,"SWE","738","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Zack Byrd",15465,"USA","740","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jaco Prinsloo",18204,"RSA","744","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Neil Schietekat",11980,"RSA","754","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Mark Williams",4872,"ZIM","755","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Christiaan Basson",11953,"RSA","780","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Titch Moore",6312,"RSA","790","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Breyten Meyer",19532,"RSA","819","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Wallie Coetsee",5936,"RSA","871","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Herman Loubser",21197,"RSA","892","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Tyrone Ferreira",12823,"RSA","897","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Makgetha Mazibuko",16823,"RSA","903","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Rourke Van der Spuy",18827,"RSA","910","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Merrick Bremner",10811,"RSA","922","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"CJ du Plessis",17197,"RSA","934","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Andre De Decker",21303,"RSA","976","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jean-Paul Strydom",17138,"RSA","979","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Andrew Curlewis",9899,"RSA","1122","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Ulrich Van Den Berg",6155,"RSA","1132","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Scott Campbell",17814,"ENG","1181","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Matias Calderon",22607,"CHI","1213","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Combrinck Smit",23148,"RSA","1238","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Omar Sandys",2371,"RSA","1244","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"MJ Viljoen",19537,"RSA","1265","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jacobus Mouton",18106,"RSA","1309","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Martin Rohwer",22169,"RSA","1351","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"James Kamte",8271,"RSA","1360","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Luke Jerling",22039,"RSA","1401","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Theunis Spangenberg",10818,"RSA","1423","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Kyle Pilgrim",21898,"USA","1441","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Bryandrew Roelofsz(1992)",21297,"RSA","1480","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jason Viljoen",21206,"RSA","1489","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Stefan Engell Andersen",13842,"KEN","1517","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jake Redman",13705,"RSA","1530","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Desne van den Bergh",17203,"RSA","1535","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Danie Van Niekerk",23151,"RSA","1542","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Sipho Bujela",15948,"RSA","1571","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jacquin Hess",17784,"RSA","1597","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Stephen Ferreira",17409,"POR","1620","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Thanda Mavundla",19426,"RSA","1736","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Colin Nel",9882,"RSA","1756","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Lindani Ndwandwe",7076,"RSA","1768","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Heinrich Bruiners",11976,"RSA","1787","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Steven Ferreira",14432,"RSA","1844","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Michael Hollick",15993,"RSA","1849","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Irvin Mazibuko",8280,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Ryan Tipping",8425,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Antonio Rosado",10035,"POR","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Mohammad Rauf Mandhu",14547,"ZIM","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Chris Cannon",15222,"ENG","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Dayne Moore",15824,"ZAM","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Allister de Kock",16037,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Gert Myburgh",16898,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Duane Keun",17198,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Ruan Huysamen",17549,"NAM","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jason Smith",19350,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Matthew Spacey",19351,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Dwayne Basson",19419,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Dongkwan Kim",19528,"KOR","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jacques de Villiers",21026,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jason Froneman",21195,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Andre Nel",21200,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Jason Diab",21296,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Gerard Du Plooy",22036,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Sean Bradley",22874,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Damon Stephenson",23149,"AUS","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Andrew Van der Knaap",23150,"RSA","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Mohit Mediratta",23964,"KEN","1949","Sun Fish River Challenge",6757,2017-09-10,"Sunshine Tour",NA,NA,2017-09-06
+"Joel Stalter",17722,"FRA","429","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Ugo Coussaud",20727,"FRA","659","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Lukas Nemecz",13089,"AUT","661","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Adria Arnaus(Am)",23236,"ESP","698","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Thomas Elissalde",17699,"FRA","735","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Fabien Marty",11685,"FRA","781","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"James Sharp",20303,"ENG","794","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Maxime Radureau",19874,"FRA","800","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Lars Van Meijel",17858,"NED","818","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"David Borda Antonana",13112,"ESP","830","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Robin Roussel",21507,"FRA","851","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Julien Brun",16363,"FRA","861","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alexandre Daydou",20129,"FRA","925","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Raphael Marguery",15339,"FRA","931","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Antoine Rozner",18770,"FRA","941","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Niccolo Quintarelli",13897,"ITA","947","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Santiago Tarrio",20704,"ESP","971","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Anthony Renard",21581,"FRA","978","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"James Adams",19962,"ENG","1016","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Xavier Poncelet",13912,"FRA","1054","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Shaun Jones",19437,"NZL","1064","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Robin Goger",14240,"AUT","1095","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Leo Lespinasse",20130,"FRA","1111","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Nicolas Tacher",17609,"FRA","1112","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Julien Foret",8815,"FRA","1134","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Jean-Baptiste Gonnet",7979,"FRA","1188","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alessandro Grammatica",19526,"ITA","1195","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Christoph Koerbler",15422,"AUT","1230","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Erwan Vielledent",19407,"FRA","1289","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Mathieu Decottignies Lafon",13998,"FRA","1384","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Gregory Molteni",9331,"ITA","1434","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Gerard Piris Mateu",15371,"ESP","1445","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Christophe Brazillier",10275,"FRA","1468","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Corrado de Stefani",16386,"ITA","1474","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"HP Bacher",12311,"AUT","1483","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Michele Cea",18902,"ITA","1512","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Benjamin Wheeler",21286,"ENG","1512","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Leonard Bem",21275,"FRA","1542","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Max Albertus",16496,"NED","1567","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Jean-Pierre Verselin",17610,"FRA","1648","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Uli Weinhandl",6533,"AUT","1676","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Daniel Young",19908,"SCO","1679","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Joon Kim",15369,"ITA","1733","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Daniel Osorio",8827,"ESP","1832","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alexandre Widemann",20132,"FRA","1907","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Cedric Menut",9295,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Anthony Snobeck",10655,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Nicolas Peyrichou",11691,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alan Bihan",12211,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Romain Bechu",12658,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Leonardo Motta",13896,"ITA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Baptiste Chapellan",14444,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Romain Schneider",14793,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Greg Baumann",14809,"SUI","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Arthur Gabella",14811,"SUI","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Arnaud Abbas",14969,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Simon Fernoux",15335,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Arnaud Guerin",16651,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Clarke Lutton",17182,"SCO","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Javier Gallegos",17326,"ESP","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Timon Baltl",17586,"AUT","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Michael Ludwig",17590,"AUT","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Pierrick Peracino",17701,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Cyrille Daniel",17833,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Thomas Grava",18636,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Mervin Rocchi",18638,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Marc Rodriguez Calassou",18639,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Julien Rodallec",18934,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Mickael Altmeyer",19929,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alexander Holmes",19999,"ENG","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Leonardo Sbarigia",20299,"ITA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Arnaud Seguin",20302,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Kevin Turlan",20309,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Marcus Mohr",20333,"ENG","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Juan Carlos Osorio Valencia",20580,"ESP","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Felix Schulz",20590,"AUT","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Jake Ayres",20665,"ENG","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Baptiste Courtachon",20669,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Liam Harper",20679,"ENG","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Amaury Rosaye",20698,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Nicolas Aparicio",20808,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Jean-Christophe Vigneron",20829,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Michele Ortolani",20845,"ITA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Paul Elissalde",20848,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Freddy Parfait(Am)",20854,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Adrien Pinguet",20855,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Tom Wilde",20861,"ENG","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Nicolas Maheut",20896,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Andrea Cavallaro",21008,"ITA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Andrea Saracino",21013,"ITA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Louis Cohen-Boyer",21098,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Maxime Capelle(Am)",21277,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Louis Capon",21278,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Paul BariteauAm)",21565,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Clemens Gaster",21661,"AUT","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alex Messiqua",21706,"SUI","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Christian Kuehnel",22079,"BEL","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Jules Coupade",22114,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Clement Hauchard(Am)",22118,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Jean-Nicolas Stenger(Am)",22128,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Edgar Catherine(Am)",22593,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Victor Veyret(Am)",22595,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Jack Clarke",22636,"ENG","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Christophe Kirsch(Am)",22640,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Matyas Baldauf(Am)",22998,"HUN","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Nicholas Elliott",22999,"ENG","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alex Esmatges",23000,"ESP","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Alexandre Freche(Am)",23001,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Raphael Ginouves",23003,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Christopher Labadie",23006,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Issa Nlareb A Amang",23008,"CMR","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Sam Testelin",23011,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Bernard Geelkerken",23240,"NED","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Paul Corrado",23402,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Evan Marshall",23412,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Sebastien Mihel",23497,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Sam Schinert(Am)",23619,"FRA","1949","Citadelle Trophy Intl-Golf de Preisch",6758,2017-09-10,"Alps Golf Tour",NA,NA,2017-09-06
+"Marco Iten",15593,"SUI","480","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Ben Parker",11816,"ENG","558","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Max Schmitt(Am)",23017,"GER","575","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Pedro Figueiredo",10033,"POR","622","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Stanislav Matus",14086,"CZE","695","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Hinrich Arkenau",20356,"GER","721","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Robbie Van West",16498,"NED","724","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Dylan Boshart",12648,"NED","778","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Max Laier",18843,"GER","827","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Kenny Subregis",18935,"FRA","838","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Finn Fleer",21833,"GER","841","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Maximilian Walz",16486,"GER","859","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Stanislas Gautier",21212,"FRA","914","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Chris Robb",20297,"SCO","963","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Adrian Meronk",14196,"POL","1002","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Jonas Kolbing",12360,"GER","1034","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Benedict Staben",19808,"GER","1035","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Ahmed Marjane",15970,"MAR","1080","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Niklas Adank",20942,"GER","1233","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Clemens Prader",7922,"AUT","1340","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Karim El Hali",19311,"MAR","1393","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Ross Cameron",14093,"SCO","1434","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Vladimir Osipov",20579,"RUS","1483","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Sascha Schmidt",20300,"GER","1522","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Phillip Mclean",13238,"SCO","1567","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mathias Eggenberger",14810,"SUI","1599","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Claudio Consul(Am)",21210,"GER","1669","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Jan-Philip Neuendorf",20230,"GER","1707","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"James Wilson",20314,"ENG","1707","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"David Heinzinger",20278,"GER","1776","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Raffaele Benatti",19810,"ITA","1897","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Issa Abou El Ela",8863,"EGY","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Leonhard Astl",10539,"AUT","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Dennis den Roover",11302,"NOR","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Fredrik Svanberg",12373,"SUI","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"David Antonelli",12405,"FRA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Benjamin Weilguni",12436,"AUT","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Fabian Becker",12506,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Maksymilian Saluda",13072,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mateusz Gradecki(Am)",14191,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Grzegorz Zielinski",14201,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mehdi Saissi",14718,"MAR","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Arwed Fischer",14724,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Arnas Kaunas",15009,"LTU","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Nicolas Roche",17359,"FRA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Alexander Culverwell",17791,"SCO","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Dominik Pietzsch",18709,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Thomas Bosco-Cwiok",19658,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Sam Kiloh",20004,"SCO","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Alain Jeanrenaud",20280,"SUI","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Ryan Lloyd",20286,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Kevin Turlan",20309,"FRA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Marek Tyminski(Am)",20310,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Jakub Urbanski(Am)",20311,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Oskar Zaborowski(Am)",20315,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Kevin Duncan",20324,"SCO","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Brandon Dietzel (Am)",20497,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Pascal Schneider",20588,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Stefan Still",20593,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Michael Ziemer",20601,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Dominic Zrenner",20602,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Nivorn Inplad de Mattei",20714,"FRA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mathis Pansart",20853,"FRA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Michael Heffner",21214,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Yassine Touhami",21273,"MAR","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Tomas Holoubek",21702,"CZE","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Laurids Lohr",21705,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Florian Attard",21831,"FRA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Anze Leskovar",21958,"SVK","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mark Trnovec(Am)",21964,"SLO","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Dennis Meyerrose",22238,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Jakub Dymecki",22312,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mikolaj Kniaginin",22313,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Andrzej Wierzba",22315,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Timo Vahlenkamp(Am)",22508,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Olivier Guisset",22680,"BEL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Thibaut Leys",22934,"BEL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mergim Gjinovci",22972,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Marc Hammer(Am)",22973,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Jannik De Bruyn(Am)",23112,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"James Ashfield",23189,"HUN","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mahatua Berniere",23212,"FRA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Adrian Kaczala",23545,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Marcel Zillekens(Am)",23696,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Kuba Ufnal",23822,"POL","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Mentz Germishuis",23872,"RSA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Hans-Jurie Human(Am)",23874,"RSA","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
+"Maximilian Kolleritsch",23916,"GER","1949","Wroclaw Open",6761,2017-09-10,"ProGolf Tour",NA,NA,2017-09-06
