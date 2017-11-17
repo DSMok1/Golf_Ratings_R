@@ -110,26 +110,26 @@ Import_Tourney_Results <- function(ID)  {
       Status_Scrape <- "Tournament Results Collected"
       
       Pos <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(1)") %>% html_text()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(1)") %>% html_text()
       Pos_Num <- as.integer(gsub("\\D","",Pos))
       Country <-
-        html_nodes(HTML_Source, "#event_result_table .flag") %>% html_attr("alt")
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent .flag") %>% html_attr("alt")
       Player_Name <-
-        html_nodes(HTML_Source, "td.name") %>% html_text()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent a") %>% html_text()
       Player_ID <-
-        html_nodes(HTML_Source, "#event_result_table a") %>% html_attr("href") %>% gsub("^.*=","",.) %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent a") %>% html_attr("href") %>% gsub("^.*=","",.) %>% as.integer()
       Round_1 <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(4)") %>% html_text() %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(4)") %>% html_text() %>% as.integer()
       Round_2 <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(5)") %>% html_text() %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(5)") %>% html_text() %>% as.integer()
       Round_3 <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(6)") %>% html_text() %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(6)") %>% html_text() %>% as.integer()
       Round_4 <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(7)") %>% html_text() %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(7)") %>% html_text() %>% as.integer()
       Total <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(8)") %>% html_text() %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(8)") %>% html_text() %>% as.integer()
       WGR_Pts <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(9)") %>% html_text() %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(9)") %>% html_text() %>% as.integer()
       
       # Combine into data frame
       Player_Data_Raw <-
@@ -176,13 +176,13 @@ Import_Tourney_Results <- function(ID)  {
       Status_Scrape <- "Upcoming Tournament Field Collected"
       
       WGR_Rank <-
-        html_nodes(HTML_Source, "#event_result_table td:nth-child(1)") %>% html_text()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent td:nth-child(1)") %>% html_text()
       Country <-
-        html_nodes(HTML_Source, "#event_result_table .flag") %>% html_attr("alt")
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent .flag") %>% html_attr("alt")
       Player_Name <-
-        html_nodes(HTML_Source, "td.name") %>% html_text()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent a") %>% html_text()
       Player_ID <-
-        html_nodes(HTML_Source, "#event_result_table a") %>% html_attr("href") %>% gsub("^.*=","",.) %>% as.integer()
+        html_nodes(HTML_Source, "#phmaincontent_0_ctl00_PanelCurrentEvent a") %>% html_attr("href") %>% gsub("^.*=","",.) %>% as.integer()
       
       Player_Data <-
         cbind.data.frame(Player_Name,Player_ID,Country,WGR_Rank)
@@ -226,7 +226,7 @@ Import_Tourney_Results <- function(ID)  {
 
 # Previous Scrape Output:
 Player_Results_Raw <- 
-  read.csv(gzfile("Data/Player_Results_RVest.csv.gz"), stringsAsFactors = FALSE)
+  read.csv("Data/Player_Results_RVest.csv", stringsAsFactors = FALSE)
 Tournament_Info_Raw <- read.csv("Data/Tournament_Info_RVest.csv", stringsAsFactors = FALSE)
 Scrape_Status_Raw <- read.csv("Data/Scrape_Status_RVest.csv", stringsAsFactors = FALSE)
 # Upcoming_Fields <- read.csv("Data/Upcoming_Fields_RVest.csv")
@@ -351,8 +351,8 @@ Scrape_Status <- merge(Scrape_Status,Tournament_Info[,c("Event_ID","Event_Name",
 ###  Output CSVs ####
 
 write.csv(
-  Player_Results,file = gzfile(
-    "Data/Player_Results_RVest.csv.gz"
+  Player_Results,file = (
+    "Data/Player_Results_RVest.csv"
   ), row.names = FALSE
 )
 
@@ -429,16 +429,15 @@ write.csv(
 
 ### Add in new OWGR to the Historic OWGR File
 
-OWGR_History <-
-  read.csv(
-    gzfile(
-      "Data/Player_OWGR_History.csv.gz"
-    ), stringsAsFactors = FALSE
-  )
-OWGR_History$OWGR_Rank_Date <- as.Date(OWGR_History$OWGR_Rank_Date)
+
+OWGR_History <- list.files(path="Data/", pattern="^Player_OWGR_Hist.+\\.csv$") %>%
+  paste("Data/",., sep="") %>%
+  lapply(., read.csv, stringsAsFactors = FALSE) %>%
+  bind_rows() %>% transform(OWGR_Rank_Date = as.Date(OWGR_Rank_Date))
+
 
 # Player_OWGR_Ranking <-
-# read.csv(gzfile("Data/Player_OWGR_Ranking_RVest.csv"), stringsAsFactors = FALSE)
+# read.csv(("Data/Player_OWGR_Ranking_RVest.csv"), stringsAsFactors = FALSE)
 
 # OWGR_History <- rename(OWGR_History,
 #                       OWGR_Rank = rank,
@@ -448,11 +447,12 @@ if (max(OWGR_History$OWGR_Rank_Date[!is.na(OWGR_History$OWGR_Rank_Date)])< max(P
   OWGR_Hist_Combined <-
     merge(OWGR_History,Player_OWGR_Ranking,all = TRUE)
   
-    write.csv(
-      OWGR_Hist_Combined,file = gzfile(
-        "Data/Player_OWGR_History.csv.gz"
-      ), row.names = FALSE
-    )
+    OWGR_History_Split <- split(OWGR_Hist_Combined, year(OWGR_Hist_Combined$OWGR_Rank_Date))
+    
+    for (i in seq_along(OWGR_History_Split)) {
+      filename = paste("Data/Player_OWGR_Hist_",names(OWGR_History_Split)[i], ".csv", sep="")
+      write.csv(OWGR_History_Split[[i]], filename, row.names = FALSE)
+    }
 }
 
 

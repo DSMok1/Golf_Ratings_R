@@ -59,8 +59,8 @@ cat("The current rating is for the date", format(Rating_Date, "%Y-%m-%d"),".\n")
 
 
 
-# Results_Source_old <- read.csv(gzfile("Data/Tournament_Results_Since_2007_Results_for_LM.csv.gz"))
-Results_Source <- read.csv(gzfile("Data/Player_Results_RVest.csv.gz"))
+# Results_Source_old <- read.csv(("Data/Tournament_Results_Since_2007_Results_for_LM.csv"))
+Results_Source <- read.csv(("Data/Player_Results_RVest.csv"))
 
 Results_Source$Round_ID <-
   paste(Results_Source$Event_ID,Results_Source$Round_Num,sep = "_")
@@ -598,7 +598,7 @@ Target_Results_Players$Rank_Change <- Target_Results_Players$Rank - Target_Resul
 
 ###  Import OWGR Ratings
 
-OWGR_Players <- read.csv(gzfile("Data/Player_OWGR_History.csv.gz")) %>%
+OWGR_Players <- read.csv(("Data/Player_OWGR_History.csv")) %>%
   mutate(Date = as.Date(OWGR_Rank_Date)) %>%
   filter(Date < Rating_Date, Date > Prev_Rating_Date)
 
